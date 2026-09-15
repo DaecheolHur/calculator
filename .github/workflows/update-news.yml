@@ -1,6 +1,12 @@
 name: 최신 뉴스 업데이트
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/update_news.py"
+      - ".github/workflows/update-news.yml"
   schedule:
     - cron: "17 * * * *"
   workflow_dispatch:

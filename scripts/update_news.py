@@ -177,21 +177,32 @@ def choose_articles() -> list[dict[str, str]]:
     return selected[:30]
 
 
-def localize_with_gemini(articles: list[dict[str, str]]) -> None:
+def localize_with_gemini(articles: list[dict[str, str]]) -> dict[str, list]:
+    analysis: dict[str, list] = {"briefing": [], "trends": []}
     api_key = os.getenv("GEMINI_API_KEY")
     if not api_key:
         print("GEMINI_API_KEY가 없어 원문 제목으로 저장합니다.", file=sys.stderr)
-        return
+        return analysis
 
     compact = [
-        {"id": index, "country": item["country"], "title": item["title"]}
+        {
+            "id": index,
+            "country": item["country"],
+            "category": item["category"],
+            "title": item["title"],
+        }
         for index, item in enumerate(articles)
     ]
     prompt = (
         "다음 뉴스 제목을 자연스러운 한국어로 작성하세요. 이미 한국어인 제목은 그대로 다듬으세요. "
         "각 기사마다 제목에 명시된 사실만 사용해 한 문장의 짧은 한국어 요약을 작성하고, "
-        "추측이나 제목에 없는 정보를 추가하지 마세요. 입력과 같은 id를 가진 "
-        '[{"id":0,"title":"...","summary":"..."}] 형식의 JSON 배열만 반환하세요.\n'
+        "추측이나 제목에 없는 정보를 추가하지 마세요. 기사들을 서로 비교해 지금 주목할 핵심 흐름 "
+        "3개와 10개 분야별 동향을 각각 한 문장으로 작성하세요. 특정 기사의 사실을 일반적인 추세로 "
+        "과장하지 마세요. 다음 구조의 JSON 객체만 반환하세요: "
+        '{"articles":[{"id":0,"title":"...","summary":"..."}],'
+        '"briefing":["핵심 흐름 1","핵심 흐름 2","핵심 흐름 3"],'
+        '"trends":[{"category":"정치","summary":"..."}]}. '
+        f"trends에는 다음 분야를 정확히 한 번씩 포함하세요: {', '.join(CATEGORY_NAMES)}.\n"
         + json.dumps(compact, ensure_ascii=False)
     )
     payload = json.dumps(
@@ -212,25 +223,40 @@ def localize_with_gemini(articles: list[dict[str, str]]) -> None:
         response = json.loads(fetch(endpoint, payload, {"Content-Type": "application/json"}))
         text = response["candidates"][0]["content"]["parts"][0]["text"]
         localized = json.loads(text)
-        by_id = {int(item["id"]): item for item in localized}
+        localized_articles = localized.get("articles", [])
+        by_id = {int(item["id"]): item for item in localized_articles}
         for index, article in enumerate(articles):
             result = by_id.get(index, {})
             if result.get("title"):
                 article["title"] = clean_text(str(result["title"]))
             if result.get("summary"):
                 article["summary"] = clean_text(str(result["summary"]))
+        analysis["briefing"] = [
+            clean_text(str(item)) for item in localized.get("briefing", [])[:3] if item
+        ]
+        allowed_categories = set(CATEGORY_NAMES)
+        analysis["trends"] = [
+            {
+                "category": clean_text(str(item.get("category", ""))),
+                "summary": clean_text(str(item.get("summary", ""))),
+            }
+            for item in localized.get("trends", [])
+            if item.get("category") in allowed_categories and item.get("summary")
+        ]
     except Exception as error:
         print(f"Gemini 처리 실패, 원문 제목으로 저장합니다: {error}", file=sys.stderr)
+    return analysis
 
 
 def main() -> None:
     articles = choose_articles()
     if not articles:
         raise RuntimeError("수집된 기사가 없습니다. 기존 데이터는 변경하지 않습니다.")
-    localize_with_gemini(articles)
+    analysis = localize_with_gemini(articles)
     output = {
         "generatedAt": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
         "items": articles,
+        **analysis,
     }
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT.write_text(json.dumps(output, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

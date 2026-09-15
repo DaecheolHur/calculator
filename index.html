@@ -29,8 +29,21 @@ footer{text-align:center;color:#888;font-size:13px;margin-top:25px}
 .news-summary{font-size:14px;line-height:1.6;color:#555;margin:0 0 14px}
 .news-link{margin-top:auto;color:#2457c5;text-decoration:none;font-size:14px;font-weight:700}
 .news-state{grid-column:1/-1;text-align:center;padding:36px 15px;background:#fff;border-radius:14px;color:#777}
+.stats{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 18px}
+.stat{background:#e9eef8;color:#40506a;border-radius:8px;padding:7px 11px;font-size:13px;font-weight:700}
+.insights{margin:0 0 24px}
+.insights-title{display:flex;align-items:center;gap:8px;margin:0 0 12px}
+.ai-label{font-size:11px;background:#5b44d6;color:#fff;border-radius:999px;padding:4px 7px}
+.briefing-card{background:linear-gradient(135deg,#24243e,#3b376d);color:#fff;border-radius:14px;padding:20px 22px;margin-bottom:12px}
+.briefing-card h3{margin:0 0 10px;font-size:18px}
+.briefing-list{margin:0;padding-left:20px;line-height:1.7}
+.trend-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}
+.trend-card{background:#fff;border-left:4px solid #5b70c9;border-radius:10px;padding:14px 16px;box-shadow:0 2px 10px rgba(0,0,0,.05)}
+.trend-card h3{font-size:14px;margin:0 0 6px;color:#40506a}
+.trend-card p{font-size:14px;line-height:1.55;margin:0;color:#444}
+.method-note{font-size:12px;color:#777;line-height:1.6;margin:10px 0 0}
 @media(max-width:600px){h1{font-size:25px}}
-@media(max-width:600px){.news-header{display:block}.updated-at{display:block;margin-top:8px}.news-grid{grid-template-columns:1fr}}
+@media(max-width:600px){.news-header{display:block}.updated-at{display:block;margin-top:8px}.news-grid,.trend-grid{grid-template-columns:1fr}}
 </style>
 </head>
 <body>
@@ -48,6 +61,16 @@ footer{text-align:center;color:#888;font-size:13px;margin-top:25px}
 </div>
 <span id="updatedAt" class="updated-at">뉴스를 불러오는 중...</span>
 </div>
+<div id="newsStats" class="stats" aria-label="뉴스 수집 현황"></div>
+<section id="insights" class="insights" aria-labelledby="insights-title" hidden>
+<h2 id="insights-title" class="insights-title">오늘의 뉴스 브리핑 <span class="ai-label">AI 분석</span></h2>
+<div class="briefing-card">
+<h3>지금 주목할 흐름</h3>
+<ul id="briefingList" class="briefing-list"></ul>
+</div>
+<div id="trendGrid" class="trend-grid"></div>
+<p class="method-note">30개 헤드라인을 서로 비교해 생성한 참고용 분석입니다. AI는 제목에 포함된 정보만 사용하며, 중요한 판단 전에는 반드시 원문을 확인하세요.</p>
+</section>
 <div class="filters" aria-label="뉴스 필터">
 <button class="filter-btn active" data-filter="전체">전체</button>
 <button class="filter-btn" data-filter="한국">한국</button>
@@ -108,6 +131,33 @@ function renderNews(filter='전체'){
  });
 }
 
+function renderInsights(data){
+ const countries=new Set(newsItems.map(item=>item.country)).size;
+ const categories=new Set(newsItems.map(item=>item.category)).size;
+ const sources=new Set(newsItems.map(item=>item.source).filter(Boolean)).size;
+ const stats=document.getElementById('newsStats');
+ stats.replaceChildren();
+ [`기사 ${newsItems.length}개`,`국가 ${countries}개`,`분야 ${categories}개`,`언론사 ${sources}곳`].forEach(text=>{
+  const item=document.createElement('span'); item.className='stat'; item.textContent=text; stats.appendChild(item);
+ });
+
+ const briefing=Array.isArray(data.briefing)?data.briefing:[];
+ const trends=Array.isArray(data.trends)?data.trends:[];
+ if(!briefing.length&&!trends.length) return;
+ const list=document.getElementById('briefingList'); list.replaceChildren();
+ briefing.forEach(text=>{
+  const item=document.createElement('li'); item.textContent=text; list.appendChild(item);
+ });
+ const trendGrid=document.getElementById('trendGrid'); trendGrid.replaceChildren();
+ trends.forEach(trend=>{
+  const card=document.createElement('article'); card.className='trend-card';
+  const title=document.createElement('h3'); title.textContent=trend.category;
+  const summary=document.createElement('p'); summary.textContent=trend.summary;
+  card.append(title,summary); trendGrid.appendChild(card);
+ });
+ document.getElementById('insights').hidden=false;
+}
+
 document.querySelectorAll('.filter-btn').forEach(button=>{
  button.addEventListener('click',()=>{
   document.querySelectorAll('.filter-btn').forEach(x=>x.classList.remove('active'));
@@ -123,6 +173,7 @@ fetch('./data/headlines.json',{cache:'no-store'})
   document.getElementById('updatedAt').textContent=data.generatedAt
    ? `업데이트 ${new Intl.DateTimeFormat('ko-KR',{dateStyle:'medium',timeStyle:'short'}).format(new Date(data.generatedAt))}`
    : '업데이트 대기 중';
+  renderInsights(data);
   renderNews();
  })
  .catch(()=>{
