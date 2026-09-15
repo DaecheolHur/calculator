@@ -1,65 +1,164 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>연봉 계산기</title>
-
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            max-width: 600px;
-            margin: 50px auto;
-            padding: 20px;
-        }
-
-        input, button {
-            width: 100%;
-            padding: 12px;
-            margin: 8px 0;
-            box-sizing: border-box;
-        }
-
-        button {
-            cursor: pointer;
-        }
-
-        #result {
-            margin-top: 20px;
-            padding: 20px;
-            background: #f5f5f5;
-        }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="퇴직금, 연차, 나이, D-Day를 간편하게 계산할 수 있는 무료 계산기입니다.">
+<title>생활 계산기 - 퇴직금 · 연차 · 나이 · D-Day</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:#f5f7fb;color:#222;font-family:Arial,"Noto Sans KR",sans-serif}
+.container{max-width:900px;margin:0 auto;padding:28px 16px 50px}
+header{text-align:center;margin-bottom:24px}
+h1{margin:0 0 8px;font-size:30px}
+.subtitle{color:#666;margin:0}
+.tabs{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-bottom:18px}
+.tab{border:1px solid #ddd;background:white;border-radius:10px;padding:12px 6px;cursor:pointer;font-weight:700}
+.tab.active{background:#222;color:white}
+.card{background:white;border-radius:14px;padding:24px;box-shadow:0 2px 12px rgba(0,0,0,.06)}
+.panel{display:none}.panel.active{display:block}
+h2{margin-top:0}
+.row{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+label{display:block;font-weight:700;margin:10px 0 6px}
+input{width:100%;padding:12px;border:1px solid #ccc;border-radius:8px;font-size:16px}
+button.calc{width:100%;margin-top:18px;padding:13px;border:0;border-radius:8px;background:#222;color:white;font-size:16px;font-weight:700;cursor:pointer}
+.result{margin-top:18px;padding:18px;border-radius:10px;background:#f0f3f8;line-height:1.8}
+.big{font-size:24px;font-weight:800}
+.note{font-size:13px;color:#777;margin-top:12px;line-height:1.6}
+footer{text-align:center;color:#888;font-size:13px;margin-top:25px}
+@media(max-width:600px){.tabs{grid-template-columns:repeat(2,1fr)}.row{grid-template-columns:1fr}h1{font-size:25px}}
+</style>
 </head>
-
 <body>
+<div class="container">
+<header>
+<h1>생활 계산기</h1>
+<p class="subtitle">퇴직금 · 연차 · 나이 · D-Day를 간편하게 계산하세요.</p>
+</header>
 
-<h1>연봉 계산기</h1>
+<div class="tabs">
+<button class="tab active" onclick="showPanel('severance',this)">퇴직금</button>
+<button class="tab" onclick="showPanel('leave',this)">연차</button>
+<button class="tab" onclick="showPanel('age',this)">나이</button>
+<button class="tab" onclick="showPanel('dday',this)">D-Day</button>
+</div>
 
-<label>연봉</label>
-<input type="number" id="salary" placeholder="예: 50000000">
+<div class="card">
 
-<button onclick="calculate()">계산하기</button>
+<section id="severance" class="panel active">
+<h2>퇴직금 계산기</h2>
+<div class="row">
+<div><label for="join">입사일</label><input type="date" id="join"></div>
+<div><label for="retire">퇴사일</label><input type="date" id="retire"></div>
+</div>
+<div class="row">
+<div><label for="salary">최근 3개월 월 급여(세전)</label><input type="number" id="salary" placeholder="예: 3500000"></div>
+<div><label for="bonus">최근 1년 상여금 합계</label><input type="number" id="bonus" value="0"></div>
+</div>
+<label for="allowance">기타 연간 수당</label>
+<input type="number" id="allowance" value="0">
+<button class="calc" onclick="calcSeverance()">계산하기</button>
+<div id="severanceResult" class="result">입사일, 퇴사일, 급여를 입력해 주세요.</div>
+<p class="note">참고용 예상 계산입니다. 실제 퇴직금은 평균임금 산정 기준, 상여금·수당의 임금성, 근속기간 등에 따라 달라질 수 있습니다.</p>
+</section>
 
-<div id="result"></div>
+<section id="leave" class="panel">
+<h2>연차 계산기</h2>
+<label for="leaveJoin">입사일</label>
+<input type="date" id="leaveJoin">
+<button class="calc" onclick="calcLeave()">계산하기</button>
+<div id="leaveResult" class="result">입사일을 입력해 주세요.</div>
+<p class="note">근로기준법상 일반적인 연차휴가 기준을 단순화한 참고용 계산입니다. 입사일 기준/회계연도 기준, 출근율 및 사업장 운영기준에 따라 실제 부여일수가 달라질 수 있습니다.</p>
+</section>
+
+<section id="age" class="panel">
+<h2>나이 계산기</h2>
+<label for="birth">생년월일</label>
+<input type="date" id="birth">
+<button class="calc" onclick="calcAge()">계산하기</button>
+<div id="ageResult" class="result">생년월일을 입력해 주세요.</div>
+</section>
+
+<section id="dday" class="panel">
+<h2>D-Day 계산기</h2>
+<div class="row">
+<div><label for="target">목표일</label><input type="date" id="target"></div>
+<div><label for="ddayTitle">일정 이름</label><input type="text" id="ddayTitle" placeholder="예: 시험일"></div>
+</div>
+<button class="calc" onclick="calcDday()">계산하기</button>
+<div id="ddayResult" class="result">목표일을 입력해 주세요.</div>
+</section>
+
+</div>
+<footer>© 생활 계산기 · 계산 결과는 참고용입니다.</footer>
+</div>
 
 <script>
-function calculate() {
+function showPanel(id, btn){
+ document.querySelectorAll('.panel').forEach(x=>x.classList.remove('active'));
+ document.querySelectorAll('.tab').forEach(x=>x.classList.remove('active'));
+ document.getElementById(id).classList.add('active');
+ btn.classList.add('active');
+}
+function dateValue(id){return document.getElementById(id).value}
+function daysBetween(a,b){return Math.floor((b-a)/86400000)}
 
-    const salary = Number(document.getElementById("salary").value);
+function calcSeverance(){
+ const j=new Date(dateValue('join')+'T00:00:00');
+ const r=new Date(dateValue('retire')+'T00:00:00');
+ const salary=Number(document.getElementById('salary').value)||0;
+ const bonus=Number(document.getElementById('bonus').value)||0;
+ const allowance=Number(document.getElementById('allowance').value)||0;
+ if(isNaN(j.getTime())||isNaN(r.getTime())||!salary){document.getElementById('severanceResult').textContent='입사일, 퇴사일, 급여를 정확히 입력해 주세요.';return}
+ const serviceDays=daysBetween(j,r);
+ if(serviceDays<=0){document.getElementById('severanceResult').textContent='퇴사일은 입사일보다 늦어야 합니다.';return}
+ // 간편 추정: 1일 평균임금 = (최근3개월 월급*3 + 연간상여/12*3 + 연간수당/12*3) / 해당 3개월 일수
+ // 실제 법정 평균임금은 임금 구성 및 산정기간에 따라 달라질 수 있음.
+ const avgDaily=((salary*3)+(bonus/4)+(allowance/4))/91;
+ const estimated=avgDaily*30*(serviceDays/365);
+ document.getElementById('severanceResult').innerHTML=
+ `근속기간: <b>${(serviceDays/365).toFixed(2)}년</b><br>
+  1일 평균임금(간편추정): ${Math.round(avgDaily).toLocaleString()}원<br>
+  <span class="big">예상 퇴직금: ${Math.round(estimated).toLocaleString()}원</span>`;
+}
 
-    if (!salary) {
-        alert("연봉을 입력하세요.");
-        return;
-    }
+function calcLeave(){
+ const j=new Date(dateValue('leaveJoin')+'T00:00:00');
+ if(isNaN(j.getTime())){document.getElementById('leaveResult').textContent='입사일을 입력해 주세요.';return}
+ const today=new Date(); today.setHours(0,0,0,0);
+ if(j>today){document.getElementById('leaveResult').textContent='입사일은 오늘보다 이전이어야 합니다.';return}
+ const months=Math.max(0,(today.getFullYear()-j.getFullYear())*12+today.getMonth()-j.getMonth()-(today.getDate()<j.getDate()?1:0));
+ let days;
+ if(months<12) days=months;
+ else days=Math.min(25,15+Math.floor((months-12)/24));
+ document.getElementById('leaveResult').innerHTML=
+ `근속기간: <b>${Math.floor(months/12)}년 ${months%12}개월</b><br>
+  <span class="big">법정 기준상 단순 예상 연차: ${days}일</span>`;
+}
 
-    const monthly = salary / 12;
+function calcAge(){
+ const b=new Date(dateValue('birth')+'T00:00:00');
+ const today=new Date(); today.setHours(0,0,0,0);
+ if(isNaN(b.getTime())||b>today){document.getElementById('ageResult').textContent='생년월일을 정확히 입력해 주세요.';return}
+ let age=today.getFullYear()-b.getFullYear();
+ if(today.getMonth()<b.getMonth()||(today.getMonth()===b.getMonth()&&today.getDate()<b.getDate())) age--;
+ const koreanAge=today.getFullYear()-b.getFullYear()+1;
+ document.getElementById('ageResult').innerHTML=
+ `<span class="big">만 ${age}세</span><br>세는나이(전통적 한국식): ${koreanAge}세`;
+}
 
-    document.getElementById("result").innerHTML =
-        "월급(단순 계산): " + 
-        Math.floor(monthly).toLocaleString() + "원";
+function calcDday(){
+ const t=new Date(dateValue('target')+'T00:00:00');
+ const today=new Date(); today.setHours(0,0,0,0);
+ if(isNaN(t.getTime())){document.getElementById('ddayResult').textContent='목표일을 입력해 주세요.';return}
+ const diff=daysBetween(today,t);
+ const title=document.getElementById('ddayTitle').value.trim()||'목표일';
+ let text;
+ if(diff>0) text=`${title}까지 <span class="big">D-${diff}</span>`;
+ else if(diff===0) text=`${title} <span class="big">D-Day</span>`;
+ else text=`${title}로부터 <span class="big">D+${Math.abs(diff)}</span>`;
+ document.getElementById('ddayResult').innerHTML=text;
 }
 </script>
-
 </body>
 </html>
