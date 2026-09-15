@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>연봉 계산기</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+        }
+
+        input, button {
+            width: 100%;
+            padding: 12px;
+            margin: 8px 0;
+            box-sizing: border-box;
+        }
+
+        button {
+            cursor: pointer;
+        }
+
+        #result {
+            margin-top: 20px;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+    </style>
+</head>
+
+<body>
+
+<h1>연봉 계산기</h1>
+
+<label>연봉</label>
+<input type="number" id="salary" placeholder="예: 50000000">
+
+<button onclick="calculate()">계산하기</button>
+
+<div id="result"></div>
+
+<script>
+function calculate() {
+
+    const salary = Number(document.getElementById("salary").value);
+
+    if (!salary) {
+        alert("연봉을 입력하세요.");
+        return;
+    }
+
+    const monthly = salary / 12;
+
+    document.getElementById("result").innerHTML =
+        "월급(단순 계산): " + 
+        Math.floor(monthly).toLocaleString() + "원";
+}
+</script>
+
+</body>
+</html>
