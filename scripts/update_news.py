@@ -1,0 +1,187 @@
+"""한국·미국 Google News RSS를 수집하고 한국어 헤드라인 JSON을 생성합니다."""
+
+from __future__ import annotations
+
+import html
+import json
+import os
+import re
+import sys
+import urllib.parse
+import urllib.request
+import xml.etree.ElementTree as ET
+from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
+from pathlib import Path
+
+
+ROOT = Path(__file__).resolve().parents[1]
+OUTPUT = ROOT / "data" / "headlines.json"
+USER_AGENT = "Mozilla/5.0 (compatible; HourlyHeadlines/1.0)"
+MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
+
+CATEGORIES = {
+    "정치": "NATION",
+    "경제": "BUSINESS",
+    "기술": "TECHNOLOGY",
+    "문화": "ENTERTAINMENT",
+    "스포츠": "SPORTS",
+}
+
+FEEDS = [
+    (
+        country,
+        category,
+        f"https://news.google.com/rss/headlines/section/topic/{topic}"
+        f"?hl={language}&gl={region}&ceid={region}:{language.split('-')[0]}",
+    )
+    for country, language, region in (("한국", "ko", "KR"), ("미국", "en-US", "US"))
+    for category, topic in CATEGORIES.items()
+]
+
+
+def fetch(url: str, data: bytes | None = None, headers: dict[str, str] | None = None) -> bytes:
+    request_headers = {"User-Agent": USER_AGENT}
+    request_headers.update(headers or {})
+    request = urllib.request.Request(url, data=data, headers=request_headers)
+    with urllib.request.urlopen(request, timeout=25) as response:
+        return response.read()
+
+
+def clean_text(value: str | None) -> str:
+    text = re.sub(r"<[^>]+>", " ", value or "")
+    return re.sub(r"\s+", " ", html.unescape(text)).strip()
+
+
+def iso_date(value: str | None) -> str:
+    try:
+        date = parsedate_to_datetime(value or "")
+        if date.tzinfo is None:
+            date = date.replace(tzinfo=timezone.utc)
+        return date.astimezone(timezone.utc).isoformat().replace("+00:00", "Z")
+    except (TypeError, ValueError):
+        return datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
+
+
+def collect_feed(country: str, category: str, url: str) -> list[dict[str, str]]:
+    root = ET.fromstring(fetch(url))
+    articles = []
+    for item in root.findall("./channel/item"):
+        source = clean_text(item.findtext("source"))
+        title = clean_text(item.findtext("title"))
+        if source and title.endswith(f" - {source}"):
+            title = title[: -(len(source) + 3)].strip()
+        link = clean_text(item.findtext("link"))
+        if not title or not link.startswith("http"):
+            continue
+        articles.append(
+            {
+                "title": title,
+                "summary": "",
+                "url": link,
+                "source": source or "Google News",
+                "country": country,
+                "category": category,
+                "publishedAt": iso_date(item.findtext("pubDate")),
+            }
+        )
+    return articles
+
+
+def normalized_title(title: str) -> str:
+    return re.sub(r"[^0-9a-z가-힣]", "", title.lower())
+
+
+def choose_articles() -> list[dict[str, str]]:
+    selected: list[dict[str, str]] = []
+    seen: set[str] = set()
+    reserves: list[dict[str, str]] = []
+
+    for country, category, url in FEEDS:
+        try:
+            articles = collect_feed(country, category, url)
+        except Exception as error:
+            print(f"수집 실패: {country}/{category}: {error}", file=sys.stderr)
+            continue
+
+        accepted = 0
+        for article in articles:
+            key = normalized_title(article["title"])
+            if not key or key in seen:
+                continue
+            seen.add(key)
+            if accepted < 2:
+                selected.append(article)
+                accepted += 1
+            else:
+                reserves.append(article)
+
+    selected.sort(key=lambda item: item["publishedAt"], reverse=True)
+    if len(selected) < 20:
+        reserves.sort(key=lambda item: item["publishedAt"], reverse=True)
+        selected.extend(reserves[: 20 - len(selected)])
+    return selected[:20]
+
+
+def localize_with_gemini(articles: list[dict[str, str]]) -> None:
+    api_key = os.getenv("GEMINI_API_KEY")
+    if not api_key:
+        print("GEMINI_API_KEY가 없어 원문 제목으로 저장합니다.", file=sys.stderr)
+        return
+
+    compact = [
+        {"id": index, "country": item["country"], "title": item["title"]}
+        for index, item in enumerate(articles)
+    ]
+    prompt = (
+        "다음 뉴스 제목을 자연스러운 한국어로 작성하세요. 이미 한국어인 제목은 그대로 다듬으세요. "
+        "각 기사마다 제목에 명시된 사실만 사용해 한 문장의 짧은 한국어 요약을 작성하고, "
+        "추측이나 제목에 없는 정보를 추가하지 마세요. 입력과 같은 id를 가진 "
+        '[{"id":0,"title":"...","summary":"..."}] 형식의 JSON 배열만 반환하세요.\n'
+        + json.dumps(compact, ensure_ascii=False)
+    )
+    payload = json.dumps(
+        {
+            "contents": [{"parts": [{"text": prompt}]}],
+            "generationConfig": {
+                "temperature": 0.2,
+                "responseMimeType": "application/json",
+            },
+        }
+    ).encode("utf-8")
+    endpoint = (
+        f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent?"
+        + urllib.parse.urlencode({"key": api_key})
+    )
+
+    try:
+        response = json.loads(fetch(endpoint, payload, {"Content-Type": "application/json"}))
+        text = response["candidates"][0]["content"]["parts"][0]["text"]
+        localized = json.loads(text)
+        by_id = {int(item["id"]): item for item in localized}
+        for index, article in enumerate(articles):
+            result = by_id.get(index, {})
+            if result.get("title"):
+                article["title"] = clean_text(str(result["title"]))
+            if result.get("summary"):
+                article["summary"] = clean_text(str(result["summary"]))
+    except Exception as error:
+        print(f"Gemini 처리 실패, 원문 제목으로 저장합니다: {error}", file=sys.stderr)
+
+
+def main() -> None:
+    articles = choose_articles()
+    if not articles:
+        raise RuntimeError("수집된 기사가 없습니다. 기존 데이터는 변경하지 않습니다.")
+    localize_with_gemini(articles)
+    output = {
+        "generatedAt": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
+        "items": articles,
+    }
+    OUTPUT.parent.mkdir(parents=True, exist_ok=True)
+    OUTPUT.write_text(json.dumps(output, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(f"{len(articles)}개 기사를 {OUTPUT}에 저장했습니다.")
+
+
+if __name__ == "__main__":
+    main()
