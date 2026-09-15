@@ -20,24 +20,63 @@ OUTPUT = ROOT / "data" / "headlines.json"
 USER_AGENT = "Mozilla/5.0 (compatible; HourlyHeadlines/1.0)"
 MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
 
-CATEGORIES = {
+TOPIC_CATEGORIES = {
     "정치": "NATION",
     "경제": "BUSINESS",
     "기술": "TECHNOLOGY",
     "문화": "ENTERTAINMENT",
     "스포츠": "SPORTS",
+    "과학": "SCIENCE",
 }
 
-FEEDS = [
-    (
-        country,
-        category,
-        f"https://news.google.com/rss/headlines/section/topic/{topic}"
-        f"?hl={language}&gl={region}&ceid={region}:{language.split('-')[0]}",
-    )
-    for country, language, region in (("한국", "ko", "KR"), ("미국", "en-US", "US"))
-    for category, topic in CATEGORIES.items()
-]
+SEARCH_CATEGORIES = {
+    "IT": {
+        "한국": "소프트웨어 OR 사이버보안 OR 클라우드 when:1d",
+        "미국": "software OR cybersecurity OR cloud when:1d",
+    },
+    "주식": {
+        "한국": "코스피 OR 코스닥 OR 국내증시 when:1d",
+        "미국": "US stocks OR Nasdaq OR S&P 500 when:1d",
+    },
+    "사회": {
+        "한국": "한국 사회 주요뉴스 when:1d",
+        "미국": "US society major news when:1d",
+    },
+    "AI": {
+        "한국": "인공지능 OR AI when:1d",
+        "미국": "artificial intelligence OR AI when:1d",
+    },
+}
+
+COUNTRIES = (("한국", "ko", "KR"), ("미국", "en-US", "US"))
+CATEGORY_NAMES = [*TOPIC_CATEGORIES, *SEARCH_CATEGORIES]
+
+
+def build_feeds() -> list[tuple[str, str, str]]:
+    feeds = []
+    for country, language, region in COUNTRIES:
+        locale = f"hl={language}&gl={region}&ceid={region}:{language.split('-')[0]}"
+        for category, topic in TOPIC_CATEGORIES.items():
+            feeds.append(
+                (
+                    country,
+                    category,
+                    f"https://news.google.com/rss/headlines/section/topic/{topic}?{locale}",
+                )
+            )
+        for category, queries in SEARCH_CATEGORIES.items():
+            query = urllib.parse.quote_plus(queries[country])
+            feeds.append(
+                (
+                    country,
+                    category,
+                    f"https://news.google.com/rss/search?q={query}&{locale}",
+                )
+            )
+    return feeds
+
+
+FEEDS = build_feeds()
 
 
 def fetch(url: str, data: bytes | None = None, headers: dict[str, str] | None = None) -> bytes:
@@ -93,34 +132,49 @@ def normalized_title(title: str) -> str:
 
 
 def choose_articles() -> list[dict[str, str]]:
+    buckets: dict[tuple[str, str], list[dict[str, str]]] = {}
     selected: list[dict[str, str]] = []
     seen: set[str] = set()
-    reserves: list[dict[str, str]] = []
 
     for country, category, url in FEEDS:
         try:
-            articles = collect_feed(country, category, url)
+            buckets[(country, category)] = collect_feed(country, category, url)
         except Exception as error:
             print(f"수집 실패: {country}/{category}: {error}", file=sys.stderr)
-            continue
+            buckets[(country, category)] = []
 
-        accepted = 0
-        for article in articles:
+    # 분야별 3개씩, 전체적으로 한국 15개와 미국 15개가 되도록 교대로 배분합니다.
+    for index, category in enumerate(CATEGORY_NAMES):
+        quotas = {"한국": 2, "미국": 1} if index % 2 == 0 else {"한국": 1, "미국": 2}
+        for country in ("한국", "미국"):
+            accepted = 0
+            for article in buckets[(country, category)]:
+                key = normalized_title(article["title"])
+                if not key or key in seen:
+                    continue
+                seen.add(key)
+                selected.append(article)
+                accepted += 1
+                if accepted == quotas[country]:
+                    break
+
+    if len(selected) < 30:
+        reserves = sorted(
+            (article for articles in buckets.values() for article in articles),
+            key=lambda item: item["publishedAt"],
+            reverse=True,
+        )
+        for article in reserves:
             key = normalized_title(article["title"])
             if not key or key in seen:
                 continue
             seen.add(key)
-            if accepted < 2:
-                selected.append(article)
-                accepted += 1
-            else:
-                reserves.append(article)
+            selected.append(article)
+            if len(selected) == 30:
+                break
 
     selected.sort(key=lambda item: item["publishedAt"], reverse=True)
-    if len(selected) < 20:
-        reserves.sort(key=lambda item: item["publishedAt"], reverse=True)
-        selected.extend(reserves[: 20 - len(selected)])
-    return selected[:20]
+    return selected[:30]
 
 
 def localize_with_gemini(articles: list[dict[str, str]]) -> None:

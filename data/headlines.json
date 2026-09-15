@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T12:47:30.286302Z",
+  "generatedAt": "2026-09-15T12:53:26.179272Z",
   "items": [
     {
       "title": "[아시안게임] 엄지성 전반 해트트릭…이민성호 첫 경기서 카타르 제압",
@@ -20,6 +20,24 @@
       "publishedAt": "2026-09-15T12:01:00Z"
     },
     {
+      "title": "금리·유가·AI 악재…코스피 나흘째 하락",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vSlRXZmxzbGF6aDBNZ2hmZXJjQVpKWDFDdDRoT1BUcnJraFF5b3lvY0JJS2lDYmdpQ2l5N3lYcDBjUm9jYUFBZk50NHozdklPNldYZU54RGwyUERRMU1LTE5EZFZuTGs?oc=5",
+      "source": "연합뉴스TV",
+      "country": "한국",
+      "category": "주식",
+      "publishedAt": "2026-09-15T11:58:00Z"
+    },
+    {
+      "title": "Google Opens Singapore Engineering Center to Build and Export Enterprise Cloud and AI to the World",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQLTl0M3Rpdlh6TDNaVWpCTGtCelJqY0Q3ZHoyV2ozV1RvdFAzbHFGMmd3eWpFUkhDVnN2WUJRLXlMdWpTMk0zbHlVWEJyUVYzOVpZWUFTVUpaNUpIbWM5XzgzNWhNdTRJZk1JN2lfU1phLTFLdTJrODFxQ050UDVteHF5RnhTN2Y2Q2FEeXpkV2JtNXEwOE9JM3FFam04ODhpQkRHXy1sNkRzWDVTaVplSDU5R21Wand5c1VEYUZQeHBlNW9naXRUZ2laXzh1aG5Ga3c5MHBkUGlYeFFmYl9BUnhn?oc=5",
+      "source": "Google Cloud Press Corner",
+      "country": "미국",
+      "category": "IT",
+      "publishedAt": "2026-09-15T11:19:46Z"
+    },
+    {
       "title": "Kenneth Walker: Means a lot that the Chiefs trust me",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMDdWMzlYZG41bWRrMlgtVVR0cndTLS1sX3JrVFdwclhwVnd0Y0c1M3dCTmRCcUplS1dTNTFvMVV6SDZQdHgzMzBGUnVidmdNcC1fSnFuc1A5OFdBbWdVVXFYS2NORUlEWHJPNVQ1QXBWLWhDbEQ1cklEMnVuaWN1UWp2dXhVOUFuOU5oYjdKRGhSTk5JckhxWGRHR2NFZC11Z0VUcUpLdzctMmUwYnRNbW4yVQ?oc=5",
@@ -27,6 +45,51 @@
       "country": "미국",
       "category": "스포츠",
       "publishedAt": "2026-09-15T11:02:57Z"
+    },
+    {
+      "title": "Debate grows over artificial intelligence development",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOUx3a3RNc3A0TlFtcHN5ZlRjTGs2MXdsTllKWXluMGlaeVdqNWZEZGlyc2Y4THd4QnlLbnVCYjkycDlMdW5ja2Rqd3BvbXAyUjRHOVhMZ2tFZmtjbnhMS1MycV9HYklTNGhTc24wOUFnbm9pY1BiRFRVeXNDRkFRV18xZEVTZEE3enBwOFYwVFRESnNpZlJ3?oc=5",
+      "source": "CBS News",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-09-15T10:47:00Z"
+    },
+    {
+      "title": "“허위 판결” “법원 기망”… ‘AI 소설’ 뿔난 판사들",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xdDJFd0hGejBzejgxSzh1MFIxTEtxaE1fY29SVUstcFE1N3hlUlNndVk0N3NqUmRkRzhmUUYwNmdmWjk1RWtoSVZHVlBqVUtDWU1wai1TeTVkV2RpMDlrWkdjYTVUbC14YVl6aDJR0gFyQVVfeXFMTzljbGZERU40anRKbEtZeXdvUzhGdks3MjdRdXVHN05ETkVaTUJ2RXFoT3B2VE5PeU5WOEN6cGVsNGZnaFpTRTFzdFVHR0Fucm9nMDFjbDFQVDU5b3dKakVHWTA2bkVaM1J5S3RNcFZMby13?oc=5",
+      "source": "법률신문",
+      "country": "한국",
+      "category": "AI",
+      "publishedAt": "2026-09-15T10:12:29Z"
+    },
+    {
+      "title": "경호원·명품 운동화... 법정 선 브로커, 취재진 질문엔 묵묵부답",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdFV5em9IdThTQkZDOHdYbFBtdHVGM1MyY1Z5WGJPejJzVi1rQTlJUlVYQmZwcG5SNmhFNmw0bzBxdFh3VTFibl9kUk9yTExpaERuTkFMMlhfWVIxeERXeS1UOTgySE9XM0xya3FzMFJXVHBGTTZISV96RXdObU54eFVUQVNYNW8?oc=5",
+      "source": "조선일보",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-09-15T10:00:25Z"
+    },
+    {
+      "title": "Stocks wobble but no sign of panic as yields surge",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS2RZa2F0OUhoZzVSRFpnTkhtd2RyYW5XZ0NFbmIzTloxbmhITmdFdGFYWEIxbHQ5SE8taHJtSExodHBDcUZHWWNKVU0ybTV2bXVJZXNCNmx2bFM1XzkydUY1aExvYTVGb1BxQjJ5U0FSZ2QtV3dxOGF1RXU4Z3g0Z0J0bFdVX3hsS29zeVMyNU1YR3c0WmRSbw?oc=5",
+      "source": "Reuters",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-09-15T09:55:02Z"
+    },
+    {
+      "title": "에버코어, AI가 사이버보안 위협 증대시킬 것 전망",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EZ1VYTWU4NWlEb3pZSl82bnl5TDNfRXlDUzZYbzhEM3dCdFpLaFJhdU5ZQUZmNFprdFNiSHU4TXFMbi0tbHBlZmIwRWJXNU45Szc4SzBwZnlsTU13S21LdFJSMV9WR004NjBYN0FoQlJiU2NsdGM4?oc=5",
+      "source": "Investing.com 한국어",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-09-15T09:51:00Z"
     },
     {
       "title": "One chart reveals how much Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman have scared people about AI",
@@ -38,7 +101,25 @@
       "publishedAt": "2026-09-15T09:43:02Z"
     },
     {
-      "title": "KCC, 2026∼2027시즌 프로농구 타이틀스폰서 확정…통산 7번째",
+      "title": "Stock Market Today: S&P 500, Dow and Nasdaq Futures Face Pressure as Brent Nears $108 and FOMC Commences",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPUGk4NExHaEY5b3ZTZDk3eUpEa2hHMjA3Yjh6Szd6Z2xKSFZrQnkzcFR2QmsyWUhBSlI5d0NYRUx5amZZZEUzTVYtVEpDQkZPRlM4c1JZXzFHNVZYaWwzQXRfSFdVSUlGNEJTb2dodGpxdnBzX3FGejh4aGtIZlVFQ0RVYUZEYU9SNFMwR25wZFd2WWFpTGpyOWMxSkFxWG0tZDRoMzdhMGduWHJTdnFJdkZ5YzY1TTVGOXJtM1M1OGRUa1c0WkhNTUdlaGFIUGxVZmhELWtpX0dhV2VFalJBZXpCeFUzQjVvMUZwb2ZLRWpSS0ZvYVVlT1ZITEZTMFk3SUx4S3ZhR3lMcExSLVJtRmMyX0pjaS1Vdm5PdzB3?oc=5",
+      "source": "benzinga.com",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-09-15T09:33:46Z"
+    },
+    {
+      "title": "“중앙·지역 똘똘 뭉친다”… 수도권 사회복지협의회 임직원 86명 한자리",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLTmNKS00zUE5NOU91TjhnVldac09hQ3lwWnhIZmY1QVlDWVBKMTgxSzdzWFJINUNHNk9LOUM1OGRSSGU1bS1Sb0h0UE5uQ0x4SnNqQVUyeXViYXVrTG42XzBoYjdlWDdEYmhr?oc=5",
+      "source": "복지타임즈",
+      "country": "한국",
+      "category": "사회",
+      "publishedAt": "2026-09-15T09:17:57Z"
+    },
+    {
+      "title": "[프로농구] KCC, 2026-2027시즌 타이틀 스폰서 확정",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0WTdFTGJ3MnVaRjNjeWNJZWFLa25TaEZrZFdnMk5NZ3FJOFdQTXg5WGY5YlJVVDFpM0p5Tkw0cFU0ZUZ1WFRwLU5aOTdpRll2?oc=5",
       "source": "문화일보",
@@ -47,40 +128,31 @@
       "publishedAt": "2026-09-15T08:55:58Z"
     },
     {
-      "title": "[단독] 韓, 웨스팅하우스 지분 15% 인수 추진",
+      "title": "망분리 풀리자 보안 고삐 죈 KT 클라우드... N2SF 맞춤형 제로 트러스트 박차",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03WGVzZDhQTG5GMUc1Rk9MeWxFM0lKZnJlSXJkV2IyUHViMEtReFJmZ282U3gxTFlvTTRVYzQ3N3FIMkRqT29PQ3B2OXZCWG1oTUVqTU91Unh1dw?oc=5",
-      "source": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uY3I2X0RFVHZvMXRoU1M2aFowZEFaTVpRNTZSZTBLeDdOSjdkRDVZd2xVWEt5Mm1xdnJubk5nZ2Ffb25yUTNYZHJtNTZTRG9NYWVQd0lrWGZ0aEhnU3k4UVQ4UjJhNG5LdVUw?oc=5",
+      "source": "보안뉴스",
       "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-09-15T08:48:06Z"
+      "category": "IT",
+      "publishedAt": "2026-09-15T08:02:52Z"
     },
     {
-      "title": "Inside John Thune’s AI dilemma",
+      "title": "Taiwan and the United States: Partners in Democracy",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcjA4SXBhX3J2NkRhcVB2RUV0c3VLQWp3amhZVGNkQTZGZUFQSnM1MVlzckc0ZjRWSWNoV0swMkZvNkNDUDVyWExVblByNUcxcDliOVQ2SWlLMHY2RkNielBHUVF4LVVITEluR0RyWkpmWEFtRkx6QjFhMXFKZlJyV0pJa3E?oc=5",
-      "source": "Politico",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSERPNWZISEthTEROOFFiXzZfcTdwNFlsTlhmeW16ODg5bzB2b2FZczFJbjVjTTlabVdZSWZkUlRIb1kxYmRiZHNXVndXNkx4NUZmamd2N0pPczhLLWV3bTFHQVU1MjNPZDJjaFpUTGkzcmYxTzhwWGh2QlFrRnFhUFIwS1l5UXc?oc=5",
+      "source": "asiasociety.org",
       "country": "미국",
-      "category": "정치",
-      "publishedAt": "2026-09-15T08:45:00Z"
+      "category": "사회",
+      "publishedAt": "2026-09-15T07:26:07Z"
     },
     {
-      "title": "사미자, '돈타령' 전원주 감쌌다..출연료 논란 악플에 \"아껴주길\"[Oh!쎈 이슈]",
+      "title": "The turbulent AI era is here. The choices we make now are critical.",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUTB0R1ZNOHpPSDZGSVZ1Y0xSYVJIMjQ4Q0dkcEFRdFBPS0MwUGtLQkRBakhVaS1qWFlFTDhydThUby1NeEdmYkdUZ2VmSERJZU92WWZUcjRobXhKVnRmdFA1SV9PYmk1OG5ZZE9hZDFHTEVuZURCa005UU15bERIYnlGZnBPUUppTWJlaXVObw?oc=5",
-      "source": "chosun.com",
-      "country": "한국",
-      "category": "문화",
-      "publishedAt": "2026-09-15T08:19:41Z"
-    },
-    {
-      "title": "김승원, ‘신약 실험 조작’ 질문에 “저는 문과라 알 수 없다”",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MS1JVTEl3VG9qQndIcXQ3ajBCeFB6aU9TVEIzV3QtVnFxSGlRM0VRakRnbVF3cF9KZDc3Y2lwZEZYY214b2NjOG1xLV9DcXo1Q3YxcTRxVTEtbkV3eG0tVUlURlBiODVhdDFsOXBGc2pIR3c5?oc=5",
-      "source": "한겨레",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-09-15T08:12:00Z"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+      "source": "gatesnotes.com",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-09-15T07:25:05Z"
     },
     {
       "title": "Supreme Court rejects Trump mail ballot restrictions ahead of midterms",
@@ -90,6 +162,15 @@
       "country": "미국",
       "category": "정치",
       "publishedAt": "2026-09-15T07:13:00Z"
+    },
+    {
+      "title": "울먹인 김승원 “아들, 엄마 뜻 받아 발달장애 아이들 돌봐…돈벌이 아니다”",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kU25oN2lIbzlCUk5fYTNwbFZqQ3M1X0FZOG1CV3BCcE05bUN6dURXVTd1SUxNSjJYdGt6Vkk3dndGMEhVUU5kT3lsdE1fOWoydlBVWTN2dGFfTGVfemJpWTZkQUlfMWFvMGhfeXFoYl9razJU?oc=5",
+      "source": "한겨레",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-09-15T06:47:00Z"
     },
     {
       "title": "토론 중 젠슨황에 '깜짝 전화', 받아보니 \"나 트럼프인데‥\"",
@@ -119,6 +200,15 @@
       "publishedAt": "2026-09-15T05:23:40Z"
     },
     {
+      "title": "취약계층 시설 개선한 한국남동발전에 복지부 장관 표창",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uc2FJTnRQV1pYQk9WT3NadjBoVEFxazRYNHhBTEtzNzdleno3Q1pRMkxpYUlzY1BwRWxRcklleDFjX0k3RTlwVUY1dXYxM3dqNERIdmhDSGkwRG_SAWBBVV95cUxNazBsSS05WHpvbWgzMk9MMHROcTIxaUtzQmRveTU1MlZDNUszekhjWUtUY1lwTmVNWm41RldUOF9EU182VklBZHRWOWQ2VGNxUnNoZllqTUlwREVfclQyTGY?oc=5",
+      "source": "연합뉴스",
+      "country": "한국",
+      "category": "사회",
+      "publishedAt": "2026-09-15T04:30:00Z"
+    },
+    {
       "title": "박위, 역풍 어디까지…시각장애 원샷한솔에 \"불편함 없어 보여\"→DM '2년 읽씹'까지 또 '파묘'[이슈S]",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CNll0a3p5cmRDTEFfWDQweGxmYWJzV3pRTUV3SklYdlJCM1MzV3poeDYzeDFMR0FCZlNjcEVSdDNPZi1vWnJESG9wVUxaSTA?oc=5",
@@ -128,22 +218,22 @@
       "publishedAt": "2026-09-15T02:19:00Z"
     },
     {
-      "title": "[단독]식약처장 비서, 검찰에 “국회의원 청탁은 김승원 뿐···‘국부유출 걱정’은 말도 안돼”",
+      "title": "Vega C rocket launches 2 European Earth-observing satellites to orbit from South America (video)",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhWEFXVTFWdFVsNGZGT2RWSDVsR1MwSV83TTQ5U0ZidnRJVm1TMWlGc1YtSGlYUFFONTBhR3JjOTYzTUo2dUFCN1lYMDEycGl3eVUyWTEwRTRfZ9IBX0FVX3lxTFAyRHJ6UmpVUVFFRjhNRGJHX25OZ2Y5QXdIWG9ZWEk3dEpKNWhjRWVlOElJQzZiLTQ3TEl6LU1HT29HM0Y4aGJKTnNZYlFqbTlmT2pfVUk0UkRVMW01dTYw?oc=5",
-      "source": "경향신문",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-09-15T02:04:00Z"
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS0x4TWtzbm4wUG1KTGZPbFJ0QnkwZ3NTSlFkY3Z2dzJRX2Nlc19mcl9DQ2dUdVdHXzU5aXBnSXFwQUVrb1N3MFlySHdzdWR4aTEwTEgxTS0tVko2ZXdVb0xFakpfSFF1Y0JZcWN2U19FZGdfTnpSM0NRcDVkWlh2Z0M1dTRuWTZaWW1WWDN3RGlFcU51V3lBV0hZMDRzLXBMVFVpc3VoUDhmcU9qVjNwcUtYUjk5Y3lsdkFfMmVaRFI2WTVURHR1aHNtSQ?oc=5",
+      "source": "space.com",
+      "country": "미국",
+      "category": "과학",
+      "publishedAt": "2026-09-15T01:37:02Z"
     },
     {
-      "title": "NFL ties Week 1 scoring record for Super Bowl era",
+      "title": "“버려지던 잣나무 잎, 놀라운 반전”…힘빠진 근육 에너지 충전 시킨다",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JTDh2X0Z6dDNsZjFJRThLU190ZmNoWUxqMmhNRUstQl81UDdGU3BpRjg3TEZYekV6MmlDQkN6OEF5UDZRVVVXSGlpNEQ3akMtaWRpY25ud294czB1QVNlSTRXcExlSTlEc3UwS0h5d2RCOE1yUjEtbXFad3lTWm8?oc=5",
-      "source": "NFL.com",
-      "country": "미국",
-      "category": "스포츠",
-      "publishedAt": "2026-09-15T01:58:00Z"
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FeFZfYlhOVkVpVENXV0NlejhRbG5JMGd0azYxQXRSRVVzbGJjUW1TbUhHbUZCdTVWV1NmNy1WeVYxR19FTVZtZ2ZPVUdqUTQ?oc=5",
+      "source": "v.daum.net",
+      "country": "한국",
+      "category": "과학",
+      "publishedAt": "2026-09-15T00:43:13Z"
     },
     {
       "title": "Robert Kraft, Gillette Stadium boot Macklemore from Ed Sheeran tour over ‘Free Palestine’ rant",
@@ -173,13 +263,13 @@
       "publishedAt": "2026-09-14T19:28:42Z"
     },
     {
-      "title": "Here's How To Get A Steam Frame, Valve's VR Headset, And How Much It Costs",
+      "title": "New Carlo Rovelli book challenges science's understanding of reality and the universe",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTDVSZlk4NzBubDlrVXZUUGE0Z0ZYanhNajNfTnJWWktoZzA0c0g4d08yTEE5THJwREJITzREVzdXaTNhOW4tUWdpTEdSbFYwZ1NLMWpQcm54dm5yV1NrdHNyX2RmcG05TnVfby1HQ0cwWUw2ZkpJcDZRUUFHeHNhRUl2bFFPUmMtWWpXRUVtODBSNmMyeW0zVk1HY1hpSkl3ZjdVVFVoWWlrdw?oc=5",
-      "source": "Game Informer",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN2MxaWxjZkRMSjMzTm1ycldNYTA4aVRzQ3FOeE84ZmpYbDNqNkdGX0tNTDk1dElrNlFFYmNhMFB4TFJmYUFYVXVkSlJYdm05dWVWS2pBLUY4RDdWa0kxR29TVWtKRjdLVDVTS3hhOUszb0xtSldCbjB0Qk16Z3VfM0VNREVHRGVrRXpRaDBYUTVwS3pNZ3ExZloxeFI?oc=5",
+      "source": "NPR",
       "country": "미국",
-      "category": "기술",
-      "publishedAt": "2026-09-14T17:43:00Z"
+      "category": "과학",
+      "publishedAt": "2026-09-14T09:44:44Z"
     }
   ]
 }
