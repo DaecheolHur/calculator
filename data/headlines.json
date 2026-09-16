@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-16T18:33:59.146648Z",
+  "generatedAt": "2026-09-16T19:29:12.690031Z",
   "items": [
+    {
+      "title": "MS AI수장 \"AI에 권리 가르치면 통제불능‥앤트로픽 실수했다\"",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GdGQ2ajN3RlFNYjNUU3A1V3BqckZLQVdBNU5RSWFUOTVDUDlwbGt1bkFqb1h3eENWUVBfYjluTzBVWjhmWXZnYVZjOUlUaWQyMmlHNkU5c04xcjQzLUI5RWZFNkJuOURCVW5uYWV2OWVoNG9K0gF0QVVfeXFMTXRSLWZoYXlVdFZTdVpWRDh4SXAtZzhCNDZyN0RqQ2pCSzdyeUd5UzFhT29ycnh0ZnZQdFd2ZHY5bkpQeGpiTDJscjRUUGpTUmR2Qlk1dG00OW9hLU1ydVlrYjdoUmZCbkZEcGtVWXlMM2NiejA?oc=5",
+      "source": "imnews.imbc.com",
+      "country": "한국",
+      "category": "AI",
+      "publishedAt": "2026-09-16T19:06:57Z"
+    },
+    {
+      "title": "AI agents are getting better at cybersecurity. That cuts both ways.",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdVdPSWVfYnNFTXJ6bng1NmhYblRvaG0tclBzcnBqSlZ4QUtlalF3aVZ0MnR1cVk2SGdvOThqeUFaTmFFekIxR244elhyTGJyUVdwZjFFVDU1dUFPMGU3MEZwTHFNTi12N2gtMklFSF84WVVDM1ZjclcxRkljT3RGWC1qbUpKNUtOWndSc0dqSENhTGNPRWNLV3JhNW9fSXpYR2tOZXg4ZzRFWmxzbDRLdGQxbVRWZk9kaUEybF9IeWRiZXY1T3dYc0NzNjdUT1U?oc=5",
+      "source": "Nextgov/FCW",
+      "country": "미국",
+      "category": "IT",
+      "publishedAt": "2026-09-16T18:41:00Z"
+    },
     {
       "title": "인터뷰 「개발자에게 물어보았습니다」 『파이어 엠블렘 만자천홍』편이 공개되었습니다. 소프트웨어의 상세한 내용을 담은 소개 영상도 공개 중. | News | 한국닌텐도주식회사",
       "summary": "",
@@ -38,13 +56,22 @@
       "publishedAt": "2026-09-16T17:55:00Z"
     },
     {
-      "title": "Apple releases first iOS 27.2 developer beta for iPhone",
+      "title": "Apple Releases First iOS 27.2 Beta",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcmtYVzUzU0U3UVdnX3BHb1IwNXoxd0xiV2ZpVENDaldYRHdBU0FVU2VFUTlDOU9Xb25HNVNSWnZFVWcxOFViSDlITFBQRDMyZkktR2FQU3NFVjFfLUhabjF4a2pra2VjWFVLSE5NTkcwN3FVaENSLUQ4eW9VdXl6NlQzYmR6cTdrajJGX0NXdnQ?oc=5",
-      "source": "9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DZUhPY2hFU3gwek50MDJnQUN0NHNFTmlGSkgxcDd0SmN4cFpSMFIxLXBmY0NFMGJrcV82eXNaTG1PbGJUN3FpNWowTEVkRG5FaEo4TkQ1WTZhTEh4UVc5di1VUVlMMnMyb1RwMkFVcC00bnVoUWlITnZJcTI?oc=5",
+      "source": "MacRumors",
       "country": "미국",
       "category": "기술",
-      "publishedAt": "2026-09-16T17:12:00Z"
+      "publishedAt": "2026-09-16T17:14:12Z"
+    },
+    {
+      "title": "House to leave early, punting Hegseth impeachment vote until after November elections",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdVJIMWVfRGRQdXY5Nmw0UnY3Y1Itc2JKOGZqeUVacWRLM2Eyd0hKMWZCWWU4WmtTeWQtczJxRlh1U1k3QXcyd2lXal9lVGl1NDNRQkYwNHhHekRRY0lMb3hiR3ZBMFBLajQ5VDMzQWRDNEY4aEltVWFJdG1FamRYdUVDYTJ0WDNnWW5ibV9mYkZRdHVMbV95TTNlS2xheXIzQ3Zsa0hwUlJXMU9lUlNKYWp5dXRBMWFrZ2ZGZ3N4TQ?oc=5",
+      "source": "NBC News",
+      "country": "미국",
+      "category": "정치",
+      "publishedAt": "2026-09-16T17:04:43Z"
     },
     {
       "title": "Thousands of Ed Sheeran Tickets Remain Unsold for Singer's Tour, With Prices Down to $65 Online",
@@ -59,46 +86,28 @@
       "title": "[게시판] SKT, F5와 AI 클라우드 보안 파트너십 체결 등 단신",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45RVpYcDVUY2MwbVgxMFlUT08yVUMyaWZlb1lMZ2tOMElyZ0pwaGNBbXhVeWExcXhBUUJLUGhVV1k0YjA0dl9DTkdFa2RENlllVjkzdXA1UDh5al82bXhLTXo2TlllUUdQSGc?oc=5",
-      "source": "AI타임스",
+      "source": "aitimes.com",
       "country": "한국",
       "category": "IT",
       "publishedAt": "2026-09-16T16:53:00Z"
     },
     {
-      "title": "3 dead after news helicopter crashes while covering deadly Los Angeles bus collision",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTkZKTnpWb1VuME1pWVJfX2hUR0NTNXRLNzFmREpOeVEyaDBVUnBpZGppRVRkd1FsLWxackJjYU1jS0FUR0ZjS2tYeXlPcHBlT1pTMEs0ajBOWFptZDMycHZvNjVuYm9tMkNmOW1ySnFpQnQtdjRCTVY5NnVhOHBxWUdpRFk3S2o3dThwa1NPTGYtMEE?oc=5",
-      "source": "nbcnews.com",
-      "country": "미국",
-      "category": "정치",
-      "publishedAt": "2026-09-16T16:52:00Z"
-    },
-    {
       "title": "The turbulent AI era is here. The choices we make now are critical.",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
-      "source": "Gates Notes",
+      "source": "gatesnotes.com",
       "country": "미국",
       "category": "사회",
       "publishedAt": "2026-09-16T16:42:59Z"
     },
     {
-      "title": "\"트럼프 'AI·데이터센터 가속' 주장에 지지자들도 악플달아\"",
+      "title": "Fantasy football rankings, projections, lineups, sleepers for NFL Week 2, 2026 from proven model",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CRF9jYW5UUGhyd1ROMjRDRHFndDNXZFhDTkRTelIwTEN4TVdEdWxUSDRnM0NfNGVpcVJRdHRIX3lQckpKUk9rNWxWU1MtWTVWZjJGSndSWVlHSzZIUnBnNtIBYEFVX3lxTE9CRF9jYW5UUGhyd1ROMjRDRHFndDNXZFhDTkRTelIwTEN4TVdEdWxUSDRnM0NfNGVpcVJRdHRIX3lQckpKUk9rNWxWU1MtWTVWZjJGSndSWVlHSzZIUnBnNg?oc=5",
-      "source": "연합뉴스",
-      "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-09-16T16:11:48Z"
-    },
-    {
-      "title": "Nasdaq, S&P 500 climb as oil retreat tempers pre-Fed jitters",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSUtqeWNnZEJZT0IyaHpTajZTM3hWV0gwZUV1VkhQV21PUzJBQ0kzLWhxTk5iWUtNbTI1eUVWQnN1b2Y4T2RQSnhmc1pDcVVWYldOc19HSzRId2pZMHZFWHZrNHhnMVh3VGd4RkRSdDJGZ2ZJSzd6TWhiWWtUd1lWRkxzcklsRmJhOS1TcEZYMkRTQjhmakMyVDFtQQ?oc=5",
-      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNajN5ZWF5aElVbk1Vb2hyTVM4MTB3Z0p3aWMzTXd6Y1JxSEx2RkFybnZEeVhNZS01dUNUaWhvV0wzQ2NwU0t6WG04Nmo1NjVIR1FEUTBQU3JrOGNDUzBPMWVlRDU1RTJ4SXBpOGlwYjc3VndKMkhLRkY3TUxjWjRWcTVXSUxVQnFvWDUyUXZ3QmNqUUtFcG9talYwTVFYVFp6OFRkZFF3bHlNcHZ1UkNHeWptOVpKMV9sMHgtanh4MEk?oc=5",
+      "source": "CBS Sports",
       "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-09-16T16:11:02Z"
+      "category": "스포츠",
+      "publishedAt": "2026-09-16T16:30:44Z"
     },
     {
       "title": "‘Resident Evil’ Review: Zach Cregger Gives a Fatigued Franchise an Exhilarating Shot in the Arm",
@@ -110,13 +119,13 @@
       "publishedAt": "2026-09-16T16:00:40Z"
     },
     {
-      "title": "OX Cloud: CNAPP Coverage Plus Runtime Security for AI Agents",
+      "title": "Three Stocks Are Joining the S&P 500. Will They Actually Improve VOO’s Returns?",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRm1tV3daRFZxMF9ZVktFOTFnb1ltNWtZMUtCRUNOd2hUMHpSdldady1sR1VEbng5S09GWlhHRm5xVnFyMlVkSVY1Q092MHhCREFnTnduRUJTMEd4NFk1V3ZnczhzNGFzS01WeFZ1TXhRdzZjTms1WGx0cEtuZWd1Qy1ULVFxYnM2UklSRU9iUHAtRGc?oc=5",
-      "source": "OX Security",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeTVsQXVob1NjNEFoUDVEal85ZTJfZVJZakVvUXVvZ1NsVEtreFFWd29RUTlNY1JTVDBxTnRTY1BQdW44d3V6bnB3am92UU9KRE5Jdy1ERkczMGRxNFE1UjVBRHVmVHlkSzhzakgzY3RpTmVodmx2U243RW45bVJycWxnX0pnaXcxeHZyRl9RRUR3VlhmQUY4WHBsSzVIUGNzdGo5RUQzaXNaNTdwYnBHRnFIRjZaRGY3aHRLdk1DUjQ?oc=5",
+      "source": "24/7 Wall St.",
       "country": "미국",
-      "category": "IT",
-      "publishedAt": "2026-09-16T15:57:34Z"
+      "category": "주식",
+      "publishedAt": "2026-09-16T15:55:00Z"
     },
     {
       "title": "Massive Black Holes May Have Started as Little Red Dots",
@@ -126,15 +135,6 @@
       "country": "미국",
       "category": "과학",
       "publishedAt": "2026-09-16T15:47:45Z"
-    },
-    {
-      "title": "Fantasy football matchup rankings for Week 2: Prescott, McLaurin poised to rebound",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaU95WjMwSm5MYnBrRU96UWtOa1dCcTZMUjNqQTd1R2IzeHJhLUdzUnhKVG9DeGtFd0YzY056RkstY0x5Z3ZScDNJSkRSakZNc1hHZDZyeVJFdHl0N2dJcmZDMWhJLUFXOEtKZ2NpY3BoMUtoV2xTV1JUM211ZTZqa2hjZXBGSkpIcHczQktIZWYtdDItUkdodC1UM2p2a2NLZVZpVDB5OXRoUzR0LUZMaHFhZVo?oc=5",
-      "source": "espn.com",
-      "country": "미국",
-      "category": "스포츠",
-      "publishedAt": "2026-09-16T14:56:00Z"
     },
     {
       "title": "Coast Guard debuts new collaboration and research hub on artificial intelligence",
@@ -153,15 +153,6 @@
       "country": "미국",
       "category": "AI",
       "publishedAt": "2026-09-16T13:53:19Z"
-    },
-    {
-      "title": "'백상 대상' 유해진, 백상 우수상 탈락 후 \"'왕사남' 스태프 눈치 봐\"('유퀴즈')",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaERpb1pIcGJJRE91S0JDdGNLN19MWENmVzBLQnhobEtKQWluT0hHX3N4UlM2U2FRUy1DMnczYXQ0RjkyVng5VHdQQllsTEQtN256UkplYUJWZkZNdk5rNlNSOHQ5ck1jQmkwZWcxbmc1dzJfTXpzQjZRN25XNmZ0OUFZaW5zWDRBRGN1RXl4dw?oc=5",
-      "source": "조선일보",
-      "country": "한국",
-      "category": "문화",
-      "publishedAt": "2026-09-16T13:24:00Z"
     },
     {
       "title": "당청 ‘김승원 강행’ 기류…야권은 장외 투쟁 예고, 여론도 싸늘",
@@ -189,6 +180,15 @@
       "country": "한국",
       "category": "스포츠",
       "publishedAt": "2026-09-16T11:59:06Z"
+    },
+    {
+      "title": "Satellites show Earth lost more than 12 trillion tons of ice from Greenland, Antarctica in 47 years",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUWJnakJxOTNkV2xKMC1Xa044S20xalNDMjZ5TEpvcmE4V2QzZktCUGJJQlZuYnhtY3Y3WDJuQXZiM2lMUkFad1hGaWZBci1IQzMzY055b1BnNlU2TkxtaEhqeWY3SlhybklEYi1ndWdPSkFJWlpBa2daVmN1NlViYXFwZFRWdElSU0Y3ejUyMEFZMTl4UGtwSmxwX0gtU1dCRGl4Q3VDanJuc2ViWUJjVXdPQkdDU1VqMjhHU0VnMFRWTzg4?oc=5",
+      "source": "NBC News",
+      "country": "미국",
+      "category": "과학",
+      "publishedAt": "2026-09-16T10:44:06Z"
     },
     {
       "title": "The Richest Person In America 2026",
@@ -245,6 +245,15 @@
       "publishedAt": "2026-09-16T06:40:28Z"
     },
     {
+      "title": "이민정, 3년 전 유산 진실은? 남편 김지석과 충돌(‘그래이혼하자’) - 조선비즈",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObnp0QkdPT1o4cGpqS2JTQ3MwanBMYmh5b25ucHZuRTEtcWtxcF9MQS0xbDBPb3g1M0M2RnBsQkY4LUdQVTVQclNOVk85VGoxUGZ1VGNGSFFWTW5sNXF6OHBZTEJvUWsyQlp5ZXdHT0x1ejNSZUtMZGtJSXVtYVN3Rjg5RVRMWFNmWUx0Mlk1ellpOUHSAacBQVVfeXFMTkF4R19xOFVBRXRXRUFPMkFyN2g4a200TDFud1ItbmhyZFg0Y3NzNVVkTktOdm5qcnk2ZGdtbm10SlhfdGF4cEYzamZHSjZNdVhYdUFYY1BJRUwzcWQ4aTNHMTVLT25OaFRhRS0zSVo1UWR3MXdWcmI5MzhvSklHdU5OZ05QV0JFdjVWM1Nudi1lTWJGSWVKM01pb3JQX09CQVA4YndqY1U?oc=5",
+      "source": "biz.chosun.com",
+      "country": "한국",
+      "category": "문화",
+      "publishedAt": "2026-09-16T02:11:44Z"
+    },
+    {
       "title": "[뉴스 저격] 13년 걸린다던 ‘인공 태양’ 30년으로… 한국 부담 3조원으로 4배 늘었다",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPckxQZWxnVU9NcEtDOXMwLTcxZFBjMk5KeWtabjAzOXpuU01GbFhfQnBTeE0zVjN6TlA0TnV2ei1NeW5XNFFmdTR2dVUyWlk?oc=5",
@@ -261,15 +270,6 @@
       "country": "한국",
       "category": "기술",
       "publishedAt": "2026-09-15T15:36:52Z"
-    },
-    {
-      "title": "FLEX and Sentinel-3C launched",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUFdyOWpTZnBuRUhxdzM3NGRTbWlNRmpsdVpKQVlKTDNmTEM0U3RmcmZhdW9MUTNtTzlfZE56Q0lLbklub3ZnY1NDYzc4eG1RcDdOMW9NRmFFekNDRGN5aXJuRkFJYTBLQndyMmdXOWc2UVV4S1dsUlFEdklHa1gta29xZlFkUDdOakE?oc=5",
-      "source": "European Space Agency",
-      "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-09-15T03:39:11Z"
     }
   ],
   "briefing": [],
