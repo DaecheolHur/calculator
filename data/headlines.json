@@ -1,20 +1,83 @@
 {
-  "generatedAt": "2026-09-17T19:28:28.177711Z",
+  "generatedAt": "2026-09-17T20:30:29.573495Z",
   "items": [
     {
-      "title": "White House pulls stalled ICE director nominee",
+      "title": "U.S. Stocks Rise on Inflation Containment Hopes",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWkZHNjNqcjFkNUFzaGhfUmFMdXJZaXFaci0yTWs1YjhWeV9SYXRHa0hrVzdlTmdlZllQQkhKWFpXRGRjMWYtVVdTRWV0YkhLQkpBb09DTU5nWlliMFJ1S3BDU3l5THhSXzRNZGlBVERyQ3Y0aVBGa3ZNZEllbEFfZlVoU2NrN0U?oc=5",
-      "source": "Politico",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTWZkWlhjbThxYW1Bb0tvcDZ3RnowS04yRzBXeWxsVFc3TzZOWlJ2NW9wZTJneWFTdUg3Tmp0SGVVb3gzWTYxTmpYbkQ5WDg4QmpXVkd2SnYxenh5VUx1V0NEVnFEQ1EwczVJUkE5QVZ4cFVrdEMtQkRpR3FtWEFHOWU5YmJxc3dybWhWeFFtYUh6NHR3?oc=5",
+      "source": "WSJ",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-09-17T20:22:00Z"
+    },
+    {
+      "title": "White House withdraws nominee for ICE director allied with DHS chief Mullin",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb1RqUThVS1BQdDhIT2tmUThwc1VIQ0RiM0pTVFpsTXFBMmZlZHBYV3BUa0VRSEh3Y0Yyc2p6MEhMb1JwNi1XZ1A3NjBndU5jM1ZXTzVvQW5aNWFSUHZKYmRDWHlyTVBvaUJkNHNpX0hDMlg2TnNBVmtHT1VFbE1TekVCYVpDa3A4dnFLekg4dzJmLUQ3MWc?oc=5",
+      "source": "The Washington Post",
       "country": "미국",
       "category": "정치",
-      "publishedAt": "2026-09-17T18:52:00Z"
+      "publishedAt": "2026-09-17T20:20:29Z"
+    },
+    {
+      "title": "New Sepsis Guidelines Seek to Reduce Infection’s Deadly Toll",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYmJ3V3NLZk1abXBRa2U4QUw0VFVQV0lUOGFaVW54X2J3UVliSEtkUXNrLTZTdUFMNmhLbjh1Wkd4aVEtcXNnZm1aQXJvMXROek80d1lwRm9DQkd2aFRHUjVQZ2lraVBMcFc0aFVnVjd1VTk4ZkFqeHNJNmt4dW9lZm1zcWtkazhRSm1jUzBDTVN2dzdNRnc?oc=5",
+      "source": "UVA Health",
+      "country": "미국",
+      "category": "사회",
+      "publishedAt": "2026-09-17T20:12:43Z"
+    },
+    {
+      "title": "Kansas Board of Regents to focus on crafting artificial intelligence policy standards",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTmdEOVBVSFU5ZVVXNzNqcEJwc1JxYks4U29VZDh2SVdhS1g3bEZVdlhTZ1ZJSjloMFE3OVF0TzdiNDZLYkhsbG5MdDBYV2k2V0Q1dmYxeGljN0pvMXduUlFuR2tHZ2xPaG1URlYteHJkbkptRkRVNGV4a2g4eGFhcm5KWjZJVF9hY2hIVmN5aVVlUGR5N1lESzh2bU56cGpzczZTY0NpVGMtS0lDbmFZUXFWX1N2YjE5TVhROUxLb205YzA?oc=5",
+      "source": "Kansas Reflector",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-09-17T20:09:09Z"
+    },
+    {
+      "title": "“AI는 기술적 사이코패스”…공포에 휩싸인 문학인의 경고",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LSkNoLUYxOXlGay03NWhmOTVlZXRycmRuSFpWaDZHVVJNelZYU01wOEprb2xzc3N4UlNvSFJNMzY5Z1hQM29RRE5PXzVFV0RhYnZXOHBR?oc=5",
+      "source": "중앙일보",
+      "country": "한국",
+      "category": "AI",
+      "publishedAt": "2026-09-17T20:00:00Z"
+    },
+    {
+      "title": "What the Fed's interest rate hike reveals about Warsh, Trump and inflation",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2VV9UQmpBQ3FGMkc5T0hkeEs2SVZvZnQ1RDhicVlpYW9DOExfRC1yNExuMnhpdjdjdmR3UGowekxSYU9mRUdPSlc4YzNUTV9ZNEhucXJiMHlLcVFENjVxU0JQcWNhVC0xR3FwUkNaUVExblk?oc=5",
+      "source": "CBS News",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-09-17T18:12:31Z"
+    },
+    {
+      "title": "'이강인은 아틀레티코 마드리드에 없어서는 안 될 존재'…라리가 개막 6경기 만에 인정, 스페인 현지 극찬",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWR3JRWE5zTkFLNlpyYTRhSkgyTDc1VE0tRWtJN2tIWGl0ZXlJTDRoc29qcFpZNzhJZlkxSklGb0JnUGU1LTkyRGNYUTd3dHc?oc=5",
+      "source": "v.daum.net",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-09-17T18:03:49Z"
+    },
+    {
+      "title": "The Next Gene-Editing Technology May Also Be the Oldest",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HSktwSHdKR0RzVUZCXy1LRU5yZTZ4S1dURnhUZkxiVzJmSVdhejBzVktDb0dUeXp3bVhkT2U0SHdiZlk3ZUx6YlFxWF9OZlhneEZsX3g5YVBIc29LeXBKcTBIN003YnB5dUk3aExqME9sSkNjUFVWYlp3dEU?oc=5",
+      "source": "The New York Times",
+      "country": "미국",
+      "category": "과학",
+      "publishedAt": "2026-09-17T18:00:08Z"
     },
     {
       "title": "CFTC, 신규 소프트웨어 규정으로 암호화폐 거래 확대",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBldGRkX3JtOVdOejJrQWdudXpjczhnMnVoZmgxaG92ZW1oS3NMckJfWTVEdnJrU0RrVlpMdDc1dGpyQkxleHdfcnR2WVc3cHlvSERUN0FaN09lR0JqOUxHNnZOd2JqRmdQRXgwV1BXUndLX2lyUkU4?oc=5",
-      "source": "kr.investing.com",
+      "source": "Investing.com 한국어",
       "country": "한국",
       "category": "IT",
       "publishedAt": "2026-09-17T17:51:00Z"
@@ -29,58 +92,22 @@
       "publishedAt": "2026-09-17T17:32:00Z"
     },
     {
-      "title": "AI, 브레이크 없는 질주 시작…‘멈춰야 한다’ vs ‘더 빨리 가라’ 정면충돌",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tTUdhZWxkdktCNlFZTDRlSmVoT0N3Q2gtUGZwdUhNMzdVamFjaElmckxPNmxTb2VwNnpDRTV4U19rcUhsU0drLWZwb09PZ1NjUzhFRHBzMm5HTnFEcmQ1ekhydXpDY1RkOWZ4dg?oc=5",
-      "source": "재외동포신문",
-      "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-09-17T17:26:17Z"
-    },
-    {
-      "title": "Fed Chairman Escapes Trump’s Public Ire Over Interest Rate Increase",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTFZCXzFnaXFpSVpXQVBQTF82U3kyYUhiRjY5SWExd1JKdktCMGlDenc0cE9zeFRVQkJ5RDY1ajJVWWFpY2xaMzJpNG9mNzJUaGtCaWswVFl0LW9CS1JGVHNDeUVjc19CRW9rOVR3SUhKTEdUOEZXRDd3bjhrX2EtUl9Wa3ZLdw?oc=5",
-      "source": "The New York Times",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-09-17T17:16:13Z"
-    },
-    {
       "title": "[한국은 지금] 민주노총, 메가특구 노동규제 완화 위한 사회적대화 참여",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PcWZIN2hRM1hFbFM2a0VWb0ZOWE51MGJwX2tzLTlwZ3d2cEpRbkdiU0U0OWpkWGRlbXVhMXE0dXZnY25vLVI0Y2wxLS13Zk1LbjdaUmQwX0lwM1lIVHhWYm9xR0dmU1nSAWpBVV95cUxNNkZ0WlBfYjUzSWlINDZ5NkhnWS1ZSkRwSTFrRS1yTnNvTEZmTDRfVEJ3czRLOXcxcEEyTkNpakdBLU9sYTdEdm1YNFdDOUZMTW1ZZXZDbkdHdnoxQWNOWjlBS1prM1BqYXpn?oc=5",
-      "source": "voakorea.com",
+      "source": "VOA 한국어 홈페이지",
       "country": "한국",
       "category": "사회",
       "publishedAt": "2026-09-17T17:12:55Z"
     },
     {
-      "title": "Rabies",
+      "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qS2ptMWhNWC00ZW1nY3VyY1NpNElRZTBiSi1TZzNWZmRTNE1wdWR4cGNhcWlTbFI0RFhMeDY4SnpsZGJMQzYwa0JZMEVpcDJ4cGpfWk9NbzBYOVBVZHE3UUEzZ1ByUQ?oc=5",
-      "source": "World Health Organization (WHO)",
-      "country": "미국",
-      "category": "사회",
-      "publishedAt": "2026-09-17T17:08:25Z"
-    },
-    {
-      "title": "Tech stocks today: OpenAI reveals six more instances of 'concerning model behavior'",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ2E5ZEUwVzNXOFE1d1FiSDdPODF2SktWNjVhOFJ3VXlqbFVIeUh0UnlUdXFRSTFpWkI3UzNJVER5M1BXSXJiX3NsNFlDNlNEYjB5T2lSak5qWHd3RkJmQkkyX2hnN25BMFNENElSVDlFWnFnQjM3ZkpqdEVXd1FrdjBPN05ySU5id3dCeWdGWGtnTWpEZkxRWHZGbXZfU3RZd19yNzhEUEpDTzZRamxYVkVOVFdVNG5HdUV5SHRXdFYyQ0RTNlpqS3VfVEtKaENBY3kw?oc=5",
-      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTkp3YWFfcEsyN1Z4eGRkVXRVXzh5RW5jYnRJczZKa2ROMzhCam9aN3d2SkN6b2c3eklFWVJ4b3N6NlZOUVNoa2tYbC1CRDZoVHhoZmUtZW5EUEExdFI3dG5qa1piZEF4alAxUGRsWkQtWjdJa0ZWNmozOUh1azlSZ29YS2hTRm9Gc24takZ1R2JNdWlwbTk3SW9KU29URjBCWmtQUEhkbk9CbmdYTDdYbVNR?oc=5",
+      "source": "Ars Technica",
       "country": "미국",
       "category": "경제",
-      "publishedAt": "2026-09-17T17:05:18Z"
-    },
-    {
-      "title": "이순신 안 된다더니 도요토미는 되나…아시안게임서 ‘이중잣대’ 논란",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xZEpudy1Bamx3RXJ3Q1ltOGFNRklfQldaQlE1WHgtZ0pYWF9vTVEzWVd6ajltR0tIT3RuRDVtb3l4MC1LS3dieV9zM1hjU1VxNUNkTzB1QV94WXZZT3BDNWllM2ZiSVFzNzhmUGl3OHhGUTFtVF9z?oc=5",
-      "source": "한겨레",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-09-17T15:50:00Z"
+      "publishedAt": "2026-09-17T16:18:34Z"
     },
     {
       "title": "삼성전자",
@@ -110,19 +137,10 @@
       "publishedAt": "2026-09-17T13:39:29Z"
     },
     {
-      "title": "[아시안게임] 한국 여자축구, 방글라데시 6-0 제압…2연승·8강 확정(종합)",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hU3c5aEN4WUNPZnNsbms2aVpvRGloUXpoT0tNLXZMUHFOU2dXc0ZMdFFuRklyQ1VIdFdMUm1nN3V0UU14MFRWNDJPcUtyT3hWUkV1Z1YtZHA3VE3SAWBBVV95cUxPLTZ1cVh6SmRON1NHSHNpTWtsb3RYdkFwdG1fcnFFWHc4TTg4VHFZX1lwNko3QjRhYTRmY1EtTV81MHVDRUJJUENUeURsdG11MW9iMTQ5OWZnR2YyZ0c4UkI?oc=5",
-      "source": "연합뉴스",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-09-17T13:26:48Z"
-    },
-    {
       "title": "고물가 속 한미 금리차 확대…한은 연내 추가인상 가능성 커져",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WTUVCdjZ3OFA3eW92Q3NEcGVsOGZzS0RTMjNkZnZwZWJWYkEta3Bkb1hxaUlBVThEbVdUNXpnR2lYS0ViQnE4MFh0N1pTLXZYYjd2Q0NWNXl0R0NIRmhyRnlyVTNmSkEwTnUxNFVGQmtjdw?oc=5",
-      "source": "한겨레",
+      "source": "hani.co.kr",
       "country": "한국",
       "category": "경제",
       "publishedAt": "2026-09-17T13:15:00Z"
@@ -164,13 +182,13 @@
       "publishedAt": "2026-09-17T12:00:00Z"
     },
     {
-      "title": "[속보] 민주노총, 메가특구 ‘사회적 대화’ 참여 결정…“노동권 후퇴 저지할 것”",
+      "title": "김승원에 ‘신약 청탁’ 양씨, “국민께 심려 끼쳐 송구”…뇌물제공약속 등 혐의는 부인",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40b0I3ZnJYUzQtenQ3RGZUcS14d2RUV3pxSjZ4ZEFCdml1TVhuUGdpSE5MLXVka2FFUUxHWWlLbzFVVk92M2Ntb3FTNmVhTnlFTGluZUlPcENkd9IBX0FVX3lxTE5aM1hWYXJxbzhlRkZqU1JhMlg2TzA5UWlsQ3dzVFdvdW0yMlhsYUpaOERMUmY0YXo3TkN5aWM3RkhVMkdpWHppcWV6dFlBTUlvaXpBNXhVM0dIWXo0WFZB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QTkR2WDBIQTlhQVhxeVVEamJqeUtyVFZia0p0djVXNXJmV3lQVElFdGQzZHJZT2t2dkxSUW80QU53ZV9MZDg2MGtlV3hFSmZDSTBva0QzRzI2QdIBX0FVX3lxTE5NdEwyaGhpWV9Mem1HWXdzT2dSUVBSUUIweGxHa1RVYXBxQ2hXcHcwT3ZnQVpaVzI5MlFMQi16UDY3M0liRmtYTFlMcl91amlKclByQjVuSmhFXzlkNENv?oc=5",
       "source": "경향신문",
       "country": "한국",
       "category": "정치",
-      "publishedAt": "2026-09-17T11:43:00Z"
+      "publishedAt": "2026-09-17T11:09:00Z"
     },
     {
       "title": "I slept in the room where Lizzie Borden's stepmother was murdered. Here's what I discovered.",
@@ -191,13 +209,13 @@
       "publishedAt": "2026-09-17T10:49:03Z"
     },
     {
-      "title": "집 앞 태양광 1800장 설치…한 주민의 호소 “살던 사람 피해 없어야”",
+      "title": "대한체육회, 선수촌 ‘도요토미 공연’ OCA·조직위에 항의 [아시안게임]",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Gbm9ITmxDX3l5dFI4RzJBS3V4dGJ5NUNuNlVweG1xWkw4QlFhVDNNaWpzaERHdWhYRllUSGNlNjQzdTJKQUFMLXNWbm5pX28?oc=5",
-      "source": "v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBueXhIcVhOSV9OS09iczFMWFdLRTJkUjVXa2FUMUs2M3c2cmN4OTV1Y0hxWVFxY0N5VmxNNU5yRGk3TGhzNzIxck5qYWh5M0JWSDFJZkZjZHBTU0k?oc=5",
+      "source": "경기일보",
       "country": "한국",
-      "category": "기술",
-      "publishedAt": "2026-09-17T09:20:18Z"
+      "category": "스포츠",
+      "publishedAt": "2026-09-17T08:47:54Z"
     },
     {
       "title": "윤석열, 법정에서 \"국민들 취침 전 알려드리려 밤 10시 계엄 선포\"",
@@ -209,13 +227,13 @@
       "publishedAt": "2026-09-17T08:45:20Z"
     },
     {
-      "title": "NASA spacecraft discovers a huge new crater on the moon",
+      "title": "'영업사원' 이재용, 전세계 누비더니…'세계 1위' 일냈다",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0cGRIVWpySFVUaFpnZURQOWtJSnJsVTZSRTRodTlJcTlkVk91QWxSZWg5ejlIcUFXZXpEMnRxQjBqb1JLeWF0ZGNtQUdRZ2tvZGJaUmgyYm5oNTNFZ082Y1Q4SE5hdTdJZkNCeEd3RGxUdVJaVFE?oc=5",
-      "source": "Phys.org",
-      "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-09-17T08:12:32Z"
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ia2RlZGlnMUZBTGM2R01oQUliTU9kLWViTGdZVjI1RktYdXJ6Y0VOU2JSVlR4NjBoZWhrZUdIWGl6X1JieUw1cXI0Y2s0U0FJd1FFTVZKbWFadw?oc=5",
+      "source": "한국경제",
+      "country": "한국",
+      "category": "기술",
+      "publishedAt": "2026-09-17T06:23:04Z"
     },
     {
       "title": "네이버클라우드 “보안특파모, 컨소 비포함 기업들과도 협력 논의 중”",
@@ -236,15 +254,6 @@
       "publishedAt": "2026-09-17T01:13:51Z"
     },
     {
-      "title": "Our framework for reporting model misalignment",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YcmZMVzhRdVd1WUM1QUhIZXZYSUxYZGh6WHptVzhyX1BOOWNIUlYtcW5XVV9Ec2VoNTVIU2JPUjRaX25VOWoyaVNBTVUwLUgyb1FBUEc3a0RyUS1SRjd3WG1fWlVZZkpJQUM1b0pydncwdw?oc=5",
-      "source": "OpenAI",
-      "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-09-16T22:03:21Z"
-    },
-    {
       "title": "TSMC, 2나노 주도권 굳혔다… 미디어텍 물량 확보하며 삼성 파운드리와 격차 - 조선비즈",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdEluSTViT19SOGVUdzV5bzJqdlpsWWx3WlhHMmZmdnhkNTROUlFwVnVZWmZxSDQxaGVQeERuM05sak94bWtQS1c1X2xsSUY2Y1VZZjNGbm83akFKSng0cE9ERmVtMkFyNExheEpqUXhKU0M4Vkp5MWprR3JsWF9ncFp30gGWAUFVX3lxTE1TSmhCT0szNXZfa0FLVXJ5Z1lubDU1d1ltWWpwbEJHTHU4bGlFamxzVUF6ZkM4SkItS1JGQ0hqejg5cDZYSUpwR2R0ZDBXVG9BWGNtYUo0N2ZqS1pZSlVHRU43NVJxQWtacEdKR2pHOVFOWmJjd0RGa2VEaHk0OVY4QVNCNlM2a1ZlY29sNUJOQWUzOWsyZw?oc=5",
@@ -252,15 +261,6 @@
       "country": "한국",
       "category": "기술",
       "publishedAt": "2026-09-16T21:58:00Z"
-    },
-    {
-      "title": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0o4SEFnLXVuc0pFakhWQXNrNVdZOFBqTmZsR3dlMlFFZEluX2VWbEJPOGJkRkZ6a2tfaHZySVdpaVhYZk1aeGZFdjM2UExoOGMxc1BDbkcwUVFMaElEXzBUb2ItX1hmRVkxWjhHanJyV3ppMGJFcjhNY3BVYlZMNFVCemRaSW94Z1hBZy0yNmd3R29KMEppZThtNmxWaERxa3hfZzZ4WU5BV3AzN19xSTY0OEZwQmwzdGVSWC1SNNIBxAFBVV95cUxNQ3ZKZVFHbHpRSEo2cGs4RjlfMG1UdURsamh2Y3ExeEVkZzdmaGQ3OElrd0FpclpvUGQ1MFlKSHZ2VGFOc1hVN3ZmSVc4aGhIY3hvVm5UUlY0emc2bFNyU3ZGU0RFckhMekh6WE5FeklHLU9uUGZNOVZCQWJPdnctcTNJTmpTOGp0Q3ZVUjEzSWROc0V6VE1lY2hLLWNJWUlwTkEwQkJ1SVVtRlZrYlg5QUxoZEZFOFFzMXgwbkNPNzgzdlRa?oc=5",
-      "source": "PBS",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-09-16T21:32:36Z"
     },
     {
       "title": "[윤희영의 News English] 연인·부부 관계 좌우하는 세 가지 변수",
