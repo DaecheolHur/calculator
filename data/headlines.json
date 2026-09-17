@@ -1,95 +1,131 @@
 {
-  "generatedAt": "2026-09-17T15:30:19.469793Z",
+  "generatedAt": "2026-09-17T16:31:10.176390Z",
   "items": [
     {
-      "title": "AI 기술 개발 통제, 과연 가능할까?",
+      "title": "Stock Market Today: Dow, Nasdaq Open Higher as Markets Retrace Post-Fed Moves — Live Updates",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IWDRzV1JMd0xpVGE4aktQb0U3RGRUemVjYm1UeGRoeTdYdU5ydmRjWDFLRnk5YUFYc2sxNFl4dzhRVXItQVVBMXlDSndTYW03TTZCelF3?oc=5",
-      "source": "중앙일보",
-      "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-09-17T15:18:00Z"
-    },
-    {
-      "title": "Manufacturers make patching progress, but identity management still major weakness",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSGM4TzJsTEJJbFBIREluNFNaOFdXOEMzYlUwMWxXNkJ4TlJjaGhHQkFmeVRCVDRETENkMzY0eTdfN09sZUpGM0xyZ2tpY1FYaHNTLWVGYnVZbHFDZzZRZnU2bG51ZG5BVW5xUC1hZVVKQVJmRERFcTJiZUtCUm5JX21uVXJYOG1McE5JaTRnQl8yelBrNGxEOXB4NmJfOWhsTHA1NDJFdGQ0Unc?oc=5",
-      "source": "Cybersecurity Dive",
-      "country": "미국",
-      "category": "IT",
-      "publishedAt": "2026-09-17T15:00:00Z"
-    },
-    {
-      "title": "OpenAI models go rogue in 6 new cases",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSFRyN211OEhhTnQ2OWt1S1J4U3g4NkZYX2RqM1BBMnZ3dEs1MVNFcm42M3B1UmdHOURPV2ZwQWZHd0ZDbE5DYWJaczJBMGs4QTJNQ0ZBbmFaZGpPbGItX1N3ZmJGSmE0bkR0VmoyUFFfQk13NzhDUllyV3pzc1dwNHRkdVA3UDVTTmfSAY8BQVVfeXFMT0ctWFpmMnNSdDBkRERUUm1PMVQ0cUFsZjRhRkRBNWRXOUU4eVVnWG56XzVUSFI2LTI1NU9vQThIS2tzTlZIVWMzM05nN1luTW9DMEJLMnlNY0ZfaVpmMnlEVDF3cEVnWENxVmlQbGhZbTlzNkpCNzQtaFNfNTFrTmVONllYcXRsanpyUUlGcUk?oc=5",
-      "source": "NewsNation",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU0xZSVJqTXZQbGtfdVhsT2xNNmFONzJETlQ4bGZhNWZIbEVmR1d2U0tydUp5eElIdF9MLTkyalZZMGt3TU04QVduOTEyUkphTlctaGpWQ1htSjZfcl93djhONVJKakRxY0JYV01jVUxyRFBpaEZJYWVTYmxNUVFSZ0twZ0QxZEE?oc=5",
+      "source": "WSJ",
       "country": "미국",
       "category": "경제",
-      "publishedAt": "2026-09-17T14:43:17Z"
+      "publishedAt": "2026-09-17T16:00:00Z"
     },
     {
-      "title": "Trump photo seems to reference Kennedy Center demolition amid legal battle over closure",
+      "title": "삼성전자",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vRXMwbEJHYVFhYnhSNlFHVmJrdTB5b1NpY3VRTzFBaTd5LW42OXZIcTBYaVlJZVZEMDZZNlJsOUtncGhkUGlRb25OWjlvd1RLN0p5UFF4VzJxRlZ1cHNuaGE0Y2tPV0IyZElJMGRDc0k3NUtmME9zSFlKSExud9IBgwFBVV95cUxPNm9CV2hkUkQzbFJvZnRUSU1oTFItT0VDUnZ0bWxjeG1TUEhzSHgwMFd5ZlRZNUxjVTNMWXZGRUNhQUNXWW5XdWtrdjB3NUktbTdCNGZEbHZTU1RmYXdGa3dyamlfNVhkbW5DMnozSEw4S1VIcGNoYTFMcmlCMU05dUtybw?oc=5",
-      "source": "CNBC",
-      "country": "미국",
-      "category": "정치",
-      "publishedAt": "2026-09-17T14:22:45Z"
-    },
-    {
-      "title": "Peter Max, Trippy Artist of Counterculture Era and Beyond, Dies at 88",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSDhjbnJfd05CeFdGZ0tkR24yT1hoZU5jSU5TWXNIR3dlY0h6bFZudGNHb1dtQVR0NjhSTnFjMXBSY3paQ3RKRFRUcVVCLUN2Rm9MMEl0YlRWSVBiXzBJRWJSM2hmZGNpTk9UUS1JeFlVZzBsS1c0YVY0TkpEUEZJc1RmdGF4VDFkaVRPYWFkVzBZU2M5MTUybmg3R2Zpa2hoVzJVWFBPQkEyampjakhnVmR3?oc=5",
-      "source": "The New York Times",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-09-17T14:04:00Z"
-    },
-    {
-      "title": "Wall St opens higher as easing oil prices boost Fed hike relief",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORkVra0Q0cjNkbjlDN0N2SENMZHYyeVVFSU1tcG5LOXhBTk5leFlZNjFNRGpad3NoWmhnaWZVd2I3N19oa2hQSERYZzBQWFcxaUJQNDZaSHMwVjFrNGlKbGRUNjg5TEt2WENpMUJiUFRVTjR6WlQyc0IzY2V2M05FanNlWExPdUZ2bTJFUlp4YW5HdTAwTExfNTI3MWkwVEVTMTRZUURlR01lVHA5?oc=5",
-      "source": "reuters.com",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-09-17T13:38:08Z"
-    },
-    {
-      "title": "Steve Belichick resigns as North Carolina defensive coordinator",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSXpiV0NWWDZJX2lpVFVwNC1BaS1CdkdSazBxdHlqNktHWElqcGJyQzhVS3hSWW5scDRwTC1ja1I3UkhPMVpwWUg4Z3kxVWRQZC13dWZobUtfXzl3N0Rlb0xNNWpwQVU4ZzVkeG0xOFAwTTNSUTVwcGUyVnFBdmhGU1BWMENTVUk2TXA3d1dJN0xOcjNfVFpuMFFlNFQwYkE1MHQ1aVk5TktBMTFJMzFNYWVodEJ4d3U0Z09qMkxJbkdnTEU?oc=5",
-      "source": "NBC Sports",
-      "country": "미국",
-      "category": "스포츠",
-      "publishedAt": "2026-09-17T13:36:45Z"
-    },
-    {
-      "title": "금리 충격 비켜간 코스피…외국인 매도에 약보합 마감",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QNTdTZ0ZnMlhjcW96WWVpYnp0Z0xzcFhJQm54d0ZITHk4UjZOSFJmekxIZ2xqbGViVy1KRFVFTkdXWjVHYTZTNVJUbDdVdVNiNnZaU0drWGJ3bGNiWFFRR29OZWhIXzA?oc=5",
-      "source": "연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjlGZlg1SVBWbGtVdjZvZGRNRVNDQkNNSkZNYVVIcXdkTUx5ejZOOEVDbV9YYUdRLXJka2Q2R2hoSm9TcWhPMTBkdjVDMVRCZHEwVEJ6a1JtLVNTbjBsZi1QTWY5TDIxQnpCZVBoazFQUjY2YVJYRUFVNTdKSk9pYnN6VVpBRUtVbmFINU1zb1RMOHp2a3FJ?oc=5",
+      "source": "매일경제 마켓",
       "country": "한국",
       "category": "주식",
-      "publishedAt": "2026-09-17T11:47:00Z"
+      "publishedAt": "2026-09-17T15:32:10Z"
     },
     {
-      "title": "[속보] 민주노총, 메가특구 사회적 대화 참여키로…코로나19 이후 6년만",
+      "title": "[중앙시평] AI 기술 개발 통제, 과연 가능할까?",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9CUHhVazUzR2xRTFcxcE05V21rYThTZm45NHQ5Q3BKQVliQ3ZRZ3BjMFRiV3J0UHVrZ2VDbUtwTUlKZEJyakkxdWNuZ1VoVWQ5Q1A3YnFkZ2JsS1V2bGlBN0tPdXlGc0t4LVpLTGFlOTJieG5YUGJxMFh4VGE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTNnpoNUh1SUd1cWNEY2ZVaF9WZnpRNUVDQmc3bU1reTdDWEE1WTdaRWdjNGh3dXl3WExxTzlURHRVQ19pdVlFSlNlaktKblE?oc=5",
       "source": "v.daum.net",
       "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-09-17T11:36:38Z"
+      "category": "AI",
+      "publishedAt": "2026-09-17T15:20:11Z"
     },
     {
-      "title": "고지용 vs 허양임, 이혼만 숨긴 게 아니었다…子 양육비·면접교섭 갈등 '격화'[종합]",
+      "title": "The 5 Best S&P 500 ETFs to Buy",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwcTNaVXpnV0hNUXIyRHZES0tkclRlZHNkMVpJWldLMlg1TmVHMUVWWlhoMVB6NmVYWkVVaEhFaVBkOUFjVTBSQjVQUHlqVlJQX25ISQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iOWgwNmNORjZERVNzZXphT1VaN29FZERuYVNQUlpRTk9qV0paNU4yNVdQcDY3SGJneDgyZjFSM1k0WXVlS1QyMDRlMUZWaFBNem4yNU9oYUVMdWNnLUJkWlRaOWRjSWRRVlV1LVZQYw?oc=5",
+      "source": "Morningstar",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-09-17T15:11:13Z"
+    },
+    {
+      "title": "Sheeran’s tour chaos: What to know as Macklemore pledges $1M in Palestinian aid",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOLU56VXpPeDNXcnZRcXBHTmhwN05YbEQ5RmxJQ28xYmhqbENSSWNDUXBBd1dPeF9aNnZuNnhwRFMtbVZXeXRKMXdOY1FqY2F4d20ycEFpcUgtSDI2cXY4aWFuUDJBUVlLQ21EeXhKMmt1emFIVmJfZ3hZUG80YUtIMXFwS3FCdEhiaXVwcGlUZnhZN2xmYjhRR2p4NmVhTEdpYk50VjBGUUw2WjVtd0I3NUlOeGk5bWxnVV9kdUVuSVpwb0dwOHJJVlhlT0FCTzQ?oc=5",
+      "source": "The Washington Post",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-09-17T14:47:04Z"
+    },
+    {
+      "title": "OpenAI discloses more rogue agents, pressing debate on regulation",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVUFJeXlLd29rc2pfZDgtbFZsWXlHVTFzTGRzNUxiN0VwdUQ3a043UEJ0bWljUTVzYm9LbnJWLXpkV2prUXdaNjhqc0tZYTBRZEw3bG1uYWlfNEh1Z3hwVHU2WUtLOUpxa3F1bk5NdXZ5TmEycGxuaVpIaWhpUUZpaVZFRlhCY2ZEYWlNNlFSQkc5WGVUNWN2MENB?oc=5",
+      "source": "Fox News",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-09-17T14:23:12Z"
+    },
+    {
+      "title": "LA news helicopter crashed in birthplace (and, arguably, epicenter) of 'eye-in-the-sky' reporting",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaWJZN0REMjJRMDhQSFVhMWN0bUE2ekdFUVhJQ3Jtd0k5Ykg4cEhrWnRISXJqQlZxU2Q1WmF6dldaRF9pN1IyQjlld0xUYnA3Nmtwc2FrMzJrZGtPZk1ReTVYY2NwSVZaaTJ0czlCQWR2VnRIcTlnMTV5MDZlc1Y4MVdFM0ZpZi1uamlHSnVtR2RPRVQ2Ny1rWi05VGNGcEUycFE?oc=5",
+      "source": "AP News",
+      "country": "미국",
+      "category": "정치",
+      "publishedAt": "2026-09-17T13:51:00Z"
+    },
+    {
+      "title": "A Feather Found in Dinosaur Poop Might Explain How Birds Beat Extinction",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWk1yT3NZVnRDTTBac1FsN0lYX1g2VWxwNGt3OHMxUVZCVmhkT2VYb281ZTZHejlKbndhVjlrQjl2RHBVcFc2cGdGNThqRUVIT1FlRTFLMU1YU2wzZE1HbGhhVjlWbXpqYkd6dlhLOUVqWHo3bllzclg3Y3pDLUppVzVRaDZJX1N1TTNnTTR3?oc=5",
+      "source": "The New York Times",
+      "country": "미국",
+      "category": "과학",
+      "publishedAt": "2026-09-17T13:39:29Z"
+    },
+    {
+      "title": "'이숙캠' 남의편 남편 \"이혼하면 母에 돌봄비 250만 원 못 줘\"",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CN21hMEN2ZnJuVjF1TnRkQ3VhdEc2MmRDbjNWQTE5WWNhS2VSVml5RlhxRUQ0TWJwVUNUanJLcUdCVElSR2pnVjV4MmxONkE?oc=5",
       "source": "v.daum.net",
       "country": "한국",
       "category": "문화",
-      "publishedAt": "2026-09-17T11:12:41Z"
+      "publishedAt": "2026-09-17T13:35:27Z"
+    },
+    {
+      "title": "Microsoft, Marvell and Utimaco to Deliver Industry-first Secure, Cloud-scale Payments Solution",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeUVrWGh1bWlnMjhHWTB0WVY4VXI3aEZxeHlhMVIxOXZBa3gtdFJvdXhHczVvbWlQVmFOVHBaREdkY3FMOHo3NjRaMlU0aWRSNThrTWlGSG1vNF9kWkNYU2R3cFhES01MdWgza0RWZ2lMZmQxekp4bWxodUY5UVhBeWRqLVNubTE4elNuLWtBY0xqSmZqajlFTWRRaUZlWENtdkN0LVYzdkRCZ3dqUkN3c3pMa3UtdEFQS1E1dHNDRHVEZUxyN0p0d0xUZ3dCUVhiN09obnpWbnRtSE1tVjdfaDM1akJsbTVmWVdPclZNVllodw?oc=5",
+      "source": "Marvell Technology",
+      "country": "미국",
+      "category": "IT",
+      "publishedAt": "2026-09-17T13:04:31Z"
+    },
+    {
+      "title": "NFL Week 2 picks: Our experts face off on Lions at Bills Thursday night, Bengals vs. Texans and more",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNllkWFJUNXBnWDBPWXFHcDVxUXhid0ZNbFFwNzdSVkxxNWJKaS1QM2cyeUM2Y21sVFQ5TWdpbjVEWmFncHo3N3E2TU5RbHZfdUNkbkU5UHh5SU9Qd2FrRkhIVGNqVGhqUER5dWFZVk5Wbk5FZ0pmNVV4eTljNGxRZ3RxbGdOdw?oc=5",
+      "source": "CBS Sports",
+      "country": "미국",
+      "category": "스포츠",
+      "publishedAt": "2026-09-17T12:25:14Z"
+    },
+    {
+      "title": "민주노총, 메가특구 사회적 대화 참여…6년 만에 ‘원포인트’ 노사정 대화",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kWHExVXljOEZjd3k5ME1EenhJeWU1TzQ4cHNfS1dKWkxvdmdWbXFzWkJvejNOVnFTZFg2X0FSZzVKVjhGaUR5eWFteFJqaEZ0U3NNeXVHQlYzVFZXTzBJaWRIOTI?oc=5",
+      "source": "한겨레",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-09-17T12:10:00Z"
+    },
+    {
+      "title": "고물가 속 한미 금리차 확대…한은 연내 추가인상 가능성 커져",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WTUVCdjZ3OFA3eW92Q3NEcGVsOGZzS0RTMjNkZnZwZWJWYkEta3Bkb1hxaUlBVThEbVdUNXpnR2lYS0ViQnE4MFh0N1pTLXZYYjd2Q0NWNXl0R0NIRmhyRnlyVTNmSkEwTnUxNFVGQmtjdw?oc=5",
+      "source": "한겨레",
+      "country": "한국",
+      "category": "경제",
+      "publishedAt": "2026-09-17T11:49:00Z"
+    },
+    {
+      "title": "I slept in the room where Lizzie Borden's stepmother was murdered. Here's what I discovered.",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZZ2dwTzh3b2JQd3BScndHUXZyOGNzdnBZalhZREpfOGRfV2FMamRuM0ZxenRyZ05KV0Q0ZUV0TjU4WjJXbm1RQTBSNEJ2TXlScWsyeGtZQjBza3k2NXd3cExKS0hpVDR5Uk15MUVvVzhZU01hSzVz?oc=5",
+      "source": "CBS News",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-09-17T11:01:03Z"
     },
     {
       "title": "Here's a list of the individuals, including James Comey, targeted by the Trump administration",
@@ -110,6 +146,15 @@
       "publishedAt": "2026-09-17T09:46:44Z"
     },
     {
+      "title": "AI가 바꾼 사이버戰…네이버클라우드, ‘글로벌 보안 연대’ 강조",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WN1Q5LW5VTkp3R3FQSXFsOFIzV01yZE1BdG82ZWVDM3NfenZOWVVmV2x0bF9WeTYxMEU1WUJMNzZsZFZoNHVWaUpQNlBJODgtTzUwU2IydldIclA1WDJWS0lMVDE?oc=5",
+      "source": "서울경제TV",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-09-17T09:30:50Z"
+    },
+    {
       "title": "경제지표 13위인데 체감은 27위…한국인의 마음이 따라가지 못해",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1tVnFjMFBDT3JHTVJ3cUFrTHU2aTFqazFMZjdmVDB4V04zNVktRExkdlRoZXl6MXUwWHQ2QWlKM0J0TFh4dDI3U29udU5RYjVzYVQ4MWdtUUdHNnVFQzBIdmJLSUhsU2dEeFp6WXJnU2hQTlRZZ1pv0gF3QVVfeXFMTW1WcWMwUENPckdNUndxQWtMdTZpMWprMUxmN2ZUMHhXTjM1WS1ETGR2VGhleXoxdTBYdDZBaUozQnRMWHh0MjdTb251TlFiNXNhVDgxZ21RR0c2dUVDMEh2YktJSGxTZ0R4WnpZcmdTaFBOVFlnWm8?oc=5",
@@ -119,40 +164,13 @@
       "publishedAt": "2026-09-17T09:30:11Z"
     },
     {
-      "title": "Billionaire Kraft says Ed Sheeran sought $2 million aid donation from him amid fracas over Macklemore's Palestine comments",
+      "title": "NASA spacecraft discovers a huge new crater on the moon",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnRkJTUjNGeDJxSkFTNk1Ca25yZ0JQcW1UTl9DWmlUdFJOaV9fSW51ck9kdG9YSWFJeHRUYk5hbFFlU0FaQjZYWWlJSjVoWi02a1UxYTBnWEhNcDAxQmlYbmQ4aXl1UzE5V3RZRmg1dmJ5TDdwalFlSW1JVDNwLW_SAYQBQVVfeXFMTlpGS3Z5ekRJMHBubG9fWnFMc25LMzJoT096WVdWdWFjWFZjVm1YZlprOE13VmZwdk1IRDhMV01fSUpJak54VnI3a1JiRzRQYlZUektXX3hPR2RJWEJLYmZHcDNGUEMwSHl4dEgtQTNsZ3lBdVN4NzNGdF9BVVUtcVVSXzY2?oc=5",
-      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0cGRIVWpySFVUaFpnZURQOWtJSnJsVTZSRTRodTlJcTlkVk91QWxSZWg5ejlIcUFXZXpEMnRxQjBqb1JLeWF0ZGNtQUdRZ2tvZGJaUmgyYm5oNTNFZ082Y1Q4SE5hdTdJZkNCeEd3RGxUdVJaVFE?oc=5",
+      "source": "Phys.org",
       "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-09-17T08:24:48Z"
-    },
-    {
-      "title": "US Stock Market Today: S&P 500 Futures Edge Higher As Fed Rate Decision Looms",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTHBiYTJPTUMyek5rZl90ODVWaVozc09UYVhyVFJHOUt6cThRNVUzQTFqVF9nSVRaQTgteWNwcU9UWDU2bjVKV1hBT2d2cU85cXpwSjUxUHNRWWF6QUljdGczVFVkTXhfZUVBeHE4MkFYTHFzZGtVZmtrREhrRngtUEJVLXdHNDRRT182ckRnS3Nudw?oc=5",
-      "source": "Yahoo Finance",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-09-17T08:12:38Z"
-    },
-    {
-      "title": "국책 보안 AI 해외 나간다…네이버클라우드 \"세계 AI 팩토리서 작동\"",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HTXRrV21sVWZ4YXJPNHVOSmVDNHBYb2hzODE5a0pMaWdvUmpWVzhPUVVEdkduLTk2MWdjSmxSU3ZkWXNaOWUzOW9MUXhpMFJuSkpHTWE1Y2ZvbGxCRjVwM3NPNHNGZw?oc=5",
-      "source": "디일렉",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-09-17T07:42:15Z"
-    },
-    {
-      "title": "[단독] '식약처 청탁 의혹' 브로커…\"의약품 오인\" 허위광고 적발",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nZHZMTXlZZ2djeTNKOHR2T0lUelpuYnctbEQ1ZWl2cE5oX2EwTEdmc1NNZkNEUVhZM0FyZmZSQ3RTYnh0bjMwTFJUX3hfVW8?oc=5",
-      "source": "v.daum.net",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-09-17T07:42:00Z"
+      "category": "과학",
+      "publishedAt": "2026-09-17T08:12:32Z"
     },
     {
       "title": "'영업사원' 이재용, 전세계 누비더니…'세계 1위' 일냈다",
@@ -191,13 +209,13 @@
       "publishedAt": "2026-09-17T04:40:00Z"
     },
     {
-      "title": "미 금리 만장일치 인상…“일회성 아닌 연속 인상의 시작”",
+      "title": "김승원 법무장관 청문보고서 與주도 채택…국힘 퇴장",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nd2dkMXNaeG1kOUVXUS0zVnVhS25FNkJBQ1FvaXRyM0ZNSXFHZjF5YTE1dHRWUmFtdE8xUEdNZFROS3JwdWQ5eFdxS2RRS1JSOVJFUEJBX1FvbWdOeGdDTUkwdkM5WWF1eFBuanVqcXZlUQ?oc=5",
-      "source": "한겨레",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lRTRkbWx3M0o1T3h6WU92cmJINUVSekFwTV9OS3hnRldVZ3hNb2hPcmtQSkZ6NkN3Tnd0UlFjSkFna2piRUpSTFEyd2dIUUJ6RHJSSWg2NE5oWjcxT05hV3FWd2ZPTE0?oc=5",
+      "source": "연합뉴스TV",
       "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-09-17T02:20:00Z"
+      "category": "정치",
+      "publishedAt": "2026-09-17T03:34:00Z"
     },
     {
       "title": "\"한국 1인당 GDP 주요 29개국 중 13위…경제 체감도는 27위\"",
@@ -212,7 +230,7 @@
       "title": "Snap targets enterprises with Salesforce, Nvidia AI tools for Specs AR glasses",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONWdJN3lyVDJYTXJvazd5M1h4dlNJWlc3WDh2eDlsV2dGVGNNMU1ObnNDSmMzNHB1NnRzWDNaQ0V6MVlGRGY1YkJHdnY4REpFWE1KRzZsZ0g3cHpaemI3RTFORG9qMFJFdnc2NjRpNXM4Rk9oVDh3Sk0wTFd5Rk1hUHFpNTdDTll2RU04SW02cVhuVFZ5YTZhdFhEVEdRQjNDLTdmbGw3WGc4Sk5PNjZHUFF6aDBrbmdNSDdB?oc=5",
-      "source": "reuters.com",
+      "source": "Reuters",
       "country": "미국",
       "category": "기술",
       "publishedAt": "2026-09-16T23:45:00Z"
@@ -245,15 +263,6 @@
       "publishedAt": "2026-09-16T21:32:36Z"
     },
     {
-      "title": "Overmassive black holes and little red dots naturally form in simulations",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5WVFNWG12X1ZZQTZCOWUtY0FSWEdmYzg5VU95T2s5VHM4ZzAwYVctSlFMTWh4aUZDMlBielRSbWRyRy1HVEZmemlieGM3QTRDSENOMVZHLWN4S1JhTnRN?oc=5",
-      "source": "Nature",
-      "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-09-16T15:51:35Z"
-    },
-    {
       "title": "[윤희영의 News English] 연인·부부 관계 좌우하는 세 가지 변수",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaXNLc2JhZU91NFlWTEhWOFJkdjh5XzR0c3JCU1BuYnZrRno1RG9VR0VscndYSkRqRUVfM3FlcDNEN3dkUmdSS3ZDWFVmWllSaERobVp0WGV0T1psZE1XUXlNekplNDFkU25IT1ROT2FNbU50c01Ga2lQVE04b1FyMzJtYk44OHNNZ09FRTZOVzg?oc=5",
@@ -261,15 +270,6 @@
       "country": "한국",
       "category": "과학",
       "publishedAt": "2026-09-16T14:44:00Z"
-    },
-    {
-      "title": "Strange Creatures Seen Riding Giant Sea Spiders in The Midnight Ocean",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS2RaMEJIQ3ZfV2F5TkNjeXprUU9MclFTV003R2M0S2t1YTZYUGY5TXNUN1gxc0k5bzlENGV6cWJIXzlydTlXZVp4bTB3NmdhcDRLb0NHUEFuMlJJRlBZaXhqdG9RWTJPYmdxaEFJYkhEcXhET21HRWlOUkExbWtSSGlKY2hBWGxYdkNINmJjakhFOHlnM3dUS0x5NVF4YUU?oc=5",
-      "source": "ScienceAlert",
-      "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-09-16T12:31:23Z"
     }
   ],
   "briefing": [],
