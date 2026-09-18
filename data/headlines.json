@@ -1,14 +1,50 @@
 {
-  "generatedAt": "2026-09-18T19:27:58.365836Z",
+  "generatedAt": "2026-09-18T20:29:02.533521Z",
   "items": [
     {
-      "title": "Toward physical AI: When the hardware becomes the neural network",
+      "title": "California Gov. Gavin Newsom signs executive order to consider AI regulation, including proposal for 'kill switch'",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORnBNc0ZEZ3laN1NxX205YVNzT2M2V2tQTGx0clZZTVBUSHRnem1zaXZyMzRHdDZLRVhWM1JsQUlYcHFZc2hRWFc2ZWJDRzh6RXJObTRnNEpacEdlcEgzejZQbk00VXVNdnRPbkU0ajlwTnB5aC02NUlORjU2WEdJdm5JNzZHYllYWVVkTmdRdExoRmFR?oc=5",
-      "source": "Newsroom | UCLA",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdmE3UTZFcGhHU3hHSFY5YzhTMzV6V25HTnR1Tm1YaXhSRmdtWGlzcmtQVThrNk9iM3NaREcza3Nocm1YZjZCVjh2ZTVOVmFsZXRzMnIxeUxZSERRMW9DS09nQ2xiVENna1hObWxfN3ZOUUM0ZlFCWHRlLWR6bUFIZEsxd3RhY0pxakQ5N0FLZ083Zkg5NENKQUEzRmVLU0FjRWRjQTg5a21aSk1aV09BQ0ZfVzIxT3pOX3p3elE4SlUzcFRnb3o4ZmpTWjF5dklMRXRWNVFR0gHbAUFVX3lxTFBEUm4zVFJlNmRfV2Fac1EteDZ1RmJqeERsYnIxZ2N4bjJYbWJ6ZnR6YUNPbGFfamc3OW5WMnJsRHNUODRUbXJ1TDlJdlhxMjcyeW1HXy1adWhtSmFzYkVkQUZwNDljRGtTV0NkN29RLUxDOHhLTHZ5Y2VGSmM0UWJtMTJVYnd6RVZ5aF9ubEdiUmxkQ0ZRZDB5VXVRNzFrZVVRTm1SZjN6QmlpOTFNRHJoTVRaT29YRE8tbE00ckRjLXJKMFJDUE5QVHAzUXA4bjgxdnBsNE5hYzQzdw?oc=5",
+      "source": "ABC7 Bay Area",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-09-18T20:15:00Z"
+    },
+    {
+      "title": "UK air traffic control outage caused by software defect, says operator",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNWZ1dFpTYVRsRkJiTDM2clcteEJ4eGpOcHNBOFdJbFBrNWRibGo1SnQ0X0tXdXl1UzlPbVBETlVfcDZhQlRRcGNfZG9iLXloS2pWX2trenFfWDh4SllHanVUcTRTYzFpdVFUTnZWeG9Jci1oSjB3eVFfY25Sb3UySjZsZXNTc0V3TVpzcWZkSWZGSTNLaTZOVUY4LTd5Q2JyaklIYUpJRlBVTGxSaE9MUVhwVXI?oc=5",
+      "source": "Reuters",
       "country": "미국",
       "category": "IT",
-      "publishedAt": "2026-09-18T18:54:18Z"
+      "publishedAt": "2026-09-18T19:11:01Z"
+    },
+    {
+      "title": "Apple's iPhone 18 goes on sale as customers line up at stores worldwide",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeEdRbG9FbEhxZnBfTzVLclhGNlo3Q0JmNG5MRlZ1V1ZlQnZqenpnc1BUWng3aFNhY0I3b3N5bmRSbFExU3gxVVYzYjlmWWNlejBUVVQ0OUNNT1lFWmc5ODJsRDF6UnQxRHhIMzVCcl9PZGktSmdJYlcwZ1BkRHQxWnhHdEdrQjRvVDA2X05YaDJCNGNoZGlTN0RORTFuNFlyREHSAacBQVVfeXFMTVNaMG5ZNTQwb2lsLWx4WUViSTd6NTZaMlhZbDNNbEJZeFQ0SHhmVUZEcEJBRk5lQlc2OE4yZ1VSR0F4NWJ5eHNlNTdOVVNrbHNOckEyRTZXT0lEOU9CeUdId0xOMWpMcVUtTFNBNy1WRFJHRDlyWHRaZ0p2X0lKZE0zTGNFaTkxWV9DNUxfWFd1MFJZTkhSN2tJY0U2WnhQVVVQdFcxaHc?oc=5",
+      "source": "Fox Business",
+      "country": "미국",
+      "category": "기술",
+      "publishedAt": "2026-09-18T18:50:00Z"
+    },
+    {
+      "title": "Fantasy football rankings, projections, lineups, sleepers for NFL Week 2, 2026 from proven model",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUnNmRFppdGNmc3RmaWQ3Q3Atd2VDcG9qZWt3YVF4emJLQkNkR3k1cUhhQ1dsRlFGdW5acmRZM1M5MnZZLV9RRENvZWdSVzBzY01nSnJ0bTFuaVZiaWpLYjFsM1ZDbC1EY0Q5SDE5Yjd1RFl5WkcwN1dhS3RneWRtRDd5OFdGaFU4QUhJb3YteHl3RmJ1MEVFS1kwWHNUZS1PekZxb0VpNDVaTU96SFhOeDBGUHpmNEZKdU9sMHZIYUpFa3hva0xzM2xrOW1zdmJE?oc=5",
+      "source": "CBS Sports",
+      "country": "미국",
+      "category": "스포츠",
+      "publishedAt": "2026-09-18T18:45:41Z"
+    },
+    {
+      "title": "캔자스시티 연은 총재 \"인플레, 에너지만의 문제 아냐…연준 할 일 있어\"",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyRG1CUGdnWFBDZUstTGw0SW9ZMnQtTDU2MGZYaEV2M1NGdVhTLU9UdGFydUIyNXV0dGhvQWFTTWl1b3VaZmNlOGpfSVNCUHo1aXFxNXcyc3JXREUyR0g5Z2cwVGxIZl9XVWM5RFdnQ1E?oc=5",
+      "source": "연합인포맥스",
+      "country": "한국",
+      "category": "경제",
+      "publishedAt": "2026-09-18T18:44:08Z"
     },
     {
       "title": "Wall St mixed as benchmark Treasury yields reach 5%, oil takes a pause",
@@ -16,26 +52,26 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2p6dkpCd0xfbVRBMnhySFRVbm5OSElMZXRXc0NpaGhoRmw2MzNfSUstaC1RVFFnUU1DNUM0MEpHTmxhbHJxOC1Ec2lMWU0xMFVaSVdsZGdVSi1JaWpDX093SHhBdlBkdFdGZnFpd05yYW9LRXk2NkdOMnRWSzJ2dkhuTFpDN01LM1JvNjhyamFZM2dLRFRzM24xSUZwRGVBakhwM3N3em1ycFBuWVg2UVB2OTQ?oc=5",
       "source": "Reuters",
       "country": "미국",
-      "category": "주식",
+      "category": "경제",
       "publishedAt": "2026-09-18T18:30:31Z"
     },
     {
-      "title": "Stock Market Today: Dow Steady, Yields Edge Higher — Live Updates",
+      "title": "SpaceX scores another $950 million from NASA for 3 more crewed flights to ISS",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPREJ5Yk9UbmJ6QXV0bVV2cUM3cnF5eGJRTzhpdmpkNmxWTFhfOGpaTXJlZ0JheG4xd0ZBUGNvNERSTlJObG9QejlfVVN2OXBlZGFTYUc1N3lTeUg2M2U4QmhWdFE0X1czSXJrTlk5U1dhOHl0Y2w1by1GWUgwRVplNGpicGhTVkU?oc=5",
-      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUzdjM2JZeko0ZnllcFFLLW40ZEVYUkdVQ1ZBSGdsY0hQYTA2N0k5N05DWDZWcXZTUUR2azNTR0FVdU5Ic3NGSlRxOFVVa1NZMTRtQ01pUVlxMHZmUjBwRHV3LXBZQXhOeURENzVTMFBUVzlYUlJFR0hCZ2EyYUVmeWRJU2RWYnlwd2x0eUc4VkIwT0Q2ak44LW9sekxWVjN4RnZFc3FJb2lWQdIBrwFBVV95cUxNM0p3aFN0SkNZN01VSWd5aG4yLUluUFhOb095VFJBVHkxa0dScWktVW1iQS1vRTk0YkFYRFZOV216UVFBV1puMUQxYkhReDNZU0dtTGlpWWswZlAxUkFORkNkczlsUWd4S0lqb1oxNUc4bUVYRVVoczNzQ0wybm9hbEpzQTdVbGI4X1M5NFRjMGZHZWU5akdXVl9NbTh6Mk96Ymp2Rk9FRTc4c1pzMWFV?oc=5",
+      "source": "CNBC",
       "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-09-18T18:30:00Z"
+      "category": "과학",
+      "publishedAt": "2026-09-18T17:41:45Z"
     },
     {
-      "title": "Bills report card: Josh Allen dazzles, James Cook breaks loose against Lions",
+      "title": "Warren Buffett steps down as Berkshire chairman after six decades",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQd3dKWmZfZjNrcklESWlzREVfeEhHTjBvVEhEaUJXcmlkT2lRb1F6S0J2V3Zyenc2b20ybWktSlc0MWZtNGZ6aXhEc2p4VmFBdVZfTUs1MTBfRFdaaGd6cm9IaFJ0UDhNdFBzRmdjdmJ1dC1CVE5kb0VYV0tFWC1LeXNsUzVjeEF5dmRkczBwMDNDQ05zS3pmTWVYcVNRYW1acUlIbVpCMjFpbmN6OXNtUEhMNW1NQkVvd1BuMWh6X1hzS3lXUFdaVk9oeFRXUHlqNVFMaUlFNUZtdW0xUEt5cDVXcE95LXZpcGZXOXl2eHVaWDRHTTNiU1ZZTFFlUVd5OGMxYjdNdi1wUQ?oc=5",
-      "source": "Democrat and Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLUGFWeHM1QUM3R1F4Ymo4a0d4QXhRVk4wQ3g0ajI3Y2d1cWEta3ZJZVBNOU1PcGlpVnNXNkJiTnUtbDZHYnRmT0Flb3kza1Z3ak5LUjhoSklXYWc?oc=5",
+      "source": "BBC",
       "country": "미국",
-      "category": "스포츠",
-      "publishedAt": "2026-09-18T17:23:00Z"
+      "category": "경제",
+      "publishedAt": "2026-09-18T17:15:02Z"
     },
     {
       "title": "[뉴스 동서남북] 김여정 “핵보유국 지위 불변”…국제사회 입장과 충돌",
@@ -63,24 +99,6 @@
       "country": "미국",
       "category": "AI",
       "publishedAt": "2026-09-18T17:04:35Z"
-    },
-    {
-      "title": "How New York Can Influence the Future of Artificial Intelligence",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUVhKRW1KVzJ0NzBwWHAzWUxnbUtRMlhpZF8wdGFqMFRhdWhLUU5HQWxVdzdhWFplODJfUGcyS3h6cXFUdFlPMFdYU25jV1UtZG1leXdCU2c4QlJtTi1XVjNXNTNHRExoSjZxOHZNQ01EQWtQZktTV2JvY3V0cFhTQ09rRk5lTV9ZMUI1U0VB?oc=5",
-      "source": "New York Focus",
-      "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-09-18T17:02:00Z"
-    },
-    {
-      "title": "Warren Buffett steps down as Berkshire chairman, son Howard succeeds",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVGNSTzVqLUNZQjdoWnZWMENFaUo1cGNMSkNwVC1DNVdYVUNFWnNIVV9MR2VKUllvTDcyaXVuSXdYT1hKZkdRbWZRTFJacFoyV0VNcXpQZWJ5dDZyUFY3OGdnQi0xVklKcGJOUllOSDNwakh5Ym02c29OUjd1VUFqam90TDhzM0hOdkR3WFREWUFzNHl6N0ljbDg3LWVEOUdnajdVdnVuQkNJbmV6akZUby15U2hwd0JSQnc?oc=5",
-      "source": "Reuters",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-09-18T17:00:45Z"
     },
     {
       "title": "Holdout Lindsay Clancy juror says he didn’t have ‘any doubts’ during contentious deliberations",
@@ -113,7 +131,7 @@
       "title": "\"AI, 몰래 대화하고 해킹 흔적도 지워...반 년 안에 통제 불능\"",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5yTWRvQkR1cUpDU2w0ZVFCVlZrRWttdVVCbW1PLWl0WWhVa2NKd3hTOEo3Tmh2RV83Q3dqaGEtUkxRNE1ibWthdUF1d1VKRXdwS0FlMk5CdEl2VjJReFE?oc=5",
-      "source": "YTN",
+      "source": "ytn.co.kr",
       "country": "한국",
       "category": "AI",
       "publishedAt": "2026-09-18T15:33:00Z"
@@ -128,13 +146,13 @@
       "publishedAt": "2026-09-18T15:03:34Z"
     },
     {
-      "title": "Tech stocks today: Apple's iPhone 18 Pro goes on sale, AI safety debate continues",
+      "title": "‘Monster’ Creator Ian Brennan Shares 10-Season Plan and Dives Into First Female Serial Killer Season With Wild ‘Lizzie Borden Story’",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa0lLXzhaTjNmZ0wtMWtaUklKQnNGcXN0Z0UtQ05adUsxMEtPRWhzUGxyNDdqOEc1V3dtamNuLV9ldmcyTnQ5SGxrOU80M2lqcXdmQW5YR1R0T1pGUmpVVW9CZnZLeEh6ZVJfR2FRZ0JOZjVsMTMtZHF4R1o2OHRwUWxsNWUzVlBUcXA4SU9uSVM2QUJXTmx2Y284c2pxV2FwZndoWGw0QUhXS3FsVkRqMFhvcHJRblNmd1pnQXJMQ1p6anRSbzJPZldpZXFfWVk3?oc=5",
-      "source": "finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQODFmVEMweUhyMFI2N2R6TGExdGZFMk5ZTl9oaVRGQTdDdTFqR2Rmc19JdTFNMldPMDhDWTRNZjZuLVM5S2R0VGx3a0Q4cFdUTFJwUTJ4NHF4UXpCRWxNR19NaUU0Mi14d3ZuVkxFWThXZEtmMnNldlBhSFc0TFZ2SkNWT1QyV3FQeXhQTG02cUN0S1V4U2hueWZUMlVsalZ4OW9Jc09nQmZRWWJnQndxYVVQV2hzazQ4T2pwSUV3?oc=5",
+      "source": "The Hollywood Reporter",
       "country": "미국",
-      "category": "기술",
-      "publishedAt": "2026-09-18T14:35:12Z"
+      "category": "문화",
+      "publishedAt": "2026-09-18T14:15:16Z"
     },
     {
       "title": "US stocks drift toward the end of a bumpy week",
@@ -146,22 +164,13 @@
       "publishedAt": "2026-09-18T13:44:41Z"
     },
     {
-      "title": "[2026 아시안게임]남자농구, 이란 완파하고 12년 만에 결승행…숙명의 한일전 성사",
+      "title": "[2026 아시안게임]태극전사 응원하고, K-컬처 알리고…나고야 한복판 ‘코리아하우스’ 개관",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9URVNjTmtfMXAxc2FUWmFxQThQRHhhRGlwY0ZaSmJHa0xvV3hzRHVDdUdYV2IzcEVkLTNMb2RZRlU3cEllbEtUTldfVGFqcURteHRwNUVEaUlGXzA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NLXd5dGI3UXBQT185YklBSjhEaUVHNU41OGNEWWEtNTlnNHNEMFV4VlgyTWM3RnBSNHRKN05veG1yeG9DVnpOWGZPYmU2clNncEk3bkV1S1kwVk0?oc=5",
       "source": "강원일보",
       "country": "한국",
       "category": "스포츠",
-      "publishedAt": "2026-09-18T13:43:31Z"
-    },
-    {
-      "title": "Scientists Say Lead in Ink Could Finally Crack Herculaneum's Burnt Scrolls—So They Baked a Fake One as a Test",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRDJweHQ4TThNSTh3RGhqUnl6ZTNxQU96d1ZvTmxield5c2cwR1VRY1lHbVdDU2FyclNnVUxGYTdONFN4NzlGUUpWMWFHWEplZzdIQm1nMGVHV0dTN2FPeDZSZV9NY2k3TTFYSVZBQ3JSQjdmcnZ2V1NOY3hpbkxBN0hGSmRHSU9YWWUxQkdnQ1VnaU5uVkpiUngwRU5BQ1ZucTNselF3QkhvNXhpSzV6Y3h2aDl2LWpyODVPWGZ5Rmh0aEkydUpoMnJ2V1FtWFlyanJkaF93?oc=5",
-      "source": "Gizmodo",
-      "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-09-18T13:30:54Z"
+      "publishedAt": "2026-09-18T13:44:08Z"
     },
     {
       "title": "고지용, 子 면접교섭권 갈등 속..병원 다녀오는 사진 공개 \"너나 나나\"[스타이슈]",
@@ -173,22 +182,22 @@
       "publishedAt": "2026-09-18T13:12:12Z"
     },
     {
-      "title": "Resident Evil movie director says he was not prepared for fan backlash",
+      "title": "Dow Jones Futures: After S&P 500, Nasdaq Rebound, What's Next? Moderna, AMD, SpaceX Flash Buy Signals.",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sVVMySG8wLTZPLWNmc3BuT3hYUmF3ZnhrT05vWlZ0NlR2cVhYUk5aOWpQMVRGUlUtdnF2N2Q4LVZRbzhxR29IU2F1dmJ3R1VjOFEtODJPZmNSb00?oc=5",
-      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSDJ4cFROUlQ1d3M0TU5mSUlINDFfRjNnc0FidVpOcEY3N1dFd0hWZDB0OFZBVXdINXlqaEdiRzU4U0hVN0ZHbVFTNjJYYVdqeXZmd251UGJmd3RiSlU1VHZzOFFZdEdHUklBVVpGeGNNZS1RV1Q1LXpleGtTWWNUVFRlY00zVXVIaXFnNW9zUnFIZGhoYTJyOWNHQWVUcHY1RnkwalpHSVk3aFc3UlJnaFJ3aDRQYTlpRGs5eg?oc=5",
+      "source": "Investor's Business Daily",
       "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-09-18T12:58:55Z"
+      "category": "주식",
+      "publishedAt": "2026-09-18T12:02:00Z"
     },
     {
-      "title": "[아시안게임] 대한체육회, 하키 경기장 북한 국가 연주에 조직위 사과 요구",
+      "title": "[아시안게임] 대한체육회, 하키 경기장 북한 국가 연주에 조직위 사과 요구(종합)",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3b0ZsODZFeDRManFLTzRIeUkwMnJDZk9xbjQweVplUWRJYkx5MXdMajEwbnZrcFJLemxVRkhUaHBFOFhpdjM1WjNUcERRd1RBd3Y4QmdFS29UVUHSAWBBVV95cUxPU3JWNmE0ckNNZFBPblZyU2RHSWt6ZlZhclltUXRycy0yZFhWZVF2LS1nZGcxMkdCaEgzTlFlXzNhcWh1VDJ0SG5KaTVBYnJubkJLNkdWemp6QlA5cFBPZms?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02LW9QWm9iYzIwUTdOX0VOeGNRZnRrS1JyTXFPNndWZlMzRHNUdENYQnlQaEVFNzRmWXFiNjNFSldRWVNoVFk3MF9jbjRDSzBRYlluaUluVWs5aUnSAWBBVV95cUxPNmxXTGdaVlZhWEpoREsxLVZZR0xRMWV5RmJ0ZEl2WTlhYUFnd2c4UE9XQWZ4ZlV6OGY1WDU1b3lMODJFTm5fTzhVYkpyTEhkUVhXTE9wZGQ2T0pKQnJrWEw?oc=5",
       "source": "연합뉴스",
       "country": "한국",
       "category": "스포츠",
-      "publishedAt": "2026-09-18T11:20:24Z"
+      "publishedAt": "2026-09-18T11:36:22Z"
     },
     {
       "title": "이 대통령 \"부동산 공급 매주 직접 챙겨\"‥레버리지 정책은 \"부족함 있었다\"",
@@ -203,7 +212,7 @@
       "title": "“사회복지인의 노후, 이제 국가가 답할 때”… 국회서 ‘사회복지인 퇴직연금 도입’ 본격 논의",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRUDNjcVlFaE00X0lqYWJSWENyNEVmdkY1ZEYtd3FBM0lkV0R2dy1HazJCYjVVNjhXajFWRk95ak9OZGdXM2xFUkhabW1mdHlOTEdFdFk3RXVBUHdfZ3ZYNUhGbVdvYVJXNWhEYQ?oc=5",
-      "source": "bokjitimes.com",
+      "source": "복지타임즈",
       "country": "한국",
       "category": "사회",
       "publishedAt": "2026-09-18T08:07:00Z"
@@ -234,15 +243,6 @@
       "country": "한국",
       "category": "과학",
       "publishedAt": "2026-09-18T04:31:00Z"
-    },
-    {
-      "title": "Fed 금리 인상에 카드빚 부담 커진다…예금금리는 '반색'",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzUGdUdmVYLTNNaFhyaXhoM2tzNTdZZFVFN2RVdnY5Smlna3NkQ3BiMU1odHlWM3h4MUpiLVU2V0UtdTRuYmVHNkthelh1R01UZ0pxS3pDa2dPZw?oc=5",
-      "source": "한국경제",
-      "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-09-18T01:52:29Z"
     },
     {
       "title": "\"인간이 읽을 수 없는 지능이 나타났다\"…선 넘기 시작한 GPT-6? [스프]",
