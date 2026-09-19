@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-09-18T23:28:29.515759Z",
+  "generatedAt": "2026-09-19T00:36:23.233333Z",
   "items": [
+    {
+      "title": "전문가들 \"AI 기업에 독립평가자 배치해야\"…공개서한 발표",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHWkJJOC1QaGpheUpzVjZrSjVtVzc0c2E5R09VOGRidFFxcTlnM2lvN3l6Ni04ZExxeWFGcjFtUkt6LVBxNnZaYWpuZmFtRUdEcTd5U0dha0VKdnRzaUE0LVcyOFhoMlU?oc=5",
+      "source": "yonhapnewstv.co.kr",
+      "country": "한국",
+      "category": "AI",
+      "publishedAt": "2026-09-19T00:11:00Z"
+    },
+    {
+      "title": "뉴욕증시 혼조 마감…미국 국채금리 상승에도 반도체주 강세",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiTVJPc1pFcURTd2xIRmtnZXpCcjNCbV80TVJ4MU1ELVJNWWlfSmlzVDBjcnJwSW10M0FFOUpDWjJva1NlZUlFLVc5dVVwZGhZOUdxbVpZZGd3UThVcnZhNWxBUDJYUmc?oc=5",
+      "source": "yonhapnewstv.co.kr",
+      "country": "한국",
+      "category": "경제",
+      "publishedAt": "2026-09-19T00:04:00Z"
+    },
+    {
+      "title": "[ETF워치]美 의료AI·사이버보안 날아…개인은 코스피 레버리지 베팅",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsWVNaMmVadjV4dTVqbm1iLTZ0SWdhMl9LZnJOV3A0VzlyTHJFcVl2b3VFcDBfYW1DdFFJeVNwdXYtYjZBWmppRGRjcUw2ajM4UEV0WDdEc1lPRmVFZnFZTi1ua0U0VGtEa1E?oc=5",
+      "source": "비즈워치",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-09-19T00:00:02Z"
+    },
+    {
+      "title": "노윤서, 청순한 줄만 알았는데…과감 반전 뒤태 [DA★]",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oS243ekRJTkhwMjl4Um9DZG9XY3Q1NW1CeU1pVmNQTVZnM3RMeW54SDUxUXZHVkVfekdIWG9sUmdPUW8waXlHN1A0Z2xxRVhTOHpYdms3ZjAwUjNmRXZpXzBrenhsSUFtYjFKR9IBYkFVX3lxTE44Vmlzak5xQ096ZnZJQmJ0Y0p6alY4N1dkWVl0RVczQWdVMWVkS1R3VXpHampkZENIdTFRVExhdFdlX3lTWWxBRXphbHRzTUVJNGJnYUVOSkRSSzY1TGNxWVF3?oc=5",
+      "source": "동아일보",
+      "country": "한국",
+      "category": "문화",
+      "publishedAt": "2026-09-18T23:26:45Z"
+    },
+    {
+      "title": "S&P 500, Nasdaq advance, turning the page on a tumultuous week",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2p6dkpCd0xfbVRBMnhySFRVbm5OSElMZXRXc0NpaGhoRmw2MzNfSUstaC1RVFFnUU1DNUM0MEpHTmxhbHJxOC1Ec2lMWU0xMFVaSVdsZGdVSi1JaWpDX093SHhBdlBkdFdGZnFpd05yYW9LRXk2NkdOMnRWSzJ2dkhuTFpDN01LM1JvNjhyamFZM2dLRFRzM24xSUZwRGVBakhwM3N3em1ycFBuWVg2UVB2OTQ?oc=5",
+      "source": "Reuters",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-09-18T23:10:24Z"
+    },
     {
       "title": "구글 제미나이, 사이버보안 테스트 중 실제 기업 3곳 시스템 침입",
       "summary": "",
@@ -9,15 +54,6 @@
       "country": "한국",
       "category": "IT",
       "publishedAt": "2026-09-18T22:56:00Z"
-    },
-    {
-      "title": "국제 유가, 사우디 공급 차질 우려 완화에 하락",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpd2RuRXRqMWxxR2xCWnVMMHNmWWV1Q3ZUODA4ajF1Q3gzaW9vLXNLNUg0TDRBdGVEOEV4cHhwcERrUE4tWnczcGlGTmdDS2xVaTktTi14N1VvQ19fb2c?oc=5",
-      "source": "YTN",
-      "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-09-18T22:31:00Z"
     },
     {
       "title": "Trump bans CNN, MS NOW, Politico from the White House for ‘fake news’",
@@ -38,6 +74,15 @@
       "publishedAt": "2026-09-18T22:11:39Z"
     },
     {
+      "title": "Exclusive | Paramount in Advanced Settlement Talks With California’s Attorney General",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVXQ1QlNoaEJXT3NpSV8yMTZwVThKNlZJZWI4R2xOeVptRVZuWGEwMm1oTWp1TV9DNGNraEtQa2J5djlhbUhwVnhpOEhmR2dLNENPYTB3ZVFwM0RUWmtXaGhVeldOWkZlTDd1VlBDOU4yT1VBZEZqdXVBaklrTS0wMlZYQWxNeUszRnJTZDY2bkJCTG9kd0hvMHVjWEZKb2JyQlplc2dPeTU4T1Q1UWtFTGFDUkxEemc?oc=5",
+      "source": "WSJ",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-09-18T22:10:00Z"
+    },
+    {
       "title": "NASA scientist discovers largest, newly formed 'once-in-a-century' moon crater after asteroid impact",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLWItYi1telBOSzJvWlNkRTA0enBQVjVhSU1INkM1WUJrWGI4c3FvS19HZEFPbkYyNVNURHpHMER6RHJhaXlVT0tOMnBrT0VxSEZ4OEZIakdLUGN2OC1qMWRrTGoxZjZmSG1GS09sY01UR1ZaRDZKNFRJVE01QU5vRFlfbUFZZkhkcVHSAY8BQVVfeXFMUGM3Um1jUXVZNXR1TGpYNUpxQkJkc2ZLdzZ3bngzVTVnbk8zLUdZSU5HSHl0T2pHMmFJVVFob2RNU2Q2Um55WWx0MGJ5V0VaTjdjSWx1azFZSlR3TnRKZmJYaVI1dkYyQVgybUhXTmh1WFZzdXFCM2hiVFd6S00zX3JqYXc1RnZzOXJ2TmFYOTA?oc=5",
@@ -47,15 +92,6 @@
       "publishedAt": "2026-09-18T21:49:00Z"
     },
     {
-      "title": "올트먼, 내주 유엔 안보리서 발표…\"AI안전 표준 필요성 강조\"",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1adWJGOUFhcXhDQmFxY3NFSWtxeW1wdG9CNHpxbDBvS05jSWlaeGZyMTVpR1RDbEdZMUxFb2QtU3Q2WjhNTHdoSlJORVJzTjYxSl9KRzVJeFBRTDjSAWBBVV95cUxPbkVNVG41TG5BV0V5YTA4eEM3enk0VTRudk1sMFhUcWhUMUVQOHN0R0F4bEtKSlRrODdiMEhPV1V2TVFJU29mMUR4bEU3Nnk0aWltalUzS0VuSWNWbmY0NnA?oc=5",
-      "source": "연합뉴스",
-      "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-09-18T21:33:54Z"
-    },
-    {
       "title": "Duncan Sheik, Who Traded Pop Stardom for Broadway, Dies at 56",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9PQ0NvZDZCRHpwY25GbjhSbG9RWFJoV2M4eXJvV1lkZ0V6UXFLUUgydVlGcklFN2pMemRYTTM1YTgyWHFlYlZwUGU3RU5uMDBFZnRTX2puR0FhN29fb3dQYUN6YVNkc0pHMnBDaXUtTEktaHhxYnlV?oc=5",
@@ -63,15 +99,6 @@
       "country": "미국",
       "category": "문화",
       "publishedAt": "2026-09-18T21:12:37Z"
-    },
-    {
-      "title": "\"폐쇄망서 데이터·모델 군이 장악\"…네이버클라우드, '디펜스 AI' 로드맵 공개",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HVmtEWnktUy1zT0w4d3p1OHljSEV1S2JuWGE4anhRZW1QdWZsOVEwdHZYdjBpckZZQmZrRmozbmF3dDZvejF3WnhBb3RONnNTM2Zpb2lyd2E4RnpaU3p2VXpaa1dydmJUZTVYQUY4MGtIR3pvTWNGdEZNT1VSQzA?oc=5",
-      "source": "글로벌이코노믹",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-09-18T21:00:00Z"
     },
     {
       "title": "US stocks close week mixed",
@@ -92,24 +119,6 @@
       "publishedAt": "2026-09-18T20:53:52Z"
     },
     {
-      "title": "Ed Sheeran Philadelphia Tickets Slashed By Nearly 50% Following Macklemore ‘Free Palestine’ Controversy",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQS0tYME1mdWlITXJha3Y1bUR0ZHMwa21VYVQ5ZXBITnJzYlBIZFhLVzdnLUY1b3duMEtJS3VGb1pvWDhPbG11clRpamctVUYzbXdVR3BmZUJBQzFFMUhjdVZMOVc2MmxGZDZvOEZEaW02dF8wOHE3bUNSNjdESnBLZmpmNk9UaFBIWnpjaGNFcFZUREpWMTNzUUJ4UjYtNjBhS2p5U2FEbmFBakFiajBsS3JtM3BEaHRfbVQxZlJnM2VoQTlvYi1SRXlmQ1h3RVFoYVc4UzBybFBBQUxxV2VOSG1SUWZER2k3UG0zRFVlUQ?oc=5",
-      "source": "Forbes",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-09-18T20:33:40Z"
-    },
-    {
-      "title": "S&P 500, Nasdaq advance, turning the page on a tumultuous week",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2p6dkpCd0xfbVRBMnhySFRVbm5OSElMZXRXc0NpaGhoRmw2MzNfSUstaC1RVFFnUU1DNUM0MEpHTmxhbHJxOC1Ec2lMWU0xMFVaSVdsZGdVSi1JaWpDX093SHhBdlBkdFdGZnFpd05yYW9LRXk2NkdOMnRWSzJ2dkhuTFpDN01LM1JvNjhyamFZM2dLRFRzM24xSUZwRGVBakhwM3N3em1ycFBuWVg2UVB2OTQ?oc=5",
-      "source": "Reuters",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-09-18T20:21:11Z"
-    },
-    {
       "title": "The turbulent AI era is here. The choices we make now are critical.",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
@@ -122,28 +131,10 @@
       "title": "AI cloud provider Nscale files to go public",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5nY0dXZ2p3ZnlfZEtOQTZzRE15ZXhBdXgyTU5GZDdpeW5zWUdOVlVTM280MGRRXzR3bjEzWjg5eWl0Y0VQYlZlOWVYazR0TGhFY2EtM3doNTVpd2ZIbTh5eXdWLXBDc20wMkZNazdZVW5JZ21NSEF1UEV30gF_QVVfeXFMTjMwdXdHbUIyV1J3S2RfRUVRbDJQbFVVWXIzZlFodWRRNDdhaWlXa2J2ZUFidGtvV3kxZFNvXzZZc3pIMV9hLWc1VTF6clBoTHFBb05jWnJPYUFsOXVQREtGOUtFUGdWY2NRZXE4UlZDenQ4cm15UUlIYWd5dzhBYw?oc=5",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "country": "미국",
       "category": "IT",
       "publishedAt": "2026-09-18T20:02:29Z"
-    },
-    {
-      "title": "Warren Buffett steps down as Berkshire chairman, son Howard succeeds",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVGNSTzVqLUNZQjdoWnZWMENFaUo1cGNMSkNwVC1DNVdYVUNFWnNIVV9MR2VKUllvTDcyaXVuSXdYT1hKZkdRbWZRTFJacFoyV0VNcXpQZWJ5dDZyUFY3OGdnQi0xVklKcGJOUllOSDNwakh5Ym02c29OUjd1VUFqam90TDhzM0hOdkR3WFREWUFzNHl6N0ljbDg3LWVEOUdnajdVdnVuQkNJbmV6akZUby15U2hwd0JSQnc?oc=5",
-      "source": "Reuters",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-09-18T19:15:25Z"
-    },
-    {
-      "title": "Apple's iPhone 18 goes on sale as customers line up at stores worldwide",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeEdRbG9FbEhxZnBfTzVLclhGNlo3Q0JmNG5MRlZ1V1ZlQnZqenpnc1BUWng3aFNhY0I3b3N5bmRSbFExU3gxVVYzYjlmWWNlejBUVVQ0OUNNT1lFWmc5ODJsRDF6UnQxRHhIMzVCcl9PZGktSmdJYlcwZ1BkRHQxWnhHdEdrQjRvVDA2X05YaDJCNGNoZGlTN0RORTFuNFlyREHSAacBQVVfeXFMTVNaMG5ZNTQwb2lsLWx4WUViSTd6NTZaMlhZbDNNbEJZeFQ0SHhmVUZEcEJBRk5lQlc2OE4yZ1VSR0F4NWJ5eHNlNTdOVVNrbHNOckEyRTZXT0lEOU9CeUdId0xOMWpMcVUtTFNBNy1WRFJHRDlyWHRaZ0p2X0lKZE0zTGNFaTkxWV9DNUxfWFd1MFJZTkhSN2tJY0U2WnhQVVVQdFcxaHc?oc=5",
-      "source": "foxbusiness.com",
-      "country": "미국",
-      "category": "기술",
-      "publishedAt": "2026-09-18T18:50:00Z"
     },
     {
       "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
@@ -155,10 +146,19 @@
       "publishedAt": "2026-09-18T17:57:30Z"
     },
     {
+      "title": "Apple VP of hardware talks iPhone Duo durability, crease, hinge, and more",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPazBzRWpRNTdSb3E2NEh0a2hhR2dQUHdFMDhkRnlHWnBJZm1iM1ZSZk9Ec2RaWU9xdjMzamdhTXpmeVNYRTdTTmFpUmNqUlk0NzhIOURuRkx5clZTRFAxcEI0WXJZblRaNDlQZm1hNXh5NDdiaTU0czFiRTZYeWxOd3h1ejZ3QXU3RTZocFJMa2paQkxvZEE5ZkdvcGlXT0szTUp0UA?oc=5",
+      "source": "9to5mac.com",
+      "country": "미국",
+      "category": "기술",
+      "publishedAt": "2026-09-18T17:52:00Z"
+    },
+    {
       "title": "Research news from the Ecological Society of America’s journals",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zeUFycXcyWlVodml0X25zWkJzT2NESU1zNDU3WmtZb1BhQUZSelVTZTJzSXFZNTZlc2FoRmVFUk11YzRTZVRnaVJjRG9LTkVCaEljNV96ZEhRRlB5?oc=5",
-      "source": "EurekAlert!",
+      "source": "eurekalert.org",
       "country": "미국",
       "category": "사회",
       "publishedAt": "2026-09-18T17:47:56Z"
@@ -176,28 +176,28 @@
       "title": "Exclusive: US military had close call after using AI for false intelligence report, sources say",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNURhdTZha1pnekJvMjV5cE9VQ0tpQmZuSXVfbFVzLVBDbDY1b28zMUluUVNzMUlPZnE2Qk5OLXRVcUVsRkVfZ3d2ZVpvaW9JOGFZUE00SV9uQ0xWcE5QOGlzXzB2bkRaWjZiZVpKblZBU2tsOTdvMllIdTRKb21ScUlwNlIzSDdaTFR0Rg?oc=5",
-      "source": "CNN",
+      "source": "cnn.com",
       "country": "미국",
       "category": "AI",
       "publishedAt": "2026-09-18T16:55:50Z"
     },
     {
-      "title": "[오늘의 운세] 2026년 9월 19일 오행별 행운의 컬러",
+      "title": "\"엉망진창! 일본 도착했는데 12시간 굶었어\" 中 체조 스타 폭발…32년 만의 日 아시안게임, 개막 전부터 '선수촌 대란'",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85Mmk2VDA3blo3UXNrX1J2SENOVmJ0QXFIUU1yb1RUZ3JVTzBRSzg3eTFfMjdkd01uLVJjdnRtYkRpX1lJcllsZnJkajJWOEYwT3NaRDUxRXZudw?oc=5",
-      "source": "한국경제",
-      "country": "한국",
-      "category": "문화",
-      "publishedAt": "2026-09-18T15:00:04Z"
-    },
-    {
-      "title": "[2026 아시안게임]남자농구, 이란 완파하고 12년 만에 결승행…숙명의 한일전 성사",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9URVNjTmtfMXAxc2FUWmFxQThQRHhhRGlwY0ZaSmJHa0xvV3hzRHVDdUdYV2IzcEVkLTNMb2RZRlU3cEllbEtUTldfVGFqcURteHRwNUVEaUlGXzA?oc=5",
-      "source": "강원일보",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8yZk1hLS1jbmxqNUFvOUxSdUFCaVFUSUJSSGRkZHdVUXdWaDQwQWlTM2x4X1FnQ3JOWU1zX09CeFpadFhpTFE?oc=5",
+      "source": "v.daum.net",
       "country": "한국",
       "category": "스포츠",
-      "publishedAt": "2026-09-18T13:43:31Z"
+      "publishedAt": "2026-09-18T15:46:51Z"
+    },
+    {
+      "title": "Meet Warren Buffett's son Howard, a former sheriff, war photographer, and now, Berkshire's new chairman",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZW9scTIxcTdpU0VMMTVhYU1sQ2dwbFJSMi1LcHNOX1JESzVzdmNPeGF2c1pmLWZ4N2ZZV1YzLU85TDZNWFI1SHZEczd6T3FBOTVNdm1ScG9FWkdCaXlYcnJGalVLVkgtOEs0X2g1QnUtMU5pMWM0SzVhNnVreWlXNzNmaWhXMEpyNzRvbV93?oc=5",
+      "source": "Fortune",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-09-18T15:33:00Z"
     },
     {
       "title": "李, 서울 집값 상승 오세훈 탓... 吳 \"대통령 머릿속부터 리셋해야\"",
@@ -221,7 +221,7 @@
       "title": "“사회복지인의 노후, 이제 국가가 답할 때”… 국회서 ‘사회복지인 퇴직연금 도입’ 본격 논의",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRUDNjcVlFaE00X0lqYWJSWENyNEVmdkY1ZEYtd3FBM0lkV0R2dy1HazJCYjVVNjhXajFWRk95ak9OZGdXM2xFUkhabW1mdHlOTEdFdFk3RXVBUHdfZ3ZYNUhGbVdvYVJXNWhEYQ?oc=5",
-      "source": "bokjitimes.com",
+      "source": "복지타임즈",
       "country": "한국",
       "category": "사회",
       "publishedAt": "2026-09-18T08:07:00Z"
