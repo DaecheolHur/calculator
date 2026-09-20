@@ -1,23 +1,32 @@
 {
-  "generatedAt": "2026-09-20T16:29:42.617087Z",
+  "generatedAt": "2026-09-20T17:28:00.326927Z",
   "items": [
+    {
+      "title": "U.S. Stocks Up on Hopes Rising Inflation, Oil Prices Are Now Contained",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTWZkWlhjbThxYW1Bb0tvcDZ3RnowS04yRzBXeWxsVFc3TzZOWlJ2NW9wZTJneWFTdUg3Tmp0SGVVb3gzWTYxTmpYbkQ5WDg4QmpXVkd2SnYxenh5VUx1V0NEVnFEQ1EwczVJUkE5QVZ4cFVrdEMtQkRpR3FtWEFHOWU5YmJxc3dybWhWeFFtYUh6NHR3?oc=5",
+      "source": "wsj.com",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-09-20T16:42:22Z"
+    },
+    {
+      "title": "삼성전자",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdGRJVUxjY1kzcGdMaE1sX1djYzBYeFU3c3RmRGlQNlNKcnRlUXlwUlNHVDdCeG5VWThDWS1IQk9ZblJRcmNUMS1ZM3FTblhTNzJFdjJqSXFEdmpyNXJ2WGhaUF9fQmZCZmZYb09jdVF6QmhuLVViZ21UNl9hR1BCRUlrVlVkeGRIVmlGNjV3THVoSmxFeUQ4?oc=5",
+      "source": "매일경제 마켓",
+      "country": "한국",
+      "category": "주식",
+      "publishedAt": "2026-09-20T15:50:46Z"
+    },
     {
       "title": "CIS Webinar 9/30: How to Apply Proven Cybersecurity Best Practices to Modern Workloads",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWHU0T0xJa1huLUg0YkNvT3F4RmVmU216aTM5YVV3d0ZMNFJmSFV1Qk1leWkzR0lBNnNLX2htcUxNNEUwV1NMandnb3RXWTQ0aEpZUUZ1emhCVTJqZGM2LWFLWGJGRVJSZ0pRVVkydDhtd2tpeG5HMVVOYklOVVZzdzFkOHpHeDg5dlYtejhlUFZGaUxtTUtmckVJTGc5NDZpVDhPQnVSc0lwVTdfWEpFQVhEMWtmems2SHc?oc=5",
-      "source": "hstoday.us",
+      "source": "Homeland Security Today",
       "country": "미국",
       "category": "IT",
       "publishedAt": "2026-09-20T15:42:34Z"
-    },
-    {
-      "title": "두산에너빌리티(034020)",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb0VnWmdxUDlMa2JLVUZnWlJGSXBzd2FVNXJjdlFKTVAwMVo4b3FvdndsLUtsQ0dhX1puQjJKQWIzMUExX1dkYktZVnV6Q2w0ZTJBMzJHTzVLWm5lQURmWmhXSENMZ3Bna0tLWXBKZk1GSmVrZ0dkQkV0ZlY4TzcxN0pJOThsOFV3azU2ckJWTmpOVGk4Wm40?oc=5",
-      "source": "매일경제 마켓",
-      "country": "한국",
-      "category": "주식",
-      "publishedAt": "2026-09-20T15:36:48Z"
     },
     {
       "title": "[월요칼럼]인공지능으로 여는 산림의 새로운 미래",
@@ -29,6 +38,24 @@
       "publishedAt": "2026-09-20T15:22:00Z"
     },
     {
+      "title": "Mississippi gov trolls Lane Kiffin, LSU after Ole Miss defeats Tigers in coach's return to Oxford",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTWlnS0hkUHN3Y2d4aHBpSTA3cGQ3dFN3Xy0yWlBvT1Vmc3lKdS0waEU3b2dnX2NWclBDb1BQd2ppdk1FX3Vtc3ZvR0laOUZWTUx2eTVKdDlCZm14WWR1Wm52ZTVId0NNQ3FpbmV3dHBFQWFvd2ZsZy0zQjRUaUVnLW9uY2VmTDBmZjFfX3ZweUEyMkcwTzV4SGptRE1zY2Vpa2t3Snp2dVdyeGRIMWVLOHpoMGpOdUpTTEFydXNBZw?oc=5",
+      "source": "foxnews.com",
+      "country": "미국",
+      "category": "스포츠",
+      "publishedAt": "2026-09-20T15:05:26Z"
+    },
+    {
+      "title": "Hollywood Came Out For George Lucas' Museum Of Narrative Art Opening",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oZDFrQUx2N3UxVV9OWWlvOHgzWHNfZ3llYjkxUXBwVzRYbDhaYU1peVFqeGc5RUVRNzVFcFlMNVJYeDV5amVTRTljQ2VDVTNwMVFOQ0VIeFpEM0dpQW4yV19XaWh5YUpJa1AydWNsVWhwT1FMYlZrRDZuVQ?oc=5",
+      "source": "Deadline",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-09-20T15:01:00Z"
+    },
+    {
       "title": "'혼비백산' 이준, 다낭에서 휴대폰 분실이라니.. 기안84급 '짐'도 폭소 - 조선비즈",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDBSMEZpV0t3ZkhGNWJyYjh5Mi0zeXZNb2FNQ0ZzcXNnMm5pVE4xTVZPVjhEOUlFaklUNHFXb0ZBRVZhVUlYQU9QbkdFMjFWeDZNemV1RGVEWWJPNXVBRUxqM1dWdEo2SmxlRjVlNGs0d0tWWWVDWVZKUzQ2dnhpZG9SSEdVajRqaFhDMGV2NnJrRW_SAacBQVVfeXFMTzhSdEl2bW9Fbm5PV3RnR2JhY2hXckV0RzJqQ1VIM2U2b201NWMyV1RQU3VkU1ZYY01kNjlmOUh1dGdqemtPeUgtaHctSkJUNFR4bXhKY3N2Z19wWHdSN2k1ZDd1ZnlRbFJkUHdMQlJxMVM4Q0wzaHoxcjhDNndpdmxnZFh3d3RXX0hNenZaTUNpbWdJYTZLMEl4Y0p4TFlOamQwZ2lUTTQ?oc=5",
@@ -36,15 +63,6 @@
       "country": "한국",
       "category": "문화",
       "publishedAt": "2026-09-20T14:47:00Z"
-    },
-    {
-      "title": "Box Office: ‘Resident Evil’ Breaks Franchise Records With $60 Million Opening Weekend",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU2k5cUVfTlM5djdLRXl4Z3Q2OHFNRnhfaWJkQmdINlY2NU1zY25JTkZPeGQwV0tRVUJaektNWjJzbG5ldEdFLVNReVhWOGU1MURIZTQ2MGVsaHNobjFJNzBlR0RqTXpHSXJPaWRnT2M3cnZpenE5NFdWbFpjNUhQVlJpd1JGUnNyMnBENUlrTXUxdWt2bmU3akxwckZFRDdzVWlyRkRXV0o4b1FkSXVIbWhvTVh0My1TNXJDVmpWdU5FWGl0eWt1eQ?oc=5",
-      "source": "variety.com",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-09-20T14:42:00Z"
     },
     {
       "title": "The turbulent AI era is here. The choices we make now are critical.",
@@ -68,7 +86,7 @@
       "title": "Ed Sheeran Clarifies Gaza Stance, Again Blames Venues for Kicking Macklemore Off Tour",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSWxWRThNeVVabUN0bHA2MkNra1dDUWZzQ1B2cG12aWRCbFZFTU5kWWhVMi1ocXdtQ0p5djZwUXQ0YUxYSDhIdzBTeFllNkpIa19teGhQYVdJcE5ucy1lQkVnSnExM0E5SnNtblRsVDhERWZuUjJVVndpQXZpb3hIYWN5SmVjUkpBUGFFbS1lbFQtSDRCZXp4VFBncERPaVA5NmFZMDJUZV9Ka3pPeUFnTFcxSQ?oc=5",
-      "source": "pitchfork.com",
+      "source": "Pitchfork",
       "country": "미국",
       "category": "문화",
       "publishedAt": "2026-09-20T14:02:14Z"
@@ -83,19 +101,10 @@
       "publishedAt": "2026-09-20T14:00:01Z"
     },
     {
-      "title": "Ole Miss spent 10 months awaiting Lane Kiffin's return, and the payoff was worth it",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcklaY1ZRQWl3WEZuTDdvNzVBaW42ekl0VHVKRWd6ZHBGdDFzeW80alMyQU12RU9hSllsMWZ0YzR2RUtUZFRmNW9RS01Tbm9DTVpkSlJic3ZZTmtFY29qMEtJOHFZWjk5ckNaa1JBN0htUjZJSmxvTDB4TG56V1BLRk1mbEtUNEJxWThwT0hNeFg0NXNJSVBr?oc=5",
-      "source": "cbssports.com",
-      "country": "미국",
-      "category": "스포츠",
-      "publishedAt": "2026-09-20T13:54:00Z"
-    },
-    {
       "title": "Federal Reserve rate hike reflects new world of sticky inflation and faster growth",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeUxpb0hhaEY4MGl0T21yM2ZObndRRlBrc0owTWxDM1FKMlFrWmF5Q21aNGFXdFh2QW5RRTJMMkVZSnJkdnpJMEdTWEFzTjFLQ2RCUWNqWXdlVVJoalBTLUxTMFJHN3pQVlAyLTdGLXBDdnlWbFlzMEJRTlowcklrY2NOaXEyOUE0cG4zQS1oRkxFR1JORWFBNHdJUXRnSGpILWc?oc=5",
-      "source": "apnews.com",
+      "source": "AP News",
       "country": "미국",
       "category": "경제",
       "publishedAt": "2026-09-20T13:45:00Z"
@@ -119,24 +128,6 @@
       "publishedAt": "2026-09-20T13:31:42Z"
     },
     {
-      "title": "U.S. Stocks Down as Oil, Yield Shock Continues",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdldNN0llVjJVYnJfekk5ZGQ2ZHAwZGJjaWdhY2Q4QzhBV3FBc2EwUTZ4YTQzYzZSYnNJVThHS21JRFR1ZmpHV09BZnJNMHFfd3NNeGNxT29oRVNpTnV1WVp3cDExOVFaYnRFdjdEOWRZcnNsWkdPeVc2VjBDVDBmejNKWVgweHZjcHVyc1B5T3hjZw?oc=5",
-      "source": "WSJ",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-09-20T13:17:17Z"
-    },
-    {
-      "title": "[아시안게임] 이현중 27점·18리바운드‥남자 농구 12년만의 금메달",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WOFVQeDZVZXZzQ2xXMW9Kc21FUk1FRzlxVWpoUi1kelYwbGJYV29KYmI1T3p2UDFib3dnSkdBcEJIV1F5YUsyVFdDSk16cW5QeHRoS1IyLS1mMVplWG4za25wTW5fT01lWkJRbmRPNWxYNHkyX3fSAXZBVV95cUxPWXdQODBwb1Vtay04NVBmYTk0Q29lbGxwNEx5RWZuaExmcXRRWTJwblR4Y2VFT3lOU1U3MUZVWWlydmZ0Q3VaRVU2SU9EYmM0MmswOXl0SUgtYTc3bW9WWTFBejBqdDVwNUpQelBVYTNtdURNWTB3?oc=5",
-      "source": "MBC 뉴스",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-09-20T13:06:13Z"
-    },
-    {
       "title": "Archbishop Lori highlights enduring witness of women religious in American life",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd0M4TXVWVE1zMmU0aF9kSllpazh4X1VFUTZocDNGREprNTU1eEtCSVNSUUNWcWtYcWhlY1dzMHo5OFYydlBjcHFoZmQwSFlfRTk5em91OEw2VkxQZFpmZjBuVEpVeUtmR3MxSHdLMV9MTi1ScDA2RlZrQkRsLXZCdXBhR2ZZWDRoa1Y3UEJYZ20ycHg3bWwwYksySTJxSk95RV9LVHpybFZULUU5ZGZGSXFHRQ?oc=5",
@@ -146,13 +137,22 @@
       "publishedAt": "2026-09-20T13:02:23Z"
     },
     {
-      "title": "‘12년 주기설’ 또 통했다…이현중 27점 폭발 남자농구, 일본 꺾고 12년 만에 금",
+      "title": "‘근대 5종’ 금메달 2개 수확!…성승민 첫 金·전웅태는 투혼의 金",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83LW4wOFRtaWpJMkNTcnZrZlBGenVDbkVacnNCVmVDeHpVdHl4OVJKZHJUYkZWRTdXNll1TVZFNUZObzlwMFNXTWVmaTBiWE4ybERmMTJnWUdZd9IBX0FVX3lxTE00dmJZN0Q5RVlWYUpYT0dmcmlsMEFUcEJRdnpGaFU4RTdkM0otNDkxdmNqUzh3TzhZcEZyRkx6RUFEZ0JXT1ZyeHZNMkxJZlZkYUJVRUgzTkgxZHQyTGlN?oc=5",
-      "source": "경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2Qkl6YWJER1gxTGNyeGVaem9Scm5jRnk3Mi1keU9TNTRwdW9OLWY3QVdxWnYtdEsyS1NkOFZuQnc1VEdxcW9UeGkyZ043dzk1TlVpQ3k4TXV4aUU?oc=5",
+      "source": "KBS 뉴스",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-09-20T12:46:00Z"
+    },
+    {
+      "title": "[1보] 한국 남자농구, 개최국 일본 꺾고 12년 만에 아시안게임 금메달",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4VmZiUjYxRDFiYUh4emRJaTgwTDZaV3FaU3d0ZzIwakFGanNwV0dhMEduMnJVazFCempSVl9Obk0wUWRTMDg3b1NwV1pueG9sR3BhMmRyU290NUXSAWBBVV95cUxPRndBWkxsRGZFNlFZcUhJTG5xamlobjdydE11bHF0S0NqM1FNMlJlUnBoaTVhbG9NLWdXWkY4SmdRSkJiZUVfV3NEeGdkS3pJMkV6dlhNNXpTamxMM3BGNmQ?oc=5",
+      "source": "연합뉴스",
       "country": "한국",
       "category": "정치",
-      "publishedAt": "2026-09-20T12:39:00Z"
+      "publishedAt": "2026-09-20T12:30:57Z"
     },
     {
       "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
@@ -167,7 +167,7 @@
       "title": "양자내성암호 전환, 내년부터 공공 사이버보안 실태 평가에 반영",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53LXRvbkhRRUlJa2k4UlBNWHY5V0VFUkNkSmtwX2lsRUN2eTJKQVhEdVpLN1F2MWJnTEV0Y2E4eGt6Qm0xNF9XY25UVnlZbjNCSGhCdWJR?oc=5",
-      "source": "zdnet.co.kr",
+      "source": "지디넷코리아",
       "country": "한국",
       "category": "IT",
       "publishedAt": "2026-09-20T11:44:30Z"
@@ -175,20 +175,11 @@
     {
       "title": "현대차, 환골탈태 ‘디 올 뉴 투싼’ 공개",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyWXlQZXc4TEp4cEFjMFJCMjhQMFNjellNYVkyWWotUmtOZ2JLLUhwYUE3NE1hakplZF9kbXEtYUVMSzVxcmloUzZHcm1zbG5FekYxTl80dzd3QQ?oc=5",
-      "source": "경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZTzc3ZkFLenBuc0NFMkF4aHUtX2xETkQ5M283QzBKRGFmbWtndEhCS2k5ZERGMTVqOUR0Z1ZoYmQzMGZnbjJwZFo3RXJxeDQ?oc=5",
+      "source": "v.daum.net",
       "country": "한국",
       "category": "경제",
-      "publishedAt": "2026-09-20T11:27:00Z"
-    },
-    {
-      "title": "[뉴스분석] 연임 종지부, 김승원 정리…여진은 남았다",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLZVdVLUkxMDBCeEYxbUIyVXhtZjZKSTI5cEVkY194UThfdnZLc3cyX2lRNjVyaUZXWDd3Y0MzZUNPbnBuaTdVUmZ6bk9aWHFyeFlBWFJjc1lvdHFmaTM2N2s0MktrRWFMcG1n?oc=5",
-      "source": "한겨레",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-09-20T11:16:00Z"
+      "publishedAt": "2026-09-20T11:34:07Z"
     },
     {
       "title": "Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate",
@@ -200,22 +191,22 @@
       "publishedAt": "2026-09-20T11:00:01Z"
     },
     {
-      "title": "상반기 전자정부 사이버보안 수출 3,914만 달러",
+      "title": "'We are on our way to groundbreaking science': NASA shares first test image from Roman telescope's 300-megapixel camera",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Zb1hoSjAwRTl1Xy1obEtVcFBuM29XbjdlMC00aF9fQ3VuVHFNLUZnUlJEbzZCelNRWW1aWWZubGd6QVNfaXk1SlhjZllOQWc4aEVqSGZiZWJ3R1ZJY0xSYlFTZlI3d0pPMHc?oc=5",
-      "source": "보안뉴스",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-09-20T09:16:00Z"
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPVzM0Q0FMeElhZ0d0Vm92cEkzUm9EeWFiUzBsYUdfZmJndVhwQnBPamNoV3N3VXRXYjd2NlcwcXI1WGR6Y3Z6V3NnWTE1UUJRR3QtRy1zb0xWRjcyWUgzRHlNaTM4ak5vRmtEdlU4NVVMNndNN2FkNDFTMmpwQzhBd09ZLTQ3SnNJbFdZNDhLcHYtVzJYYlBqblRCYktMNHhtZzhFZHAyU1BZS1FtYUtYeU5XbElmcXVaQlREVGwwY1duYXo1M1NkWDctaWx6OXQ4N2pSQldQYWFHNk9LdXd6Q1duSEw0ak1wZkoyWXJSMXNGS005WlE4ZnhCZVlSVm91REVUTW5mY1R6Z2Yz?oc=5",
+      "source": "Live Science",
+      "country": "미국",
+      "category": "과학",
+      "publishedAt": "2026-09-20T10:00:00Z"
     },
     {
-      "title": "사표 쓰고 테크볼 ‘올인’···‘축구 선수 출신’ 이준석, 종목 첫 금메달로 증명했다",
+      "title": "의료 AI·사이버보안 쑥…中 기술주 ETF도 강세",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jY3RSRjdnN2VGa2hISjFxOVo3UmRRTk03bm5WMkt2NWpQdU8zVzVVbU0xc3V4OFRId0pjbnZhUmVoSTc4S2RpNS1UVmp5TUdGZDdPRS1zNUVLQdIBX0FVX3lxTE8zZWEyeVY3TFhCNFVGZVN3NzQ0THlreldNbDk0YzVoV3piVWhkODQ1WHhZWTF6OTF5QlZiMEhaTEY5NV8zMWRRSkhuS1NJT1NSVkdFODJiRERLN0lxbnNV?oc=5",
-      "source": "경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iN0x6OW1Yd05ROWVURGZhNHUyYnBwZnRuV3ltZXU2NVFTS3MtUW9kY3VtWTJ1YzB3V1lOZXR1RkpaVU9LcWZKd1ZGTjNzQUpmZnJONTBQQWlodw?oc=5",
+      "source": "한국경제",
       "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-09-20T09:05:00Z"
+      "category": "IT",
+      "publishedAt": "2026-09-20T09:00:05Z"
     },
     {
       "title": "SP 500 Analysis SPX regains confidence in Middle East deescalation expectations",
@@ -227,6 +218,24 @@
       "publishedAt": "2026-09-20T08:27:43Z"
     },
     {
+      "title": "이 대통령, 공소취소 조항 뺀 ‘조작기소 특검 신속 추진’ 말했지만…여당 내 동력은 약화",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sRDBEdUsxSEpsenY0YkpwSHMxNjJFcmlwTjgzQVhDM3BxRFc4QTY4QWNMNWsyR045c0ZfRHB6ZXMycGRwblh6ZVFGeXVXZ0xBaUZuTTd4b1doUdIBX0FVX3lxTE81NndIVldJaEFGU0hnOS0tLWoycmJMWkVnZXYtd1Fsd2JYOTNlSnlWWjJXZFdQRWlUWVZLVnMxR0JnQVVXak01VjkySGRnWWhrWVFKNjVkVERJenpOSU1j?oc=5",
+      "source": "경향신문",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-09-20T08:08:00Z"
+    },
+    {
+      "title": "[아시아게임] 빠지면 섭섭하다…도쿄 올림픽 '골판지' 침대, 나고야 AG서 재등장",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16OC1sRjdDdGxCWXVYbWwyODNPQjh5QS1NQXlHWHVyeEptNVhuX1JUdDNfa0tqMnAycXlENkdPTHp4Q3hZRnNqemhVNGRjcVJZQnBMdnI5Q1NfMzlVcXZLM1ZOcWZTdWFVa3lwOW56VjVyUFNfTy1fRnA1SnZjams?oc=5",
+      "source": "TV조선뉴스",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-09-20T06:49:48Z"
+    },
+    {
       "title": "극한 기온·모래 먼지 '달'⋯우리 기술로 달 표면 누빈다 [지금은 우주]",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE82Um5ZYU9nMjVra1NPWl9uUzZXdzRVekYtVUdWYzhyT3Fzc3BSR0hiMU1tX2FzVUZNaWZiTkw3TldhNnlORmc?oc=5",
@@ -234,15 +243,6 @@
       "country": "한국",
       "category": "과학",
       "publishedAt": "2026-09-20T03:02:10Z"
-    },
-    {
-      "title": "SpaceX launches 27 Starlink V2 Mini satellites on Falcon 9 rocket from Vandenberg",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZk9xc2tFc2RBNXJaNGNYNG5fdDhod1F2enpRaUdHZWllWEdkVHZrRFViNjNvU0FZcVB3TnJ0aDlLczBYM1JIN3FWM2YtcTdyODhLbDZ4RktULVpvbFVnX3dKY1QzQVR6MXpJeG41UEtQbHpSTkVqQ1FIWEQ1bFFHQmhEQXpZRFNHSGVPMjBqRFkzRGNtd3ZvVUhCQUZFY3ktazl4QXFEeVlkV0JsejAwY2V2NkRjMldPY3RxYmRHMkJBSGI0VFJIZmh6ZHpfWkJa?oc=5",
-      "source": "Spaceflight Now",
-      "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-09-20T02:19:29Z"
     },
     {
       "title": "“애플 폴더블 내놨는데, 삼성이 웃네요”…공개 이후 갤폴드8 판매량 늘어",
@@ -266,7 +266,7 @@
       "title": "Russian Progress spacecraft delivers 3 tons of cargo to the ISS (video)",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMkthZGxKVy1ZemdSSFJpY0l6V2p6bU5UZVk1c2xMU2ZHRzItRVB6ZDdMQkFuSlRGanFVdkJjQl9JQm5OVG1fZHEwSm1VYWUwTVV5VTFhUXd6d1BqVU9MQ3ptUGVXdlhPUDMwdEtiVVRYeklweGViVjJNNVRBOVNXeHF0ODhIbXJrWC1sb3dXUnpfc29jckZfRHBuMzZEVXczTWJuRGdTTnA4WHlsTWtQVjBxQ0FwZw?oc=5",
-      "source": "Space",
+      "source": "space.com",
       "country": "미국",
       "category": "과학",
       "publishedAt": "2026-09-19T15:00:09Z"
