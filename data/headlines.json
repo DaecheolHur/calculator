@@ -1,23 +1,68 @@
 {
-  "generatedAt": "2026-09-20T02:29:49.848214Z",
+  "generatedAt": "2026-09-20T03:30:19.660580Z",
   "items": [
     {
-      "title": "비밀번호·코인 지갑 털던 악성코드, 이젠 ‘로그인된 AI’ 노린다",
+      "title": "[창간기획] AI에게 일을 맡기는 신인류…'호모 에이전티쿠스'가 온다",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQXpVdUpMSXRZQXFuLUNVdXhzRmEzTEdaSU5PNGZWMGlMYS1IeFRmX0tSSHhhOVEwUEJFQ05mdzhpLVhMZzZLSV9pYVVCUWFnRjh1d19HZVloSjlnajhzZ0QwVWllUmtwZ3FKSmRKVkFGSy12Vm5PbVpMaUc3OUFnVmxwRQ?oc=5",
-      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yZ1QzbVlBMXJWczdMN3Y0MXJxSG82eGZzNXJ2ZHVScGF3ay1NOVVSMFY2TDdVVlVBSDVtWEpvVTRaeDJ6d1RzZlNuYjZEUQ?oc=5",
+      "source": "전자신문",
       "country": "한국",
       "category": "AI",
-      "publishedAt": "2026-09-20T02:05:43Z"
+      "publishedAt": "2026-09-20T03:00:00Z"
     },
     {
-      "title": "Trump to form ‘AI Force,’ name AI czar but rejects calls for constraints",
+      "title": "Trump Administration Updates: CNN, Politico and MS NOW Reporters Barred From White House",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVWdwLUY4cGVyaDVQcXdGb1Rfa2J4X1VkQ2UyakVBQk5sbzMtTG1PZk1rMk9ZbHRXclA1ZlpveTlrLUQ5R0V5VUphbENyM29Bc0w4YlUxVVRyQk9DT1g0ZlY1S0d4a1hPVXVXWGVXRzFoWEt0Qi1iNGVCQ3JKWTRJV1UxU3dMTjZUZ2tabkVaRU9iR0xodjZaLU5iU2xlb1JsenpnQ2lqcl9CbzNXZURV?oc=5",
-      "source": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLXQ4S045TEtXYmtrTWh6bFQtZks0N0dzUVVsQmJFU1Z5UWdOWkEyZEM5cWlwZ251bTNJbmgyT0g1b0JrN2U2T1ZKUnVMNHlEQmhoRFFxa2RLVWwtNVplNXdVNF81TG45bE1SX21qLXFpMGFqS0FzZm5vTnJHNDdLY0pn?oc=5",
+      "source": "The New York Times",
       "country": "미국",
       "category": "정치",
-      "publishedAt": "2026-09-20T01:30:39Z"
+      "publishedAt": "2026-09-20T02:57:38Z"
+    },
+    {
+      "title": "Lawmakers mull cybersecurity concerns as they prepare for overhaul of Georgia’s voting system",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbU1kTVk0dTBwSm81cm4zZVNCZFR3dDNBZ01wZzhpX0JXODM3QTdVUmRBYUhHMTRhLTJObmlhaGpxdVF5bjRkTmdRR2pqd0kzTmhFZnJlMVBhaXcxSndVTXlUeVYwOU02Yy1qZXZtSVU0cEstSHliWkVjbzl6S3NrTjN4VmV2eUFnV2RUS1hnaFBPUTh6RW94SEpn?oc=5",
+      "source": "Chattanooga Times Free Press",
+      "country": "미국",
+      "category": "IT",
+      "publishedAt": "2026-09-20T02:45:00Z"
+    },
+    {
+      "title": "Ed Sheeran says situation in Gaza ‘unjustifiable’ in first show since tour plunged into turmoil",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMnRQUDUwUVktZU85Y196R2IyMGVJVVVFbWtRem9rQnhBT3NsZGJIa0NMSlY5RHpIel9GUmJsUDVKZ1E0ZlM1YjV4d2pDVnpTS2F1bnNfTW02T3hIb2x0MHI3S1d3N3VwTHVaRHdXYkFFMXB6WXlvR2tnUS14MWZqNG5BRnhsT2xEUHJ4MTNVVEFtdjRMUDNQcFRPRDVNaDk3dnBtd0dTbllRcGdtZVpvcEZNc3RWQzVBWGtacC12X0dUTW5PU3N6WA?oc=5",
+      "source": "The Guardian",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-09-20T02:26:15Z"
+    },
+    {
+      "title": "[속보] 사이클 신지은 동메달…아이치·나고야 AG 한국 첫 메달",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0d21BUmtWNDVITS1sNTRQNDFrUEpfWDY5N0MxZ2QtOEQyQ2EwclJEb3E0VzFvbVR1ZVc3Mm1JSGJkV3VZZnh4bHpDVmpZaVc5a0pVNUtiQ3N1VUZfamhGOHo1Q2d5MU5SNnZnT2FmVzJ5WXZHbE9r?oc=5",
+      "source": "한겨레",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-09-20T02:15:00Z"
+    },
+    {
+      "title": "`국방`에 쏠리는 IT업계의 관심…네이버·NHN, ‘전장 클라우드’ 공략 본격화",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaZzgySURWLXZsdF9UVUkzRHhLZzIxa2Y2UzlZcGF6bXM4bFAyLWNjNHcwRnI2RDYxOHBmUzdmSmV0VEtTc1FlMU5rdW5aRDc2VnlBaE1TWmJLUDRrTWp0N0cxVjc?oc=5",
+      "source": "디지털데일리",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-09-20T01:41:03Z"
+    },
+    {
+      "title": "아시안게임 근대5종: 성승민·서창완 포함 한국 대표팀 경기 결과·메달 모아보기 [아이치-나고야 2026]",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeFFIM1gyd25LSG9Sa2hmWUszRGhNY2lBOE5QQndwUXF1YURvSml6eVR2X3Z4RHY3aEJQSkJNQ0pjS3ZxQU5fd0dLbko0MDZtelpzZmh6NWl1cVhBM2QtbVd4cDJLeUJrR3ctNUlvRmZYdUhOdWhqam95Ukt5ZGx2cEJYQU5KazltOVZaWnFyb3dkaVBy?oc=5",
+      "source": "olympics.com",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-09-20T01:39:00Z"
     },
     {
       "title": "국내 증시 주춤하자 다시 해외로...하반기 출시된 ETF 40%는 ‘해외형’",
@@ -38,15 +83,6 @@
       "publishedAt": "2026-09-20T01:18:02Z"
     },
     {
-      "title": "3년만 ‘2026 TMA’, 부산 첫 개최 성료…에이티즈·엔믹스·라이즈·코르티스 대상",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWFR1aGpRNnhVNHBnSlkwcnJCX2JsMmllYS1TU1NwbURHcnpHMy1RRUh5amxRVU9qUjBNSjBvazNXV3dIUU9mVGphVkFpbUh4TkI4Y3RSUm5lQklrcHN3TURlYVVLZHZBV2lROU1RVExGdW1BTXoyYW1oRUZwcmk3eE04QnBkTzN4OFE?oc=5",
-      "source": "조선일보",
-      "country": "한국",
-      "category": "문화",
-      "publishedAt": "2026-09-20T01:09:00Z"
-    },
-    {
       "title": "Archbishop Lori highlights enduring witness of women religious in American life",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd0M4TXVWVE1zMmU0aF9kSllpazh4X1VFUTZocDNGREprNTU1eEtCSVNSUUNWcWtYcWhlY1dzMHo5OFYydlBjcHFoZmQwSFlfRTk5em91OEw2VkxQZFpmZjBuVEpVeUtmR3MxSHdLMV9MTi1ScDA2RlZrQkRsLXZCdXBhR2ZZWDRoa1Y3UEJYZ20ycHg3bWwwYksySTJxSk95RV9LVHpybFZULUU5ZGZGSXFHRQ?oc=5",
@@ -63,6 +99,15 @@
       "country": "미국",
       "category": "스포츠",
       "publishedAt": "2026-09-20T00:24:00Z"
+    },
+    {
+      "title": "조국 “친명, 李대통령 SNS 취지 따라 ‘멸칭·갈라치기’ 정치 즉각 중단해야”",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1OUzRocFVLVHFsU3JiRFk3Y3NhRFpUREhiblpoY09CNWdWVDdqTkcydEpBdHNwdWhRR01ZcDFnUnFoTXJKaWJOaXFOekozbm8yZlhnVjh6SXQ4UVZSYWt6c2hsT1NUQjQ3YTJQMFdJZUNhWTRTOW530gFmQVVfeXFMTUtrdy1rcnRPRU51eWc0T3ZIemhBUjVUSnJjSHh1UHYwdkFMV0tTS192OXNBVTBLUkdMWXpTWEYxcThzSWgzYVFTT2dsN0RoV2JYczlXNkFyc092QzFFb3NIejV2MFln?oc=5",
+      "source": "동아일보",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-09-20T00:20:56Z"
     },
     {
       "title": "SKT, '제3회 대한민국 사회적가치 페스타' 참가…지속가능경영 비전 공유",
@@ -83,6 +128,15 @@
       "publishedAt": "2026-09-19T23:35:00Z"
     },
     {
+      "title": "최민식·한소희 ‘인턴’, 4일째 1위…30만 돌파",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tV1YxcDJqWTA3cHIxY2VWdVlfWWFLYlhFMFhieE1Rd3NVbHplRnphbzlrUVNWcW1qSS1xcVFQekl3My1Yd0pZc09KMmEyQlJ6Q3hZZmRaaDFCWG1RczFhUUNmRWhlaHhFaFZuMnlLNmlmNTU2SmM2ZFJiOGZsZ9IBZkFVX3lxTE9GbUZCcjlwOWlVeFFJYk9Sank0bzdVXzVqUVduQU9lVmNTcEQ1R2xpNGNjUkVKamdLckx3UFY5TWJJMTlPTkptY3p0clplek5SQ05mVjNETURrbDJTNzc0UUtISndpUQ?oc=5",
+      "source": "동아일보",
+      "country": "한국",
+      "category": "문화",
+      "publishedAt": "2026-09-19T23:30:18Z"
+    },
+    {
       "title": "The turbulent AI era is here. The choices we make now are critical.",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
@@ -90,24 +144,6 @@
       "country": "미국",
       "category": "AI",
       "publishedAt": "2026-09-19T23:26:55Z"
-    },
-    {
-      "title": "\"금리 뛰어도 주식이 낫다\"…AI가 바꾼 투자공식[주末머니]",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBWlpUcWhrY3IxazR4dEZjRWNTbGQ1Sjl1UGQ2R3Z4bjhKaWhJR3V5ZmdQaXk4VkdoaS1EVEN5aXgyWWlsVVB6aUJ0S3QzYnc?oc=5",
-      "source": "v.daum.net",
-      "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-09-19T23:10:42Z"
-    },
-    {
-      "title": "Protestors March Outside Ed Sheeran Concert After Macklemore Was Dropped From Tour",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMm91N3ZvYXAwQTduZHY1eG9LV0xDREJ4WnZ3UnJnVlVqbEpfZ0VoLVpzY1FhWG5HczdVd21GbUdwUVdGdTBCTHNJRTJGU1EyUGZ1d0xQYW5iMEJqdkt0VjVMYTR6QXUwQ2dVVzdnMHNKZno5aEk1ZFpaSDhFN2NyUmRudkRnTGZhNE0ySTBQTWxZeDlZeHhYV0h3Rnl2Wkk?oc=5",
-      "source": "Variety",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-09-19T23:01:00Z"
     },
     {
       "title": "N.J. Rep. Josh Gottheimer calls for artificial intelligence guardrails with bipartisan bill",
@@ -119,24 +155,6 @@
       "publishedAt": "2026-09-19T22:25:54Z"
     },
     {
-      "title": "추석 연휴 노리는 사이버 위협…“API 취약점·클라우드 키 노출 주의”",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96cDUybnBKcUtrQzFsZmFVRU02SEdMUWR2RUdzRUF0czIxa2FOWlRjVzVOckVjNVVMODFidkd4Vm5wU1VIeHQ1MmR1cHpEbkxpX1Q0NkFsNElhOV9kdHNiY25CbGtXQdIBZkFVX3lxTE96cDUybnBKcUtrQzFsZmFVRU02SEdMUWR2RUdzRUF0czIxa2FOWlRjVzVOckVjNVVMODFidkd4Vm5wU1VIeHQ1MmR1cHpEbkxpX1Q0NkFsNElhOV9kdHNiY25CbGtXQQ?oc=5",
-      "source": "동아일보",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-09-19T22:14:35Z"
-    },
-    {
-      "title": "[아시안게임] 이현중 맹활약에 '모자 金' 눈앞에 둔 성정아 \"걱정은 기우\"",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mRFFsWG5Xcm9hOUtpV3Fwa0dwSGM0X3ZnOHRkVkxWOW8wZ3NWdHVmVUhjc2w4TFd2MEQ4a01TYXJ6Wm9EbVRPUWp0THhFeGtWN2VzeHBiVWJ3OGfSAWBBVV95cUxPTlNwcGR4RTN6dmNMVlFocVVzN2xRRDRORnNzbG1SYV9WanRNcEJpdFRpeXF2TkUzUV9hb2hqQllVTjBpdXNXcGZEaC1YbHVleDlnUXZXbHJ4SjFNUmIwVFk?oc=5",
-      "source": "연합뉴스",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-09-19T22:10:00Z"
-    },
-    {
       "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGNIX0w3dGlsV1dsUUdPS1l6TXFWSm8yUVBkTlVhZl85V1hGNHVadW9LZFRHRl95Y2VBY0Nvc3FvbDBOcXpfdFlYc1dEckQtbk9BMVlEeHBIYkdBVjJmZDYxMFFpVlR6Mm1NeEZ3cEFvcmtLLXRTWDZjQjRtRWxuYnNQQ204Q0I0Z3haTXRSN0w3QnhSYXZDOG00eXhQd2ZyTVhZc09SR3lSb0ZSMU5mYktsNzNjWTdLVGV6dmZNVQ?oc=5",
@@ -146,13 +164,22 @@
       "publishedAt": "2026-09-19T22:05:00Z"
     },
     {
-      "title": "[AI그래픽] 2026 아이치·나고야 아시안게임 한국 선수단 주요 일정 (9월20일)",
+      "title": "일본 아시안게임이 '엉망진창'인 이유 [유병철의 스포츠 렉시오]",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41VmpUNEJxeTJlNjBiSEc5VVpod0I3OGVBVVEzallhb0FVWm1iSlRHa2VJZzNQeFVUVkZCdEw1LV81UzhETDJzYTcwYm92OGNiS2t2Z19iaHh2UQ?oc=5",
-      "source": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA0TUhsbmpyWVlmUko4UGtiMmdSUlZGX1NtUk5XTHpCVk1QeGlTdmRhZm91VVpYc0ZCVTJTZnc0cHRjaDhXY2c?oc=5",
+      "source": "v.daum.net",
       "country": "한국",
       "category": "스포츠",
-      "publishedAt": "2026-09-19T21:00:00Z"
+      "publishedAt": "2026-09-19T21:42:50Z"
+    },
+    {
+      "title": "[마켓인사이트] 미중회담 빅이벤트·추석연휴…韓증시 어디로",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kYmJPR0dwVzF6NG1Uc1dmczhDZkpqVWFPb0tQVk5vd2Rmc05SUlFJdnhkb1liVm8xbGlKZEhQZU0zRmFwMVJhaXRQU1RraVp4ejRIX0hzN0RuU0HSAWBBVV95cUxObkZtUENxcldRdzBVSS1XTkk4R3A3YjNiUlBoZFI1OTJnSEVqd2tBQmFsUlF4d1lHdnl3bFJoMllUSjI5WXItb3BqTVpqaEM0WmVROW5OYUlMdGUtVUdzN2Q?oc=5",
+      "source": "연합뉴스",
+      "country": "한국",
+      "category": "경제",
+      "publishedAt": "2026-09-19T21:00:06Z"
     },
     {
       "title": "\"제미나이도 탈옥했다\"…구글, AI 에이전트 외부 기업 해킹 시인",
@@ -167,7 +194,7 @@
       "title": "Nasdaq, S&P 500, Dow Futures Slip As Chip Stocks Pull Back: LULU, NFLX, KEEL, MRLN Stocks In Focus",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORkd4V1pSeWVORXBMNlhsMXpwcjF3N2lfNk9rQmJ1djZ3akpFM1hLYTV0YWg4dThpd0NzRzZxS3Nha1I5blpCcnVoNDVXWFJLM0tSbTgwbE9OSHB4emR2U3phTWg4S1pISGhLZ05RUjFLWEotMnVvdE42MEpVaHFhSFdPOC00a2l3c2g5ZGN6QWhONFB6ZEM2SlVOYzVDNGNILWp2NTR2cGdRbUhtQ1F2Y1ctZnhHNldldlE?oc=5",
-      "source": "Stocktwits",
+      "source": "stocktwits.com",
       "country": "미국",
       "category": "주식",
       "publishedAt": "2026-09-19T18:28:25Z"
@@ -182,19 +209,19 @@
       "publishedAt": "2026-09-19T17:30:00Z"
     },
     {
-      "title": "‘Resident Evil’ Feasting at Box Office as Zach Cregger’s Reboot Races Toward $55M Opening",
+      "title": "Box Office: Zach Cregger’s ‘Resident Evil’ Scares Up $26 Million on Opening Day",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNjhzdWdNV3dmazNRQ3VfaGtaakQtLURWeFc1SkZWOEJ0UVpGTWwtN0NhVTZJU2RfYWNTYlRjWGJGYlRER1BKeXlCLTE3TnNVVkgxblFJVWZYYldmMnhtRS1xakx4dTVfQi11N1hqWW9fX1BRS19pdUR1Z1VJaVIyUGRXR05PTDNpbnluUHlkTzRKWFcxRlVsLXVaeDZoNUZyWGFUbUMxc3lsNkw2?oc=5",
-      "source": "The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV1pNeXJfYVdBcEJHQjVkWWxydzFSRE42bVRfNHhuVVZJM0JEWEJNUTRyTC1KVndHeERjU1otaXBrV0hJc0pSaWwxRkJ0ZGNDMkI1akRkdEhfUVJnZFI3VF9HUzBWVTRYMDEtZzNDOUZ2MVFKck9mdExab0s1cnZiZ0RPQnVsT012TzJhRUVKc2tLWEdE?oc=5",
+      "source": "Variety",
       "country": "미국",
       "category": "문화",
-      "publishedAt": "2026-09-19T16:46:49Z"
+      "publishedAt": "2026-09-19T16:06:00Z"
     },
     {
       "title": "Russian Progress spacecraft delivers 3 tons of cargo to the ISS (video)",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMkthZGxKVy1ZemdSSFJpY0l6V2p6bU5UZVk1c2xMU2ZHRzItRVB6ZDdMQkFuSlRGanFVdkJjQl9JQm5OVG1fZHEwSm1VYWUwTVV5VTFhUXd6d1BqVU9MQ3ptUGVXdlhPUDMwdEtiVVRYeklweGViVjJNNVRBOVNXeHF0ODhIbXJrWC1sb3dXUnpfc29jckZfRHBuMzZEVXczTWJuRGdTTnA4WHlsTWtQVjBxQ0FwZw?oc=5",
-      "source": "space.com",
+      "source": "Space",
       "country": "미국",
       "category": "과학",
       "publishedAt": "2026-09-19T15:00:09Z"
@@ -218,40 +245,13 @@
       "publishedAt": "2026-09-19T13:42:00Z"
     },
     {
-      "title": "이 대통령, 지지자 향해 \"혐오·비아냥·비난 멈추고 따뜻하게 호소\"",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xTGFNNmNMZFdXNVNIdW9oUlJtSFJsQ2hoNlc2RTE1U1laZ201YWJDT214Tm5vaWpSU2lhWlowS1pBMzNtZGktOEY1LVQ0VW5YZlAtdzQ4THdDZVg4X3c?oc=5",
-      "source": "YTN",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-09-19T13:35:00Z"
-    },
-    {
-      "title": "Turn your military experience into a paid, federal, cybersecurity career",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MbjBPdEtxVlBPWGRYWW05S0R3YjlzZWxBQmFuZkZadUpUQVAzcHRxb242aTRMTFhRbUJjaXJ4S0hhdGJJdHA3S2FXSnpoaWdyOGRDX1EtS3lHOFNKZ05tejl2MWdVUDAwYjg1VkxQR2w5ZW9UY01Dc1pJMXZudw?oc=5",
-      "source": "VA News (.gov)",
-      "country": "미국",
-      "category": "IT",
-      "publishedAt": "2026-09-19T13:30:00Z"
-    },
-    {
       "title": "A routine quality check on a Moon map turned up a bright spot ringed by a dark halo, and it marked a 222-metre crater that did not exist before spring 2024, the largest newly formed crater yet found anywhere in the solar system",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNaWRKMlY3RnVZeEN6OFY2TnE4SERKMzFwTHdDcWZQN1VVbWl3OTBJUThTay0wMHVxdTE4OHJuLWozVUlrdUpmMGdtY0dTSHVTTDdoZlRHWURpNUlmOGdvT3BBd1Jwc1JxbUNfVkRQeG5wckdhLVdXcnFSZ2FVVWlWNnIyWm9tTWtLQmtzWDJaMVB5RURsbUxPa1Byd2NCUHkwTTJFdHRZdEd6anI2ckxJdV9Yb1pqYjBIaU80NDZoUzB1cko2akZFRVJHUUtRQmc1eXBpUWFhNHlhZDdibFI0NlAxOURQc2tmY2FEWGlQQXpuek5oSkxGaW44c01kSFhjdXE2cFZpdG9tYm03MGt6UEVyRXlHTVlBd2o5RUV0RmRTaFhrTnNQX3BiRk1pQUpETjk3cEw3MnVNVUFKM3REUE14RDQ?oc=5",
-      "source": "spacedaily.com",
+      "source": "Space Daily",
       "country": "미국",
       "category": "과학",
       "publishedAt": "2026-09-19T12:00:00Z"
-    },
-    {
-      "title": "김승원 \"기밀 유출 밝힐 것\"…한동훈 \"복수할 테면 하라\"",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iTjA5bmc4bmVPNWhXdG9xWUw5VldIQ1ZDWktfTUl5OGtOWnE3ZnZLcmJrd0c2bEwwaXloZGZDSHFwUFVORktuM1VyWEVLTjFDZXpQRWVRd1Njdw?oc=5",
-      "source": "한국경제",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-09-19T06:17:16Z"
     },
     {
       "title": "329만원 아이폰 듀오 직접 접어보니…폴드8과 달랐던 '애플식 폴더블'[잇:써봐]",
