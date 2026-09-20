@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-09-20T09:28:40.197180Z",
+  "generatedAt": "2026-09-20T10:28:58.271086Z",
   "items": [
+    {
+      "title": "Archbishop Lori highlights enduring witness of women religious in American life",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd0M4TXVWVE1zMmU0aF9kSllpazh4X1VFUTZocDNGREprNTU1eEtCSVNSUUNWcWtYcWhlY1dzMHo5OFYydlBjcHFoZmQwSFlfRTk5em91OEw2VkxQZFpmZjBuVEpVeUtmR3MxSHdLMV9MTi1ScDA2RlZrQkRsLXZCdXBhR2ZZWDRoa1Y3UEJYZ20ycHg3bWwwYksySTJxSk95RV9LVHpybFZULUU5ZGZGSXFHRQ?oc=5",
+      "source": "Vatican News",
+      "country": "미국",
+      "category": "사회",
+      "publishedAt": "2026-09-20T10:01:48Z"
+    },
+    {
+      "title": "사표 쓰고 테크볼 ‘올인’···‘축구 선수 출신’ 이준석, 종목 첫 금메달로 증명했다",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jY3RSRjdnN2VGa2hISjFxOVo3UmRRTk03bm5WMkt2NWpQdU8zVzVVbU0xc3V4OFRId0pjbnZhUmVoSTc4S2RpNS1UVmp5TUdGZDdPRS1zNUVLQdIBX0FVX3lxTE8zZWEyeVY3TFhCNFVGZVN3NzQ0THlreldNbDk0YzVoV3piVWhkODQ1WHhZWTF6OTF5QlZiMEhaTEY5NV8zMWRRSkhuS1NJT1NSVkdFODJiRERLN0lxbnNV?oc=5",
+      "source": "경향신문",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-09-20T09:05:00Z"
+    },
     {
       "title": "AI 폭주 멈추는 ‘킬스위치’…정말 버튼 하나로 끌 수 있을까",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWjZMbVF5dHZjY2FxTGsyODV6ZXhRNnVLS0JpVmpIZURROTAyWjdxcXFyOUdNN1ZzQWtlT0owTm85Z1dWektqd2RodUtDV2JrQjZ0d211R2c4NHNjdUVjRUxzdHJlTDQxeVE1RkZmS04xUW5xb3JVYWFud19MZTloWlV4bw?oc=5",
-      "source": "chosun.com",
+      "source": "조선일보",
       "country": "한국",
       "category": "AI",
       "publishedAt": "2026-09-20T09:01:54Z"
@@ -14,7 +32,7 @@
       "title": "의료 AI·사이버보안 쑥…中 기술주 ETF도 강세",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iN0x6OW1Yd05ROWVURGZhNHUyYnBwZnRuV3ltZXU2NVFTS3MtUW9kY3VtWTJ1YzB3V1lOZXR1RkpaVU9LcWZKd1ZGTjNzQUpmZnJONTBQQWlodw?oc=5",
-      "source": "hankyung.com",
+      "source": "한국경제",
       "country": "한국",
       "category": "IT",
       "publishedAt": "2026-09-20T09:00:05Z"
@@ -29,31 +47,13 @@
       "publishedAt": "2026-09-20T08:27:43Z"
     },
     {
-      "title": "한국 두번째 금메달도 근대5종…전웅태 9위→2위 막판 추격의 힘",
+      "title": "추석 차례상 부담 커졌다…태백 전통시장도 30만원 넘어",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZSTFGTTltTThVZGxvUGFneFNOTGNiT0J5NzViSURpUEZvTXhtQW1Mb0gzajlMa2cxTEJYbTJvWG93VWxOdVI5QnY3eUpEM2VscXB4SzNPckxPdC1rUUoyblp6b1RTb0tyRmVhOVRZb3MyWl9za1hF?oc=5",
-      "source": "한겨레",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zR0lZU054TVZpMDltN0xzZy1KdmQzY2d1X0lwSWJOOGxFODNvbVptc1dHeWRzNW9HdFNvMGpDZGpUVDh5UTNGeDNiWFd6dGM?oc=5",
+      "source": "v.daum.net",
       "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-09-20T08:12:00Z"
-    },
-    {
-      "title": "[아시안게임] 축구선수 인생은 21살에 끝났지만…테크볼로 다시 선 이준석",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxUVAwM2ZYUHhzdV9BVldPWkJJQThmSjhKRmZleTA3LUVaM1NUTS1sdVRUUzh5aGhRNUFYSnJ3b2ZQYm9fQVp4MGc4Ymo4NkpTYVB1eTBpU1FyWk3SAWBBVV95cUxPdjRqVGJhRUxGdGU0TC1FNExEZnIwaFA4cENQYWU0ZGRwa3RRMEMwY2tBb09DS1k2SUkzTWM1YWh6dHo5WjZFNWM5d2U0MlRneU5TWFg5QU9qRTd5V1VYRDM?oc=5",
-      "source": "연합뉴스",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-09-20T07:36:31Z"
-    },
-    {
-      "title": "Archbishop Lori highlights enduring witness of women religious in American life",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd0M4TXVWVE1zMmU0aF9kSllpazh4X1VFUTZocDNGREprNTU1eEtCSVNSUUNWcWtYcWhlY1dzMHo5OFYydlBjcHFoZmQwSFlfRTk5em91OEw2VkxQZFpmZjBuVEpVeUtmR3MxSHdLMV9MTi1ScDA2RlZrQkRsLXZCdXBhR2ZZWDRoa1Y3UEJYZ20ycHg3bWwwYksySTJxSk95RV9LVHpybFZULUU5ZGZGSXFHRQ?oc=5",
-      "source": "Vatican News",
-      "country": "미국",
-      "category": "사회",
-      "publishedAt": "2026-09-20T07:01:10Z"
+      "category": "경제",
+      "publishedAt": "2026-09-20T07:58:10Z"
     },
     {
       "title": "코스피, 美증시 훈풍에 2%대 올라 6,800대...코스닥 동반 상승",
@@ -65,13 +65,22 @@
       "publishedAt": "2026-09-20T06:50:41Z"
     },
     {
-      "title": "Burned Out and Unemployed, Young People in China Are Launching AI Startups",
+      "title": "Billionaire Tata scion faces battle of his life to avert listing",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaFBhM1lLYVJMVldRN2pBM3BNdjNPckFwQTdOcGdHTUhOclU0V3RESnJmajBHc21EOU1KYUVPYV9yeFF1a2FwM0xuRVQyaFM3SWY4S3RFZUcyTF9peUVqYVhMMHp2UndFSW14bXlhU25SZkUtYkg3YVdCSjA5NnFTME1YWENIS1JvUTh4OUFlaF9qR2hRMXZUTnlGVXBqeWViOWZVbm1uSHduWjR6OFIzdWxobVNKa3JtaWo2MFc1TlhCT2JVMFhJ?oc=5",
-      "source": "wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQms1QTZyUThUcXZDR3cyal9DZzQ1UDNiUUx1d3ktWnl0aks4QWVnNzMwMzZBdnlQNlRVbFIxQXhkWWQ4bktJMndDeFV0bGhnMFhOOTJYenFhZzBuVnBqR3lzbnJFTnE2TVViOTMtVEQzWnJQWEc3bTB3cThKZVR3Zjk0Mmw?oc=5",
+      "source": "Financial Times",
       "country": "미국",
       "category": "경제",
-      "publishedAt": "2026-09-20T06:44:14Z"
+      "publishedAt": "2026-09-20T06:26:41Z"
+    },
+    {
+      "title": "Lane Kiffin reflective in defeat, as LSU falls to Ole Miss",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRGtFbHFBT2dlZV8xejFzUXBoSDh4NnYwWXNZTmVvOGJnb1pqbzhacWdUOVZQSHU2V05tTTNLWUxCdTFieVowUXhHbThXU0ViTlczaktDT3lXOWx3dVJseThKdTVGRTd4UEtzR2VHWFppSkpaOUtpc2V6ekNaS1hKNDl5enJFVllrcF9vSDZtbVFiZmxldi1hN3cwbE80dWx1MnotM18yVGhQZw?oc=5",
+      "source": "ESPN",
+      "country": "미국",
+      "category": "스포츠",
+      "publishedAt": "2026-09-20T06:11:00Z"
     },
     {
       "title": "국정원, 보안 제품 국가·공공기관 납품 문호 확대",
@@ -119,15 +128,6 @@
       "publishedAt": "2026-09-20T05:00:00Z"
     },
     {
-      "title": "[르포] \"애호박이 두 배네요\"…추석 장보러 나온 시민들 '화들짝'",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95Q1p0VnM3LWVZNktNbk8tTFVqWlFDNmtCdV85TDk3cTJhZFNBclF3Ti1oUzJoT0dCMmM4aEZUSm92WUhyYlNCcHdadDY4V2dDM0Fid9IBWkFVX3lxTFBaYndESEczeVdRMHY1UHJ5ZkE1MGM1d2lkRllKVUpnTC1pLVNidzVWQVRlTzhXaTBYejBxc2VSeE1Ub0hnLTM3dk9OWXUzOVpQX0x1RlFXMmUzZw?oc=5",
-      "source": "뉴스1",
-      "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-09-20T04:36:07Z"
-    },
-    {
       "title": "[아시안게임] 농구 결승 한일전 앞두고 대표팀 버스 '황당 노쇼'‥훈련 취소",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2VlJDanNzalBpSmktN3ltRHlwSVlFYTI5cm1HQml2TUMzMmcyU0F3ODR4RUZWQUlsUklocjU5WTNFWUs0X2U0aXlBeG5SOER0b1RCWVFSeGREaHdkWEpXT0VKbHRwZERzeTZJaEJhdUJkQWZHVlHSAXZBVV95cUxQeVRXQk9aSHdpWlRJN2FOaGpseUp6MmhKdW1Xblc5REs1MVpyMlN1eUViSlhaNzNfVWJvVzg1S1NjZ3RnaGQ0RG01LW5Ra0UxTXZoODR5QXlTUHp2QjFNbjdXMUxwa1lfRi1kTU56dTVUeTUzd2hR?oc=5",
@@ -135,15 +135,6 @@
       "country": "한국",
       "category": "스포츠",
       "publishedAt": "2026-09-20T04:12:38Z"
-    },
-    {
-      "title": "Ole Miss, Chambliss spoil Kiffin's return to Oxford, upset LSU",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQellyVXVWZjRHY0FZUC1pbUF2VzhXVm1IaVl4SlBjYVc0NGZjeWtoRDBPNmhFVXI3QlFhTlJyUjBfX2ZpV1FTZzg1ZldSZGZ0Ty1KOHBNVHJzYkZYR1FyRjBmVWp6bmZaSFJCbk5RQ2hKZl9qT2EzS1FYU3hEQ3pjQ3hpVUd6ODAwd1RYdTJZbEQtYV9iY1BBcjVIR0I1bXhmOVd2Y3NuMG9DV2VFRE1GMk9NUQ?oc=5",
-      "source": "ESPN",
-      "country": "미국",
-      "category": "스포츠",
-      "publishedAt": "2026-09-20T03:39:00Z"
     },
     {
       "title": "Ed Sheeran says situation in Gaza is 'catastrophic and unjustifiable' as he opens solo concert",
@@ -158,10 +149,19 @@
       "title": "노인일자리 올해 115만 개서 내년 118만 개로 확대",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40bkNjbU9iVHozUGx6ZGFBclNUQzlqYVNqT2dfcnpFX3Z3WW1kUEJocjlRZTBWTnliaFNVcDI4am9uenlUQTNBVkZpYVpORGRyUHY2aGs3SnZaQQ?oc=5",
-      "source": "이투데이",
+      "source": "bravo.etoday.co.kr",
       "country": "한국",
       "category": "사회",
       "publishedAt": "2026-09-20T03:00:00Z"
+    },
+    {
+      "title": "An SUV slammed into a city bus, then the news helicopters took flight. How one tragedy led to another",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DZ2JtSFg2UXlrbm85aVVaeC1vX0syMFVfSURlMlZhQ1FJbkU5eXdMWE9yZ1hHUkZkaGZxQi05akVtV3pRMHllV0x2YkNSV084NzZzVkRVZklkVjZEYm5mRWFLVXZyOTdkajktQU5lUGdWUQ?oc=5",
+      "source": "CNN",
+      "country": "미국",
+      "category": "정치",
+      "publishedAt": "2026-09-20T02:07:00Z"
     },
     {
       "title": "국힘 \"청와대·민주당, 김승원 '성추행·갑질' 탄원서 접수·공유 시점 공개해야\"",
@@ -194,7 +194,7 @@
       "title": "S&P 500, Nasdaq, Dow End Lower As US-Iran War Fear Remerges — META, SKHVY, CRCL, BA, DAL In Focus",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOX19MY2NTaC15cGRMUDRiQ3RDN0dQNEYyN3hJVl9vbTF4RDhzdzdTcEpLQmxsc01XWkpDSmdUUEc4SG11YlNWRE13bkVhUk5TMUpZSkJVdW5yTTRQcERkNTJ1VzhCZGU5MTBoazZhTDluZGFSYVJybGtUbWRUTDNIdlViY0ttWWVzTUVWRmYtc2liTnZHTXk1OER0NGRiZE5pcng3VXM3MlFpODJTMW90cEt4N2hIeEJGUDJ3RlNBRUFubGRTSzNXMVVTcVJlbGJQUV9XcVgxZUhFSTJjUFhPTVlQVEhmclgwOW5pNGlR?oc=5",
-      "source": "stocktwits.com",
+      "source": "Stocktwits",
       "country": "미국",
       "category": "주식",
       "publishedAt": "2026-09-19T23:59:51Z"
@@ -218,13 +218,13 @@
       "publishedAt": "2026-09-19T19:09:30Z"
     },
     {
-      "title": "White House turns away CNN, MS NOW, Politico reporters after Trump's ban",
+      "title": "'부상' 기권한 선수 위해 세리머니 자제하고, 찾아가 악수하고...'테크볼 첫 결승행' 이준석이 보여준 승자의 품격[나고야 LIVE]",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYlJsM3I5a1ZRT3VKVlJvVkNNNHo4Z29nLU5wN2tZTzItaTJRTW9ncmkyME1iM1hsMnpLWl9FN2lCdl96aHFvRXhxN0xxV082RVpoM2dwZS1icFI5ME13V0VPaW9DMlFKSm1wci0zMGlVYjV1UWxXd2dZRDRmb0RmWXJRbnk3ekhHQ0ZkMUc1U0U1bW1GN1Z4NV83VmlfNDBaTVB2OGhOdTN4SDVXcEF2czQ5bktSc1pVVWtQbA?oc=5",
-      "source": "Reuters",
-      "country": "미국",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRVdFZ3p4cGxoa3FVeWM3U0kyc25CejVUR0hrMHFWa19fUWJhLWlmekNkNnpPNENrVWcxU2pHcURGZElpV0ZRams4eWk0RVdQRzZEbmx0YldoSU5QaEYzbThWU2l5Q0RNRm82ZURYdlNibGo4V1Fsa19ERzBOREQ1WmNPcnRCNXdCaE0w?oc=5",
+      "source": "조선일보",
+      "country": "한국",
       "category": "정치",
-      "publishedAt": "2026-09-19T18:47:26Z"
+      "publishedAt": "2026-09-19T18:37:00Z"
     },
     {
       "title": "‘Resident Evil’ Feasting at Box Office as Zach Cregger’s Reboot Races Toward $55M Opening",
@@ -245,6 +245,15 @@
       "publishedAt": "2026-09-19T15:00:09Z"
     },
     {
+      "title": "There are ways to protect yourself from your spying TV",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QclRsOTktTVJJa3JWb1dOMUNHZVg5ZjNqUU56eTF6Z2RpQURxWkQ2djliOWYwNUh1RVR4VkZRTmJ2cVFEaVhBeDBVSVVPbmFQTDA3YWRsRE0tZVUwSlJfZGQzR3JYN3FuRW1BeDBURjA?oc=5",
+      "source": "The Verge",
+      "country": "미국",
+      "category": "기술",
+      "publishedAt": "2026-09-19T13:00:00Z"
+    },
+    {
       "title": "매일 100만 개 원자폭탄 에너지 투하‥행성을 뒤흔드는 인류의 힘 [기후인사이트 46 | 인싸M]",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kMXNvb0tIZkstVjRXdlNhOGdBZWJuMmJvUXVOTkpuRUVfUWVWQnJ1T3U1bUpacFdGR0xCRWFtM2VVVkpKUU5kSGVza1FHXzd1VXR4OGdHYXFVeGlsb1lfZE9wZEVib3JCcExOYmpvNkRTZUE?oc=5",
@@ -261,15 +270,6 @@
       "country": "미국",
       "category": "과학",
       "publishedAt": "2026-09-18T22:39:21Z"
-    },
-    {
-      "title": "What To Expect At Meta Connect 2026: New AI Glasses, A Mixed Reality Headset And More",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUnh4UTZPN3hYZGEyYnpUek5sQTlKOEdwQk1oQl9HVmY5a3JQaF9ZSDZjUEFuVmNRNTktUVZibW1yVHNrYlRacE4wWjA3c2o3bmp0NXA1QUYtOFlobTZoZmhZc0F1X3p3bnVnYmJQNEd3M0NqR0NMYlJ6M2ppVkk2dURrdjlxZkpJanhNZTJheHRuX2VULUJCb1VVSHJVTnlsZG11TC1XODk1WEdodW9mRWZ6blA1M1Fn?oc=5",
-      "source": "engadget.com",
-      "country": "미국",
-      "category": "기술",
-      "publishedAt": "2026-09-18T20:35:11Z"
     }
   ],
   "briefing": [],
