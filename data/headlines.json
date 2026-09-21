@@ -1,23 +1,68 @@
 {
-  "generatedAt": "2026-09-21T11:31:03.724172Z",
+  "generatedAt": "2026-09-21T12:34:09.441563Z",
   "items": [
     {
-      "title": "수영 김영범, 자유형 50m ‘금’…전날 은메달 따고 바로 AG 신기록",
+      "title": "[아시안게임] 곽빈 1OK 무피안타 무실점 역투…한국 야구, 대만 완파",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2dm9IWV9uWS0wT21TSFJUa3JYRnNEdlVxcnE0a3lkSE9hRDI1YjFQVkR5bnV3TFFBNDJUZU9mQzJnV3RmZ0JsdlA0SUZkVE54WE93VGpnRF9lR1ZZcWYwZjBGRXhtLXpjcExicGw5ajl2V1hJVmZZ?oc=5",
-      "source": "한겨레",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLNEsyaVVRRkFhSVRDSHhMUUN6UnlzQkU5STc0YkJhUkgxMUU2d3U1QXE1aDd6STM3T1JCSy1TbmFJRS1NWFJKS3NjT0t4MHhJUEZxYlc5YjU5TFXSAWBBVV95cUxNNHdRdmc1aVIwcUJLNUsyN2VISDBnUGwxdHBWX0VvMUhhY1dWWGR6bzJHUGNkanIyTFNBWklhZFMxS3NMRkZCeGprWExPNDVfd1B3OWt3Q3Z4NXZMN1ZxZEc?oc=5",
+      "source": "연합뉴스",
       "country": "한국",
       "category": "스포츠",
-      "publishedAt": "2026-09-21T11:08:00Z"
+      "publishedAt": "2026-09-21T12:05:52Z"
     },
     {
-      "title": "Stocks advance after Bessent says talks with China were successful before Trump-Xi meeting",
+      "title": "Stock Market Today: Dow Futures Gain as Oil Prices Fall — Live Updates",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDNDazNXMFFxamlNa0U3eGdIWUROLTlNZU5lSElwaXhMdEpQUm5yV3VLWnFlbi1RM0hNTHpKMHB4MXEweDZ6empja0c3cHE4dzlPWm4xek13QXZsMlF0MVZxYWNmZ3pRZ0oxQWFNZW9rSW9oM3hUNjJYUld4SURDclhxYkJETzhGYTNPdzl6SlVKOGtvM2lSaWplTDlBUXpmdXc?oc=5",
-      "source": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNam9GTktGNDJ3TmRkQW9Fbk51TWJadS1aVnNEYUwydEgwb0NCLVQ2NHJjQ19aTUloUVJWSk9wVklRcmxhMVFBTDFCV2RQRHFNRy1RNVFMcHM4T2wxVjB5dlVjMGZmdXBkTmNVNFZxb0NpRTg1aGFEeWx3amk2MndtVTRIQVpKaVk?oc=5",
+      "source": "WSJ",
       "country": "미국",
       "category": "경제",
-      "publishedAt": "2026-09-21T10:13:00Z"
+      "publishedAt": "2026-09-21T12:03:00Z"
+    },
+    {
+      "title": "“AI가 통제 불가능? 미 정부, 대책 있다”",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGQVYydXJ0dFE4ak03anhEMTFmOXVoRnhmS2JmWS10VEtraUN5QnpGYnZKdXM0N05YaWU4NXcwdlNpRHYtdjBKaDVuSFFfRXdqckpVeTNKNzNxQdIBX0FVX3lxTFBRTlNydHEyYjRSMkNfTFVxeGk3clhTSmdOV3hsLWlzbXI2clZadWlTYmdSdDlYM1lnaUpGamIyd0wyWEV6aWFpSUNYUlBzZG93TGZ1VmRPb2JaODBYbzhr?oc=5",
+      "source": "경향신문",
+      "country": "한국",
+      "category": "AI",
+      "publishedAt": "2026-09-21T11:54:00Z"
+    },
+    {
+      "title": "메가특구 사회적 대화, 내일 실무회의…의제 선정 본격화(종합)",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uLW5kaHB0R2RrWC1EQ0xzWXJQRHhDcTRsamVvTDR1NVNWWlJYa3hJX1JhSEljMXpnQVFRM21Za1JFZEtyNFNXV19ucmVuWE9pdGc?oc=5",
+      "source": "매일경제 마켓",
+      "country": "한국",
+      "category": "사회",
+      "publishedAt": "2026-09-21T11:26:03Z"
+    },
+    {
+      "title": "Nissan eyes increasing U.S. production as new Rogue hybrid launches",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IYUxCWWFRYXlSU1hzc3BsNDVhaWJDeHhhcVlnMGtUV1Y3UTh5dUE1VU44cTM4VUVFYkZjZjBpMENuMWdmRGJ0Q2hhSEdmaXZwTm5rYm00b2I4REFjT2hrSV83UVdjN3lzMGVSY0pzZ3A5VmfSAXhBVV95cUxPR2o0Z1AtNVNIQnAyZzJ3RHYzU3lFRkNMYjdQSndhOTRvbm11dkNTN0pvaU9XaTJfZHAyZ0dHc1ZXYmVJeDNjaVJCRjVfcm1Bd2RkbzUtUkhQbF9XZ3NWYWFDVnF2TmRnNWRib1hHLWI4LWFiNHMyd2c?oc=5",
+      "source": "CNBC",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-09-21T11:00:01Z"
+    },
+    {
+      "title": "Artificial intelligence data centers could reach one percent of global electricity demand by 2030",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52LWVBcEJFVm5Dcm80UWNfaVNhRy04Qmt0OGhyNklYcGxGYVpCaE1NWFFGak0wWndxWW5FS0RZZU1HaTNKSmdjWnZDbGZKZWZWMkNRN2RBSG9QMmhQWVFj?oc=5",
+      "source": "Nature",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-09-21T10:54:10Z"
+    },
+    {
+      "title": "U.S. and China Discuss System to Warn of A.I. National Security Issues",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZzF1U1p0TVN5LWRKZlJGc29FSlJsNERlZWdtVmJLMUZsVktQc2I5TVRjdk14aTBJYzZRaUpGWlR1d0hBTlZIclhSSVJhRUNENERxRjFEQ3YwbjdXZFl4Y1Q0bkJpdVo2QUlQdHFmUHRNc0puWEVQQURTSUQ0SUVkUm9GdlplZmhPaFdaVHdXNVhhRTBXRGdoZA?oc=5",
+      "source": "The New York Times",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-09-21T10:53:00Z"
     },
     {
       "title": "NIST awards over $1.7 million to expand cybersecurity education and workforce development across eight states",
@@ -29,6 +74,15 @@
       "publishedAt": "2026-09-21T10:10:52Z"
     },
     {
+      "title": "The S&P 500 Could Dip to 7500 This Month, Charts Show. Will That Be the Bottom?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSmoyb2JTS0J2Q3lublYzdkZlRXp1UmE4RGZoSFI1Smo2S3ZFMjNCMnA2ei1zZzAyT3pNdzhwaC1INi1ueUtmcTNqUTlqdldxVFR6cmFsMGdCTFZoRlJEeEh3OEJCQTlkYWxQMzhkSHJuQXI4VFJfaWxJRHdBSFR6RWlRSDFXWW1hUkZHQjN2MEhFUQ?oc=5",
+      "source": "Barron's",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-09-21T10:10:40Z"
+    },
+    {
       "title": "이재명 정부 첫 주거복지로드맵…“중산층까지 임대주택 혜택”",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03UEprOFZEdDJmXzR0eFlSMVJtZS1nWTdrZnVSQ0plTzhsX21XbUxvX3dpSExFRERpdDdxUUF1dGFUSXI0QXhMWmVNa19RQ2dUSDJiV1h3SEsxM3c?oc=5",
@@ -36,15 +90,6 @@
       "country": "한국",
       "category": "경제",
       "publishedAt": "2026-09-21T10:05:00Z"
-    },
-    {
-      "title": "Artificial Intelligence at Cleveland Clinic",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JajlabnQ1R3pxblFlM2FKYWNuLVctVDBLOVNLZXkwSG5fTDhtQW1JUXJRUXVSY0pWZlNmSGxpZ2tKT1RxNVREc0JDVi1oNkpKWWJqTDVjY2xtbk5uZkljRDBJczJYRmdXNmlRY3hvYw?oc=5",
-      "source": "Emerj Artificial Intelligence Research",
-      "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-09-21T10:02:30Z"
     },
     {
       "title": "SP 500 Analysis SPX regains confidence in Middle East deescalation expectations",
@@ -56,13 +101,22 @@
       "publishedAt": "2026-09-21T10:01:59Z"
     },
     {
-      "title": "120년 만에 세운 국민주권?…광복절에 등판한 AI 주권",
+      "title": "Caleb Williams-less Bears, puzzling Packers and a turbulent NFC North: Sando’s Pick Six",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWHA1WlZoRWdLb2JEUER5Tm96WHBPVVJDN2doTE9NQjgzU1E1cW5keHowVFlNTGJKcE9ySEtkY183aDlBbVNzdG5uY01mQ3pfbHYyV0JfbnNNYzN1MzV6bjZYQUxCd3RJWmhrSG1OdFhlOW0tZEZQU085SDUzaU13MjM5UmpyUVk?oc=5",
-      "source": "대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOUdORmZtVFB6ZDBjV1k2VmlIQ05DbnQxSUJZYkZaR1ZJdEZ1UnJsR3gyT3V0NWctQ0NxSU4wdzRjS0kxWEdialJpRlIxbl9MMlZDY0VNOTVlUE9PeVQ1SUQ4cFZfcVhzQWtEN1hnOU93Z3Rienlod0pMTlg1RTk5Zy1HWW5fODk4Yl9Oek9yY1A5VmhQ?oc=5",
+      "source": "The New York Times",
+      "country": "미국",
+      "category": "스포츠",
+      "publishedAt": "2026-09-21T09:53:58Z"
+    },
+    {
+      "title": "심수봉 “아가씨, 노래가 뭔지 모르네”…17살 김다현 ‘공개비판’ 사과",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ld0hYWVlpSkVZWVpzemgyVzZfVVZNTTNTSFhyT2dwRV9uV3psUGtoWW8xUjBwU0NvU0F1R2s2cFlpZGJQODFKYklibE00X2pCbnBNblZnUHRIaGlTRXM2SmkwRUY?oc=5",
+      "source": "한겨레",
       "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-09-21T09:41:09Z"
+      "category": "문화",
+      "publishedAt": "2026-09-21T09:47:00Z"
     },
     {
       "title": "삼성전자 5% 급등…코스피 7,000선 탈환",
@@ -74,31 +128,22 @@
       "publishedAt": "2026-09-21T09:34:00Z"
     },
     {
-      "title": "U.S. Stocks Down as Oil, Yield Shock Continues",
+      "title": "Hideo Kojima Says Sony Dropped PHYSINT During a Zoom Call and Gave No Reason",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdldNN0llVjJVYnJfekk5ZGQ2ZHAwZGJjaWdhY2Q4QzhBV3FBc2EwUTZ4YTQzYzZSYnNJVThHS21JRFR1ZmpHV09BZnJNMHFfd3NNeGNxT29oRVNpTnV1WVp3cDExOVFaYnRFdjdEOWRZcnNsWkdPeVc2VjBDVDBmejNKWVgweHZjcHVyc1B5T3hjZw?oc=5",
-      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdXBUS1B3YXhDYUNyeXFGejYtR3FfTFJpM3ZpRXVjR2VsSk5XSWMxQmdzVEV3TnFEMDd5T044al9LdzV6MEhWRFJmaEZHdzBKRDZCUFY1VmVxX1I2RnRqSkI5a3lrdHlDYUp6SE9PZGQ3SDcwZ0dZZlJZV1JKOU9hSlZqQk44NkFJdm5oTW9LTWVuS1pIelVPb2o5VzctUEpidUx1OHRzVzRjdHA5bENYTdIBtgFBVV95cUxPWU5PdkYxY0RrcjVYalNJX1hGZ1ZqY1o0cWpReUFJQWpwWkpIQVJNdGMwUjlJenh4M3pYU2V4VXdpeGpLOEhia0xuVFBzRlJCdlZjcUZ0ZXlWLWg1eG9SY2lWR1hxaDFwWFBfb2hDdDJGU2ZnZmdiRzk5NXNYaUJkb0hON3FIRU0wa2RQb2gxY1RYQktxWkFQdE4xUTdidHhxRTdwb0hramRNajNHMWF5eFE4dmtSdw?oc=5",
+      "source": "TechPowerUp",
       "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-09-21T09:07:20Z"
+      "category": "기술",
+      "publishedAt": "2026-09-21T09:02:15Z"
     },
     {
-      "title": "The data center backlash is reshaping American politics — one community at a time",
+      "title": "The turbulent AI era is here. The choices we make now are critical.",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeTJFa09PS2FucUxFQlAyLTVyZDNHVlFobW1JSU0zQkRYNzQzODlnWlNiMU5OVFA5dWRRc0EzdnJEaHd5dUZPdW96R0RzdWx2LWxIWkswSlFuMU5FSXV0M213M2txb1hJX3ZTeUw0b2xhVjV4XzJ0cHhEMDZEdXIyRg?oc=5",
-      "source": "NPR",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+      "source": "Gates Notes",
       "country": "미국",
       "category": "사회",
-      "publishedAt": "2026-09-21T09:00:00Z"
-    },
-    {
-      "title": "Stock futures rise after Dow posts third straight losing week: Live updates",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9PV3BMZGlwWktIQVdmYWdJMWl3eVJHMUFfR2pPNUQ3dVk5OVROd2ZYQ3BzNEdSbElpSW5UREJmLVJxbVdJUzdITzNTM2QyM3FlV1hlZUp6anc5MFd6cEtPeW84WWNzZHZGaXVjd0Q3STRJRUFERmFN0gF8QVVfeXFMT1JBRmVDRWpaTXhKZDhZSTVWbllXZ3dZNzVhQVlPdjExaXNsY3daUVF1ZmFIOFNsQlJzeXpTc0plejhnNGhvRjdaZWlyYlp5QlFmMVFncmZvNEJNQjNUZTdLUldiMWJfS2JMYm5YaUJaNWRHekNLX1FqeXl6dw?oc=5",
-      "source": "CNBC",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-09-21T08:47:04Z"
+      "publishedAt": "2026-09-21T08:40:18Z"
     },
     {
       "title": "아이온커뮤니케이션즈, AI 인사이트 스튜디오·AI DevOps 네이버클라우드 마켓플레이스 출시",
@@ -119,13 +164,13 @@
       "publishedAt": "2026-09-21T08:22:00Z"
     },
     {
-      "title": "심수봉, 54세 연하 후배 김다현 공개 비판 논란…하루 만에 “실언했다” 사과",
+      "title": "[속보] 김영범, 아시안게임 수영 남자 자유형 50ｍ 금메달",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Vb2thNXMwRDdjODBOZXFHdjNPYm85OG9DWWFXUFhvZC1jNFVtS3Zwc0trS3lPMGxRX21wLTZzazg5QkdXbENhRkotZ01QTHVVd1FiN18wQV9ud29lWHk4?oc=5",
-      "source": "YTN star",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GZi1pUVlxLVlJemlmak5MMjlpUk56ZjFzeVo5RXNzRllHSkxCQUhySUtZQ1kwa2NHcy1Ga1EzRDJXUWxhSnFWa1o3Q25fTWZSSC1CdQ?oc=5",
+      "source": "JTBC",
       "country": "한국",
-      "category": "문화",
-      "publishedAt": "2026-09-21T08:05:00Z"
+      "category": "스포츠",
+      "publishedAt": "2026-09-21T08:21:00Z"
     },
     {
       "title": "메가존클라우드, 코웨이에 ‘위즈’ 기반 멀티 클라우드 보안 체계 구축",
@@ -146,15 +191,6 @@
       "publishedAt": "2026-09-21T07:23:00Z"
     },
     {
-      "title": "‘버스 노쇼’에도 金 따낸 농구대표팀…“가는 날까지도 안 와” [아시안게임]",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IWW5BQ1J4NzRHZUEtM21YRDNsUXBqT3hicFlIMFVTZ2JPS25FZktaZmVkejdwazVTdW5OeVk0dnlmRHVLd3ZXT2ducDdiYTNaT3pxZEhFRVd5NEE?oc=5",
-      "source": "경기일보",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-09-21T06:59:59Z"
-    },
-    {
       "title": "[속보] 여인형 18년·이진우 15년…‘내란 가담’ 전직 사령관들 1심 징역형",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vbDV2Q0FFTlZUU3ZZTW9VM3YxMG9SdVRvVTMxMjFtck9YSks4VU5SSFItX1pRb2kta1l4dWJ5bmFQVEI4aEh6MzFkSXJTQjFJanRKeDZfV1NtZ9IBX0FVX3lxTFBMQXpiQ2VOYUhSa2hzSDhvZ28xY215ZmdJQUFDbjZ5RTU2di02aXloRC03Z3hRN19GMDBJaWZKdzFUS2JaVVRkb2dpQUtmY3IwYmdkNGFkS1ZpQTVuTG9v?oc=5",
@@ -173,33 +209,6 @@
       "publishedAt": "2026-09-21T06:50:31Z"
     },
     {
-      "title": "Colts' Shane Steichen defends OT playcalling in loss to Chiefs",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTkdhOVdyS0JXY0hUWkMxNWpHTnpIMkpzQnM1R2ZTUW1Sazhkc090azlOT241RmhyY3lFVVI2T0tqS1FTYlFNdHl4cVBnMERfbng0VHMzQVRDcXBLb3VoY2RVUktjb3ZkdWFNNkNUNmxsZHUtN2RaZTYzTjlZSnplRjZHR0ZtODRJcEJ0akxpY0gyeTNnd3Q1UWxhMUhuOHFPekVtTk9R?oc=5",
-      "source": "ESPN",
-      "country": "미국",
-      "category": "스포츠",
-      "publishedAt": "2026-09-21T06:34:00Z"
-    },
-    {
-      "title": "The turbulent AI era is here. The choices we make now are critical.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
-      "source": "Gates Notes",
-      "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-09-21T05:39:40Z"
-    },
-    {
-      "title": "기빙플러스·서울교통공사, 봉은사역서 ‘추석 맞이 나눔 바자회’ 개최",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SMVNqa2tUV0FseDczWkhtd0g5UEZYeUViMm16OWJERHJJWW9LaU9Sb3B5RzdYdlJLRUJTOWJrRHh1eGtyMHNNemtJTTEtQ05aX0thSVh3SlpSQQ?oc=5",
-      "source": "이투데이",
-      "country": "한국",
-      "category": "사회",
-      "publishedAt": "2026-09-21T05:29:00Z"
-    },
-    {
       "title": "서울경찰청, 김승원 성추행 의혹에 \"의혹만으로 수사 착수 못 해\"",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51Tnh3cGV3eXI0OERBOWJCY3ZhWlN3OXJheHlOR3R6N05TUWFKNGVHS0dxYTdpaEdYaTZ5cXVpMUI1cnMzRlY0Y0picHFRNndaMkRKSXdWNkVXMklpbWJ1WFVyT1RLemtuSVdtVkNrdDRyUlRZdzRV0gF3QVVfeXFMUEJwanEyV09tTWFCM09xSGQ1MVNQc1hET3ZVZFkxWW5vOGZ5ZWlnalYxTVhieFJBdTNpX3JpNlh5blZkeFpzTUJGRG9KbGE3NTVOYUprSFp0NHR6eHpLX3pSV3pOLTNvV2xwYUNKaWF4dnlXM0UxSHM?oc=5",
@@ -207,15 +216,6 @@
       "country": "한국",
       "category": "정치",
       "publishedAt": "2026-09-21T04:43:31Z"
-    },
-    {
-      "title": "iFixit Shares iPhone 18 Pro Teardown With Inside Look at New Features",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCOEt3d2pBX2pKSnhNYUw0SHpLaVFjYjlUNFFqZnpjeEtYeWZOblJKZFBYd3AxTWNpTk4xN1d2NU13VHJkeFdlWkxHZkFSZWFzWFQ3aThVWTRpai1Fd1E0a1FFdU92dkczZTdnNVNYSDZJckE5ZXc?oc=5",
-      "source": "MacRumors",
-      "country": "미국",
-      "category": "기술",
-      "publishedAt": "2026-09-21T03:44:00Z"
     },
     {
       "title": "Paramount Suit Settlement Talks Blocked By Four State Attorneys General",
@@ -245,15 +245,6 @@
       "publishedAt": "2026-09-20T19:50:03Z"
     },
     {
-      "title": "Venus ate its moon: How Earth's 'twin' could have swallowed a rocky satellite",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HSVB6aFhqOEtnWlFSMjFoS3paVXdZbjc5NzBra2N4dndlSkFLTHl4RnF1Z0JMN1lGRUtQLWgxNVFfM3l5cml4bElCeG5xRUZSWEMyNzZiN1VpZTVEY0ptdHNzN25xY3R6TlQ0Qg?oc=5",
-      "source": "Phys.org",
-      "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-09-20T18:30:02Z"
-    },
-    {
       "title": "“시속 97㎞인데 운전자는 쿨쿨”…테슬라 믿고 잠든 男의 최후",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VYWRNTnJFZGsycW1WZUpRV20tMlk5MDNzWV9kanA1aGRva2V6ZzBsTFljdEpDLXgwd0xFd3hGWmNsU3ZJUUdIbldLbzNXWVE?oc=5",
@@ -261,6 +252,15 @@
       "country": "한국",
       "category": "기술",
       "publishedAt": "2026-09-20T12:09:00Z"
+    },
+    {
+      "title": "'We are on our way to groundbreaking science': Stars turn neon-green in first test image from NASA's Roman telescope — Space photo of the week",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPVzM0Q0FMeElhZ0d0Vm92cEkzUm9EeWFiUzBsYUdfZmJndVhwQnBPamNoV3N3VXRXYjd2NlcwcXI1WGR6Y3Z6V3NnWTE1UUJRR3QtRy1zb0xWRjcyWUgzRHlNaTM4ak5vRmtEdlU4NVVMNndNN2FkNDFTMmpwQzhBd09ZLTQ3SnNJbFdZNDhLcHYtVzJYYlBqblRCYktMNHhtZzhFZHAyU1BZS1FtYUtYeU5XbElmcXVaQlREVGwwY1duYXo1M1NkWDctaWx6OXQ4N2pSQldQYWFHNk9LdXd6Q1duSEw0ak1wZkoyWXJSMXNGS005WlE4ZnhCZVlSVm91REVUTW5mY1R6Z2Yz?oc=5",
+      "source": "Live Science",
+      "country": "미국",
+      "category": "과학",
+      "publishedAt": "2026-09-20T10:00:00Z"
     },
     {
       "title": "Russian Progress spacecraft delivers 3 tons of cargo to the ISS (video)",
