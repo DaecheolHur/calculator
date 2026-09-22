@@ -1,23 +1,86 @@
 {
-  "generatedAt": "2026-09-22T00:36:29.384310Z",
+  "generatedAt": "2026-09-22T01:29:43.251130Z",
   "items": [
     {
-      "title": "[속보] 코스피 2%대 상승…7,160선 출발",
+      "title": "UCLA is the nation’s No. 1 public university",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55bEt2UEo2b0hIYzVFcVhjaTBkQUp6NGhoSXdodGNGNkQzUUJNdDVXNG13X0RkcENBcXhCSGloTUJyY2JiN19wRl9fWjhQblpKT2t6N0ZsX0xMRUFVUXNES1ZyMlFuYTg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVkxJZ1FwWUk5WUtqVmJWYU9tcnpRNmpkcnVCT3ZMOUl4VU5UZ19aUG1oMlBBLWRuNkJJWG4zYVc1czBRZjJxVFFYM1lRU3JwYnk2NTkyS2RVN2UxcThjSkxxZ3JZRFRRWlFsYW4wU3FfS2lXQk92NEFvT3hVN0QzdkhLaWVWZjFSZ0VV?oc=5",
+      "source": "Newsroom | UCLA",
+      "country": "미국",
+      "category": "사회",
+      "publishedAt": "2026-09-22T01:19:45Z"
+    },
+    {
+      "title": "IPARK현대산업, 한국사회복지협의회 바로잇에 기부금 전달",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04bHk0QUstdDA0OExSRkpzUVlqem45VktiUHBtLVVFU0QwWHpRaXpjb2FaNDV6VTRSZkY2Nl9kS21IdFE2eDZqQnlVVWZ1YWJsMGpFR2d4T1dtUmtHSElwa2lhYVFMclpWZnZZ?oc=5",
+      "source": "conslove.co.kr",
+      "country": "한국",
+      "category": "사회",
+      "publishedAt": "2026-09-22T01:10:42Z"
+    },
+    {
+      "title": "17살 김다현 “심수봉 선생님이 직접 사과…잘 추스를 것”",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91bFZzeTNkYWpzd1p0d3pjelhXSm0xOF9lc1A4S3JLdVg5WVQxdTk1SDRXTHhPQXdsZUZ6WUgwUXI1UGFMYzRaRzZ1LUNqZ1c4RUZuRGhVdWwzRVUtQlFNUnpJYmxTR3EtdU1fa2ptX0dHUQ?oc=5",
+      "source": "한겨레",
+      "country": "한국",
+      "category": "문화",
+      "publishedAt": "2026-09-22T01:00:00Z"
+    },
+    {
+      "title": "네이버클라우드, DB·서버 접근제어 통합 보안 서비스 출시... “개인정보보호법 부담 낮춰”",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uNzZ4X3FCVmYweFdmNkx6Y0JFaEFZSDZ3d2swaktNaTZRXzBoYlFZM3QxdlpmdlgzNnFoSWJvSU5IRE12d1YwRjhFX0ZCTFVyWFUxUTladl8xTGFXQWJyQXctN1ZrVGI3N05v?oc=5",
+      "source": "보안뉴스",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-09-22T00:59:52Z"
+    },
+    {
+      "title": "AI, 관찰로 제조 현장의 암묵지를 배우다",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPQzkyVHJOaV9xWklwdl8yOUJzQXpSSkFrU0Uxd1Q3QUFOODUtYXdYd1RpRWxUQXJVT1dDcm95SUZ6dWVZRHlKelBWZE9wbzFrRzF4c2NSeDJzM1pVOXRKWUZmR243LVM3RjRiZGt4NUhnLUpTSWNoVHM2U094aUhjY3ZLZE1ZWjlITFJDTWpKcU5CYmRMUlF6UUM3Z3p4OHlReXd4N0ZCX1F4aVpmdlNpWl9HTGtINHR6VTRpRVM2eXFSeGZieURzQVU3NjBiMVBuTGhtY1BINUdvQXV6cUJpTGQ4MklLS2tvcXJkUW5zSmdOYWxvblZWT3FaaGE1LVE0cEpr?oc=5",
+      "source": "포스코그룹 뉴스룸",
+      "country": "한국",
+      "category": "AI",
+      "publishedAt": "2026-09-22T00:47:59Z"
+    },
+    {
+      "title": "동서발전, '제3회 대한민국 사회적가치 페스타' 참가",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vS1VDcE1mRVZkUG4ya2trNTNqMlREOWdkWnZuM3BRRTBZTlNJX2R6Q3ZPdTJYVllZb3JRWUE3aFNUYlhqYUhKQXBBeXYwaXFFU1VQX3lQSEdURkHSAWBBVV95cUxNRzcwdXloVjcxWjhta1piVEFjNnhNeVgzQWpCWl9NaXkwNEpJdFhnQ0huanVYLV9iUzRZSGpWTTVUVnVMR0JyeWYyM1ZXN2ZzSFJnVzlOcjhsNVE3bnQ3UFQ?oc=5",
+      "source": "연합뉴스",
+      "country": "한국",
+      "category": "사회",
+      "publishedAt": "2026-09-22T00:46:27Z"
+    },
+    {
+      "title": "캐시 우드 \"금리 오르는데 주가 상승…기술혁명이 경제 구조 바꿔\"",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DRjh6YUF5T0JsRGI4S1ZqYTJyM1lZN3pudkZyRzFTT3pjNnpQMFBoNXVmd3liX0dRVE9OMmN0d3A3bDVETUt2Nl9nLUhPSHlrSmJvVFUzZHJnLWpCY1VPM1ZOeFpYWDRKWVljTWV4MGw?oc=5",
+      "source": "연합인포맥스",
+      "country": "한국",
+      "category": "경제",
+      "publishedAt": "2026-09-22T00:45:09Z"
+    },
+    {
+      "title": "코스피, 2.20%오른 7,161.61 출발…코스닥도 1%대 상승",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBodzdadGNiam12RDFBSGZ4WHJpclVZR2ZJVkxrdHlvT2JSZENobUxTNkdYQzlsMGVUSFB1MERRbUthdGZ4VHVxbEQxUmhJTnp3OWI4LWl4NTZrNzc2ZUVpZXdzbElJcWc?oc=5",
       "source": "연합뉴스TV",
       "country": "한국",
       "category": "주식",
-      "publishedAt": "2026-09-22T00:06:00Z"
+      "publishedAt": "2026-09-22T00:13:00Z"
     },
     {
-      "title": "SG \"AI 투자 다음 수혜주는 사이버보안\"…이익 성장·밸류에이션 매력",
+      "title": "SG \"AI 투자 다음 수혜주는 사이버보안\"…이익 성장·밸류에이션 매력 |",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03bGRESjZWYUJpbkhscGhhWVV2MlRabHJnc1VNWFd4ODlmanp6S0FoVG1vQlVvbk8zVXBRUDJjUEcxdmxfSF9iVFM1aWtRSElYWWlzUUdEVGNQNTFkUXpnWlBsUVRqRHdLdnVfOGRBMkc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jSEZCY0k2b1BYNEV4RmRiUUUxdFVlZXZUZU51ZjZENnVNU2xZZUNocktVb3QwNUFhakdYMlNGUk1fV0VkcXM4aVVNeUFiZGc0eXNWaDYzeUhxYk51WWlDa0o3d19qLTBYQ1B6anlZZ1RhWnl1?oc=5",
       "source": "연합인포맥스",
       "country": "한국",
       "category": "IT",
-      "publishedAt": "2026-09-21T23:48:55Z"
+      "publishedAt": "2026-09-21T23:52:43Z"
     },
     {
       "title": "Venezuelan man shot by ICE in Texas says he’s in pain and still has bullet in his back",
@@ -27,24 +90,6 @@
       "country": "미국",
       "category": "정치",
       "publishedAt": "2026-09-21T23:21:24Z"
-    },
-    {
-      "title": "Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUY0bG1IQkExN3pxSFZoX1VGN0hTNkluZ1hFd1F6VzZwdWtPRExzOXRnS0prRjV1M0I3U2tfUnhZcmJSQkV6STFKbUo2YXB6S1RhNUkycUFJUXg3UXA0WW9CWkRYaVVVUGRqRmRtUERCU1I4M3ZMYXhETmY1Q3FZQU9Ob1MtMzRONFc3NVFrNzVpcTQySVRzd1dENmcxdw?oc=5",
-      "source": "Reuters",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-09-21T23:12:31Z"
-    },
-    {
-      "title": "트럼프 \"중국보다 AI 계속 앞설 것\"...경윳값 폭등에는 우크라 전쟁 탓",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XRjliTEItTWFFNDc0ZkoxQ3hfcXB3NTU5ZFJoM1FWWGtJTU5YMnRNMlM1ckQ1Y2xhWWZyMGpxT3gtVnVpaEd0NG1CNlNfaG5Nd3lfaTJmWEpsclZFYXc?oc=5",
-      "source": "YTN",
-      "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-09-21T22:53:00Z"
     },
     {
       "title": "Giants vs. Rams predictions, odds, time: Week 2 'Monday Night Football' picks, NFL best bets by proven model",
@@ -74,22 +119,13 @@
       "publishedAt": "2026-09-21T22:33:29Z"
     },
     {
-      "title": "앱을 닫아도 클라우드는 켜져 있다…AI 에이전트가 흔드는 반도체 판도",
+      "title": "Presley Gerber, model and son of Cindy Crawford, dies at 27",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdzFLdkVYeG8zVmRUUWlvZ0hfYlpyX2lKYkNxZi1Qa2ZfVFBmMTdpNFdEM0pGc1Etc0NQc08yR2tFSk92LXpENXJNU1FVVU5tRGthanhENEFWLUE4SzBYcEYxQ05tOUhVS184TGg3b2Rka3J0Q2pIZmE0dU5JYnBaRkcwODV1ekNI?oc=5",
-      "source": "글로벌이코노믹",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-09-21T21:51:06Z"
-    },
-    {
-      "title": "김다현, 저격한 심수봉 용서...\"사과 전화받았다\" - 머니투데이",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MaXJYV2pZZ1pab1A4SzFCMGloTjUtRWFTc25KaXIxNTE0Vl80YU82UUttZ1RVc2VuQkx2X21uV1ppQ1BkWWIwZmd6V3VRbjM3RW9kdVZydUYwZWpCWGo1bm55dG42Slh1Z21VdURyeF9jWlHSAXhBVV95cUxNbmNubHo5LURGQXRsd1dRMjI4Um5MQm1yN1ZfajViQnZTc21VLUlqYWNlUHNQckZpMDVUSVBpRUhPYTVQeGIzVzRUaXd1ak5JMGtWT2VZUk1iOXgwWUl5bXFUSmJTWlRFeGJ6SDRMNTlLMFo0WkwxdHo?oc=5",
-      "source": "머니투데이",
-      "country": "한국",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVEpHZlNqaEUtZ09ueVpvUkhSbFVpSTNzX0pSNXQwOTA1UjQxVlVqMno4bWVrRmcyTnV2VTZ4aHFKd1BUd3RtVml4UWpDSjdHWnJBMmd4N0NJeUpJY3dEdERNUDF4UURvekdTdV9jUlJUZWFxOEc1VWVXWHdjVGlHd01NdDRaMFhmcGxkaGJZeFhyNHd0OXowZGhPbzQydUc3NEM1TDJfWVE?oc=5",
+      "source": "AP News",
+      "country": "미국",
       "category": "문화",
-      "publishedAt": "2026-09-21T21:35:50Z"
+      "publishedAt": "2026-09-21T22:31:00Z"
     },
     {
       "title": "New York State Senate to Hold Hearing on Water Infrastructure Cybersecurity and Preparedness",
@@ -101,15 +137,6 @@
       "publishedAt": "2026-09-21T21:11:45Z"
     },
     {
-      "title": "Cindy Crawford’s son Presley Gerber said he was ‘terrified’ in raw addiction post months before death at 27",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZTVaWnJBcXU1X2dFR0QzQXVrSndYS0lMMlhnazdickozZWQ2b3lWWjRfX1pENl85dGxueXNrcDAzS0lPX19YTV9oZC0tbVVEelpLWk93VjBTNVNVdzNkbm53WGthYWU1SzhYR1A3R1haU0ZQcjAydDFRVnl1cGNZbEoxRGZBc1hKLTFHUTRLNk5GbVpGQlBvczRMbWRDaUY1X3AxcUhQMWZyREU0YVdSbzhPYlk3RktTa0ZrQXBNMVPSAcYBQVVfeXFMT2tuMGItS3dfUWdIQWplNDZVRnN0WjRrNkFOaDhlVU9tR0gybkVNeTlNN29QTjQtUTJUZTFYdGtjUXYzdjFIN1V1YnlHaVdZQTRfQ2tpWEtLWDNXZm52QnV3bXB5alBMbTl4VVRocko5Y3VkdGk0RDNtSm5kWlJmZHRRTWJ2WTUydTBIX1dIOHRmRnRQUVU1WVZ6ZVI1Zm1BbEd2RzRtRU93SDJTYmZJakRjVnBsUUdWbS1xeGs0WnZ4bVpuZzJB?oc=5",
-      "source": "Fox News",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-09-21T21:01:34Z"
-    },
-    {
       "title": "The turbulent AI era is here. The choices we make now are critical.",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
@@ -119,6 +146,15 @@
       "publishedAt": "2026-09-21T20:43:14Z"
     },
     {
+      "title": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.71%",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNenR4S2JqSTJGQWpWYTdPMHRzMFM1M1FGdURNMFd3WkhGY2xaaWVreHRoYzJQdGdjT0dLMTVUSmtueG9vMV93TVVfbm5zQ0pjSWdCakVhQ1NQN2ZRTkQ5ZV9LNWo1bHFyUHllZ0FoRGFZS1J0UWd3aXVyTGNWenZDc3pPeWJFS3ZsZzNxdHdtTmw3TUNKRVVHeDVQOUdTWS14cE9mVTBrUFlRLUhpVDVIdTIzc1RlMXhQU2stcGpIRG5ITl9qQmc?oc=5",
+      "source": "Investing.com",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-09-21T20:38:57Z"
+    },
+    {
       "title": "Paramount reaches deal with California, other states over Warner merger",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ3RjTHZPOXlITXJPT28tamttdXBMb2IzUlFQMGxvMFBMdDhLeGhVY0M2V1NWa3pJejJ1U1ZiZXZyRHB6a3Q2NkROSDhfOXBzck1rRlI3czNmNllPMlZ4Z2NkeHdOUzZLbzRxQVFaNkVNX0pLTjl1OFVKMTktVTNVdHVqUmIwU0wteVkwUGEyckVQMVcwSWpNa0NiQTJZM3h5bHU3SmdwRDVkM29nLVpnR3REOTI?oc=5",
@@ -126,24 +162,6 @@
       "country": "미국",
       "category": "문화",
       "publishedAt": "2026-09-21T20:37:45Z"
-    },
-    {
-      "title": "States settle lawsuit over Paramount-Warner merger, clearing key hurdle for $81 billion deal",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNam1pUUhaaENKZXF5UEhjSGlJcjJWdDBiaDk4cVNQUDRqcmtEb195YVhSNmw3VjItVUZETWtSekliRlNUdkhEU290bXZpeHI0MExYZDFDcW43dldIeVVZeElxRUxpRU1lTm5GVUx3eFV5S0JOVFE1alV6Q3V3dTNjc2VFbGNUT1lBUUR3YVFHaXRueGNnUkZ1elJyQmFPbnNYblJLdjdNbTlsLW14LUd6eUs1ekZibXFZd2c?oc=5",
-      "source": "ABC7 Bay Area",
-      "country": "미국",
-      "category": "사회",
-      "publishedAt": "2026-09-21T18:21:22Z"
-    },
-    {
-      "title": "“안 팔면 직접 만든다”⋯ 중국 ‘희토류 횡포’에 맞선 일본의 승부수",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV2RpX3Z0ZnpXSUxlUmh2RU5MeFVWU3EyckMwSmVjOGt3YnhQMjRySEpHYi1OWGlqbTFsM1VrRnpDTFVkSkNuek1CYUNYVWV5U1FKbHFHQmlfSXl3UXo3RUpiakxic1VuRjJpcEdLX1FWM01qUUZtRnlDNlJhUDJtMGtyYVhka0JX?oc=5",
-      "source": "조선일보",
-      "country": "한국",
-      "category": "과학",
-      "publishedAt": "2026-09-21T18:00:00Z"
     },
     {
       "title": "Advisory Group on Mathematics and Artificial Intelligence",
@@ -200,15 +218,6 @@
       "publishedAt": "2026-09-21T16:16:00Z"
     },
     {
-      "title": "‘이재명표 기본주택’ 여론 달래기? 입주 자격·임대료 확정 없이 발표",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVXI2U0xUc0E0c1hHLVVOWTUzZlhnbU9BaWx6QjFwTldjbE5SQ0RsT0tOTVRVOEZQM1VoT1lseDExZWY3ZENZTGNtMHRrbmdpRFFyWmQ0c2VQTGZTNnJvMDV6eHRLZXI0Y0hnN290cDVSck1sb0hXdWZ4V09NQjM1TkRnS2RXYzJp?oc=5",
-      "source": "조선일보",
-      "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-09-21T15:54:00Z"
-    },
-    {
       "title": "Google opens pre-orders for $899 Googlebook laptops built around Gemini AI",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWURJSmQxWmF6cVZZRkVpWUFTbXM3WTd0WUQwb3paV2NsQXE5TTlVMmhjb0pQajJDQmpfS2lTa0QxUTBGa0NVcnZIUmJsM2JPeExUQVBfcjdXcWJadzV5MllUUVYxaU4zbHJUd3lybms4bEdoYkdkd3JxOW5QNHBzRjV2UjBOczZ0a0VVT1VMZnpKVjlEN0xGM0ZUU2VlRld4NmtrR1JKU2RhV3pURmFfWEVIdWtra2FfQU56MTNRRGQ2ZERfeFR0SEtn?oc=5",
@@ -216,15 +225,6 @@
       "country": "미국",
       "category": "기술",
       "publishedAt": "2026-09-21T15:01:43Z"
-    },
-    {
-      "title": "이창재의 [뉴스로 읽는 한국사회(23)] 1970년대 한국 TV 예능과 외화의 황금기",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzY3VJalNvaVdiZjVPOFVFQ3NjQmJLdEY0NHl3MWtid2VOOXRKRjFqQTd5RF9HU214MVM0OWNTTWY1SnJCeEdBVGY4dTNyVmtUVUJZUkk2XzBINVVLQlM1MTk2R2l0YVF2?oc=5",
-      "source": "2news.co.kr",
-      "country": "한국",
-      "category": "사회",
-      "publishedAt": "2026-09-21T14:20:15Z"
     },
     {
       "title": "[아시안게임] 여자배구 이다현 \"일본에 패해 분해…안주하지 않을 것\"",
@@ -248,28 +248,28 @@
       "title": "Meta, Tech Stocks Lift S&P 500 to Best Day Since August",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQei1wRkJHaGV3OEs5TFJkZVJ6clI3QnR2SjEtcTEydnFRaWlfS1R0Q2Z2TzNHZHg4X0E1U1lOZjV2eVZSN0Rya08xRUFRWDdMNFNfcWF6OElsMlhyWk9ka2VlLUs5SXlmVFc1ZjNybnlSekN5RFlYckkxV2pfUG9lOVB2VUt5Q0k4M05zWUNoYXp0TjBVRWo0dFZYYXFkX1dYQVBfMkE2OUJmMGNZa2lmRXBR?oc=5",
-      "source": "Bloomberg.com",
+      "source": "bloomberg.com",
       "country": "미국",
       "category": "주식",
       "publishedAt": "2026-09-21T12:14:29Z"
     },
     {
-      "title": "[포토뉴스] IPARK현대산업개발, 사회적가치 페스타서 한국사회복지협의회에 8300만 원 쾌척",
+      "title": "“양자기술 뺏기면 미래 없다”…韓, 양자컴퓨터 독자개발 ‘총력전’",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YcHB6ejlZTElvMkQ2bU01YzcyLTRXWG9MOXhMZkJ5Q0VWWnRYNUZDcmptcDBKTXJwb0tBY2NpTG9lM1NyVnVLdW9HUDN3WWdGV09oblJYQnV4MHdSVjlGTW1WTVNqMUM1M2RNNg?oc=5",
-      "source": "복지타임즈",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9VM1A5QVkwNC0tOVVPcTNiVEc5NWN3U0k1Tk5abHl6bjdLazhPR01YX3BkTU5vVTJUdVhhNWhjRmY4OFhoVlE?oc=5",
+      "source": "v.daum.net",
       "country": "한국",
-      "category": "사회",
-      "publishedAt": "2026-09-21T06:50:31Z"
+      "category": "과학",
+      "publishedAt": "2026-09-21T01:25:00Z"
     },
     {
-      "title": "[단독]美 원전 8기 건설, ‘윌리엄 리’·‘터키포인트’ 유력 후보로 검토",
+      "title": "테슬라 자율주행 97㎞/h로 고속도 잠든男의 최후",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOE1jT0ZtT0dDemlDdGc1TDFjSlB4R3hldFZmVWVNTmZ5NDJiTmVvZ0g1Wmlrd0psZkt5RU9rWDVZWmpKNjZmNDdIdHRWZWk5dnhIY29SMWFIdW15eW5tbzE4Q2swY3ZrV2RfWVh5aTBTeUNQRG1pYW9pbURaNng1cA?oc=5",
-      "source": "edaily.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRaWc3VzBtZXNJdGlyQWNrWUxvMm1hUEd2RWhDMVNmNU00a0VjUTNMZW1WSVgyOUhoMUkwa040WTkzTHhPeUFBWTN2NEhwWWFM?oc=5",
+      "source": "문화일보",
       "country": "한국",
       "category": "기술",
-      "publishedAt": "2026-09-20T19:50:03Z"
+      "publishedAt": "2026-09-20T22:52:39Z"
     }
   ],
   "briefing": [],
