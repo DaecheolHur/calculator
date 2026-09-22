@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-09-22T02:30:31.307459Z",
+  "generatedAt": "2026-09-22T03:30:48.425807Z",
   "items": [
+    {
+      "title": "Flights halted at several major airports in Northeast due to tech problems",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNVl0WXR5aF8xYTJPWUQtdW9fb1RERXBLd05lQTFyMG9nYmdvWEJ3a2FRaE11ZnI3cDl4RFZGYnBwRDlHVi11QzlseFdPNjB3ZmJqLWFhMkVoRXYyNDYyZkR0NHczNTVQRW5JQXdNWGhmeTNzQ0Q4QWZ3RkpsdjNjUWUzUHQ1ZldPdFpJRHBqY21rMFBoVTVlRTZEMTYxVXA5X1NEc2ExbDEzVk1LOXlsaXVWbWNLNUZjejJ3RDExUzU?oc=5",
+      "source": "The Washington Post",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-09-22T03:25:03Z"
+    },
     {
       "title": "코스피, 열흘 만에 7천선 회복…삼전닉스 ‘자사주 매입’은 끝물",
       "summary": "",
@@ -8,7 +17,25 @@
       "source": "한겨레",
       "country": "한국",
       "category": "주식",
-      "publishedAt": "2026-09-22T02:07:08Z"
+      "publishedAt": "2026-09-22T02:31:00Z"
+    },
+    {
+      "title": "[세상읽기] 게임에 규칙이 필요하듯 AI에도 규제가 필요하다",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NODExWktpT3E0UGNGTmRrN0d1cVZmMzkzMUdPRGlKcXgtWWk4V2JKcURMTjllbTVhbTNaRFB4OFNwTVBsa1k0UExZamEzcXM?oc=5",
+      "source": "v.daum.net",
+      "country": "한국",
+      "category": "AI",
+      "publishedAt": "2026-09-22T02:25:00Z"
+    },
+    {
+      "title": "17살 김다현 “심수봉 선생님이 직접 사과…잘 추스를 것”",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91bFZzeTNkYWpzd1p0d3pjelhXSm0xOF9lc1A4S3JLdVg5WVQxdTk1SDRXTHhPQXdsZUZ6WUgwUXI1UGFMYzRaRzZ1LUNqZ1c4RUZuRGhVdWwzRVUtQlFNUnpJYmxTR3EtdU1fa2ptX0dHUQ?oc=5",
+      "source": "한겨레",
+      "country": "한국",
+      "category": "문화",
+      "publishedAt": "2026-09-22T02:13:00Z"
     },
     {
       "title": "’대만전 5-0 완파’ 야구대표팀…’금(金) 세리머니’ 눈길",
@@ -29,15 +56,6 @@
       "publishedAt": "2026-09-22T01:19:45Z"
     },
     {
-      "title": "17살 김다현 “심수봉 선생님이 직접 사과…잘 추스를 것”",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91bFZzeTNkYWpzd1p0d3pjelhXSm0xOF9lc1A4S3JLdVg5WVQxdTk1SDRXTHhPQXdsZUZ6WUgwUXI1UGFMYzRaRzZ1LUNqZ1c4RUZuRGhVdWwzRVUtQlFNUnpJYmxTR3EtdU1fa2ptX0dHUQ?oc=5",
-      "source": "한겨레",
-      "country": "한국",
-      "category": "문화",
-      "publishedAt": "2026-09-22T01:00:00Z"
-    },
-    {
       "title": "네이버클라우드, DB·서버 접근제어 통합 보안 서비스 출시... “개인정보보호법 부담 낮춰”",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uNzZ4X3FCVmYweFdmNkx6Y0JFaEFZSDZ3d2swaktNaTZRXzBoYlFZM3QxdlpmdlgzNnFoSWJvSU5IRE12d1YwRjhFX0ZCTFVyWFUxUTladl8xTGFXQWJyQXctN1ZrVGI3N05v?oc=5",
@@ -54,15 +72,6 @@
       "country": "한국",
       "category": "사회",
       "publishedAt": "2026-09-22T00:52:44Z"
-    },
-    {
-      "title": "AI, 관찰로 제조 현장의 암묵지를 배우다",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPQzkyVHJOaV9xWklwdl8yOUJzQXpSSkFrU0Uxd1Q3QUFOODUtYXdYd1RpRWxUQXJVT1dDcm95SUZ6dWVZRHlKelBWZE9wbzFrRzF4c2NSeDJzM1pVOXRKWUZmR243LVM3RjRiZGt4NUhnLUpTSWNoVHM2U094aUhjY3ZLZE1ZWjlITFJDTWpKcU5CYmRMUlF6UUM3Z3p4OHlReXd4N0ZCX1F4aVpmdlNpWl9HTGtINHR6VTRpRVM2eXFSeGZieURzQVU3NjBiMVBuTGhtY1BINUdvQXV6cUJpTGQ4MklLS2tvcXJkUW5zSmdOYWxvblZWT3FaaGE1LVE0cEpr?oc=5",
-      "source": "포스코그룹 뉴스룸",
-      "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-09-22T00:47:59Z"
     },
     {
       "title": "동서발전, '제3회 대한민국 사회적가치 페스타' 참가",
@@ -92,6 +101,15 @@
       "publishedAt": "2026-09-22T00:22:37Z"
     },
     {
+      "title": "\"223억달러 텍사스 발전소 유력\"…대미투자 1호 오늘 윤곽",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IazdodFpGeDd4TGJxdjFtOUN4SnBuX0hKOVZPMnhtWG1WNlgyTFlpTUVWQm5OSVZMNXlZWHlkUlpKOVZKX1hEWmY1YjdxNVBYYW9NRldsUlR6dw?oc=5",
+      "source": "한국경제",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-09-21T23:59:59Z"
+    },
+    {
       "title": "SG \"AI 투자 다음 수혜주는 사이버보안\"…이익 성장·밸류에이션 매력 |",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jSEZCY0k2b1BYNEV4RmRiUUUxdFVlZXZUZU51ZjZENnVNU2xZZUNocktVb3QwNUFhakdYMlNGUk1fV0VkcXM4aVVNeUFiZGc0eXNWaDYzeUhxYk51WWlDa0o3d19qLTBYQ1B6anlZZ1RhWnl1?oc=5",
@@ -101,13 +119,13 @@
       "publishedAt": "2026-09-21T23:52:43Z"
     },
     {
-      "title": "Appeals court favors Trump-backed Missouri congressional map, but Supreme Court will have final say",
+      "title": "The turbulent AI era is here. The choices we make now are critical.",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ0w4RmpmZFdPVndBNzh0M19ZT1gwZW5ZeTY3cmdLcjU2Y09fTktGM1l3QWc0c01jek9NRlRxN2hEMmxfWDFFdWxTVGVNZVA3UFBmYzJBeWNUUXZVYzF1WmtXTll5MVQ4Z0d0dmNvTVFwWm1ZNmZkbktpRW91dG94V3E3NlVjV1cySEk4VTc3VEQ4ZWphLTRacVRZX1c4NmQ4a3FtSG9adVozVmdPRDI0c0Z3?oc=5",
-      "source": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+      "source": "Gates Notes",
       "country": "미국",
-      "category": "정치",
-      "publishedAt": "2026-09-21T23:47:00Z"
+      "category": "AI",
+      "publishedAt": "2026-09-21T23:43:47Z"
     },
     {
       "title": "Giants vs. Rams predictions, odds, time: Week 2 'Monday Night Football' picks, NFL best bets by proven model",
@@ -119,31 +137,13 @@
       "publishedAt": "2026-09-21T22:51:45Z"
     },
     {
-      "title": "이 대통령 “강남불패·부동산투기공화국은 이제 과거 이야기 될 것”",
+      "title": "Trump inaugurates new White House helipad, but networks skip coverage during First Amendment fight",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PcjgyUFNfdHpFNXdkR0hqc3JKVjRZOUtVNFpTQUpYTjlDZHBkdGZwWXdqYTlVRlpmLVkyUXFVSTlCZjFBVGpLSGk4U0JOa29WVzdmbzlha0Uwd9IBX0FVX3lxTFBMYjZxMDhncWhRdDhSZDNacElnZlJrYUVJcEc5MjJnS0xDVzVmYVdmRWxzdkpTckdZT3RXY0Eyd214UTJVd3l6TEVRWmpLQ183Mm5ieVgtcklPMUhFQ2NZ?oc=5",
-      "source": "경향신문",
-      "country": "한국",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdlZPRFlDeUEyaWlpT29kbVY1SHZ5QW53bV9HYUNfUGYwLWVMdndsQ1RYV0FINFd6Y2l4R1dRMjFEVFNnMUF6Qi1pdnlxaG81Y05ZcmFjRG5RU0NITVhSbmlhU0Frd2lGLUx6TnN5MVdobE5vUXB1VFh2eTRJOFdDejlJWHU0RTNhY0N5Njd1NTBSd3RM?oc=5",
+      "source": "AP News",
+      "country": "미국",
       "category": "정치",
-      "publishedAt": "2026-09-21T22:50:00Z"
-    },
-    {
-      "title": "Flights delayed at major US airports after cable cut by construction workers",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50cTI1X1N2Rkt5T1ZUQTlaSE5CX0pFX1o4SjJiRjJnd21qemlRM2lrU1lDM2hwMUh0OGxfU0RsRnhPc3p2bnZibldRLVpGNTNXSGtnMmNn?oc=5",
-      "source": "BBC",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-09-21T22:33:29Z"
-    },
-    {
-      "title": "Presley Gerber, son of Cindy Crawford, dies at 27; overdose suspected",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1hVng1WlN2TmZjZFZZZXpFeDcxaThNMWJTS01yRHdxbTVfdkNMSDFZZFEwODFUVVpKRDJnTXZ0bTJYaDRsMTJpMzVuckxrRWkyVHcxLXFYdzg0QmdfOTFidjV6MGFOUXVIeFV0c0JmT0FmSVc0SWVTQTVoQdIBgAFBVV95cUxQeW82V1NRakw5blpTRkc3a3FzOUozUXNUSGMyd194aHlVemI0REd4eWRYSVlfU0YtX3ZjV3FmUlNBQ1otMmZ0V25ma1NUbjBudWl1ckRUZUlvSmhsVGp0eUxvalFqUU9HeENNMlZuekpWRDVscnpsYVJjUUpuWDVDQw?oc=5",
-      "source": "KTLA",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-09-21T21:13:50Z"
+      "publishedAt": "2026-09-21T21:57:00Z"
     },
     {
       "title": "New York State Senate to Hold Hearing on Water Infrastructure Cybersecurity and Preparedness",
@@ -155,13 +155,13 @@
       "publishedAt": "2026-09-21T21:11:45Z"
     },
     {
-      "title": "The turbulent AI era is here. The choices we make now are critical.",
+      "title": "Cindy Crawford’s son Presley Gerber said he was ‘terrified’ in raw addiction post months before death at 27",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
-      "source": "Gates Notes",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZTVaWnJBcXU1X2dFR0QzQXVrSndYS0lMMlhnazdickozZWQ2b3lWWjRfX1pENl85dGxueXNrcDAzS0lPX19YTV9oZC0tbVVEelpLWk93VjBTNVNVdzNkbm53WGthYWU1SzhYR1A3R1haU0ZQcjAydDFRVnl1cGNZbEoxRGZBc1hKLTFHUTRLNk5GbVpGQlBvczRMbWRDaUY1X3AxcUhQMWZyREU0YVdSbzhPYlk3RktTa0ZrQXBNMVPSAcYBQVVfeXFMT2tuMGItS3dfUWdIQWplNDZVRnN0WjRrNkFOaDhlVU9tR0gybkVNeTlNN29QTjQtUTJUZTFYdGtjUXYzdjFIN1V1YnlHaVdZQTRfQ2tpWEtLWDNXZm52QnV3bXB5alBMbTl4VVRocko5Y3VkdGk0RDNtSm5kWlJmZHRRTWJ2WTUydTBIX1dIOHRmRnRQUVU1WVZ6ZVI1Zm1BbEd2RzRtRU93SDJTYmZJakRjVnBsUUdWbS1xeGs0WnZ4bVpuZzJB?oc=5",
+      "source": "Fox News",
       "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-09-21T20:43:14Z"
+      "category": "문화",
+      "publishedAt": "2026-09-21T21:01:34Z"
     },
     {
       "title": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.71%",
@@ -173,6 +173,15 @@
       "publishedAt": "2026-09-21T20:38:57Z"
     },
     {
+      "title": "When the eyes play tricks, the brain builds consensus",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPRDJhTlNnb0VRQ2xNX1JkWmRVcWpMZHhsT1VfRXlQMEFWdVlWRjdPRFhkVE1UQ3Q2NE5kTnl0NFVtaW4tMk5ZdlZ3dDFSNFQxYTJ1eG94SVptZnB2STF2S0ZfekpyMzlpWklnUjBVZVp6eDY5RWZTUw?oc=5",
+      "source": "Medical Xpress",
+      "country": "미국",
+      "category": "과학",
+      "publishedAt": "2026-09-21T20:00:09Z"
+    },
+    {
       "title": "Advisory Group on Mathematics and Artificial Intelligence",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50TVpFbHFkWkJyVkNRV1l3T0VTb3V4YmFhOWZsd19nNEYwV0ZsVURHeElOMG8zYVNRc0NEYUxMYkNua3ozeXBGTTdoRlY5amo1b3dIU3o3TkxUQ0VHRnZ1STYta0FkM3NxZ0dob2Npdw?oc=5",
@@ -180,15 +189,6 @@
       "country": "미국",
       "category": "AI",
       "publishedAt": "2026-09-21T17:32:19Z"
-    },
-    {
-      "title": "Yellowstone lake sediments reveal 15 000 years of hydrothermal and wildfire change",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaE9hUC1ESnU3bmN2aVpSUnBDYXVJX1hVOU1aeWVfdENTRnFKb1pCOWtTTnhHWWJwRkNZVGZ4bnQxS3NhdlpSRVhwVm1jb3pYdEFaZEpEOF9vNVJiTzg3NzJFeHFtSHJzSzFTLTBnMWdsYTZyUGtQS2VZUUhTd0NUR0FVdGNEaFBta1QzWmVGeEpQWXZPZ3BxdWdhb1I4WmNQSVNEdGZlLTd6Y3hlaDJyTlY4N2Nwdw?oc=5",
-      "source": "The Watchers - Watching the world evolve and transform",
-      "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-09-21T17:19:00Z"
     },
     {
       "title": "Lunar orbiter spots ‘once-in-a-lifetime’ new crater on the moon",
@@ -238,7 +238,7 @@
     {
       "title": "“AI가 인류 죽인다?”…‘2030년 종말론’에 젠슨 황 한 말",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ITnVmSWVDU1dqdEdOd0ljZkxoWHh1VEVJTGhVVFB6NFJBdlpRNGZUREFZV0U0VGc4cThXVUVvZGc4Ul94dnZKRzdJekR2enc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE43bHc4elFHNkFzaHVNcm1PZ19fbTFOazNmNmo0QzRldlVrTEk1Nlh0eUp0a1ZENzJQQ2FNZGlBcWJWQjdlZmc?oc=5",
       "source": "v.daum.net",
       "country": "한국",
       "category": "기술",
