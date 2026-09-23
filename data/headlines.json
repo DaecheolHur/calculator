@@ -1,41 +1,95 @@
 {
-  "generatedAt": "2026-09-23T00:35:36.400148Z",
+  "generatedAt": "2026-09-23T01:29:36.082290Z",
   "items": [
     {
-      "title": "[속보] 코스피 약 2% 상승…7,150선 출발",
+      "title": "입문 사다리를 걷어찬 AI, 사이버보안 인재 방정식의 붕괴",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsLUtPcnlNZHhtMHB1SkJqUzZZai0wR3kyY3hGdEI0c3dIbnpZSzdGMWNOQ1NHN0lxRWhBZm9GM0VtcFJDRFZ3SDhuTWdkMkhrazZmZG9mSG03Z0JienpEblBJYWZEU3c?oc=5",
-      "source": "yonhapnewstv.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxOQmxPdkJUZ25OLVlZdXZCdUk0RmZLNktxenVnbEc1ODhGdXdXRWhhQUMzbFNucGhlVmd5YVYxbmJxNG9NOEFXSU5ZZjAzTzZNaW9qNjR5RzhaX0JQSUJpU21xWU53ZlAyamNPS3AzYXJlWHA5bmpVTEl6UkRocUY2V0JXamJTTUJKZUVNNDdFYm11X0ZEM3NzbTJ5b25Id282N3RiX21vOGhqcTBrUGl6bWE3X1ZEeUZ5UmpiVjIxc0Q2VWdSX0xVa29GS3lGVVptVDVLZl82ZUpHZzR4OXR0OU9fUmV0dXJkdVZxcFZXOXAwOFJCRFcycTNpVUlGRm5qc2VRTDZhRll6MjlXSVQzTk1IN1N5LWl3RTFUTEhKWkVvcklhN3phVHVDTU9IY1dJal9WX3VLRFhHN3pYRWpqSW1SS1hYWFBDQzVYbnJQeEpoSFd3LVZfSU80S0MyVXVNYi1z?oc=5",
+      "source": "itworld.co.kr",
       "country": "한국",
-      "category": "주식",
-      "publishedAt": "2026-09-23T00:04:00Z"
+      "category": "IT",
+      "publishedAt": "2026-09-23T01:27:17Z"
     },
     {
-      "title": "Trump says he’s renaming AI to ‘super intelligence’",
+      "title": "노드VPN “한국인, 사이버 보안 기본 지식 갖췄지만 신종 디지털 위협 대응 어려워해”",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQckMxTlUwUEdVMk5jNEVzdGt3aS1FUHhwS2JwQThYLWNHaUpCbnI1T1dLcWxxVXkzTVlOVkwwbEE5S3UyYmhXbHBjYWkza0x2TTZ0ZEFoMWVNaHRuaWNwLWpmT2JzY09nY3pybDlzbGlNR3YtTGpaMC1LaDQxdWdZR2ZwQmxtaGUwSk5iRjYxRlBFTXNvUnVXWHgwY18xV3py?oc=5",
-      "source": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OaXFHZjhiYlJYbjFLTDU5aHZUeXBLUm1od0VZTDVhd0dUcGU2cWt0MC0zV3F0Sk9uVV95emg3dEduX2pnOEpZY1l1RGZTVlZfOXY4V1o5ZExaMlZuSkFkQ054eFdOYVZ3?oc=5",
+      "source": "테크월드",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-09-23T01:10:00Z"
+    },
+    {
+      "title": "메타 '뮤즈' 효과… AI 투자 중심축, B2B에서 'B2C'로 옮겨간다",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oRjF6dW4yLUpNZzRtaDU3TENOZjZUYy14WTJlT3BRQ3d5MUNQRmhpX0d1Skx1UVRoUHFXRTZxZEduNlhvU3BZMTRsakJRZUlIczBLZVZISU55dGVRNmRRWnczN2ZoazBYMTZkQWd6Q3DSAXRBVV95cUxQTmtyU0Vsb0tkd1RsbFlMYW9hT0xKUnA4RUs4X0pSRjNMUE5YX1laZ0NmV0Y3ckMxeUtCUEdWeTZ3RGZxN0RkaXpQTGxmSm9kOTN4d3c1OGtUVENRT1o4NjNDM2R2bnBpNlNJZ1dlZjFCNzdKTg?oc=5",
+      "source": "연합인포맥스",
+      "country": "한국",
+      "category": "경제",
+      "publishedAt": "2026-09-23T01:04:02Z"
+    },
+    {
+      "title": "\"메타, AI 비서 통화에 '인간 대역' 투입 시험\"",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xR3ZQa1RnYks0NjNreHBPdHBvcENYLU5RS3ZIeEtGUmdQQTNpMWh5QXp5c0VjeWdrc1BERVJBdHZaSENhemlqQWhveGE4LUpPNFRDSnAycm1hSknSAWBBVV95cUxNbFBTbVB1VGpWbkhFalJEdnZxSDVpbmNrd3J0MnlQWlpoTkdIdVV4MU5lamlETmo2LXhmMmpZNnlCdjhGdUU5YmV0WnhzQ2dFNXdacUU3VWRUX2w5NzRfTEw?oc=5",
+      "source": "연합뉴스",
+      "country": "한국",
+      "category": "AI",
+      "publishedAt": "2026-09-23T00:38:34Z"
+    },
+    {
+      "title": "삼성전자",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbF9ndUxyaW1LeUlnQXIwOFVraVdJZXJHTjltUUFic20xaXJVdk9mZ1VBLWZMbWExdlgxbFFoQ29LcWlTNUgtcmJ5dHUtbzJsMmxkOFpTU3NtV3ZpX1cteVVMYmVRb280Wl9LcEhrbGd4UC1VejVqemEzb284aVphUm5BZXJ3ZnRQSnBZWW9TN3pzeVhiQkRN?oc=5",
+      "source": "매일경제 마켓",
+      "country": "한국",
+      "category": "주식",
+      "publishedAt": "2026-09-23T00:36:58Z"
+    },
+    {
+      "title": "이 대통령, 유엔 연설서 ‘비핵화’ 대신 “핵 없는 한반도”",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IeEdCZFVwS1ZoWGJ2eGdRTHA0eFNIeWd0c0wwUEUtbFFuZFV2eldPeEljM1VhTGNPZUg4TXNPbENlZHhFcWFWcWVuZElFNVZ3WVBtNGJuUXBKOFlVcXJBZHY5cmIyLWxKRUhn?oc=5",
+      "source": "한겨레",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-09-23T00:14:00Z"
+    },
+    {
+      "title": "U.S. Stocks Down as Oil, Yield Shock Continues",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdldNN0llVjJVYnJfekk5ZGQ2ZHAwZGJjaWdhY2Q4QzhBV3FBc2EwUTZ4YTQzYzZSYnNJVThHS21JRFR1ZmpHV09BZnJNMHFfd3NNeGNxT29oRVNpTnV1WVp3cDExOVFaYnRFdjdEOWRZcnNsWkdPeVc2VjBDVDBmejNKWVgweHZjcHVyc1B5T3hjZw?oc=5",
+      "source": "WSJ",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-09-23T00:00:49Z"
+    },
+    {
+      "title": "The turbulent AI era is here. The choices we make now are critical.",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+      "source": "Gates Notes",
       "country": "미국",
       "category": "AI",
-      "publishedAt": "2026-09-22T23:48:14Z"
+      "publishedAt": "2026-09-22T23:59:18Z"
     },
     {
       "title": "US judge blocks deportation of DoorDash driver shot by ICE",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qR1Q2UUhOYVVweDI3Uktwc2ZadV9WRG9XM3RwS2pWMW1YNXhHeWVKdVpSRTh2MWlPUzlBOWlCREhkUGxxT0VhaFcwSzlMc0MwS1FIb3RuTzRwcFU?oc=5",
-      "source": "bbc.com",
+      "source": "BBC",
       "country": "미국",
       "category": "정치",
       "publishedAt": "2026-09-22T23:36:12Z"
     },
     {
-      "title": "3대 메가프로젝트와 AI로 미래를 힘차게! - 전체 | 카드/한컷",
+      "title": "김민석, ‘조희대 탄핵’ 질문에 “국민 이해와 설득 중요…민생 중심 기조 흔들지 않을 것”",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa3RObVVJaXJlWWp5clEwcklkZnhtWWU4RThlYzdWejlqOWF0elFLTmJiTGp5UmRhZGlZSVNuakF1bUJqcmFPZjFUR3FkWXZkUVlhR2dlLVhYY1dHUWZpSHFXR1FkZllsU3F4R3VfdnNsSHphbTIyMmxLb0hQQjNtVHlpbTJUU3NtWXZR?oc=5",
-      "source": "대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BWUM5blpNMHBmQkltWmMtdkpFRW1kS1lRbE5XQklCQzF5MGFvS2NoNk9VUFp3VWxsNy1SV3laTmtLejhTT05UR2toR2NHMkNvZjhiOTFjX2I0UdIBX0FVX3lxTE5kQWtBWVdIWXk0THlHZDlWS25SS3I2V3NFY0VFcElGQ0tUSlBDYV9lSU85U0w0UU1kZzVTbXd2a192cE5tT2RsUER6U29QODBNVVRBTE9TLXkxMkprcWdJ?oc=5",
+      "source": "khan.co.kr",
       "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-09-22T23:30:05Z"
+      "category": "정치",
+      "publishedAt": "2026-09-22T22:48:00Z"
     },
     {
       "title": "Trump backs ban on diesel exports",
@@ -44,7 +98,16 @@
       "source": "Axios",
       "country": "미국",
       "category": "경제",
-      "publishedAt": "2026-09-22T22:27:39Z"
+      "publishedAt": "2026-09-22T22:45:15Z"
+    },
+    {
+      "title": "Trump says US Justice Department could rein in AI companies if needed",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkFwcnFpOFFycEx0SEwwNUxZazVuTTh6aUNKZ0pUUHlPU2toMkk2WXAyc3RkYTdKWlVsTEVoTmR5VGJaZlhaU21OdHp2aXRWZ0VGNGtJdERKVGUtWXBiMWdKRm9JY04zTnZ3YXp5akdBU2RsS0tHZG9ESTVmR0hOWUYyaWpjYVNCcFF3c3RBVk53NC1SanNTaXpxOHdMei1SNUJPWnhLLTkzU2VOaUE?oc=5",
+      "source": "Reuters",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-09-22T22:32:04Z"
     },
     {
       "title": "Nasdaq reaches record high close, AI stocks rally",
@@ -56,13 +119,13 @@
       "publishedAt": "2026-09-22T22:25:27Z"
     },
     {
-      "title": "Dr Drew Pinsky reveals red flag in Presley Gerber addiction treatment before model's death",
+      "title": "“삼전닉스에 역대급 기회 온다?”…‘AI 에이전트’ 뭐길래? [잇슈 머니]",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOXzZmNEpyek4zY1B4ckVtbUR0TkJuV01qVlRid0lyQ0lzbmpCejNaMEhyY0tYb0oyQTlYR1I4ZUNCTlpMUTBhYkluSWVac0Zfc3RrWGlSUk9raXh0aHUySGZ3Yk9fakRoczZVT1E3dGo2b0FJZ3pXSDVqQUJvMThGeWZ4aUpFOUNDX2FJVEQ2RlFmRmF3N1FzNUo4U0g1MVR2M3drQ0M4YzFmemFJY1daZFVKV3ZReDjSAbwBQVVfeXFMTjFWbTQ1dWdlemJLaEg3S244MDlvdE5xaXBxaWE3TF9rQ1RQV09CZ0tMenRLT1owajF1TEFTa1ZnMnByOTVheUxBRFRtaHJFb0twbk5XX2V2dUZWbXZSdm1ienp0QVc2NzRVZm1tYi1Jcmg4Q19oODlpRHlWRWt6c1JsRGJNMWQzTjNWYlF5bUdSWDdqQnFVT0ZHN3lnUkhKTnhmcTYwNURSbkxLeDhpemRWS290bGtmenJBR08?oc=5",
-      "source": "Fox News",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-09-22T22:22:44Z"
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXLWtidmt3RnRWOGM3cF9VRnI2Rk5XdzE3OC1ZTzlLYkRSbThTeDJqSkRuQ21qZVVYR211VkE4bWVvYW9GQ09sSlVpN0xoaEk?oc=5",
+      "source": "v.daum.net",
+      "country": "한국",
+      "category": "기술",
+      "publishedAt": "2026-09-22T22:03:00Z"
     },
     {
       "title": "Hayden Panettiere died from an overdose involving fentanyl. She had just gone to rehab, coroner says",
@@ -83,31 +146,22 @@
       "publishedAt": "2026-09-22T21:37:00Z"
     },
     {
-      "title": "U.S. Stocks Fall as Oil Tops $100, Yields Hit Multiyear Highs",
+      "title": "유재석, 몸살·고열로 ’틈만나면,’ 녹화 취소",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVll3dmh0VHRTNnFTczJjTTdSbjlpMmlQT09DTENUem9CcVFrSVZ0TmxmTURVUjQ5bFRDck8xenNSZ21aNUNtS0M4SzE5ZDRBMFlSZDFEUHAya2gzWjFKdG12OFNwRXUyd2Y4ZXE5dmtGd1hibnVoaUlIMTBUd3FCbHBNcGVpOHpzZXNSeGJ5S2xaaGdOTUN2T21seUpFTEVIU2tJOA?oc=5",
-      "source": "WSJ",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-09-22T21:21:10Z"
-    },
-    {
-      "title": "The turbulent AI era is here. The choices we make now are critical.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
-      "source": "Gates Notes",
-      "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-09-22T20:56:39Z"
-    },
-    {
-      "title": "李, 유엔총회 연설에서 ‘비핵화’ 대신 ‘핵없는 한반도’",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPakVNdTBYQlIwcU11ZllSWm9ZWl9VQzMxSjZNZGRCRGV0ZUZGb2VKakg0MnBmVTZNNE9ucEl3SEVQZGxaeG5faXhTRzhiT3psM2ZHUmZCaF9vbUFrVUNFVHRySVFYZkhTQ2llVTRHckpFWTQtQjk0aW93bHQ2Q0lJY0g5M0RTdjlwTDZNa2JDblU?oc=5",
-      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55UVBWNEhyVzVjeHlsRkZ4cGdVZExmRENPbUgxN0hyT2dfYUY4YTJ0ZWR0SHI5OXV2ZDVzUm05aVpxaTdCNnp2Z0k5THZDLUhydF9YcjB0OE9OcEFzUUd3X2hSZmdreGM?oc=5",
+      "source": "연합뉴스TV",
       "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-09-22T20:28:00Z"
+      "category": "문화",
+      "publishedAt": "2026-09-22T20:34:00Z"
+    },
+    {
+      "title": "Qualcomm releases Android chip built for AI as memory shortage weighs on smartphone market",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZzBlSVNtRVBBVmxmQm5EUngxUFBaY2Jxam51SzNuM2d5Yk9iOWNrNmxEb3EzXzhRbXdmVFhqODJuWDJvVHYyQ2JJVjhKTHl6ZkZpN2dDNTVmVWYteDFSTXptbTBtNGc5MW5fMl9TZmdCencyallHYUNvWUI2R0tIVGxYTFVHSmF2dUdJTjd3WllXYzJuUnRoUTlWNnFqNl9YVTZV?oc=5",
+      "source": "CNBC",
+      "country": "미국",
+      "category": "기술",
+      "publishedAt": "2026-09-22T20:29:22Z"
     },
     {
       "title": "Westmont Soars in Latest National Rankings",
@@ -117,15 +171,6 @@
       "country": "미국",
       "category": "사회",
       "publishedAt": "2026-09-22T19:50:28Z"
-    },
-    {
-      "title": "답하는 AI서 일하는 AI로… ‘개인비서’ 앱, 챗GPT 제쳐",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qUTc0Skd3YWp3ODE3ODBKQ3ZlNHVubjFJWHU0c0pyT1RRNUhaVlBCTlhqWWF5YlZnbEQxR25sWGlVc3Nma0NycTJaVVNkc1oxQWJYVV9QQ2dSUUpxdWhBNVVvQkN5RWlrcklNM3paMm0zRjVmRXfSAWZBVV95cUxNaTU5V1pia1cyRGpOcU5uMzlHbmNZSlJ2SUFLaWdGTmdiaXF1ZVlwNjFablNuTTdKTFNLNThhMm5ERi14WU8zVHlwTEV2b3EwZWhxMm9wekwzNDNpaExBeTYxNGh4Ync?oc=5",
-      "source": "동아일보",
-      "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-09-22T19:30:00Z"
     },
     {
       "title": "Sources: Giants QB Jaxson Dart out for extended period",
@@ -146,15 +191,6 @@
       "publishedAt": "2026-09-22T18:25:41Z"
     },
     {
-      "title": "With new Macs, Apple aims to take on Microsoft, Nvidia in a rush to lower AI costs",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdW5hd1BKazlnZmctdWM5ZjA5QXFOZnVPYjE0dExZNXc0cDJiUWhjb0VzWUZ0QkdYb3dKaThfR20wMzlOVWRGaTc3SlZUYVdWOXB5bWV5NFE0ZGhsSC1xeG1NN2szdVpISklVdW1FcExXZ1Eya3JoekEwa0VJSHJzc2l5dW9PRWdLVzJ5MVYyNG15ZWFVRHMxNmdDRHpZd0xWY2ZaUGhLTWptZVJlSHBueWloeUFIcHhYTGhISC00c0pHQ2lBdVE?oc=5",
-      "source": "Reuters",
-      "country": "미국",
-      "category": "기술",
-      "publishedAt": "2026-09-22T18:19:50Z"
-    },
-    {
       "title": "Where Cybersecurity Research Could Make the Biggest Difference",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd1c4QkxVb0NwMmZQTVVfWUZzWTdjb25jaUctOHZhUkZuNF8wTXFkblZVSTVUN2F6Y1FDZnFJTTY5bGgwSmxobndKSUhUb2UyVlBjdWx0SEhyNzdKYjdSRURhYS05ckxQVjJMTVpBSFJKakZMN1RrMGV1OXBrTzRiQkZSaTVhTEYtRm5XZEhKMXRENE9ScHR5TWVFWS10eGpWeUU2ZUdLaTF4VXBPbXZWSzJFaHNZNnRzQkww?oc=5",
@@ -164,13 +200,13 @@
       "publishedAt": "2026-09-22T17:41:26Z"
     },
     {
-      "title": "AI 안전 우려로 보안 수요↑…사이버 보안주 상승세",
+      "title": "Astronomers detect radio signals coming from an exoplanet for the first time",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rZnlCZ2hOQ3F6TmNUMHR4QXNvUWEwRW44U3lOaW8wQWM0M2ZOcmZHM2VpR2djaHVzMFh1VHE1aUVfZ1Zjd0pxcUJRLWJsaHRFRXFiWDExdHNHTDZUc2VRYzVmaFVHRG5CT3RBdjBXTkxWY3V4TzJn?oc=5",
-      "source": "Investing.com 한국어",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-09-22T17:03:00Z"
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6LWFXb0JZWTVSMFVPa0dmdHVVWTFXNkMyNl9oOHBpU25KRzAzZXB1dzhEbzNLYjdvYTljSU8tT3FuLUtPcVBvLXFSbzFZX0JZUTNQRDBEdDFSSVJzWkVGNjBFdHdDclZYeU11aUYwMA?oc=5",
+      "source": "Phys.org",
+      "country": "미국",
+      "category": "과학",
+      "publishedAt": "2026-09-22T16:40:07Z"
     },
     {
       "title": "This 'fire amoeba' pushes the limit of what's possible for complex life",
@@ -191,58 +227,22 @@
       "publishedAt": "2026-09-22T15:39:56Z"
     },
     {
-      "title": "\"심수봉 존경했는데 펑펑 울었다\"…김다현 父가 밝힌 그날",
+      "title": "What to know about ibogaine, the drug Presley Gerber used for treatment months before death",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93SU5ubU8talJMaVpYMjljSmZyN3VieGllTWVaNmppQnhXQmktRGNrdGlUYUR2bnk0QjdxRzBQNnBKTWdkSWF6UVMwVmU4UGlSLXJmaGR0WlZQUQ?oc=5",
-      "source": "한국경제",
-      "country": "한국",
-      "category": "문화",
-      "publishedAt": "2026-09-22T13:47:15Z"
-    },
-    {
-      "title": "Spectacular image from the surface of Mars – and scientists get a big surprise while searching for signs of ancient life",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQdWJnV3hPX2lFTmxadVRIZVk1eDJLYlJ2b2FSc0ZLZEFiUGFrYUFmSWJidkNDeWV2OXhYUnUtUnpicHJFWmRpSk11MDE3ZzN1ZkJfQ2dXZ2ZvelhjVEk1bmoxTnFCeXBCLWNrX3RaTkpDM1h2VmZrZw?oc=5",
-      "source": "BBC Sky at Night Magazine",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV2c1Y3RGTUliVWpnVDBsaU9YQzdmaVdSZ0tTbTF4V1B1cV9oOWNSclNfQ2p6dlR2RnZCVE12U3dkVVAzejVBcmNVdUpKcEdVaHIwektSS0xFWUJLNkpDalRNLVpnMlp2aVZaZWRjZWZQZ25Ccm5fcjRWMnhsSm50Y3cwQUpyS2U2UzJQVzFUbjVSR3VsSVFXU1VPT2FhMmZleVI5eWNJcw?oc=5",
+      "source": "USA Today",
       "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-09-22T13:27:42Z"
+      "category": "문화",
+      "publishedAt": "2026-09-22T14:44:00Z"
     },
     {
-      "title": "청와대 격앙 “대통령 권한 행사 트집…말장난”…조희대 재제청 거부",
+      "title": "[아시안게임] 여자배구 강소휘, 눈물의 고백 \"이번이 마지막 대회\"",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yZVp6ekZuOTd2NFc2MEpNZjNGVXBncl9QTy01T1JOdkE5Z1FsbEcxUHFIY1ljaGdNTlFjVzAwWnJFeDhFZW0zUlJURXh6SnBxYXo3Z295SS1NZEFOdVRpbW9VWVJEaTJtM0hz?oc=5",
-      "source": "한겨레",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-09-22T13:11:00Z"
-    },
-    {
-      "title": "[아시안게임] 차상현 감독의 호소 \"대표팀 선수들, V리그서 기회 잡아야\"",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yaUxmUi1RQ0d5SENFQmJ5TkFvRzZmbXA4STNwdlVWQktQZGY1RVgtMkxTcEZwQVdvS2pSZmJVZDJRN3FUaWVaYjRRb3NsSXVfZTV1UVJEam9uM3PSAWBBVV95cUxPUTFWZmtIUXpwVWZyWGZMUXc0SGcxQ0RCV25sUTlFc2ZGTUhJSWVmLUdFVWdwUHlvLTRranAxM2NPQnpXZXk1VFE3ZE5udXhjWUE5MkdyY2pvYkZnZmxYajA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91RzJzeGU5S2JDVjFIYm5VZnA3SFE5TmR1bjhPT1FqdC1leVpoMVhlMUFVTXV5VDhXLU1YUVh5UVBlOXdtTzN0ZC1PMTh5UDAtckFmLV9MTTNMcDDSAWBBVV95cUxPRWpxTjJZNXk4NEdubDY0N280a3k2ZnFMNWhfSzBUOG9wbjg1ZTNzRVFZTDE1aWp1QUZ0b1pJY2x3RVVzOWQ2NDY5U0FTQUVRdk4wZFVJZG9wM1RvMTJKZTY?oc=5",
       "source": "연합뉴스",
       "country": "한국",
       "category": "스포츠",
-      "publishedAt": "2026-09-22T09:25:23Z"
-    },
-    {
-      "title": "“한국·프랑스 손잡으면 양자 세계 선두… 지금이 ‘양자판 챗GPT’ 준비할 때”",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9hUC12VVk1TWxHdGpHbE90YTlEZHdnbkx5V0dtVHFkeHZTekh4RzdMd0dxU2lpMV9CYmtrckRHeDVFNmVZVUE?oc=5",
-      "source": "v.daum.net",
-      "country": "한국",
-      "category": "과학",
-      "publishedAt": "2026-09-22T09:02:00Z"
-    },
-    {
-      "title": "네이버클라우드 “모델 크기 넘어 ‘보안 역량’ 집중…프런티어 도달할 것”",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sRUswSlhrTWtUMFFCMlVIZ3ktbkNXNnJGZmY3c0lnYm5nZzB2MEdNNFVXMHNKNXk0blJpNlNtQVpuZGo1Z2xGX3VnNFM4YWJ5N2pTcGFqLU15ZU4teGNnQk1weURBTXNjNmc?oc=5",
-      "source": "AI타임스",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-09-22T08:38:13Z"
+      "publishedAt": "2026-09-22T10:01:52Z"
     },
     {
       "title": "한국사회복지협의회-한국자원봉사포럼, 국제 교류 및 자원봉사 활성화 업무협약 체결",
@@ -259,7 +259,7 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KYVgyelkwbWV5b1czUzh6dHlKTTdtbUcxcVZLM1JQYnFyMWJjajM1bDctTFFxdmJ4OG8xNXFMYW1FNnViNWJCaDBlZnRFbEk?oc=5",
       "source": "v.daum.net",
       "country": "한국",
-      "category": "기술",
+      "category": "과학",
       "publishedAt": "2026-09-22T00:31:00Z"
     },
     {
