@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-25T17:30:17.603692Z",
+  "generatedAt": "2026-09-25T18:32:52.659613Z",
   "items": [
+    {
+      "title": "Ed Sheeran concerts at Robert Kraft stadiums cancelled over weather",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTXNzcDBYcU0zWWNLNW1FRGFXb1RLdHlZNGpVWHBlLUVWSXpObjJ1VWlNSVNDWjh5OFY5VTBuVlVUR1ZSc3FtWTlETHRSMUFtdV83ZXdMNFpHYTZ5NndEam1VSEdzb1pITEdSQjkxcDRubkZ0clJGU0E3WURSSXhoVGZVRUdDMGFaTHlPdmRzOExRTWJBSGRiM2NXalQ5X1lLeC0zWmptLUNaNlho0gGyAUFVX3lxTFB5Z0pRNjZ4elNmeGlZWWkzOWZPdGIxQW8yWHMxV2ZtNUpTZDM3SnlpZTVpWFBPTW5YSkN6UllnRnpsYWx4eXJFZWZxVWJqcDBhQnlvajZ1YVF5aU54cW9BRm41Rk01Y3RCQnZERTBUOEFQXzFpZzZiTnFEblVhcnFZRGhMRlNSQzhsaHk0YmlMbWF2eVFIa1RZWGs5bHNwNWFFUm5Gd2FBV2tXSlRGSDRvVkE?oc=5",
+      "source": "Al Jazeera",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-09-25T17:28:06Z"
+    },
+    {
+      "title": "AI leaders attend Trump-Xi state dinner as Zuckerberg rejects coordinated AI safety",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUEN1bnBHSXRueHA3QUtnVWdDc0xpbjY2elY4ZVhaTFg0cXlweEtvYUx5Y2pjYVhnQXhMUEluR2FSZ3RISEIzREt6cTlfcWxWcXBEbXU5TElxOW5RcXp1RDBMaEEweVJ3Nll4Nkk3Nlloa2NUOHhmRkVONktkVTdyekUwMEJxNFZyRm1UVWdZTQ?oc=5",
+      "source": "Fox News",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-09-25T16:51:03Z"
+    },
     {
       "title": "10-year Treasury yield hit a 19-year high—and some investors see opportunity to buy bonds",
       "summary": "",
@@ -11,13 +29,13 @@
       "publishedAt": "2026-09-25T16:40:09Z"
     },
     {
-      "title": "Spacecraft returns to Earth after rescue mission for ageing Nasa telescope fails",
+      "title": "Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTTBXSE5TenBCeERGWldXZUNYYjQ0NkdsLUtfNzVjTFhmcTJQYnpELTd0azJrdnNJMHV1Yk5Xb0N5UzRUYTFYMzdVMnpDZ3J1dm1XVlRCeTZrOWhxcndQMHZvM19oR2MxaWxpZTgzSW55ZzFBamE5OW0xZ0dCRm50NkM4Qi0xZHRuOGtr?oc=5",
-      "source": "theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjRsYU1ZeTBnNGNFSVBZdDNFZmZPNm9OVUhaMThtWWoyeW8zUUs5eVV4X0Ytamd3U2xvcFdiOEw1bHJUMGZKbTF1cFZkMWFub0tmcmdhUHBSNkNtQURIdUFLQk5FLU5lY2NWa1RvNnEtZjdJVS1vZ0VxU1N4X09OTC1nUTNyeFNXWmhyZk1NeGhFRkljLXdn?oc=5",
+      "source": "The Verge",
       "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-09-25T16:39:00Z"
+      "category": "기술",
+      "publishedAt": "2026-09-25T16:22:05Z"
     },
     {
       "title": "Packers tight end Tucker Kraft hears boos from Lambeau Field fans and offers tone deaf response",
@@ -27,6 +45,15 @@
       "country": "미국",
       "category": "스포츠",
       "publishedAt": "2026-09-25T16:20:01Z"
+    },
+    {
+      "title": "달러-엔, 日 재무상 구두 개입에 157엔까지 급락…1.18%↓",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hQ3E1U1Y3ZEg1amdXcjFxRzZ3TWZQX2Y0dFpTWHFPSkRWd19tVkpZa0RMOFBXaEp1cVpRdjZ5SDhMTUtxbEtLcDhKX1llNDB0TENidHJJN0NGVTlGalBUdGlKb2xqV3NPRTJUX2dJbEE?oc=5",
+      "source": "연합인포맥스",
+      "country": "한국",
+      "category": "경제",
+      "publishedAt": "2026-09-25T16:15:04Z"
     },
     {
       "title": "Supreme Court allows Trump administration to use expanded database for potential voter purges",
@@ -50,73 +77,55 @@
       "title": "코스피 상승세 ‘지지부진한 이유’ 있었다…서학개미 미장 보유액 2천억 재진입",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OZ0pZdm9ranJ2X0RFVUtoZXNqc2FlbWlfTjNReXoybWFNRHYxRFVSSlZCVTdRTzdjUl9Nb0FKb0dxNy13TjZwRXJQbzJhNkQ1?oc=5",
-      "source": "munhwa.com",
+      "source": "문화일보",
       "country": "한국",
       "category": "주식",
       "publishedAt": "2026-09-25T15:48:42Z"
     },
     {
-      "title": "Chamber discusses artificial intelligence in the workforce",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWDFiZXBRbGNnTXFZZnY1VzZESU56UFZDcEtCdDFLalpEVjVvc1hPamFKNFM3ZTVwR3pQNS0yY29YX0VYbGx5TnFLNmtIajJJRGtybXRpU19lNElDSGlJMGlBX25NWTNxX2p4dGxEbGE3YWs3Ym5FTzFVdlVXNTJMcGY2aXUwZFhFazFsMmR6TERUNXJYZllJX255WnRqcmRORXo0dVl0cWlZSU83UnZSZlhNTnZ2SDVEZjROVy1jdTZoaWk2dWlGdmhMcjh2WWRWVWVJVHRtZHk?oc=5",
-      "source": "The N'West Iowa REVIEW",
-      "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-09-25T15:30:00Z"
-    },
-    {
       "title": "Cognition AI, 코딩 소프트웨어 수요 급증으로 연간 매출 10억 달러 돌파 임박",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zckNXWHlYTFhqeXNRaXl5Z3RDWUxCVHpDbU1fZmRyZEVuWXBRY2Itbm1EQmRrRUZ0RTJzVkcxX1ctQjJwbjIyaGQzQ0pqMmxjdTJlcVVhbzRZLUZhNzFpZE9taUQwR045RXNLcC1USk8?oc=5",
-      "source": "kr.investing.com",
+      "source": "Investing.com 한국어",
       "country": "한국",
       "category": "IT",
       "publishedAt": "2026-09-25T15:20:00Z"
     },
     {
-      "title": "iPad Mini With A20 Pro, New HomePod Mini Colors, and New Apple TV 4K All Just Leaked",
+      "title": "'서울 리전' 골라도 추론은 해외서… 소버린 클라우드의 '빈틈'",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMEF6bWJIckc5SWU3MjV6bVQzdy1KYkJRZVNyY1pCVEhhX3hNTVdxdkQ4OEtCR2pGdm9UbXM4b1FmdVF2MVEydVNQRXdzUnlQMGhTbUp5c0d4UmVhcU8tSDFEZFFQMDZpYTl0WWE1MF9sN00wVVAtdTRTOUcwdGMyMklnaklMaFE?oc=5",
-      "source": "MacRumors",
-      "country": "미국",
-      "category": "기술",
-      "publishedAt": "2026-09-25T15:18:34Z"
-    },
-    {
-      "title": "Ed Sheeran's Gillette Stadium concerts canceled due to nor'easter, tour promoter says",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZzd3VHpJZ2ZzczJfVWk2QUQ2UlVKUjZRU0NhTVNNQVdrWFJPdnVKcnhtUTZBbUJUa2ZVa01tR3V5bWFOcFlIdVBvUG9xNlVNcDgtbW5IWll6VWlHUWMzNExCQ0dDNG02Y2dKWFdYVDVWUlREUXRLWE1XUmdsdDZVZGtUSzZ2WWdZVktJcjFzdzNTYjRXY29Bdw?oc=5",
-      "source": "CBS News",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-09-25T14:52:21Z"
-    },
-    {
-      "title": "인공지능이 '과일' 척척 선별...부족 인력 대체",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPU0ZZWE1LdmcwN0hlTnVaOVhITDF4RGdyQjJlRXhuMTRPM2dTenRfRWRtT2pFc2R6czlXUDJnZ0F1Qmw2NFBfOENRaEx4d3FvZVJYVTJXZmpGcVFoY2c?oc=5",
-      "source": "YTN",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jN2J6ZjBRTFUtSHBLQVFoaVhKUlZJOHJ0ODg4emJGRkE4aW1aSWVYaG0wWDVoRk9Nb2pxcUV4WXh2c2RhTjFQU09QRjZGSHFDLUp5RUtSTkl3T241WW9wSTkwWUx1R2R0dUNJTXFLb9IBc0FVX3lxTE1rLU15SVlEZGNIRldicGtwOFJBYTlCVWlzaXNvNkJ0V0R4cmFfeHZSTS1naFVCY2VUWENxTUExV2RnTmZldTVCREdJT0tDQVVHbk1jQ3BqRnZwUVd3MnYzS1NteTliQTAxaEhLbC1UNnFSVGM?oc=5",
+      "source": "한국클라우드신문",
       "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-09-25T14:30:00Z"
+      "category": "IT",
+      "publishedAt": "2026-09-25T14:21:29Z"
     },
     {
       "title": "An artificial intelligence (AI) tool achieved high diagnostic accuracy for the identification and prediction of sepsis",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVjZuWEFxQ25ZQXpCY21GRXFwb3h3MFFaMW9EbkRxai14cEZ1LU54SE8tNU82SlVHSGU3LUpqRXkzcUZidDI3aGJQdnh1cXVuRTRsRldiTmhtWWxkQjVMVW1QRU1ZeElQcUh1X2hRQWU5MzlLcGRyV3JOd18yTU9UT2hidTRyWXdmejIyTDdMVTZDMkdzTndtSHlEdWhYSVZqYVNlU3lBd0hDVlNVbzRDeVVEN2tUcU81Qkpxb2dhckt0anBuODRDVVFsbGtTSmM1eW1oaXg4elFFbFd6SnRJQVZ6bw?oc=5",
-      "source": "2 Minute Medicine",
+      "source": "2minutemedicine.com",
       "country": "미국",
       "category": "AI",
       "publishedAt": "2026-09-25T14:10:15Z"
     },
     {
-      "title": "Over 30 CEOs scored an invite to the US-China state dinner — and these 4 got a spot at the head table",
+      "title": "뉴욕증시, AI 낙관론에 상승 출발",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeGdXbjB2eDZyV001bmpfLUN1TG9md1RyR1NiQVpiMVlTbmJNWXNlaTI4NGtZYkJ2QWs5MkI5V2R5SnJmckJ4TnVuX3Q4MVVMUlpORmR0UGVYZGpUa29qWHRLYkt6WHVULTRlQnNkZ08zMjU2RHV5RHYyc3Y4a1NoR2ZQRmI1MW5zYy0tdy0xR3FMb1hLVENnV0xObHEyU0Nmb2VJZjBFUDJoeE1meXkzdXcwZmNkTXBCMDByRGFvMzBpWDZXTkNYOUl3cTlWOC1jUTRrRERXRnBQQlIxUTA2WFIxMklUZmZPcGJoYWJn?oc=5",
-      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PaWVaM1BWb3RSam92V0NVTGJVT0ZnN2NzM21HbHM2MTBaMXY5cEc4Q0RIOHlFdnp2ckdjSXdVaXpKRFctRzZ1WDZLaVNuWTlvWWV6enhOQVp3emfSAWBBVV95cUxQRGZXSFB2LXZqTTBic0Fnb1R2UGpNZlJvajNXdnM2bXlNS1duanRSSnM4RFcxeC1LbzlMUE8xRHZXR0ZtMEJWUnJpMHZEUFd4ZlduclgzaFBRdHZoYkI5bXk?oc=5",
+      "source": "연합뉴스",
+      "country": "한국",
+      "category": "AI",
+      "publishedAt": "2026-09-25T14:04:05Z"
+    },
+    {
+      "title": "Is Taylor Swift’s ‘Patient Zero’ About Sophie Turner?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTWFOVm1zV0RrUmxGQXlpU3BTQno4Z0ZoV1VnRXdZZklCTUZUNEc5WWRFbnBzWUwtekdVYW1wTmVpSEFMT1FvSWlXdEhqZXFyVUVfZXF3eVBjVThESFJReldlel9BTXEzbXc3QnNCYk5DbXNULXNQazNfaGFZdDM1cnFjZUNMQmxsUDFVLUpB?oc=5",
+      "source": "The Cut",
       "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-09-25T13:44:00Z"
+      "category": "문화",
+      "publishedAt": "2026-09-25T13:46:05Z"
     },
     {
       "title": "가위바위보도 지면 안 되는데…한국, 사회인 야구 선수로 구성된 일본에 0대5 완패",
@@ -137,6 +146,15 @@
       "publishedAt": "2026-09-25T12:31:17Z"
     },
     {
+      "title": "Spot the full harvest moon alongside golden Saturn in the night sky",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0aVRuZUp5dDJhSjVKbEJfdHFkdkJNSkhVVDREMVczQzAtbU5QZVVZSVV0aHpyemF6ZTA3VkFqU3pVeHJ2RU5teUFDMnNHQkNTZ3dOdExUb1RLYndDUDlua1B0eXR1U0RTNGMtaURrbG1QSWRzaUNaeXBXMlBjdw?oc=5",
+      "source": "CNN",
+      "country": "미국",
+      "category": "과학",
+      "publishedAt": "2026-09-25T12:27:31Z"
+    },
+    {
       "title": "Red Cloud Community Schools announces death of second-grade student",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YYTkyeFlIenVJNmVZN0xaTDRQb0NhOElvRk1NTnVrMGY5Um01c3ZTNElVNXZZUklLcFZTVW0tTFFqcmlhNXZvazEydi10MnpQUDdrcm9HNXNLS0hSZlVfbw?oc=5",
@@ -155,31 +173,22 @@
       "publishedAt": "2026-09-25T12:07:39Z"
     },
     {
-      "title": "UHealth Heart and Lung Surgery Programs Earn Top STS Ratings",
+      "title": "AMA grant boosts patient-driven approach to cervical cancer screening",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeEFlejBiSERfZ3VwSVRQZ2Z6SU5tenRveF9OdEJuNnNuNEpnd2gxZWs1UDhnb244ZmUxWUN3WjdwRmRqakd2Sm91YXpNMXdlUjBadjE2UUQ1LXBaNjRNbTBmU21JdHlXQ1NrN0VxejhFRnJOWU1UWjhKX2lGNlNrYWd1dElBZXpLTVhWYWJZV0ViWXZBUldZY2s1dHZ5Vko3bXJCRlEyNWFkRUtLQlE?oc=5",
-      "source": "South Florida Hospital News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaWxZLXQ2Y3RXalZBSWxrVjJvMV84YlZpME9TZFdtaXF3RDVMV2ZnVFZkc2hLRUJLNUpMMkc3LWdiN1pZbnV2OHdtZ2xYSTAzbUxxSjBab1g0OW5mWG9uS3dLQUJuODM4M2tQYmZIekJHWlFhRFRkZFJ2U1pid09Zd0EtYno5dUZ5YXZwNFRlS0tWN3paWktEU093bDU5X055N3VGVVJrNDRVX2dJR0FGWXFCV3l3eGpFZE1TVTFabw?oc=5",
+      "source": "American Medical Association | AMA",
       "country": "미국",
       "category": "사회",
-      "publishedAt": "2026-09-25T11:44:11Z"
+      "publishedAt": "2026-09-25T12:06:36Z"
     },
     {
-      "title": "'현실 여친VS무대 여신' 아이유, 극과 극 온도차 단발 셀카",
+      "title": "The comedians turning AI anxiety into punchlines: ‘It’s so good, it’ll completely alter our grasp on reality’",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBpZGJmVGNrUWhlRUxnYW90Y0N5SEhiMWQyeE5leUZ4bW9RbjZ2VFVyUnI5TjkxVjg2SlQtaVUtdnMzN0E5X1E?oc=5",
-      "source": "v.daum.net",
-      "country": "한국",
-      "category": "문화",
-      "publishedAt": "2026-09-25T11:12:51Z"
-    },
-    {
-      "title": "다시 엔저...일본 \"트럼프, 우려 표명\" 이례적 공개",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95am05TzRselZvbTB5OFpYR1l5dzc3YkJrNk04eXVvZnh1R1pDM2NMRXlkdk1iaUNPdHg0c1FFVzNCMGdqMC1EQzhMb0Q1VDIzS0FEeFcxUThuNjdacnc?oc=5",
-      "source": "YTN",
-      "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-09-25T10:53:00Z"
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QOG0tZVJEVUpYSGJCbk56a3ZaNkR5ZUxkX0Qxa21BajRWUWt4dktGTk9BcWU5SHBhS1JFOXJ4MTE3dGRULWFhRmQ5MVVOdFlQRkwxS2ZXdWV3eUpURFFmMEtzcXVjR1hmWGtQRzRxdHlzZS1VZk13?oc=5",
+      "source": "The Guardian",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-09-25T12:00:00Z"
     },
     {
       "title": "New hairy-legged, three-lipped, red-eyed sea spider species discovered",
@@ -191,13 +200,13 @@
       "publishedAt": "2026-09-25T10:01:10Z"
     },
     {
-      "title": "Here are the lyrics to the 4 new Taylor Swift songs off 'The Life of a Showgirl: The Encore'",
+      "title": "‘이종석과 결별’ 아이유, 엄마되면 이런 모습일까? 자연스럽게 아기 안고 미소[Oh!쎈 이슈]",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQ1REbE9vcVYxal9VWTM3UDVEcVRwbHBYMVFNZmM5NGhaTTdHcEVZOXlRUmtobE5FOEdUZnRfYW1fLXFrM19UTlZYUzBSaUxBQVJWUWFva2Z0X21Od1NlX2tLTVBuU1BRS3NULS1RVzV3MWFicG93amlJSmxBb0IyZ0JFUXVPWWpIa20wVmlBR1ZtV0dQSWhRVU9LYnNCZHFYeTFJMmZFZmVDMmlhR3lVcGpMYmNFQ2pIV2FpUkx1ZHV2QmNVUVdzR0ZpSDJBN1ZaaXdfa3c2MExhbk5tV1E?oc=5",
-      "source": "WUSA9",
-      "country": "미국",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE90Vk1KWkNHS0hNdkYteVU1R2swY3RyQ3RVV1ZrVURlNXR3Ym9KX3VUVDhzMDF2YTdoV0diSHFSeUJHemNyR0E?oc=5",
+      "source": "v.daum.net",
+      "country": "한국",
       "category": "문화",
-      "publishedAt": "2026-09-25T08:40:00Z"
+      "publishedAt": "2026-09-25T08:14:09Z"
     },
     {
       "title": "한국 40년 만에 해냈다…황서현, 아시안게임 여자 평균대 ‘금메달’",
@@ -209,31 +218,22 @@
       "publishedAt": "2026-09-25T07:51:00Z"
     },
     {
-      "title": "우크라가 공개한 ‘북한군 포로 송환’…민주 “정쟁 확대 말라” 국힘 “북한에 굴종”",
+      "title": "청와대 \"지뢰폭발 조사, 추호도 흑막·은폐 없어‥北 지뢰 등 모든 가능성\"",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mbEt2SkVUVjlGenNpall1TDhTLVh3SDh3YUIzR29LYU4yZGNGSDlDd2JGSnc0dkJKQVZOeTlpWVl0UzBfT0lUcXhicXV6MEVPQkhsWmxsek1mclExN1hGQ1ZzVnVMTFRqTlE?oc=5",
-      "source": "한겨레",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-09-25T05:57:00Z"
-    },
-    {
-      "title": "민주당, '지뢰사고' 野 공세에 \"장병 생명까지 정쟁 도구로 삼아\"",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fX051eUVvclZyYWpBOV9Ra3piWHhsWFJKcVJGOFppOWtFQTJOUGoxTlNvbmRQeW5xUTlNV3ljdkZ4MzJlNG14ZG1zeC16ZWdZQkNsd3Q2U0RfbTNBblA2Y1dqWlZPMGhSU3JVQXQ2Z2xDQUR1Mk1EUdIBeEFVX3lxTE92MVprd3VlTF90R0FubVRndFVaV3hZbDBhcVV6WEh2MFY5VG5EdG5jRmNST1cyRG84S1RneGM0NlJtTU5EYWFIMmplVVV4cjVVbS1COTdRMy1TYnFvVmdnTG1Oc1BxZFZYeGR2UXhNLThHMkNDaWVPUA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PQWEwanFnN2dJNTVtV2w1eXRRY1l3cWw3WUVLb3JpeUlLTHBxS0RCTzlhS0FoTE5rMjRSaGswa3ljd2FSckZOVFhpbFJ4UzViUHpUOEFpR1Y3eFd4b0xPNW11VmI1VWd5NThfT1pkTl9wajhzbVl5edIBeEFVX3lxTE9WT19SWkZHSlA2YzI4dEp3ZUg4VUEySFpUemhqdXkwR3ZmYkFBcWxEcVU4bUJKbGR6d2FvRWExV1NyWWxZeDAtMUhjMUlmbVlfNmdzTTYwSk1HN0xaeW1TTkFLTHppVXZvMkN5RDgyYld3ck9paml1Rg?oc=5",
       "source": "MBC 뉴스",
       "country": "한국",
       "category": "정치",
-      "publishedAt": "2026-09-25T03:56:13Z"
+      "publishedAt": "2026-09-25T06:40:27Z"
     },
     {
-      "title": "[AI는 지금] 中, 소프트웨어 산업 판 바꾼다…2030년까지 개발·서비스 AI 전환",
+      "title": "청와대, ‘북한 포로 한국행’ 공개에 “젤렌스키 연설 전 알려 왔다…우크라 입장 나중에 바뀌어”",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15MUZCeXJhb1FueHJwb2kxaEZMbFdyaXZ1c2E3UEFfeXVtb19TLUhzbWJUNDhqT0pMdVJRTnBWY3ZYRkQtaUFXSWFrcmJaQ09XSUJHcExR?oc=5",
-      "source": "지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwaGNwYzBhcWtJU3AxWVZhUXk1U0NqWXQtMG95YkNIbWgtbWlnZ3VsNWZhWFNLSDVXY21UM3hZVWxzeGdmVG9nTkxmMXFiSmNxY3RrVUF5dFExUdIBX0FVX3lxTFBqVDBSenh5MEJpUjZxelhiaHhsS1piVTZ1a19iSTRFWC1xcEVXdXJOc3dpWUJmTHFxVk1nT0dPMUE0TF9KUXFYRDYwRVFpRER6SmVtSFZEaDFpeU9QQzZj?oc=5",
+      "source": "경향신문",
       "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-09-25T03:33:07Z"
+      "category": "정치",
+      "publishedAt": "2026-09-25T06:05:00Z"
     },
     {
       "title": "세균끼리 신호 주고받아 덧셈…‘살아있는 회로’ 개발",
@@ -248,7 +248,7 @@
       "title": "S&P 500 ends marginally lower as investors focus on US-Iran war",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdkxPUUdXbDkwcTdtbC1yM0NWMldPb2lpeExQRVh2SVFWQUl4Q3haSlp4U04yU1BoanNVeWF5bTIwbWJRQXVEQkIwMm0taFZ4eDJ3dUVjOTVuSWhEMVRZNV9vdUNab01CS1o4aUpoQVE5TmFqV1BMTFVaZVJzVEFES3Y4S1BLZFQ1TDFtR2dLZklJRkdFN3hTaENjVDhSc05sT1BVZ09idlU1ZGkwdTZLRi1n?oc=5",
-      "source": "Reuters",
+      "source": "reuters.com",
       "country": "미국",
       "category": "주식",
       "publishedAt": "2026-09-24T23:30:37Z"
