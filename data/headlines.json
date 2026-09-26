@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-26T17:29:15.869727Z",
+  "generatedAt": "2026-09-26T18:33:21.623701Z",
   "items": [
+    {
+      "title": "Mayor’s Message | Watsonville’s cybersecurity best practices",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUHhBR3VjQ3R3dnZIT1Bhb19SWFVLMms1ZFU2Z1M3RElVd1RYWFAwMTZMTTBaUTA3a0hydHBPRF8wREd0Y0NJcVR4VkN0RHYxeHQ5TmItYi1SZGZyMzlrUzkwdkE2MzJKZTFKdThSVVRKVDVaV1pUaktHaGZXTTNwamFBbG5YaXBZcHBmUjAyQmhtY1NreWRBaFBySVROQlQ1dktPNw?oc=5",
+      "source": "Santa Cruz Sentinel",
+      "country": "미국",
+      "category": "IT",
+      "publishedAt": "2026-09-26T18:27:47Z"
+    },
+    {
+      "title": "As Hurricane Nolo stalls near Hawaii’s Big Island, serious flooding likely",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQakQxZVJpa2JrSmplYWxSbDhKQ2pPbjZZVXpIcnZjcDJ3S1FyU1p6ZWlCQmZ3YS1FQ0g5SU4zZS1FcDRoMkVQUm5CMUtQYWdDYmdhN2g3U1NKeVlNNU9VeGFwSjdFNXlpMzBPWnZlSTZIM1plN3RyRVRfMlJPcFVJQUd3TWJLc0pnRm9Oa01rNzdUcmVUU2NlWkdVYTdEMzRKOHNfVW5NblQwYXp3N1o3aV9SaTFHcUZMTkJxVQ?oc=5",
+      "source": "The Washington Post",
+      "country": "미국",
+      "category": "정치",
+      "publishedAt": "2026-09-26T18:12:21Z"
+    },
+    {
+      "title": "New ETF blends 75% S&P 500 stocks with 25% XRP, offering direct crypto exposure alongside U.S. equities.",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTWN2S001UkdBUGZUd1pydkY0enFOWHFJc0V3bFotLUVBN1duU1RpaVFaQThTYW93XzFaZ2JfM3ZZOUVzdnZrQ1V4REJ0clp3WGVSOHp2THY1NG9jNldEMkU4WEFCOHlXOUFoQzhralU0ZXNNM191NS1Id3dheTNTcUo5eTh2M0EtRTdHVmhQM3JaVGVqamVuak84UnAtUQ?oc=5",
+      "source": "Pluang",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-09-26T17:44:41Z"
+    },
+    {
+      "title": "Box Office: ‘Avengers: Endgame Encore’ Leads With $11.2 Million on Friday as A24’s ‘Primetime’ Takes Second",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcUxLZmJEOFlEbXV5TE1Bb0JTZThWbFZjZ2h2WURBRXhBd1BqX3NRM1VSSFpTMHI5QnBDQ01HTVpmQURDY2lQa1VjZmMzelhGWnQ2ejBKck9VQ0tSSkYtMlIwdnhGVXFOVFRQZVBlekNNQ21xemtTTDUtckh6UnRZRHdXUjBuREo4MlZscVU4eXcyNDdrTWJ4Z2d4RkpDWk5CZW9tSk9TUGptTmN6T2Y1VA?oc=5",
+      "source": "Variety",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-09-26T15:54:00Z"
+    },
     {
       "title": "잘나가던 곽범, 성대모사 금지 당했다 \"작품 안 들어온다고 자제 요청\"(전참시)",
       "summary": "",
@@ -11,22 +47,13 @@
       "publishedAt": "2026-09-26T15:45:00Z"
     },
     {
-      "title": "Box Office: 'Avengers Endgame' Leads Weekend Where Four Films Eye $20M+ Each",
+      "title": "OpenAI says its AI agents escaped a secure ‘sandbox’ again last weekend and it is pausing training for a second time",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTXpxVXRSZHMzV2M1aXZQYnpfUDFVQ1hzcXc3MUpCWTZDYXdrTENja0NTdVZ3eWxXWFRUWmdoWmY5S2JXUE1PWS1vVzE0WHMtcjhtejQ2MmdUaFlwQ09hWTV2T2JheW5tNUM2SlBmNlNHWS10Si1IWGlUQVRLUlE1eTJnSHdxYy12UmZPX3ZBVU9UVVVmYjRtd1gzTW14QQ?oc=5",
-      "source": "Deadline",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFNfUWZES3NOQWlYakpDa2RwT18tWXZOX0YteUxUY0MzQi0wQmNwb3N5ZjRXekFHVmdBSFB5RTkwcUpETUdVM0JfM3B6czhCRzJUa1VKZzJDS3dyRm9ZaUYtSmFQd3FWeHFpUnhVdThZMVJLRlRhNlBlRmZaWUtWaUJlVWVBckNaOXpPalVBVXdiOWtySVVxMjR0U2cyVC1FVE1nRDk5Y25YdU1aZHhVUm1JRFZ4UQ?oc=5",
+      "source": "Fortune",
       "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-09-26T15:20:00Z"
-    },
-    {
-      "title": "CoreWeave’s next test: From GPU scarcity to a durable AI cloud",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNE9RYlQySHNsUUFsZ280cmh4V09rXzdIcmRYak9mV2ZyTjdVRTlFNzY1MWM1anFwR2dkWW5sZFBPRHFXSHRqT3Nqek5FZXNoX1FsU1lmdjRhYVFhUlJtWG5DOEUyNVlDbVJ3QWhUeVk4LXVheFpaVmR3MkVndTlJTWZkczVMQ1E5QU1jU1VVWjJkNzlwcHNuaXM2TXpoUQ?oc=5",
-      "source": "SiliconANGLE",
-      "country": "미국",
-      "category": "IT",
-      "publishedAt": "2026-09-26T15:08:00Z"
+      "category": "경제",
+      "publishedAt": "2026-09-26T15:25:00Z"
     },
     {
       "title": "[크립토리뷰] 원체인 밸리데이터에 '해시키 클라우드' 합류…글로벌 노드 인프라 확보(9월4주차)",
@@ -38,22 +65,22 @@
       "publishedAt": "2026-09-26T15:00:40Z"
     },
     {
-      "title": "College football picks: Predictions against the spread, odds, betting lines for top 25 games in Week 4",
+      "title": "‘DMZ 지뢰 폭발’ 5일 만에…군·유엔사, 현장조사 준비",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNDY0MFNPcGVtUnVuUjk0NlVPNmRIbmZlSUdTRVVvQ2RSMFRvRTRhN25BZnU1SHNVeENwUUlaSUFRTU9XcF9hYWJYTVhFMGFLX0RHR2JUZ3BrR3pFRmJlRkY2NkNRWU9RZkJscUxwNWtLMG1xU0F1ZlA5bmhscktRSjNZcmdTYjd6WEt6NElLd3pMR3JUQ19vS1pUNUJ4V3JGRDlKeUoyUUxnZGtLQ1FmNmZ4OURLdV9hSkNTWlpvRlQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aUTBkeFJqNU1BLV9iNG8tZjBocnJaTHBINFZoTlFiNFdTTk8tRjdicWQzdktMVy1ZajJNSXQ1YUEwVVAtZklWV1h5ZG9UelRjN0tRZlpocC1lTGRmTWpvWFJ1NWJQQzRfVU5FcFZLaG5xSmVn?oc=5",
+      "source": "한겨레",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-09-26T14:14:00Z"
+    },
+    {
+      "title": "Self-learning AI releases NFL picks, score predictions every Week 3 game",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV2Y0WmMwRkd4Si1jR0lyd3UzLVRsZTVLclNCU3FjQWNMY213QnVRZzgwX0piZmpldGc2cy1md1BteWFrZko4MElDX1NsMm9FOUdjVnlhS0N0Ry1aOHF3VExtemgtUUNPX1ZkdmluWmd6UVFQV2dZcHc0cVhHZVVyc3otcTZteEZCRVI5ZVpjN19NN09tQmtiSllBZUJjRFRkaFpaQjcxZ3FLbWdO?oc=5",
       "source": "CBS Sports",
       "country": "미국",
       "category": "스포츠",
-      "publishedAt": "2026-09-26T15:00:00Z"
-    },
-    {
-      "title": "Rogue OpenAI agents targeted three separate US government websites",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbkQyN1dNYTkzeGFDN0hQSHVZNGxVUEcyb0trcGo1SmZMeWxNRmYwOTNHRGo1eVVrWTBqYkVoUmxpV2xuVnlURWtpY3FRTG5zRGNQdk90SjdwblZVVzlfQWk1UGJsTGNhQVF2MXZ2QjFLYV9iZ0FrWElzSFhIWGhFZw?oc=5",
-      "source": "CNN",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-09-26T14:54:41Z"
+      "publishedAt": "2026-09-26T13:30:46Z"
     },
     {
       "title": "아시안게임 여자 농구: 한국, 일본 물리치고 금메달 획득 [아이치-나고야 2026]",
@@ -65,22 +92,13 @@
       "publishedAt": "2026-09-26T13:30:00Z"
     },
     {
-      "title": "류지현호, 중국 꺾고 결승 진출…결승도 한일전",
+      "title": "[AG 여농결승] 한국 여농의 반란. 예상치 못한 金. AG 역사상 남녀 두번째 동반 금메달 성공. 한국, 일본에 75-70 승. 이해란 이소희 강이슬 빅3 61P-22R 합작.",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXRzF1dG1LSVl0R3VVbGw0TzB3al9BZ2ZPbkVMYkFIc3NuN0hWZ1ZvX3NUMEJFb3hZTFc3ZDF5QkNUNHFDSnlJTkR0WDdKYURSSm5uczRWaWVYUlU?oc=5",
-      "source": "KBS 뉴스",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-09-26T13:29:00Z"
-    },
-    {
-      "title": "AG 여자농구 금메달",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fQUVHT0l2d3hCazVEekFMT3JmVWFGb0xCR1kzNlNwMmFrNFV0d2JPV2U3eGNEM0FfLW42UmpmdzJhZzFjRGZmT19sRHhaMTY5QUpxNWZWR0hWMEhFUVRRZlNpVDloZw?oc=5",
-      "source": "뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd1FBN0xvbFdGaFdtM05DYlJ5WVBqVkdUczAybUdhUEphNDBhZGxDOHRwaHljY0FOQ0VNQ3ZHT2ZRdWh2Ykt4MTMzV3gtaVhYZ3lCWDVEcW9vRFRzYUtjcjJEOGVLemVGcVpkanYwZGk4MGYzM04xMjE2UVNybzVIVVNsLXJkZw?oc=5",
+      "source": "조선일보",
       "country": "한국",
       "category": "정치",
-      "publishedAt": "2026-09-26T12:44:07Z"
+      "publishedAt": "2026-09-26T13:27:00Z"
     },
     {
       "title": "U.S. Stocks End Higher After Volatile Week – Sept. 26",
@@ -110,15 +128,6 @@
       "publishedAt": "2026-09-26T12:22:00Z"
     },
     {
-      "title": "US, China agree to cut tariffs on $30 billion worth of goods, set up channel for AI incidents",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa21ZZWtfTDZVTkpVNFE4VWJiTy1RbmtNX2l6RVN1Ui1ZaVpuQ2p6eE1CcDZYNDJsU3dpbjJhZzVvWVJCZEtrbjA0bTBVQnFiYVNYa1BMaVRUcHpRY2t2dXN3c1NiS3NSYmJ5N2NkSGdVbUNDSk5LT2ZuSVJlb255T0JoR1BPQVVpSEZTNNIBkgFBVV95cUxOOFh1NnNUUDFudzZweFdaNEpfX0pKMGdvYWJBZUJuSWY5NkliYlN3ZDRYOGJsSExjZjdYYXRNWXFzS0hrR241am1aRDVPS3M3SDVZbEtXd05ENDc5M05FZjZFdWdTWE5pR0dlY0IyNkowVkZaMmkydU9fM2dlYnVQUnRqeWlqWUtQbFV6TGFWaUVXdw?oc=5",
-      "source": "thehill.com",
-      "country": "미국",
-      "category": "정치",
-      "publishedAt": "2026-09-26T12:10:00Z"
-    },
-    {
       "title": "Why I’m talking about coffee in a column about artificial intelligence: Letter from the Editor",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ1ZHZkVBal9EREw5c0lTSndMN1JkN1g4dWxfdzYtcDFSWUVBOXpJQzFieHNsYjcwUHZ1UU1oSWZXbFJCMWM4VkNGLUxSaF91Wl9Ic2xTakxuRlFHQ3pPWmd6aHRLbGR1TUlUcHo1MGtva3ZBLWx0SS1ZN00tSWp6c2dMb3k1NVJtUXZCOFpnNmw3M1ItUEkxUm4xeC02eGZia2ZWOG9vWTNWRW91N2JyYlF0TVFjejVKUGdaQkx3Vkt6dEZYSGV1YmtkRGdSMmVvcVHSAeYBQVVfeXFMUHpjcnhpMTRhd2l5Ml9DSUhXNU9HQWNsb2NyX3RnTHE1b01IQnEtWDUzMXdvTFEtaF9xa3RxZjN2TGhCanJuN3FLdkE3ZlNleVlwcC1BRVpWZDA3dm5neG5RUzFxTzhEdVVOUEgxNmUwRlZ3T0NGQXl1bDVQelhRQTducTlZUndQSUg5czNUcjVQZ2wtRkpCSlc4NVh6b2ZHQ0xBTTg2ek8tb1JVblFFUWpXZVF0VU1EWTZiNzhSN0p6Y183V3FNLTJfT0dmQ1pGdmRMS3JzakZsZ19sWGgyUWhLNW5Dbnc?oc=5",
@@ -131,19 +140,28 @@
       "title": "Thomas Jefferson letter goes on the market – containing a prescient warning for Trump today",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRl9SdjRKMkg5M2dFQUdkbVNLWnFicV9pRnlkV2tta0E2cHM0TEZJMHdrX0lmejdETFdFR28wNTFOcUptSkNWVjFYYXNLM2tQVFBEUjQ0ek5qUkF4Uy1tUFFmemZkSGotZDFlYzBSV2VTRnRySUJ3SHJKUGJKenducFp3cllCeEc4aFJQS1ZB?oc=5",
-      "source": "theguardian.com",
+      "source": "The Guardian",
       "country": "미국",
       "category": "사회",
-      "publishedAt": "2026-09-26T11:02:00Z"
+      "publishedAt": "2026-09-26T11:00:00Z"
     },
     {
-      "title": "\"끝난 거 아니야\" 오상욱, '41-44→45-44' 한일전 미친 역전승! 男 사브르, 일본 꺾고 금메달...女 플뢰레는 '역전패' 은메달",
+      "title": "[아시안게임] 펜싱 남자 사브르 단체전 4연패‥오상욱 막판 4득점 대역전극",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UNXMzdER2SnBDbnhwWWR5SngzYTc3ZnZTQmVRWUtfLU5PcUZITVdwejU2MEJSMnNncmpzTGRpSklWdU9aY2poV3B4WWZGMjBWZTZuaG1WSWI5MFdfcWxYdXpn?oc=5",
-      "source": "미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLSF9RUTJELVlqempvZmpmMmlIdTRTaENWQzZWZVAzR2JZSWJ3RVlCY2xCbDc2cVhob2lWWHF2TWFOdnN0OUZTbklucVI4Q1FULUsyLWNNWUdqU2dPZkZKS3VJTFFzUW4wU1pnVUtWek5NY1BCMXfSAXZBVV95cUxQZF9WNWJJT0laMER4Q3pjc3c2S0NsTElnRmJ3SGZ5QzNXWERtVGJBQ0lmXzBTRkZ2SWhBeEkxSldXd2Zfdmc5dXJhalgxeExiWXd1UTRpUi1oXzhEc2YtdmhDRkt2emw2ajBBdl9sbFNyUk5ZYmxR?oc=5",
+      "source": "MBC 뉴스",
       "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-09-26T10:41:00Z"
+      "category": "스포츠",
+      "publishedAt": "2026-09-26T10:54:25Z"
+    },
+    {
+      "title": "Inside the ultra-luxury sober living home where Presley Gerber died of suspected overdose",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMVBuVFd1bzJIYVc4RHdGOUQ4R1FHNGRreVZvbm5IWUV3RWpEaUJrcTU1VGl1MXh6TGdhbklfaFpFcENxRFRQd0dRMDFWcXdRWVJDUTRLUE5sbm9DMWo4bWhFZ3R3ZEd6VnZXcnhpLTc5VzE0b1VSc0VicE9Fb09vaWpST0pER1gyT2lEVEpSQXRSVl9CN1JNZVNJVWNOLXJWendDWnptTVczS21JTUlocWNNSkhWX2FkbkZIckNVeUhHYllFOEpHcW1zNGFQOGhm?oc=5",
+      "source": "Los Angeles Times",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-09-26T10:00:00Z"
     },
     {
       "title": "Jim Cramer Says Buy 2 Artificial Intelligence (AI) Stocks Up 875% and 1,400% Since 2023",
@@ -155,15 +173,6 @@
       "publishedAt": "2026-09-26T09:48:00Z"
     },
     {
-      "title": "Only a Handful of S&P 500 Stocks Can Match 10-Year Treasuries at 5%. Here's My Top Pick to Buy Now.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYmg0TGpKYlRuRjctYlhJUVRUMTdMeExrVElpY1l5U2FERzNMdHl3ZjJ5b2h4TVdDbTZ6d2MzeHJIcGxqS0NHTnNpYjNpTFc0WmZUX0xwZlQ1bWF2cDRRS0FadUJvS3hWOHliT2lHTXBfQzhNZklwdlRBV012WXdReTJ2OUstYzlzUWFST0JYTTVOY1Z4OFA0?oc=5",
-      "source": "The Motley Fool",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-09-26T09:25:00Z"
-    },
-    {
       "title": "[보안칼럼] 클라우드 서비스의 사이버보안 확장 통제",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sOUw1WGc5cTBJZVZaVlB1VnpYbDJjb3VJeFYyNkJOSVBBYzI3SlFRQS1PRDNjRVpkb05xVXNNc2VydGh6NFlleHFnZkVEX2lGMmJCOVR3?oc=5",
@@ -171,15 +180,6 @@
       "country": "한국",
       "category": "IT",
       "publishedAt": "2026-09-26T09:19:57Z"
-    },
-    {
-      "title": "美, 결국 中에 밀렸다...AI 인재 경쟁서 韓 '깜짝 4위'",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hS2pPS1dSdmZJZlBaZGh6Q3R1M2ttTjlMS1c1YWpwMHIzZklpRE5ybW1VMFRTbDNDV0lBY3YyTnBUbzhUMnphanhZa0h0eFk?oc=5",
-      "source": "v.daum.net",
-      "country": "한국",
-      "category": "과학",
-      "publishedAt": "2026-09-26T09:02:00Z"
     },
     {
       "title": "Inside Meta's months-long grind to turn Muse into a hit",
@@ -221,28 +221,28 @@
       "title": "At Meta Connect, the company’s smart glasses were everywhere",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZjFPMGtJUkQzUUZNVFczdGtycGRFeGN0UnlZMVJVWEdsbEpVaUxUbDVLVUpHZkJaeU9aZzZ2aTFRLW1uUnlvb3ltdXRTXzg2VFJQYmNoVVFPNGxTRjNfUmpMT2hrX1luTjI2QkVKeFUzWE16bHhONXNwLTlaUG41VGFTS2ZwQXRLczBuX1R5bldacXhDM0hUTQ?oc=5",
-      "source": "TechCrunch",
+      "source": "techcrunch.com",
       "country": "미국",
       "category": "기술",
       "publishedAt": "2026-09-26T01:08:57Z"
     },
     {
+      "title": "원인 유전자 1200개 넘는 자폐, 분자 상태는 두 갈래였다",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc1QwVXczdTJpbktwVDlLRV9MMUtVZ2psZ2NpZ2dLWEliMnBpSGhGV2RNbU5pbnY1NS14T3lPUS1ISzVBVmRKWC1nejBHalRfSGNjdmdEN2VYTkhsb1pUMmV1aWgwWTlGaXhQcDdqWmhzdEp5TmUwdUh3dDlxcWoyM2txYw?oc=5",
+      "source": "조선일보",
+      "country": "한국",
+      "category": "과학",
+      "publishedAt": "2026-09-25T23:11:08Z"
+    },
+    {
       "title": "미 국채 금리 5%대 시대...\"고금리의 뉴 노멀 시대\"",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MOTdWLUFvYjMwWlUxeDBsd2tyQldGMUlrd2swM3dOa3QwWlBJTm0yRVotTGJzc3ZGT0o0U0NHRmE5cUV2OUI5V1BHQWlKSm9vTDRJR1pIVFZNellGTGc?oc=5",
-      "source": "ytn.co.kr",
+      "source": "YTN",
       "country": "한국",
       "category": "경제",
       "publishedAt": "2026-09-25T23:04:00Z"
-    },
-    {
-      "title": "Paramount/WBD merger conditions give the public \"virtually nothing,\" judge is told",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT0Y2WElaR053Tlp2OUpfUzhlalVNSzVscFUyeWprMzF0bHNqejlBRHZsZEhNd0E2R2ZjeTV1TWFLN1UxRkZTYXlMd1IyTHFuN1Yyamd4SzVNc2dZNlNFeWR0eDVpTktIVHMtSUV6OFVmVDVRa2ExSzBoRXVySlk2M0RkbmZYaEtxY2VjZHY4UTlTQ3JmODBuVmtOZVNTWWdLeTV4UEtiMUJaTUlhVENqeU42cE95bVJsRHZnYnVHaUJJQQ?oc=5",
-      "source": "Ars Technica",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-09-25T18:42:57Z"
     },
     {
       "title": "Microbes could survive on Saturn's moon Enceladus — and scientists think we can find them",
@@ -254,6 +254,15 @@
       "publishedAt": "2026-09-25T18:01:00Z"
     },
     {
+      "title": "With PRIMA, NASA will try to build a billion-dollar space telescope in record time",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVnJMSm53eS11MzlEdE1TZTk0ZDJEWGJPTHVQQzUtV1FsOUpQY0dMZHE3YWR5bFdJXzN0SlozZkJqYjFXM2RpNEI5ZXRWanpjSGNSUGo3QTdGM0RJeHJFR1d3aXdwdUoyeUFZSXFmZmx0YnBaZHNKUWdTQ3BZZGU3OHdTVFFoM3ZlOEJqWDdCU3pud0hZQWZBeXdYb2RzMUItT0hiLXhsSmdFQ1l4LWNNWG83b2hoZkNuc2c?oc=5",
+      "source": "Ars Technica",
+      "country": "미국",
+      "category": "과학",
+      "publishedAt": "2026-09-25T14:07:46Z"
+    },
+    {
       "title": "\"美 연준이 선택할 차세대 결제망 코인?\"…XRP·XLM·HBAR 급부상",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOazVhS1VaT0kzbmkyYVZuRE1qazNhUWVLbDdiMXBSTlFYT0dYbzMzYWNhWGJwX2JxMnpCN2FTMlM1YXJaN25EaUdPMjNBZ2xtSHJCU1BBX3MyVTJuSWJmSU5XYXR1ZzN5VjFoUlRpV1ZfeUpmbXZ6U0g1LTV6bkhqR0dNU3Z0U0x6?oc=5",
@@ -261,15 +270,6 @@
       "country": "한국",
       "category": "기술",
       "publishedAt": "2026-09-25T07:31:28Z"
-    },
-    {
-      "title": "How lead-based ink may reveal hidden text on scorched Herculaneum scrolls",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNczh1UDJJQUEyYzNUUVJqSWh5S0tFT3VnUWRwSGY4UjltZmlhZjVSb1ZpNTZzalpVdXFkSWMtb3paSVF6T2g0QUxtN2xtQ2pMLVpBdERoQ0laTnVCSDUwWTNnbVlzX2FzTnBxazhoUWZnZkl2czB5SENHLUp1bmREMjJiWTQ?oc=5",
-      "source": "CNN",
-      "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-09-22T13:30:29Z"
     }
   ],
   "briefing": [],
