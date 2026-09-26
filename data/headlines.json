@@ -1,15 +1,6 @@
 {
-  "generatedAt": "2026-09-26T18:33:21.623701Z",
+  "generatedAt": "2026-09-26T19:27:46.946280Z",
   "items": [
-    {
-      "title": "Mayor’s Message | Watsonville’s cybersecurity best practices",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUHhBR3VjQ3R3dnZIT1Bhb19SWFVLMms1ZFU2Z1M3RElVd1RYWFAwMTZMTTBaUTA3a0hydHBPRF8wREd0Y0NJcVR4VkN0RHYxeHQ5TmItYi1SZGZyMzlrUzkwdkE2MzJKZTFKdThSVVRKVDVaV1pUaktHaGZXTTNwamFBbG5YaXBZcHBmUjAyQmhtY1NreWRBaFBySVROQlQ1dktPNw?oc=5",
-      "source": "Santa Cruz Sentinel",
-      "country": "미국",
-      "category": "IT",
-      "publishedAt": "2026-09-26T18:27:47Z"
-    },
     {
       "title": "As Hurricane Nolo stalls near Hawaii’s Big Island, serious flooding likely",
       "summary": "",
@@ -17,7 +8,34 @@
       "source": "The Washington Post",
       "country": "미국",
       "category": "정치",
-      "publishedAt": "2026-09-26T18:12:21Z"
+      "publishedAt": "2026-09-26T19:02:48Z"
+    },
+    {
+      "title": "보잉, 737 MAX 자동 항법 기능에 영향 미치는 소프트웨어 결함 발견",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lT1BQYXppVlFLVmhFR0dnTFZFcXRDMU5jb0dWU0MxSVJBcEg2SWVRSDlMajVFTDBSZlNpcXRONEJYbmxyWDVhN1hlMHdYRlpOX3NyQmY0bGpFVmh2S0hXdGFWYm9OcjZCWTF3OEdpd3g?oc=5",
+      "source": "Investing.com 한국어",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-09-26T19:01:00Z"
+    },
+    {
+      "title": "Exclusive | New Boeing 737 MAX Software Glitch Could Disrupt Navigation Feature",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbjJDUUZJeThvVGwtN0pvdVdRRFc3ejR3dUYxZDBvY25OUm9MR3hqTXFvM2ZBNjNzTUprYkFXcy0wVmt1MGFhZDZ5ZV9uX0ZYUFhudDlLMl9USUNiY2NIbndTS0VFdHQ2UlVPbjVHdklCWDZlbnhrcHdCZlpkVEtOQV9fdjFReVV6ZVh3RnlTVVJRZXZWREtxRnNkek1aU0pUbUxnVGNNQ1QtM2hTcDVac2E4Yzc?oc=5",
+      "source": "WSJ",
+      "country": "미국",
+      "category": "IT",
+      "publishedAt": "2026-09-26T18:16:00Z"
+    },
+    {
+      "title": "College football picks: Predictions against the spread, odds, betting lines for top 25 games in Week 4",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNDY0MFNPcGVtUnVuUjk0NlVPNmRIbmZlSUdTRVVvQ2RSMFRvRTRhN25BZnU1SHNVeENwUUlaSUFRTU9XcF9hYWJYTVhFMGFLX0RHR2JUZ3BrR3pFRmJlRkY2NkNRWU9RZkJscUxwNWtLMG1xU0F1ZlA5bmhscktRSjNZcmdTYjd6WEt6NElLd3pMR3JUQ19vS1pUNUJ4V3JGRDlKeUoyUUxnZGtLQ1FmNmZ4OURLdV9hSkNTWlpvRlQ?oc=5",
+      "source": "CBS Sports",
+      "country": "미국",
+      "category": "스포츠",
+      "publishedAt": "2026-09-26T18:05:00Z"
     },
     {
       "title": "New ETF blends 75% S&P 500 stocks with 25% XRP, offering direct crypto exposure alongside U.S. equities.",
@@ -38,31 +56,31 @@
       "publishedAt": "2026-09-26T15:54:00Z"
     },
     {
-      "title": "잘나가던 곽범, 성대모사 금지 당했다 \"작품 안 들어온다고 자제 요청\"(전참시)",
+      "title": "잘나가던 곽범, 성대모사 금지 당했다 “작품 안 들어온다고 자제 요청”(전참시) - 조선비즈",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNjY4NXdBa1Q0Ri1PTXFhSWg4SlJoazhscFRPVThhOTRWeng2VUcxLW1JRmlIOW56Skw5ZFY1cXFRNGsyMlhCZ2F5NXA5UDJmVHl2V2JrdTE5dWxjeVlJd2UtWlZ5cHRJX0hib3I2ZTVOdmZYSUpKNG9fcHh2ZXo5dmxSaGk4cEpNdm0zeGZnQQ?oc=5",
-      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTjFRQ014TXdJdFRkWjZDdmpFOWxHa1c1Z0dIaUJXZEx0T3F6bThITkIwMmdKVXN2MHFtbUczMWw4NXBjNldUaDRNQUtHOHU2NnIzMy1lVHZudllHVjFwS0JpNEdVblBXSWtZZFQtd2I3dmF1bGdVQWlHMTlkanYta3JVdU9RY1hrMVczUUZHaVhFbTjSAacBQVVfeXFMTVRBZkhscGRRNFQ3Q21jbnJ4TmtFWktjalpaVnhJYnZfbFF3MEVrMWJyQmMxMHRLekdkWGRwT0VyOHoyY3U0a3R2dk5oZlpvWHFVNFlTRDFTSjR3Yk40Q1d4UzNEa0lKb3BlSDJZRUNXMC1HaHZPWllXY1g3VDJEWDFRRUFSVmZjekVZbk1BWHJQbkNvSnJZTFhuM01uVTIyOTFZQjdodGc?oc=5",
+      "source": "biz.chosun.com",
       "country": "한국",
       "category": "문화",
       "publishedAt": "2026-09-26T15:45:00Z"
     },
     {
-      "title": "OpenAI says its AI agents escaped a secure ‘sandbox’ again last weekend and it is pausing training for a second time",
+      "title": "How Long Does The New Siri AI Take To Activate On iOS 27?",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFNfUWZES3NOQWlYakpDa2RwT18tWXZOX0YteUxUY0MzQi0wQmNwb3N5ZjRXekFHVmdBSFB5RTkwcUpETUdVM0JfM3B6czhCRzJUa1VKZzJDS3dyRm9ZaUYtSmFQd3FWeHFpUnhVdThZMVJLRlRhNlBlRmZaWUtWaUJlVWVBckNaOXpPalVBVXdiOWtySVVxMjR0U2cyVC1FVE1nRDk5Y25YdU1aZHhVUm1JRFZ4UQ?oc=5",
-      "source": "Fortune",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWUR5akhxZ0E1Q3hUV3V6U3hkVVcwMHlOR1RWSFlYM1BGTFg1QUdCMU1FckNlZnB3R1ZUMzRPN0VxeE0zUk1qRFY5T0tyUmZsUy1ZeXZNQ3V3MjJzZVI4MWdLMmZSRzBLNzlwUWptM3NkZEhBQzJXNWxuejlYbFg2Q1h3MWl3U00?oc=5",
+      "source": "bgr.com",
       "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-09-26T15:25:00Z"
+      "category": "기술",
+      "publishedAt": "2026-09-26T15:32:00Z"
     },
     {
-      "title": "[크립토리뷰] 원체인 밸리데이터에 '해시키 클라우드' 합류…글로벌 노드 인프라 확보(9월4주차)",
+      "title": "Rogue OpenAI agents targeted three separate US government websites",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fNURkZF9Rc0J5bHFuLVRENExTbXZldWVhdUNuMkxDSnVvb20tMW5QSnBpM3pOaEVCRl80WWV1X2FxNXF5N1lnazBNZGZVMW1CWm04MGpmdXEzZ2JfbWFIaEZPUQ?oc=5",
-      "source": "더구루",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-09-26T15:00:40Z"
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbkQyN1dNYTkzeGFDN0hQSHVZNGxVUEcyb0trcGo1SmZMeWxNRmYwOTNHRGo1eVVrWTBqYkVoUmxpV2xuVnlURWtpY3FRTG5zRGNQdk90SjdwblZVVzlfQWk1UGJsTGNhQVF2MXZ2QjFLYV9iZ0FrWElzSFhIWGhFZw?oc=5",
+      "source": "CNN",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-09-26T14:54:41Z"
     },
     {
       "title": "‘DMZ 지뢰 폭발’ 5일 만에…군·유엔사, 현장조사 준비",
@@ -74,15 +92,6 @@
       "publishedAt": "2026-09-26T14:14:00Z"
     },
     {
-      "title": "Self-learning AI releases NFL picks, score predictions every Week 3 game",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV2Y0WmMwRkd4Si1jR0lyd3UzLVRsZTVLclNCU3FjQWNMY213QnVRZzgwX0piZmpldGc2cy1md1BteWFrZko4MElDX1NsMm9FOUdjVnlhS0N0Ry1aOHF3VExtemgtUUNPX1ZkdmluWmd6UVFQV2dZcHc0cVhHZVVyc3otcTZteEZCRVI5ZVpjN19NN09tQmtiSllBZUJjRFRkaFpaQjcxZ3FLbWdO?oc=5",
-      "source": "CBS Sports",
-      "country": "미국",
-      "category": "스포츠",
-      "publishedAt": "2026-09-26T13:30:46Z"
-    },
-    {
       "title": "아시안게임 여자 농구: 한국, 일본 물리치고 금메달 획득 [아이치-나고야 2026]",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOekJaYlNMcFNqSl9hTnVwdU8ySFRnZC1CcHBISHRNSlRiaTdYQlF6bmRoTGxuRUk4N0tRUjRCaVdoeW0zMXNYTDFac0c1Z2ptYUI5MXU3Uzlpd0ZHMzlyVFBpM2VRLXZqbFI1TWM2SEg1T1BScURZb3VhOHVEeV9ndFdGam5pZHBqOU5BUWd3?oc=5",
@@ -90,15 +99,6 @@
       "country": "한국",
       "category": "스포츠",
       "publishedAt": "2026-09-26T13:30:00Z"
-    },
-    {
-      "title": "[AG 여농결승] 한국 여농의 반란. 예상치 못한 金. AG 역사상 남녀 두번째 동반 금메달 성공. 한국, 일본에 75-70 승. 이해란 이소희 강이슬 빅3 61P-22R 합작.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd1FBN0xvbFdGaFdtM05DYlJ5WVBqVkdUczAybUdhUEphNDBhZGxDOHRwaHljY0FOQ0VNQ3ZHT2ZRdWh2Ykt4MTMzV3gtaVhYZ3lCWDVEcW9vRFRzYUtjcjJEOGVLemVGcVpkanYwZGk4MGYzM04xMjE2UVNybzVIVVNsLXJkZw?oc=5",
-      "source": "조선일보",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-09-26T13:27:00Z"
     },
     {
       "title": "U.S. Stocks End Higher After Volatile Week – Sept. 26",
@@ -117,6 +117,15 @@
       "country": "한국",
       "category": "사회",
       "publishedAt": "2026-09-26T12:37:25Z"
+    },
+    {
+      "title": "[아시안게임] 여자 농구 대표팀, 일본 물리치고 12년 만에 금메달",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Gc3QyazRseHZ4WXRzVjQwU05mQVRNOEk0LWFyZG9BUjJNUXgzVHBQLU9rMEpDS253VjdMNmd4QkpkT0IwWFI5Ti1CbEYteVB5d0tUM3VzdEMzNEJ5VW1qV1lGYjNMelJFUGdNdWtOYk1JN3BqMXfSAXZBVV95cUxNTHE5MFhVYjZZNkctNTE4R08wb0lCa1lHaUJsUnkzc0wybnR1Q0dqbVJkenRoZkUyQmV1dkV2LXRNZTJsbloyd0xVaURyeEd0SmNISjNUaE5hbnJBSy1RTklndVpOMmJUd2VlQTJzeEt2WHBKY3R3?oc=5",
+      "source": "MBC 뉴스",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-09-26T12:27:36Z"
     },
     {
       "title": "추석 뒤 자본시장 ’새판’…결제 단축·코스닥 개편",
@@ -188,7 +197,7 @@
       "source": "Business Insider",
       "country": "미국",
       "category": "경제",
-      "publishedAt": "2026-09-26T09:00:00Z"
+      "publishedAt": "2026-09-26T09:01:35Z"
     },
     {
       "title": "10년 전 1억원, 엔비디아에 넣었다면 138억원…비트코인도 제쳤다",
@@ -218,15 +227,6 @@
       "publishedAt": "2026-09-26T05:21:11Z"
     },
     {
-      "title": "At Meta Connect, the company’s smart glasses were everywhere",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZjFPMGtJUkQzUUZNVFczdGtycGRFeGN0UnlZMVJVWEdsbEpVaUxUbDVLVUpHZkJaeU9aZzZ2aTFRLW1uUnlvb3ltdXRTXzg2VFJQYmNoVVFPNGxTRjNfUmpMT2hrX1luTjI2QkVKeFUzWE16bHhONXNwLTlaUG41VGFTS2ZwQXRLczBuX1R5bldacXhDM0hUTQ?oc=5",
-      "source": "techcrunch.com",
-      "country": "미국",
-      "category": "기술",
-      "publishedAt": "2026-09-26T01:08:57Z"
-    },
-    {
       "title": "원인 유전자 1200개 넘는 자폐, 분자 상태는 두 갈래였다",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc1QwVXczdTJpbktwVDlLRV9MMUtVZ2psZ2NpZ2dLWEliMnBpSGhGV2RNbU5pbnY1NS14T3lPUS1ISzVBVmRKWC1nejBHalRfSGNjdmdEN2VYTkhsb1pUMmV1aWgwWTlGaXhQcDdqWmhzdEp5TmUwdUh3dDlxcWoyM2txYw?oc=5",
@@ -245,13 +245,13 @@
       "publishedAt": "2026-09-25T23:04:00Z"
     },
     {
-      "title": "Microbes could survive on Saturn's moon Enceladus — and scientists think we can find them",
+      "title": "Private spacecraft falls back to Earth after failing to rescue aging NASA telescope",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOVZFNnJCZ1ozTFpVaXl3VVZGUFk5VlVTVVBTNTlxdkxpNkpBY25Tb3VlSTBGd18wOVpfVHdwQTlaUU5CZjI2MzJCVnpGdktCRlc3Nm1aM3RDeFNQVTN3QTVwcXpEUHBKaEtWd0lKS1RsdlMzZnJvT25IOGFkd0FvSnI0ckl6WmRZYnVlcnBfWUJrdDBqdUFSTmozRDdmZ2N6dXhGNy1XbHAzTXdSUHR5SEJRaVF1OU5lTmpvcDd6SDR5YURhWWdpVDU4RlNIakpSSm5nc3Jfc25mZw?oc=5",
-      "source": "Space",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsUkxQU0tjcmM1Sks3c0ZOOHI3aU93UnRtTGR0LVVLQlFCMVhVeWZBN0lOalBqUjBQeE9KWWVtekFuRmtqUnpqcF9WdWNIUEZnaEp6MkFtd0FzZnZhd1hwejR2dkRwMXdiNXdZWUJaM2xzSTQ3RUFBOGtNTQ?oc=5",
+      "source": "Phys.org",
       "country": "미국",
       "category": "과학",
-      "publishedAt": "2026-09-25T18:01:00Z"
+      "publishedAt": "2026-09-25T16:30:01Z"
     },
     {
       "title": "With PRIMA, NASA will try to build a billion-dollar space telescope in record time",
