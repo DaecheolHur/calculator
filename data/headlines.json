@@ -1,20 +1,29 @@
 {
-  "generatedAt": "2026-09-26T09:29:27.735985Z",
+  "generatedAt": "2026-09-26T10:29:30.423364Z",
   "items": [
+    {
+      "title": "Roads flood in New Jersey, inundate some homes, as first major signs of nor'easter take shape",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdGRqdGEzMGFJUjh3UDU4cDJaaGdaWnNMYVpJS1Fid19ueFRYeXRMTGtJODdIeGE4RlYwZnpzU2JWYTdaQnk5LW5KRGluRjVjX2U5cS11UzY4Q0FDQXdWRVJENnluUHBMT1hKa0NRUDlUNU9pVVR0MXN0MFRNLV94WjduYUVkODlBNTdoQUtHUDNvNHp1REV3NWZXQ2c?oc=5",
+      "source": "AP News",
+      "country": "미국",
+      "category": "정치",
+      "publishedAt": "2026-09-26T10:26:00Z"
+    },
     {
       "title": "[보안칼럼] 클라우드 서비스의 사이버보안 확장 통제",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sOUw1WGc5cTBJZVZaVlB1VnpYbDJjb3VJeFYyNkJOSVBBYzI3SlFRQS1PRDNjRVpkb05xVXNNc2VydGh6NFlleHFnZkVEX2lGMmJCOVR3?oc=5",
-      "source": "지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9peEFPaUhqdmNmLUJrbkxoRXlZZ0NPWG0weHlfQm5hWVdpMkxtTkRwV2lEOWM2TWw3eExoRzNHYjZ2MVFIVHQ1WVFfY3hVdUU?oc=5",
+      "source": "v.daum.net",
       "country": "한국",
       "category": "IT",
-      "publishedAt": "2026-09-26T09:19:57Z"
+      "publishedAt": "2026-09-26T09:23:03Z"
     },
     {
       "title": "The AI safety debate is confusing. Here's our guide to the different factions",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcEN3Zm9SZ3VwcmhRTnV1cG5DX0JPTGhkT1VOSkZMUE5ZS3R2eENaeTJCc1NpTVJ2NjNOZTlMa1hwWndmbUZyUGp2ZkZaOWlfOXZ3YnRzN3Z6cExGcDFpN1JaVzgzSWxKdlNGN2VuSWlRakFQTWpjMmsxR0RUY1lrb2tfZ0lIblQ3Ymdya0pIYW1uRWNIVEVvOEpNTXR4dkl1eHhLc05ObHRCM2thTTViSnl1UXZ4OXNHZkttRA?oc=5",
-      "source": "npr.org",
+      "source": "NPR",
       "country": "미국",
       "category": "AI",
       "publishedAt": "2026-09-26T09:00:00Z"
@@ -23,7 +32,7 @@
       "title": "영화 ‘암살자(들)’, ‘타짜 4’ 제쳤다…개봉 나흘 만에 '100만 돌파'",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qR1lNZ2tTcjhfQUtscVV4S0VQZTBkb3ZET3IzTFZTcExLVTlocFU3M25WTzJwWGpydkRjbnJxYVdBeG4wZGRrMFYzTFpoNklUT3pycTdlZEZUc3pqUHVDLTF4Q3A3LWUt?oc=5",
-      "source": "ngonews.kr",
+      "source": "한국NGO신문",
       "country": "한국",
       "category": "문화",
       "publishedAt": "2026-09-26T08:59:10Z"
@@ -36,6 +45,24 @@
       "country": "미국",
       "category": "스포츠",
       "publishedAt": "2026-09-26T08:52:37Z"
+    },
+    {
+      "title": "Only a Handful of S&P 500 Stocks Can Match 10-Year Treasuries at 5%. Here's My Top Pick to Buy Now.",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYmg0TGpKYlRuRjctYlhJUVRUMTdMeExrVElpY1l5U2FERzNMdHl3ZjJ5b2h4TVdDbTZ6d2MzeHJIcGxqS0NHTnNpYjNpTFc0WmZUX0xwZlQ1bWF2cDRRS0FadUJvS3hWOHliT2lHTXBfQzhNZklwdlRBV012WXdReTJ2OUstYzlzUWFST0JYTTVOY1Z4OFA0?oc=5",
+      "source": "The Motley Fool",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-09-26T08:34:58Z"
+    },
+    {
+      "title": "추석 연휴 이후 4개사 코스닥 입성···수요예측·공모청약도 줄 잇는다",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NTHRPbEFJYzNYdFJxY2huWTBEU3FrRG1qdWpwQy1OOUVBUkdwQnhUakx0T0N0UTFSUmJHekNXOEtGYnRUdTQxbGRIOHZzMkpjcDdWbjBqUHhWNFVUWThuV0hfSUhacG9qSW4zWF9yR05lbXdKdkHSAXZBVV95cUxNTUx0T2xBSWMzWHRScWNoblkwRFNxa0RtanVqcEMtTjlFQVJHcEJ4VGpMdE9DdFExUlJiR3pDVzhLRmJ0VHU0MWxkSDh2czJKY3A3Vm4walB4VjRVVFk4bldIX0lIWnBvakluM1hfckdOZW13SnZB?oc=5",
+      "source": "시사저널e",
+      "country": "한국",
+      "category": "주식",
+      "publishedAt": "2026-09-26T07:58:48Z"
     },
     {
       "title": "“우리가 괴물을 만드는 건가”…'AI 위험' 부담 얼마나 크길래, 개발자 줄줄이 병가·퇴사",
@@ -56,15 +83,6 @@
       "publishedAt": "2026-09-26T07:15:03Z"
     },
     {
-      "title": "How S&P 500, Dow, Nasdaq Futures Are Moving Amid Rising Bond Yields, Trump-Xi Summit",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxObVpiQ1FnYU9GQ3pvMXhRa0I0YmxKdkFOUWZQT01aMFBIaU5ocUktZ2U5Z01xUWgwVlJET1dZbGU5QThycEE5dUlUTmJ1WjFIT0V0YWhGUTh5V1dkSWxaWmZ4MzRkOTd2XzUtMHFFS1hrcW45c2FFZzJ6bG1fdGh0bmJ6TTJPRHZYRlF1bHF5U3Y4SVk3ZzNUYlFEbEhVVXdTcWl4UWxjb04yak4xNktNRFpNbXliWTF5Sy1zTDI0d0lBM1FRdlVGa0JScndoRk5QQkc1UkFpam5zeFNHOWR6R0RjTzY0SFQ3OVdxRDdDelBvNU5jVTJlZFAwUjQ?oc=5",
-      "source": "stocktwits.com",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-09-26T06:49:23Z"
-    },
-    {
       "title": "북가주 보훈 유공단체 두 곳에 대통령표창 전수 - 주요뉴스",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hc1U2Rm15bVBiTEVYU1VkTlZ5SUJVMEZFNkNkRUtscGRlc3RZZXVkTTRsbmMtRnBxRTJpVEQ3U0tpZGoxU2tidg?oc=5",
@@ -74,31 +92,22 @@
       "publishedAt": "2026-09-26T06:47:39Z"
     },
     {
-      "title": "Roads flood in New Jersey, inundate some homes, as first major signs of nor'easter take shape",
+      "title": "與김병주 \"국방위, 오는 28일 'DMZ지뢰' 현장 조사‥국민의힘 불참 통보\"",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxVDN0SjBaU3dUaXRrbFU3Y0trTWRFeHQzWkxRam9ZeWJrWkFGZFpKU0p0QlZYQUxMRnNSMnp4WERfM3dPSlZEOUZJZ0xEZHhGcGFyNHNhRnRUOTlFNzI0QjBmd2hwZmJQNnZPZ2VYX0ROckRKNUd3?oc=5",
-      "source": "npr.org",
-      "country": "미국",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TVWxyTlNrSWFBcGZWSVM0OEg4U19wZE1KMVg3OWpBVk1kSnkyLXZsT1NSUkxZc1pmTzRGZGpXcWlJd0liVHhHY3VCcXdyX2NHemt6R0IyRnlxX1hJQTF6dk41bGNjay16TGFNQVR1MkN0dV9DRFo2NNIBeEFVX3lxTE1YcHRYamJudkd1SkkxZVFtRVV6ekYxR2xqR0dIWFBJVFJYTFZHeGQwX1lzanhCY0tHeVdSQmlVb0lmZmNFMkxsbkZ5bUI5QlJic0J0LWt6Y0xFSEdBcmlacERqV2l1amNPZ1BJQXN5aXpfb28wN1h2eQ?oc=5",
+      "source": "MBC 뉴스",
+      "country": "한국",
       "category": "정치",
-      "publishedAt": "2026-09-26T05:43:38Z"
+      "publishedAt": "2026-09-26T06:38:02Z"
     },
     {
       "title": "[아시안게임] 배드민턴 '세계최강' 안세영, 개인전 첫 경기 20분 만에 승리",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WR2Fna01KUGVFbW5BWlhBVXBPb3JUY29SMWl3V3pLVXA3NlBuMzdrQUtPZC1PdEw2akRzOGRQNnBZS0xWaTVfVVVzcXVZSDk3UWdGYWZPc0RDQWNuem5pb0paa2FKTFZmbERzWXgtcmViTXppM3fSAXZBVV95cUxPeDFWckExamNmNHZES1Z0S09lSUJjSC1SeDdyZXl2YlpnVGR3bkVMOXhLMTgza29FQ1VNT2RNUWVScnhMa0lNMnMzSWtxOG5vWHJxRjdsckNrTmVLTHAwdS1mcVpTenJQOXpQb3lOTHBNM2FzZ0ln?oc=5",
-      "source": "imnews.imbc.com",
+      "source": "MBC 뉴스",
       "country": "한국",
       "category": "스포츠",
       "publishedAt": "2026-09-26T05:15:52Z"
-    },
-    {
-      "title": "장동혁 \"北 '목함지뢰'보다 이 대통령 '입꾹닫'이 더 위협적‥탄핵 시계 빨라져\"",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92ODFCRHUzLXk2UUpUeVFhU1kyZ1ZSZEI2dU9NTVlsbXpxQ0hvSUN4QUdrSlNDVUR4U1dXN09TdnpDTXcwRHdsMFlKZHhJcUluX000SzF1RzRicEZhMGtUYmVQekhad3JIdTFKaUozU0I1V0YyWlJzddIBeEFVX3lxTE1hT3NPSVlabVJENW5ENjlQWVBuaWVBajdfcTlfdTVyeExLVk8wMWZxa2daOVAtOFpLaXlFM3loeGkxb09fVGNxXzR3R3VyOUpTVlYwb21ROTZpWHR1Y3BpVld4UER4VjZGeGdPaUptR2owczdxVzBWZQ?oc=5",
-      "source": "imnews.imbc.com",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-09-26T05:02:13Z"
     },
     {
       "title": "TikTok to pay Alabama $100m and limit teenage use in first state settlement",
@@ -113,19 +122,28 @@
       "title": "조희대 ‘재제청 거부’에... 與 “외부세력 결탁” 野 “겁박 중단하라”",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcDZCbmpCdjJiaG1pZ0hjQXhTcHg1SXExbFpmc3cwQ0hHMC1PQ1plNU10cTkzeWV6bzc4ZmVySUFlT1ItSjVOSXVtR3lEZ0liSW1IVGU1bmFtaUFPclZ1NkE5NWtuRDh6NDVjUTZfZ0ZSNmRPVzVUcVIyejJIUko2d2hXaUtCLUVhSmlMWDhfUGk?oc=5",
-      "source": "chosun.com",
+      "source": "조선일보",
       "country": "한국",
       "category": "정치",
-      "publishedAt": "2026-09-26T04:07:00Z"
+      "publishedAt": "2026-09-26T04:12:50Z"
     },
     {
-      "title": "코스피 7000선에도…상한가·52주 신고가 종목은 줄었다",
+      "title": "아카마이, 앤트로픽과 16조 클라우드 계약...5% 지분 인수권도 부여",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9KU2FWY3RDS3BQNjVNeVBnSTJuMnZ4M3BuOVo0a25YaG1UamZQNkxBbGtHZjJRNkZ6eGJoMklnRTctMERKSFE?oc=5",
-      "source": "v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxc095aS1IeU1sWFd0dFlsYWJiYmhQVl9ZQnJZMnFfcFRYY25KM1VXNUsxV0Z3dVlhWkpycWNZRnhPeEdOYkEtTHNIWFNHaTJXSktCLVM1Tl9JOTlKZFpGQ1JLd1hmeXFoalE?oc=5",
+      "source": "AI타임스",
       "country": "한국",
-      "category": "주식",
-      "publishedAt": "2026-09-26T03:01:05Z"
+      "category": "IT",
+      "publishedAt": "2026-09-26T03:57:25Z"
+    },
+    {
+      "title": "Huskies Fall at St. Cloud State",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS3BuTHB5ZzJnODdScC02RU9lNnYxOFpKQ1Q1MGxvZi05WWZtSTJ0Q1k5Y3N4eFA4clo0ekl4NDkxN0owbjhpRm15LW9jWnNDcDFIYTUtOWhER3N2a0FKbjVEc09tRFdsX25FVlRSZlVZMkdyY3FiZEp1dUk5RDdEeHY0dFQtQlFZb2h5a05Wc3czdw?oc=5",
+      "source": "University of Connecticut Athletics",
+      "country": "미국",
+      "category": "IT",
+      "publishedAt": "2026-09-26T03:23:07Z"
     },
     {
       "title": "오픈AI도 전모 모른다…챗GPT, 사용자 이미지 53장 유출",
@@ -140,7 +158,7 @@
       "title": "한국 꺾은 일본 ‘직장인 선수’…일 실업야구는 동호인 수준이 아니다",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10Y0REZC1fdjFKUFZzZTBfM0gxUnFTOU5TR2JYRVB2NXo0YXVkYzRsMGZKZmt3NW5CUVJxejA5STB5ZG42SXA4eWoySmt6ZXFKQzFCTktUQm9QNEg2QnFiT0ZPQzZhd0hfRkZVY1ZFV3N5YUY0Z1JB?oc=5",
-      "source": "한겨레",
+      "source": "hani.co.kr",
       "country": "한국",
       "category": "스포츠",
       "publishedAt": "2026-09-26T02:13:00Z"
@@ -164,15 +182,6 @@
       "publishedAt": "2026-09-26T01:38:00Z"
     },
     {
-      "title": "앤트로픽, 아카마이와 16조원 규모 클라우드 컴퓨팅 계약",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZZHY0MHBTN1A0VWRrSG1XMFE0UnhuRE9FamZ2MmY4SDlpc3hmQXVuekx0Q0lub1FjRDBzbjZhYXRsLVBHOHRnaVI2MG9Udw?oc=5",
-      "source": "전자신문",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-09-26T00:43:15Z"
-    },
-    {
       "title": "Study finds San Jose has highest infrastructure, capital asset burden in US",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdlRfMWtIVGpNZ3VlQ1oyaDRPZGtSdDlWMV94ZHdPeTBlMVh4ZWlLVzhsdEtBQklXWDY4amRwbEYtT3d6bkRNQUt6cDhROWpvMjRoMzFZcmstaU85SGxoOUhXdUhrWGhoREdTV2dDYmxuNkZPcHVsR0JxN05yWTNERWhNLUZVRUJwUW9QZlotaXZfNnFwcEtNMm12NUM3YWtUSkhqOXJJZE9YaDjSAbABQVVfeXFMTjdDT0h3ZmE5V2FGM0V1amVkNzZ4b0JuZi1JVnVIdjhsd0tIYjhJWXZUNjhzaXk3VzBLSWhsQkFrMDUxUi0xX19xa0NidndPNl80QTZWbGVlR0p1VVFVOXV5RmR5SXZiaW1TN3ZxUzZDeVQwQkZJVVJYaklPUXlRdEZjb0ttaGNhT1NxVFVzRVl6YmcteENfc0UwVUhjZWIxXzJmdnVWc2NESDZGOXA5NlM?oc=5",
@@ -185,7 +194,7 @@
       "title": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmkxQnUxa1JKaDBBa1JwQVUyN1JZSXRtV3VwZ0s5TTJzNEMxekNGcHJiZzRLa1NULXFMb3VSOTl6bnNURDhBTzBERlpkZVk0MncyODBIb2FKa3h0cVVEVnV0ams3M2xmZ09zU0EwY2psbGUzcUs2R2RRUzhRa1dYZXZrMDJWSG5NZnZPVw?oc=5",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "country": "미국",
       "category": "AI",
       "publishedAt": "2026-09-25T23:16:40Z"
@@ -218,24 +227,6 @@
       "publishedAt": "2026-09-25T18:13:54Z"
     },
     {
-      "title": "Microbes could survive on Saturn's moon Enceladus — and scientists think we can find them",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOVZFNnJCZ1ozTFpVaXl3VVZGUFk5VlVTVVBTNTlxdkxpNkpBY25Tb3VlSTBGd18wOVpfVHdwQTlaUU5CZjI2MzJCVnpGdktCRlc3Nm1aM3RDeFNQVTN3QTVwcXpEUHBKaEtWd0lKS1RsdlMzZnJvT25IOGFkd0FvSnI0ckl6WmRZYnVlcnBfWUJrdDBqdUFSTmozRDdmZ2N6dXhGNy1XbHAzTXdSUHR5SEJRaVF1OU5lTmpvcDd6SDR5YURhWWdpVDU4RlNIakpSSm5nc3Jfc25mZw?oc=5",
-      "source": "space.com",
-      "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-09-25T18:01:00Z"
-    },
-    {
-      "title": "Red Cloud Community Schools announces elementary student’s death",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVXhBdHBucHhwcWdOM3F2a09TcHAzTWNmdzlPSnZ2S1ViajZPVmpId3BXY2Zmd1dZOXIySUZfTmctY1l3bm1hWGRNQ0drNTNPOTEtQ1ZFRE96TTZUcDE5SlhFbXptWXdsQ1JlalhBQUI5Rkg3Q3pZbzZOU1J1TGl3bjVZWWtNQ2RSa3B3ejBVSGJtdnZQOEIwYWFEUC1NS3V0NFhLNQ?oc=5",
-      "source": "KSNB",
-      "country": "미국",
-      "category": "IT",
-      "publishedAt": "2026-09-25T17:20:00Z"
-    },
-    {
       "title": "Apple Code Confirms iPad 12 Specs: A19, 8GB RAM, N1, C1X Modem",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpSGk5N2V5VFVtb2dLWG1QeW1wbWdYdloyNDRmMkVhZUlIdTNyVUxCTEFVZ3hnZXpnSkp5WWxuWlVIVTJBUGFsUThxWEs4UjA1UnRpTy1FRDRtbURDQm5sOHhsbHc3REx5U3c?oc=5",
@@ -254,13 +245,13 @@
       "publishedAt": "2026-09-25T15:03:28Z"
     },
     {
-      "title": "New hairy-legged, three-lipped, red-eyed spider species discovered",
+      "title": "New form of flexible boron is 10 million times more electrically conductive",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWlFwT2EyeGVZbXI0UGRoZnlXb3RCTXI5VDNwRFA0czlBVVROMHdiU1NpLS0xZXBJajRuQ0JMNHQ0MU01eWF1SHZCOHdkQm1jVXdmeExZQzR1LTFQWkU5QjZCSExtdFpTc2pKYjkwaFNDLW8xR1RPT3JPT2dteHhFeWwzZkpsbm1aNFBpMTl3bWxTN3Z2ZDFvTkNHbEh0OXRBWTZQX0p3?oc=5",
-      "source": "East Idaho News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5dTVESFpsVi02TGwtT251R2xFX2pubTR4clEyeFNENWhZT3JRaDdYTWhtaGo5UzY4LXBEYzQxX3dEck9JWXh1Tm5lTWEzVlAwWDhmZDl3RFR5aFZpdjd6LUtXRnpPclhPTEtqdktpUlc3M1ZlQ2hZbWRn?oc=5",
+      "source": "Phys.org",
       "country": "미국",
       "category": "과학",
-      "publishedAt": "2026-09-25T14:29:00Z"
+      "publishedAt": "2026-09-25T13:20:01Z"
     },
     {
       "title": "\"美 연준이 선택할 차세대 결제망 코인?\"…XRP·XLM·HBAR 급부상",
@@ -270,6 +261,15 @@
       "country": "한국",
       "category": "기술",
       "publishedAt": "2026-09-25T07:31:28Z"
+    },
+    {
+      "title": "Study reveals evolutionary history of bats, dating back 65 million years",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaUpVajdNRlRfbFlxU3RSZ0RCdE5ucmpjb01kdmFESzFyWlNYZjgtM0hEZW9KdUpDSE0tRF9wMUtEell0YktmSE9NdnRCNFo4Z1BUQ2tYRTB6d0MxY0E0TzBRU244M2NLTmpCNDdOSTA2bFJZSDI2ZVhmQVotTmdIODgxZldlWG9Fbk1zdWFfeDc5dlRyTVFfRDEyTE83VzBNUVBRbzEzWWF6RXYya2xZMXF3?oc=5",
+      "source": "Reuters",
+      "country": "미국",
+      "category": "과학",
+      "publishedAt": "2026-09-24T16:04:38Z"
     }
   ],
   "briefing": [],
