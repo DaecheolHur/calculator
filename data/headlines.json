@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-26T05:29:13.972554Z",
+  "generatedAt": "2026-09-26T06:35:21.717316Z",
   "items": [
+    {
+      "title": "“오픈AI 에이전트, 다른 호주 정부 웹사이트에도 침투 시도”",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fbjVKdHBIblB4UjAxS2JCbi02U1ZJNVhZb3ZYbW1ETzZPeUptc0FKZEswVUJBR2F6V3Uzd21MbDUzZE9EVmNmQlRzelVwejhxaDB6eVdockhBNDg?oc=5",
+      "source": "KBS 뉴스",
+      "country": "한국",
+      "category": "경제",
+      "publishedAt": "2026-09-26T05:53:00Z"
+    },
+    {
+      "title": "S&P 500, Dow, Nasdaq Futures Ease As Treasury Yields Continue To Spike — ORCL, META, AKAM, GOOGL, MGM In Focus",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRnFfWmo3cUVQR2Frd0hJLTBKRVo4RTlaV0VJT09QMmRzbGJfT0pFNjd2UjRXSUNhRWxiS0JRLWR4ZkVnMHUxZjNnMnpnRmU0THltRWVFTjNVOUtPSU1xVkFRQ0QzcVhQRGxidU1Zck9nYUFWOEdCZzBUeUdnb0Y5ZzVHZy1GNjRoeFJ0SXIwU0JqMlp4YjNMaGQ3UE1DUmlobjhUc0U2Q3pxZGdfNndac0hjM29ndzNkaWFiSUtkdU5kcFVfNlE?oc=5",
+      "source": "Stocktwits",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-09-26T05:17:53Z"
+    },
+    {
+      "title": "국정원 추진 9대 사이버보안 정책 살펴보니...AI방어팀 세계 첫 구축",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xdHNueTFNeGhwcUxlVWM3bzByOVVSWUFTVUxuZ0FvRDhIYVlPdTg5WHU2Uk1tNVBwczc3VGVHV2gyYTE4cGl0VGktLWlWRDFQQUNQQnlR?oc=5",
+      "source": "지디넷코리아",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-09-26T05:10:55Z"
+    },
+    {
+      "title": "영화 ‘암살자(들)’, 개봉 4일만에 관객 100만명 돌파",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsNVpKYXBrdWtHWVhxZzhzaTVGMzlqMXJfeEJhbS1DV2szc2xFQno4V1IxVXNwYm1XM3I4YXNyZ2ZNZlBjbGNJOFNSbXBZMzFLMUZOSlo3T0VhVUVlXzlkVEl4NVI?oc=5",
+      "source": "서울경제TV",
+      "country": "한국",
+      "category": "문화",
+      "publishedAt": "2026-09-26T05:03:50Z"
+    },
     {
       "title": "귀경 차량 몰리며 서울 방향 혼잡…부산→서울 7시간50분",
       "summary": "",
@@ -11,22 +47,31 @@
       "publishedAt": "2026-09-26T04:35:00Z"
     },
     {
+      "title": "TikTok to pay Alabama $100m and limit teenage use in first state settlement",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTDdtb3ZrRVhJSlVjU2UzU0ZrYTZHNHB2a1BVS3F4b3hHSjZtbGl2ZWl2dExJYVpfX25ab3IzZXBjSFRvZ0M4ckYzdEphTWIydUhIS1kwOU1YWTc2RGdoOWZYSzExQ3FiRmROLXBDVUs0cnptc2tqZ0psM0kwMnBicFJhcHA0T2VsR2ROU080X3BPSC1GU3oyNmFfMVFkcXd3NkJSZQ?oc=5",
+      "source": "The Guardian",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-09-26T04:19:00Z"
+    },
+    {
       "title": "The damage of the Manchester City verdict runs deep. An era of Premier League history is tainted",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT2RXRW5ZOWJzOTBpYnp3NWlVYXJ3RTJYbTBBMWNPNWZyNjNEdFpxUFVDQjFPaGVUakVqWTZzZTRlQUIycUw5dC04SUExZF9fTE81YldObTM5bGdpWlU0QU5ZbXBVSnRSUzBFeW10VTNLejVwZndTWXdfTFNHVy1ON1drV25jSnoyRkpXUlRmQjB2cjJzOG00?oc=5",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "country": "미국",
       "category": "스포츠",
       "publishedAt": "2026-09-26T04:14:05Z"
     },
     {
-      "title": "아카마이, 앤트로픽과 16조 클라우드 계약...5% 지분 인수권도 부여",
+      "title": "[아시안게임] '절대 1강' 안세영, 첫 판 20분 만에 완승…사상 첫 2연패 시동",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxc095aS1IeU1sWFd0dFlsYWJiYmhQVl9ZQnJZMnFfcFRYY25KM1VXNUsxV0Z3dVlhWkpycWNZRnhPeEdOYkEtTHNIWFNHaTJXSktCLVM1Tl9JOTlKZFpGQ1JLd1hmeXFoalE?oc=5",
-      "source": "AI타임스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zMExXUUFrandDRzRMcnJIcmwtV1VweEt5WHVLQ3p1LTYtenRnNzdic3pTZzd4SWp5bTFxMkk2czQtQjJ1cUVSU3g2SWllRl9CT3llQ25kMFhpZ03SAWBBVV95cUxONzBoXzhMczhNZ3YwQWRsckQxdlEwaHVvczNFU2JnWGdTM0Z2V2dkSVdkSTNBVldJTTFZS3VWQWlocmh4SS1KWTlLSW9YYmJWam56a0FYaTBnYkhTWUYtRE4?oc=5",
+      "source": "연합뉴스",
       "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-09-26T03:57:25Z"
+      "category": "스포츠",
+      "publishedAt": "2026-09-26T04:00:32Z"
     },
     {
       "title": "Students, parents, teachers want their voices heard on artificial intelligence in Santa Barbara schools",
@@ -38,22 +83,13 @@
       "publishedAt": "2026-09-26T03:27:03Z"
     },
     {
-      "title": "[2026AG] 신유빈, 탁구 여자 단식 8강 진출…대회 세 번째 메달 도전",
+      "title": "코스피 7000선에도…상한가·52주 신고가 종목은 줄었다",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuX0RSUDRURk8wT19uc21IMVU0NlJaLUNyckVyQ1V3cTdWNm5FUU5zVVlPb1kwQUtDWndFS3ZwNmUwTzF1ekdiUTVUWVotdmFESlBaMy1SdmpYZw?oc=5",
-      "source": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9KU2FWY3RDS3BQNjVNeVBnSTJuMnZ4M3BuOVo0a25YaG1UamZQNkxBbGtHZjJRNkZ6eGJoMklnRTctMERKSFE?oc=5",
+      "source": "v.daum.net",
       "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-09-26T03:03:00Z"
-    },
-    {
-      "title": "Supreme Court blocks Missouri congressional map favoring GOP for third time",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU1FWRkJHRHFGWlV6aDJ6UnZzVzVfUk5YTmtwWUk5NjlkQzNNeFY5cS0yYUdmbDY0Mm1obkRQdW83aER6UWpWem9XUlBPN2xfdHI0Z0NwMWtMQWl4VzFKMjNZTWlSTGU5bWNsUW1pRmNZejVBSjB2U0VENFhiaEVkQmRFT2NzbEJpTE5vdXNLaHJPUmxVbndqU1pETUNRLWtFLUJuNHA4QkxFNUhyWmJNQVQ0aThKdTlWbHA1ZTJrMlc?oc=5",
-      "source": "The Washington Post",
-      "country": "미국",
-      "category": "정치",
-      "publishedAt": "2026-09-26T02:52:30Z"
+      "category": "주식",
+      "publishedAt": "2026-09-26T03:01:05Z"
     },
     {
       "title": "오픈AI도 전모 모른다…챗GPT, 사용자 이미지 53장 유출",
@@ -86,28 +122,19 @@
       "title": "Rogue OpenAI agents accessed US government websites",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZDFBeDhjMVNRTFUtUVNrcmE4Uk9PQ3Nmdnp0Z0hXSWhCSGRFMkI0U05ueXViaFFycmNpODhSRDgxVFFUUFA2T3FpLWRTV20tNTR2SURkVjk0ZUJPTkVGZXFXQmtBRUZnWlRlQkE3bGx3eUJESTBtQWpoWUFma24tMEJMc1BMQTlIMUdNbkloQW9raVdIMWxic0J0UTMtWDdPZlJV?oc=5",
-      "source": "politico.com",
+      "source": "Politico",
       "country": "미국",
       "category": "경제",
       "publishedAt": "2026-09-26T01:38:00Z"
     },
     {
-      "title": "최수종, 추석 당일 모친상 비보..하희라 시모상 - 조선비즈",
+      "title": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObVZCckxDWFlrYklvZ2pzV2JTc3lhUU9vcDZiYjhtdjFnU1RlTnpTWWMwb1J1Q2IyLTUwbGthMUs2VnVwbDdSaHFaTEJjWFVzdTFVbmlCUEVyQlRUNUItRXI5RVEyMXBwcWkwY0NBTGNGQWpIamcyQUNVdUp5RWFCQ2NhV2VTNkQ1VEsyanhjckthRGvSAacBQVVfeXFMT2dCb2dqQl9RRk5NdW8yMmlrT3JfYzJ3cVo3TklGWGdxN3BELXczaElsWF85d3VSQzAxLW52eS10MnNwYU95dXVCWlh5cktrN1pLTzc1TkNkUmRzS3hFRXpPRDRFNzd4ZFpsbG5zaTBJWWgwdElBNFJJTUpXV1NxRE9MWjdsZWtvcGgzc0VhdFBjcnNsLXZZbmFRWDBjcEJna3l4WlRkR1U?oc=5",
-      "source": "Chosunbiz",
-      "country": "한국",
-      "category": "문화",
-      "publishedAt": "2026-09-26T01:36:00Z"
-    },
-    {
-      "title": "“화장실로 피하세요”…미국 명절 ‘생존 가이드’, 한국 못지않네 [이윤정 기자의 소소월드]",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJcjRwZFlEeW4xVWs3QkgxSENvX1Z2akVKeUFiWmZQX2pMTTZVcTR2UlRPQnBuTHk0VmxGcURzWjlDRUxiRTBTSkJDdzRsQlZFZjJzTmlSWHJtd9IBX0FVX3lxTE41LW83dVlNWERLYXRGM1JiY3NTZlh3TnV5b0cxV0NaV2FoSFZ0UTQ0MjJIR0RiSDA5NzBHTjRfTG1mbEhGbngtZS1FVzl1ckZ3NXo0RG1kaGVPVFV5WnM4?oc=5",
-      "source": "khan.co.kr",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-09-26T01:30:00Z"
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmkxQnUxa1JKaDBBa1JwQVUyN1JZSXRtV3VwZ0s5TTJzNEMxekNGcHJiZzRLa1NULXFMb3VSOTl6bnNURDhBTzBERlpkZVk0MncyODBIb2FKa3h0cVVEVnV0ams3M2xmZ09zU0EwY2psbGUzcUs2R2RRUzhRa1dYZXZrMDJWSG5NZnZPVw?oc=5",
+      "source": "The New York Times",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-09-26T01:37:20Z"
     },
     {
       "title": "앤트로픽, 아카마이와 16조원 규모 클라우드 컴퓨팅 계약",
@@ -119,22 +146,22 @@
       "publishedAt": "2026-09-26T00:43:15Z"
     },
     {
-      "title": "Alternatives Access: The Reimagined S&P 500",
+      "title": "채상병 때는 진실 밝히라더니, DMZ 지뢰 폭발 사고에는 왜...",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQenhIOEYyS2ZVUVRfS0I1VTRyVzV2VDBDa01fT0ZueWRtOVYtX3FjeWg1WjI5aFpmaW9UTWozM1hjVURhaWY2LTBSVU9NOG45aE9wcDA1ZDVQMzB1TGwwZlo1djU5NlJBY2lyUk1RdkNQYVBTY0gxdXoyUTF1VmVFeXNhSU5Dak9FeGxiNEt1TVZxclExcjI5dV9CZ1RKU2kwellYQjhZU0VldzU5cDc5b1VuY3J0b01sWGxvanZNcXZtNVE?oc=5",
-      "source": "J.P. Morgan Private Bank",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-09-26T00:35:24Z"
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSTV0aWFsRmQzaXZuS1ROZnh5QXFTTXk2ZXdTTFVxNi05VmxPQmV1b2NjYU9nWVV6enpqcjhnQWxmZmxDMXRXRTVfMXF2VHp6T01CMW5vbkc0cUtEU09RT3NtV3lQN1FPT18zTjc1M2tGUG1yUjFPel8yMGFKSHVULWZPbGRJM2ktTUxiQlgzcXo?oc=5",
+      "source": "조선일보",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-09-26T00:43:00Z"
     },
     {
-      "title": "TikTok to pay $100m and limit daily child usage in Alabama settlement",
+      "title": "Supreme Court rejects Republicans’ Missouri redistricting push for third time",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kTFB3aTZoRkpXV0c3RFFkTUcxNzdXVU5HelRWcWMwZ19qM2R3Zk5UQ0NvQ0d5WW1hLWM3YVZqVlMxTlVOd0Q0UllOa3hCSDVJalRXNmhqazZHeDg?oc=5",
-      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR2Z3MXZCQVpaQ0ZBMEdjcTZMLVVOZ1NhakhDWW1rQk5hSHdvVnd2VjBQYXlfM0kzMWhqXy15S2U2d1kzSUFzTi1XNWhDeUtScG00akljajBXQjdQa3JYQ1BDQklyNmhQay0wcVdDUjRWZnE4VjhXSXlYMEFZLWdUSXVibEdscnl6UUtmNjFEQ3RydlFKYS1pZTFoMHM2YjN4aWw4VGsyVFhobGxDeHBjU1dFRkY2bkdhTExKTVFxSk9sUQ?oc=5",
+      "source": "NBC News",
       "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-09-26T00:11:14Z"
+      "category": "정치",
+      "publishedAt": "2026-09-25T23:52:28Z"
     },
     {
       "title": "Study finds San Jose has highest infrastructure, capital asset burden in US",
@@ -146,31 +173,13 @@
       "publishedAt": "2026-09-25T23:48:45Z"
     },
     {
-      "title": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmkxQnUxa1JKaDBBa1JwQVUyN1JZSXRtV3VwZ0s5TTJzNEMxekNGcHJiZzRLa1NULXFMb3VSOTl6bnNURDhBTzBERlpkZVk0MncyODBIb2FKa3h0cVVEVnV0ams3M2xmZ09zU0EwY2psbGUzcUs2R2RRUzhRa1dYZXZrMDJWSG5NZnZPVw?oc=5",
-      "source": "nytimes.com",
-      "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-09-25T23:16:40Z"
-    },
-    {
       "title": "원인 유전자 1200개 넘는 자폐, 분자 상태는 두 갈래였다",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc1QwVXczdTJpbktwVDlLRV9MMUtVZ2psZ2NpZ2dLWEliMnBpSGhGV2RNbU5pbnY1NS14T3lPUS1ISzVBVmRKWC1nejBHalRfSGNjdmdEN2VYTkhsb1pUMmV1aWgwWTlGaXhQcDdqWmhzdEp5TmUwdUh3dDlxcWoyM2txYw?oc=5",
-      "source": "chosun.com",
+      "source": "조선일보",
       "country": "한국",
       "category": "과학",
       "publishedAt": "2026-09-25T23:10:00Z"
-    },
-    {
-      "title": "미 국채 금리 5%대 시대...\"고금리의 뉴 노멀 시대\"",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MOTdWLUFvYjMwWlUxeDBsd2tyQldGMUlrd2swM3dOa3QwWlBJTm0yRVotTGJzc3ZGT0o0U0NHRmE5cUV2OUI5V1BHQWlKSm9vTDRJR1pIVFZNellGTGc?oc=5",
-      "source": "YTN",
-      "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-09-25T23:04:00Z"
     },
     {
       "title": "The Major Social Media Platforms Are All Rejecting Paid Ads for Alex Gibney’s ‘Musk’ (Exclusive)",
@@ -180,15 +189,6 @@
       "country": "미국",
       "category": "문화",
       "publishedAt": "2026-09-25T22:45:45Z"
-    },
-    {
-      "title": "주식 계좌 개설 건수 2배 이상 늘었다... 상반기 코스피 급등 영향 - 조선비즈",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSmxra3hyTjBqaExna2ZCMzVRZ1lHX18wZjJSc0p1cVVwemJob01yY2hCdzd0eThPQUJkMnJFeTdjaUU3UnNGVkxtZFRFTno2QUpWRFFjQ3IxTU9jUDRYQ21SNWo1OVZXeF9mVzJHS1ZQMlNZSDZ2c0p0WEthUjFBWHpRWWtORTU20gGcAUFVX3lxTE1IV0hfMkV1MDY2U1BEa1FjZlJSRkNoMVlFQ1JTbUg0U3RYaXR4UnpGbThIeV8xNTBZLVlzYS1UdGdxdWVlSE5INjZIY2huSGVvY1JSTWpwSFNDMkhYZ0huZ05pd3RUUEgwSTJOMmM2M19wcXAwYVNFMHoxd1hXcEdsQk1tc2lVemY1Z3M4WlhiUEVMTG9aZ3p1RnJYeQ?oc=5",
-      "source": "Chosunbiz",
-      "country": "한국",
-      "category": "주식",
-      "publishedAt": "2026-09-25T21:18:43Z"
     },
     {
       "title": "A reprieve from rising oil prices helps US stocks finish the week higher",
@@ -227,22 +227,22 @@
       "publishedAt": "2026-09-25T18:01:00Z"
     },
     {
-      "title": "Apple's HomePod Mini 2 Will Reportedly Come In New Colors, But Feature A Similar Design",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdVlrcmpuNTItSGNQYklfbTJQaXRBOWgyVEh3TC0tUkotWTZNVVpIbHlpVFVVZ0dvVEZnbk54Y01VTEs4cmk1V0h0YnpnWHlaQXdXOEZZUmJjbDQwQ3VDR01hclpUM3VDaUZ2OFFMY09MVmZLQzM5R0lGLTNKTkpObUZVNU9oN3U2VHB5amFjYXZMMndwaFBJcVNqR1dpVEZ2d09pRTFFOHl1elpBZkgweW5mVFJGOXpQb2RF?oc=5",
-      "source": "Engadget",
-      "country": "미국",
-      "category": "기술",
-      "publishedAt": "2026-09-25T17:24:09Z"
-    },
-    {
       "title": "Red Cloud Community Schools announces elementary student’s death",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVXhBdHBucHhwcWdOM3F2a09TcHAzTWNmdzlPSnZ2S1ViajZPVmpId3BXY2Zmd1dZOXIySUZfTmctY1l3bm1hWGRNQ0drNTNPOTEtQ1ZFRE96TTZUcDE5SlhFbXptWXdsQ1JlalhBQUI5Rkg3Q3pZbzZOU1J1TGl3bjVZWWtNQ2RSa3B3ejBVSGJtdnZQOEIwYWFEUC1NS3V0NFhLNQ?oc=5",
-      "source": "ksnblocal4.com",
+      "source": "KSNB",
       "country": "미국",
       "category": "IT",
       "publishedAt": "2026-09-25T17:20:00Z"
+    },
+    {
+      "title": "Apple Code Confirms iPad 12 Specs: A19, 8GB RAM, N1, C1X Modem",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpSGk5N2V5VFVtb2dLWG1QeW1wbWdYdloyNDRmMkVhZUlIdTNyVUxCTEFVZ3hnZXpnSkp5WWxuWlVIVTJBUGFsUThxWEs4UjA1UnRpTy1FRDRtbURDQm5sOHhsbHc3REx5U3c?oc=5",
+      "source": "MacRumors",
+      "country": "미국",
+      "category": "기술",
+      "publishedAt": "2026-09-25T17:12:42Z"
     },
     {
       "title": "조국 “조희대, 이 대통령 인정 안 해…대법관 공석 ‘후임 대법원장’과 채워야”",
