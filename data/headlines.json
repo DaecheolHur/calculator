@@ -1,41 +1,59 @@
 {
-  "generatedAt": "2026-09-28T07:33:49.434302Z",
+  "generatedAt": "2026-09-28T08:35:27.399764Z",
   "items": [
+    {
+      "title": "[정보통신 미래모임] “행정 전면 AI로 재설계”…'AI 민주정부' 속도",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HRHBFY0xTSkhLa2Nua2xXT2xuUkdRZ1h6THZMMV9Wb0F6MU5aRWYxSGZoeWFDdk9QSm5JVDMxOWFmTGZtTnZvM1NFUU9fUQ?oc=5",
+      "source": "전자신문",
+      "country": "한국",
+      "category": "AI",
+      "publishedAt": "2026-09-28T08:00:00Z"
+    },
+    {
+      "title": "Warner, Cruz propose voluntary telecom cybersecurity framework and third-party certification after Salt Typhoon",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPLUY0d1o3LXVwa09NRmFwTElvSTdDTXNSLV8wZVgwY2JPLURYZmVrWGpkcjJ0dHBVNXJzVXZUek5fVTkwMXkwX2gyVVRXX2VKVElWSGlFc2ZHUERGbkdFZ1phZ3dKZDd6NVNPS1ZaUTdLTXd0aTUxY3psbVJid1FUSnNBVnVzTWEzeHZyaFBJalpEX3VyMy1uMW1MY2VZVGoxLWdYM212RlZaRFAxWVV0NzFha1RfQ1hQYXhPRmVtZXJrMWx4aEZyVFNVTi1GOFRsN1V1QUdoamRadVlRaHktdTYzZWlfcVZkYXdSWGpuTGE1bnpkS1VfM0hURi1NbVQ0bUJtXw?oc=5",
+      "source": "Industrial Cyber",
+      "country": "미국",
+      "category": "IT",
+      "publishedAt": "2026-09-28T07:58:50Z"
+    },
+    {
+      "title": "정부, 미래대응 사회안전망 혁신추진단 발족…복지사업 점검",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfSVpYR1l2dW9rV0pPb1JjRUZlZFhaNzlGMm1LTXM2VXFVdGhjOHVmQjl0SjM4clozSWlHaHBfdXVaZHExR2hqR0JKQmNCVXVXYW5meDJBZzNHSUHSAWBBVV95cUxQYU9VUDM4R1VkMEFZVzlnTm1DVlVRUUNMRU5JSjJvV1dweVFiWGlocEpNc2F2RFhZWnV2d0VFakFZbVhLNEpGOHhTOVEzcG93THNXU1EzS0FHTFBZRjV2c3U?oc=5",
+      "source": "yna.co.kr",
+      "country": "한국",
+      "category": "사회",
+      "publishedAt": "2026-09-28T07:47:13Z"
+    },
     {
       "title": "국방부 최초 민간 클라우드 도입 시스템 순항…민간 기술 안정성 입증",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xMElwaS02cjhlcHp2MXhRcFlQbXNGUVVyaU9ESDAzaEFVM3pTYmxSUjdnSEFBSXozUEpnbmNra28xRExfSURReGZBN3EwUQ?oc=5",
-      "source": "etnews.com",
+      "source": "전자신문",
       "country": "한국",
       "category": "IT",
       "publishedAt": "2026-09-28T06:51:51Z"
     },
     {
-      "title": "SK하이닉스, TSMC 기술 행사서 차세대 AI 메모리 공개",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HMmRwTEY4c3NfV0xZbWRkZVFkeF9mV1BqNk5RcXN1VmpxejZFSlNiTlhQNzRQa3FwbHdkQ1BHa3VBY3dQRlJ3RjJlcEM5LU8zMWRSTi1haGVkYUxxblRmV3ZLRkJPWjA?oc=5",
-      "source": "연합뉴스TV",
-      "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-09-28T06:37:00Z"
-    },
-    {
       "title": "코스피, 2.70% 내린 6,889.74 마감…코스닥은 소폭 상승",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zWUd1U2VqdlktWUFHMUFMam9sMkZDd0U4RVlhVzJFNldkR2phNGVqWEFwRVd4YmRRVXJVdXNQaWROVGg4RVFOTGRiSkZhSHpDZk5tTGg2UDZJMlo3emRydHFSWUJkSEU?oc=5",
-      "source": "연합뉴스TV",
+      "source": "yonhapnewstv.co.kr",
       "country": "한국",
       "category": "주식",
       "publishedAt": "2026-09-28T06:36:00Z"
     },
     {
-      "title": "California Critical Access Hospital Announces Cybersecurity Incident",
+      "title": "메가존클라우드, ‘포털26’ 기업용 생성형 AI 통합 관리 플랫폼 국내 공급",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb3FKeVFwMmZESzltSU5oTG02cWcxVllGTzRncngzTjRaRW5uOTgzcVZVN0xjS0xZMm1VbkU4andFRHp5cFBBYTEwbUJlNFdiNm5PaDNWcVUydTB4eGR6TGFNZEktbkFybG5OSHdzUnExcWFmUi1iN1RGLW9Wc0xvZGpDOEktWlpCaU9vcjBxN2pzdw?oc=5",
-      "source": "The HIPAA Journal",
-      "country": "미국",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RZkVsLVFWVkxBdHpDQnc4N2FicXpuamt3alJHV1VRVlFhaWV6a0Rxc093UGFyM0hBcVQ0TE9CNXJVa19mNlZaX29yZFlEZGIyNTVMOFFhbjZwWmd5MHNzdnVicnpBY2ozSjA1YlZKb3B1eGdI0gF0QVVfeXFMTVFmRWwtUVZWTEF0ekNCdzg3YWJxem5qa3dqUkdXVVFWUWFpZXprRHFzT3dQYXIzSEFxVDRMT0I1clVrX2Y2Vlpfb3JkWURkYjI1NUw4UWFuNnBaZ3kwc3N2dWJyekFjajNKMDViVkpvcHV4Z0g?oc=5",
+      "source": "IT조선",
+      "country": "한국",
       "category": "IT",
-      "publishedAt": "2026-09-28T06:27:56Z"
+      "publishedAt": "2026-09-28T06:34:29Z"
     },
     {
       "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
@@ -56,22 +74,22 @@
       "publishedAt": "2026-09-28T06:03:48Z"
     },
     {
-      "title": "배경훈 부총리 \"'모두의 AI' 국제사회 관심…성과로 보여줄 것\" - 머니투데이",
+      "title": "‘북 목함지뢰 유사한 형상 봤다’ DMZ 작전 병사 진술 나왔다",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4YWp0eGUyUHE4cndPU2l3dVNUaV9RbmRwREY5Q0ZoRXJHQWNqY3lhVWhlc2FrS0JzV3lUSXF2aHo5WmN6YnNjam5SNGtyS2ZtWlVtTE8taWtuVkhyMkFuWnVXVGNtVVhvU2xxV9IBbEFVX3lxTFB4YWp0eGUyUHE4cndPU2l3dVNUaV9RbmRwREY5Q0ZoRXJHQWNqY3lhVWhlc2FrS0JzV3lUSXF2aHo5WmN6YnNjam5SNGtyS2ZtWlVtTE8taWtuVkhyMkFuWnVXVGNtVVhvU2xxVw?oc=5",
-      "source": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OajlJTzVKRk9RcmlzT3hUQTVPZE5PTXMyQWxqbWo3R0d4NmhUd3JGdFhheEJiV0I2dm9xZjZvMDJzSHE0ZEl6M0g4NnpSb0NjVFgwbzJKS0tPOHJ3WkhVcFhwRkFGWFU4?oc=5",
+      "source": "hani.co.kr",
       "country": "한국",
-      "category": "사회",
-      "publishedAt": "2026-09-28T05:12:10Z"
+      "category": "정치",
+      "publishedAt": "2026-09-28T05:07:00Z"
     },
     {
-      "title": "[김승주 교수 칼럼] 무조건적인 국내 클라우드 시장 보호, 과연 옳은가",
+      "title": "S&P 500 Forecast: SPX higher as oil & yields fall, AI stocks rise",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CTlktd3B4V2VycWhwdERpREcxa1VNSGJRanlqcWxHRG0xcXdlWEZ2TW94d2tRa3N2Q0ZaMTFOcXlDY0FDeVBsU09JMmFZUDRQbWIzbFgyTkpfOGZtTF9wYnZBVENFUEo2bFRmcQ?oc=5",
-      "source": "dailysecu.com",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-09-28T05:04:52Z"
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWHp4eExjcFVLMF9XbndXN0hNYnN4UWlrbUNjV1BBekh4NXRDQjFocFI1ZE44Zl9qekhpWFRvS2RpcGU5ZzRXR245dlpqcElFVTF3TkFmUXJ6bG1IVWxpa29XMzdSWWoxNHlIeXBYMXlNS00yTHhLRTFqTzN1ODNiQTAwMTJJdWU4SHpKbThsTE52U2VBa2pSNWJfZFlMZ2FwU25fZE00TkVkcEE2aTlQTWppa085dw?oc=5",
+      "source": "stonex.com",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-09-28T04:57:57Z"
     },
     {
       "title": "Snubs & Surprises at the 2026 VMAs",
@@ -86,10 +104,37 @@
       "title": "코스피 '7천피' 와르르…3조 매도 폭탄에 삼전닉스도 '휘청'",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HelNHOE1tNGllRHhuQkJOd2dMWjN5QUlYZThpcmpnM0V2UjBwOTY0cE4yMEx5VldoV1VXaEpYUXJwaVlDSEVZVjZEcEZkbVpRTmdUaUNLXzE2Zw?oc=5",
-      "source": "hankyung.com",
+      "source": "한국경제",
       "country": "한국",
       "category": "경제",
       "publishedAt": "2026-09-28T04:41:44Z"
+    },
+    {
+      "title": "\"한국 야구, '군 면제' 놓고 사회인에 진땀\"…외신이 본 한일전",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEc3JVSmFHRmhxS3kzMXJtVmlOSlZGVjlJVFM1Tm1tZ2dTZU5maTZab3pubjVacXBzc2lOeFczcUluQWdHQ3hLUlVnQl9nOFlneVF1U19kSklQSDVYcUhiNlc2WlBiZXl0ZkhsRGh2TUF5aDd1UlNIem9SYWdpejQ?oc=5",
+      "source": "TV조선뉴스",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-09-28T04:31:27Z"
+    },
+    {
+      "title": "NFL Week 3 grades for all 32 teams: Ravens get 'B+' for wild Rio win, Raiders earn 'A-' for beating Saints",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSFVkVFQ1Y3g5MjRaVDNsSm5JZWdoOEZ1NHgtSG5hOGx1LUU3YTlsaVc4dm4yZVVEOFF0TG1acDdSem9qZW1PcEVNd3JFMkItSDFIX2xYMXAwUmpvbE1Va3B6QS1iNVQ3SnAxWk50NlJOQjNuR0NZaUl2NnFHSjJhOUtIYXhqRzI3X1NCbnRKSTE?oc=5",
+      "source": "CBS Sports",
+      "country": "미국",
+      "category": "스포츠",
+      "publishedAt": "2026-09-28T04:20:00Z"
+    },
+    {
+      "title": "‘Storm fatigue’: Hawaiians reeling from back-to-back hurricanes as Nolo’s threats diminish",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOFh1bkVKcHZ0VGtOVlMzRms0UUVTazZxYnhLQi1oUlZfTzd5NC0tYksxdTRJd2FvVGQ0SFNiRWVxV2JZUmg5RmJiWmhRUlRqS1NfUV9wNGd4bHdwUnpucm8tVWhWTWpNNEQxb2hyemxoQWMzM2RiMzVKeHVQX3E5R3F4cHoxdHBFR3JwY2dua2VJbUpPRnZuVHZqYzZtOVFfNV9UWThqdGREZzlNek1uVEdwRU9QRERFd0ZobjFiRzdBQQ?oc=5",
+      "source": "NBC News",
+      "country": "미국",
+      "category": "정치",
+      "publishedAt": "2026-09-28T04:07:00Z"
     },
     {
       "title": "SpaceX prepares to send Starship rocket to orbit for first time",
@@ -110,31 +155,13 @@
       "publishedAt": "2026-09-28T04:01:00Z"
     },
     {
-      "title": "[나고야 AG] 여자 다이빙 간판 김수지, 1ｍ 스프링보드 동메달",
+      "title": "배드민턴 안세영, 결승 진출‥내일 사상 첫 2연패 도전",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HdVhOSzZUVWZKSl91QjktTXVrTVZtdm5NSG1zM2xmeEhWcmRmTm9VLVQ2dlZyc3VrOWloODVMd1pNR2FZak13MUx1WmwxTHBJQXNpZm9sSktYazB4elQzcw?oc=5",
-      "source": "아시아경제",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-09-28T03:49:05Z"
-    },
-    {
-      "title": "‘야구에 진심’인 일본인데 지상파 생중계도 안했다···금메달 걸린 한일전 ‘온도차 이리도 컸다니’",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UQ2pPUVBLV0FzelhiNFNMSk9peS0yeUc0cG5pMXFULVFqZG16TWM2bEFDS2Nsek5ib1RWUHI5QlZVOG4xR0QzcjVadnFfLV9DS243a24zUzRCQdIBX0FVX3lxTE43MkVjeWkwUGNGZGlCVk1wTTQ3V0FONUVDQW40THgtc3F1bTYtV0hoS2lrWVc4QlRBRG1XVVdyaTlPa1lTOWdSdi1DbzZ0OGZ1SWx2TTI0QVdkLWdXUU9B?oc=5",
-      "source": "경향신문",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-09-28T02:59:00Z"
-    },
-    {
-      "title": "軍 \"폭발지점 인근서 '목함지뢰 유사 물체' 봤다는 장병 진술\"",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzdmpPU0dfa0VBZUM0QlNhdnBoWFk2dmhtU0dWN01wMzlUb3IyUDVhOWNxOWxQTnFSZVA2RW14MENaM181VDZJa2xNbkRLRE54MkZjU0NtdUkwR1o5ZE1LaVAzT3RtbDZwdGp4a0RfQVhYNks3LUtTRtIBeEFVX3lxTE9qM3pLVkhyVXJXVmIwQ1BFelU2b0Z0TUlFSFFHeEEtbTJIa0EzSHJmSkNPNW1Nbjd0cGNybzVtaV9IZEhRclp3MjZQV0JqSGlEQmREaUkwSXdnRzI5QWVmeTMtd2dDdThHOTlTOXhhTnA1VmR3SFBmYw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBMc3l5U1dTcDdQOUlUd3NGajJDdE5lM2dKUU55ZGFHcUhZWFJmSEFqOWF6elFhS2hLNUEyTHhFNXpLUWVMR1M4YWkxbEhseHNsMjBNZVQySEpWTnlyVmF4SHRORlJMZDFSWXE4MU5LbzdWWnlaRXfSAXZBVV95cUxQVEtZMW5DMHhfd3NOcU1Bejh1eGhoeUZWbVItYkF2SEp6RHFQcEpmSkVJbEFrRTJXOHJMcjRrS0VLaWdnRFlCZ21JMW0zYk52MnBCR2F5MGxhZ0FyRVlRV2RuS2Q1bDR5X1hhdlU4V3dFR0dxOV9R?oc=5",
       "source": "MBC 뉴스",
       "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-09-28T02:55:09Z"
+      "category": "스포츠",
+      "publishedAt": "2026-09-28T03:47:24Z"
     },
     {
       "title": "AEW wrestler Pac dead at 40; wrestled in WWE as Neville",
@@ -155,22 +182,13 @@
       "publishedAt": "2026-09-28T02:00:00Z"
     },
     {
-      "title": "“부모님 추석때 관절 영양제 사드렸는데요”…치매 시한폭탄 된다고?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zVlBuM1M2Tnd2SS16VU41b2xtbmdtSHNGOFBpR3JDQ2VyQmI1YkN1eE5wTVZRWGI3YjBPMV80a2J2MHJJeGJMUEdtODdiQ2s?oc=5",
-      "source": "v.daum.net",
-      "country": "한국",
-      "category": "과학",
-      "publishedAt": "2026-09-28T01:48:00Z"
-    },
-    {
       "title": "드론 띄우고 미사일 퍼붓는 北… ‘벌떼 공격’이 한반도 방공망 흔드나",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc011Wmc1NUJFMWN5bUlHc09QMTVBYWdTTUNUNmhCTG9CbWJQR3Y5SlV0TDhEX3p4QXZLQ051akQzd0xmR3VBTkc0OVNmVWJrZVBMSjJERDNrdGVwa3YyWUR4V25Ic1QzNXZTRlVfaTBPOVMtbm9rZEJldnhjSG11UnlJWXV2VF9FOURST2xGd21lN3oyakFzS1pVTndGZw?oc=5",
       "source": "조선일보",
       "country": "한국",
       "category": "기술",
-      "publishedAt": "2026-09-28T01:28:00Z"
+      "publishedAt": "2026-09-28T01:33:13Z"
     },
     {
       "title": "한국 사회 불평등의 구조를 분석하다…소득과 자산, 젠더, 교육, 기후",
@@ -191,22 +209,31 @@
       "publishedAt": "2026-09-28T00:50:00Z"
     },
     {
-      "title": "[속보]조희대, 재제청 논란에 “궁금한게 많다고 들어...국감 통해서 얘기”",
+      "title": "[리얼미터]이 대통령 지지율 37.9%, 2주 연속 상승…국민의힘 39.4%, 민주당 38.7% 오차범위 내 역전",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kc29oN1NZdjlrMHVQN1g1TEhJdGVLODV6TGMya2RSbWxIalNHV0NNci1rRG9FT0JmSDktanV3LWZlNVhKclM0ZUZVZ1gyeWUxcGZjUk1wbDlYUdIBX0FVX3lxTE9NM3c4bFZJTUc4THpTR1dBeXJMVEExcG5IX2VtYTQ5LVExbElOVER5OFNCcjduYWtHYlBodnZVX1Nlb1JTRnV1QkJlcElfT3lTNEI3aF9QMG9KNGtxU0hJ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jYWREWjdUZ3gwUHZMTHhpMEFvbldIX1FkNlo3TDJfQVBweGNvOGlrSHVFdU5hckk4OFZUcFMwU1MybXVOVXVGd3RhYWM1cWdxbzY5QUVBNlVoQdIBX0FVX3lxTE9WNXV6MlFPNXg1bDg2MzBpd3paRE9CQjgySklBMHdvSXdXX3gyM0x0MElYQkJIOTBtTTE1UDlxc1AzMHhjUVBiWjYzdS1xN1VzRDVUdnlCS0hKem93UW1z?oc=5",
       "source": "경향신문",
       "country": "한국",
       "category": "정치",
-      "publishedAt": "2026-09-28T00:26:00Z"
+      "publishedAt": "2026-09-27T23:28:00Z"
     },
     {
-      "title": "Hurricane Nolo still threatens Hawaii as Mexico's Baja braces for major Hurricane Polo",
+      "title": "News media must stay relevant or 'society will struggle', says World News Day boss",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNODM1VjBnUGM5YlU2UlZueXNfeXVmcmtGb1ViSzNEUzg3bkhPbF85ZjRFU3lia001V1c4NTRqejVoel96b2VUZGZoN0NYNXBnRmJJWGVDLXNCRmhaVzczd1QwNXZlZFQ1eld3LS1BVXYwWkdHN3h3OGl2aFdKSUtnYW1wS2Z4T1BNeUhZYm0wRWRKejBHTXc?oc=5",
-      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMjVtSGRyWmg1eTNZckhHNWotVGJKNEd4TTFCSkVXMlN6eV9ZeHhyT0t2V1J0Q1NpMUtSalNZZGxaLXFqN2MyT2JHSzFtUk13WDB2R2dBWjhXWE1DeWk4MzRNcXYxZmJHZHNvanVMb00zQ3dDV1pIeE5qaTd3dnJ0Q1hjVnBHRWJscVRWV3lrMA?oc=5",
+      "source": "Yahoo",
       "country": "미국",
-      "category": "정치",
-      "publishedAt": "2026-09-27T22:59:00Z"
+      "category": "사회",
+      "publishedAt": "2026-09-27T23:27:35Z"
+    },
+    {
+      "title": "AI도 아프다?... ‘고통’ 반응 키우니 사용자 피해 있어도 ‘진통 버튼’ 선택",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWXBHd3pFSHN6VVU4UmhiLWMzN3ZScjdlX0tMT0c2Q0pIajBOakwzbkFUOUJXZkFBNkZGdThDN0NzajJEd0NsbnAwSVQwcFdZMVVDbVFlTGJlc2hnMERJLWd5RnczQTlybUFVcU93cUlCMld2UWs0N09pSWh6TEN4b05uUQ?oc=5",
+      "source": "조선일보",
+      "country": "한국",
+      "category": "과학",
+      "publishedAt": "2026-09-27T23:15:05Z"
     },
     {
       "title": "Scientists discover two new species of sea spiders along Canadian coastline",
@@ -218,37 +245,10 @@
       "publishedAt": "2026-09-27T22:31:16Z"
     },
     {
-      "title": "Mike Vrabel admits his concern 'is very high' for Patriots after Drake Maye commits 3 turnovers in ugly loss to Jaguars",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQOF9Jc2MtN2V0Nk1LdkVIbWk3SHU3b2dfUWYxS2RsZWpibmRiUFliTHV2ejE4eFZwOEJ1WmFLSjAyUlFZeVJNN2dldnQ3NHdLRnRfbTJCSExhTnV0bXN6WWdzR0tmTHFIS3d6ZWtSYXRIRXFDTk9UeE1hSlFicFRTTkFKOTRnVlpiVXBIVFZ2WHRsM0pHb09LcE9ORUJQeHRHaUdjWkFza2xkSllTNU04ZWdqY01NYjVUNFVsSFRXSWpRdFc2ZXIxSkpITmc3NmVReXRrUFdzdlQzUml0Zjc4R0RERnFEdkpJRkcxZzVzeEFiYTJjWXhIdVVkakNfb2Y1Mk5IQVF2M3FhTDZRdjg2aw?oc=5",
-      "source": "Yahoo Sports",
-      "country": "미국",
-      "category": "스포츠",
-      "publishedAt": "2026-09-27T20:20:50Z"
-    },
-    {
-      "title": "Thinking about buying stocks instead of a home? The S&P 500 has blown away the housing market",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYzR2NHNJdk9oSHo4ZzgyV1NZc1N5UFFHVW5XSm1EQ19ROHl4cE9qSEJHdzhKTUxLYmJNRXRGY1FqbGpFeXYxZkpFaDVXUkI2akJWNVdXX3FnUFBDVDNnaXA2V2l1MElEeWtiRW1ycFg1UnFsTTNYN0x1SzJSZ0tJa2o0LUNESjZpU2xHbmctaVd5R2Rkb3Q5TTJzS0VlU1Zw?oc=5",
-      "source": "fortune.com",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-09-27T20:20:00Z"
-    },
-    {
-      "title": "Westmont College Climbs National Rankings in U.S. News & World Report 2027 Best Colleges Guide",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdDQ2eGtYVkwxT2FyTjBwMHdMYjNCRlpDdlZ2c2ppWGEtaTY4WTZ3cHVjNS05SnlyT0lQNmpmM29ENy0wUUVkbC12dk5DTVFicUxibHNINmNHbmROZjdzZC1raGRsVVA2emFYaC1XNW14ME90QU9TdDA1b21VZnl1Tw?oc=5",
-      "source": "edhat",
-      "country": "미국",
-      "category": "사회",
-      "publishedAt": "2026-09-27T15:20:59Z"
-    },
-    {
       "title": "Will artificial intelligence really kill us all?",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYnNRUHNqeU5NNTVIVVhEd3F1QnY1d3JlYVZaUUJPejViZ0ZuU2c5dkNFS0F2M2x0Y1dDYUFaU3hXV2NkMk5scksteWRROHNMQjV5UEU4cnQzSU5BWW5uNHIzX1Q4TmhjWFRBVFNlYlUzLUhRVmt3RjdNT3psaUREdzRUNA?oc=5",
-      "source": "CBS News",
+      "source": "cbsnews.com",
       "country": "미국",
       "category": "AI",
       "publishedAt": "2026-09-27T13:48:22Z"
