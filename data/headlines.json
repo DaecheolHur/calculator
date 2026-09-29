@@ -1,14 +1,59 @@
 {
-  "generatedAt": "2026-09-29T17:32:26.260124Z",
+  "generatedAt": "2026-09-29T18:37:27.416159Z",
   "items": [
     {
-      "title": "UK FRC Publishes Cybersecurity “Mythbuster” on Provision 29",
+      "title": "Exploring the ethics of artificial intelligence",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUU1WT2V3OUc2VmlrUlRUT0Jwa1N0cm5lZnJsck1oQTd1d3dkOGxGN0dheUdJdnB2NFVyWERGYzRsMGpDaFlwaGdXZDE2N3R4TW5wcHdHT1lzaFJDVzJZTkpSU1pqd0R2bVhib3NJaUZCWmJRU3ViMjdlbmdoSnJSWFFYQ3RNeklRRElfcWt4MzlSa0NoZGJQVXYzUW5aYVp2S3c?oc=5",
-      "source": "Sidley Austin",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSk5FdlVLWVhmOVpmYVhDUHZVWU5WSDJhUjhyaXhXRHZWbGUwMXRHdHVlWHJmR2tCejBfdDFzdzl3Y2NMSk1LaGlJcGZFd0pmeW5DeUwzZnhmSTJNXzFaX3E5QW5RNWdfNEx0b2hOYkx5aE5OZEFoc2NRd2VEaFhldE1LUnRacHFfeUpreFpn?oc=5",
+      "source": "The University of Utah",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-09-29T18:20:55Z"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq slip as oil retreats, Anthropic and OpenAI fuel AI jitters",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZjFzVm9LX08zTnhfUXNSR2pjSkI5YWg3Y0NnYWltMFB4MHRBejJOZkFQQ2pYc25ycjhhWk1BRGFXbk5WRm1OamtkSzBRdWtkanlrUWVGLUFJSTlYU2RMX25TVDNPOURSc290Z0VJSnJFSlp4MjBhS2p2TzNXTk9RZGhRRC1XVm1Da1lNaG5UNnVZeEdfd0RmOVhkakVIRC1yb1BIejZGZVZ4MjhwSWdyVA?oc=5",
+      "source": "Yahoo Finance",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-09-29T18:19:22Z"
+    },
+    {
+      "title": "Cybersecurity’s New AI Imperative: Attacking the Backlog of Vulnerability Alerts",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM01yTFR1OUtlbUxJd3ktZEJIRlQ2VVBBXzIwT2FyLUswU21EX3dBZTZPdkFGemQ2WTQzaVRUMU1CLVA1QmJPMHdvNnZNU1NCcl9tYjkybnNfaDZjRFI3Y2pUWWtmRjJOXzVZdUNwR3ZPUWpYcURwYnNOY1dZTlFEVENEVTJtd0pLWDA2THkybk42RWJKeklKMWpMTG10QlhpVjI4UmMteUluemo5MmtOakV3bjd6a1plbnJaTENoV0VlcmFDQlJmaXFsa1A?oc=5",
+      "source": "Bain",
       "country": "미국",
       "category": "IT",
-      "publishedAt": "2026-09-29T17:12:22Z"
+      "publishedAt": "2026-09-29T17:48:26Z"
+    },
+    {
+      "title": "넷앱, Per Scholas에 사이버 보안 교육 기금 지원",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vbDlwX0owU1J4QkNWdGUzYmxseW1paHlVNVRvVHBPSTVwamdkV3U5SHNiUFVqUEZFWjRNdEZ0VDE3NTdtSk9LSkZuY2tWZVVVNXMzUGFmZnU0YlVIc0RTTUx4bVNnWFUwSzFpSVVsdEU?oc=5",
+      "source": "Investing.com 한국어",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-09-29T17:41:00Z"
+    },
+    {
+      "title": "Jack Smith defends handling of Trump probes at heated Senate hearing",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZG5HRTJoRDBURDhLbHhIMXc4ZS1xM2NaV2c5ZlZuTE56dUREWTVFVVdaSmVnVWNNVWdBM2lZVk44MjZRNUJkN3MwX2RTRUc2bTU4bVJzMkdOTnBzZ2I5VkJkVWdrZk42eVUtT0Fxb05rQUtUS2drNkxTY3hHMjRVS2JTVTBhdFRnd3dlQmpjYlN5X3M?oc=5",
+      "source": "CBS News",
+      "country": "미국",
+      "category": "정치",
+      "publishedAt": "2026-09-29T17:17:00Z"
+    },
+    {
+      "title": "‘Digger’ Rotten Tomatoes Reviews Mostly Bury Tom Cruise’s Apocalyptic Satire",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUFV6dEVNaFBVTGdrVTVHVUNXdkg0elRtT2dia2VmQUFhVkRrNTl6dUhPSXpDaVRCWlYwTmF0MENMQTh5eS02RE56dDdXalg2eGRsV1hDVk5ZbEs0Nkl6aHQ4MHZDeGw1WVBBX21SQmFJSGJZVkNMbVpEQkloOEdpWUpmUnFVZHVSTXVadnpERWtBYWV4cVduaHNjSk9rQVRCbXJBOC1WWmcwODBGTS1IRHRzek5lcGp1?oc=5",
+      "source": "Forbes",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-09-29T17:15:59Z"
     },
     {
       "title": "Heart Failure Society of America 2026 Preview: 6 Trials to Watch",
@@ -29,76 +74,40 @@
       "publishedAt": "2026-09-29T16:37:10Z"
     },
     {
-      "title": "Jack Smith defends Trump probes in Senate hearing filled with GOP insults",
+      "title": "‘Mythic Achievements’ now available for Xbox Insiders",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPclhzR1k3UEU1NldIcnBrc3BoWUdrVDgyaW1Td084X3FBb2pZVFVJWkFWamJPVmxfZXVtcDY4R1N5eDhsVUZ4a19fcV9rV2FCaENjcmZXTmVJaHNIRUE4cXNHOWZPVUZrdE5vRnRpVnh6VDRqYzdLUmhnUWZEa09LbGRoYm1GM05Ra21GakJyaW83dzFVdDVGTjI4UGdtemZRUnRlVVowRjNZcGhVV3pLMnRDOFRhNU9XUVczbUQzOS1wMkE0STQwV3dldXVnZw?oc=5",
-      "source": "NBC News",
-      "country": "미국",
-      "category": "정치",
-      "publishedAt": "2026-09-29T16:30:13Z"
-    },
-    {
-      "title": "Digger review: Tom Cruise takes the 'biggest risk of his career' in this 'love-it-or-hate-it' folly ★★★★☆",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRRHZlY3BLWlJkczdCUzBCX0oyQU5uQW5NbGxFWkowWXM4V21taThsMkEtZlctM3gxMzc3YmNSWU56WE1HYnhIWVFkUXQ4X3dhTGhYcmZ6MGstV0VQaDVDMGdkVXAzekRzRVE?oc=5",
-      "source": "BBC",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-09-29T16:23:45Z"
-    },
-    {
-      "title": "[알립니다] 조선일보 모든 기사를 일본어로… 오늘부터 ‘AI 실시간 번역’",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZGdtTTAtOGZmSTBFaC1yMDAzRzRzSndjRWs0bTF3WUI2TWhvY1ROZGNVNlFib2JhZUtGQzhkaWhhVEFtYjBhYVl1X2VSZnB4T21IcHZxUjlQckN1Yl9sLU0xTEI5bDB5WHcwa1c3cndfanRVZ0h3ay1tLTd4eWJJQzFBWWo0bFpRd2c?oc=5",
-      "source": "조선일보",
-      "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-09-29T15:52:00Z"
-    },
-    {
-      "title": "U.S. Consumer Confidence Fell in September Amid Elevated Oil Prices, Inflation Worries, Conference Board Says",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdk5UaXVRTjRnUlV1ejhlNTlrbnp5OERqckFYcVFUX09EU1Zobjh4VVItd1U1Q0hlZ1NaaTVGdFNTd2tscUUzQWZ4bFRoUWZzMlhZV1BTaElhYjVZYWZNSVpidWVLY0lhQXZmZDhsRVV2NkVSR0dSMVFjbTVfcVdtWGY3ekJXQjR4LUx3Sk0ybE5rM0FwVjRfSDlZQUJhSHA4R2lhcTAxaklkZHpHUjBUSjNaSTdPZXBuTnZvY2dHcG1zQQ?oc=5",
-      "source": "WSJ",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-09-29T15:23:00Z"
-    },
-    {
-      "title": "Anthropic IPO leaks — here are 2 big hot takes",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOXVZQlgydS1VOWVCdVhpcGo5aElEX3Y3eGNhOWtqSVZjMFBFRUFRa0k4TjIydGZLMWVWWXhkMGFoN0U3VzJSODE2YW51aHR6cTNaXzlFVlZhMlhsYWhNYl9BcWl3bG9tUUZ4aFdXRzJwZV9HdktqMzZCRklka0FoMEg0Vmg5dEpxZ1NSR3IzMG5ZTWZJckc4TFd6Z3R2aFF5SFlyaXJnYlkta2tK?oc=5",
-      "source": "finance.yahoo.com",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-09-29T14:53:45Z"
-    },
-    {
-      "title": "Still running iOS 26? Update your iPhones, iPads and Macs for this urgent security fix",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQUVLYm5OUm55Zng3OUZnSjhuY1ctWE9kRmV4QWtzaHpSSG1xYTA1R0JHaFBwbENHWTZ4UmlPQ29YczZjamFlYktXNVVramRadTlqMDAyRVE3bHlVV0xEZzU4elh6bE1hSDR5V0FDYlloVnhqZkZxZmxPR192WkpOY3Vmc3ZtOTRsU1llZldGQ3NyNGhoTXF1UkFMZ0dMd1ZZaEU3SjJTdzQzLXoxeWdjXy1QTmd3STExVWNB?oc=5",
-      "source": "TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMDBxSEhVM1diYjB1YzVZbEJJRkZnN0w5RThhV29aWTJzRXFnY3NudnE5M0ZpbFl2NHpVWTVjNEMtT04wN1o0ZnRlOUo2U0taQmczbU1kS0VlU2E1elNxOExFc0FpYlRWMjNJVTZRU2l4emRWYTNoMkpPRTBibVFudUhJNmszamZyYU5n?oc=5",
+      "source": "Gematsu",
       "country": "미국",
       "category": "기술",
-      "publishedAt": "2026-09-29T13:25:21Z"
+      "publishedAt": "2026-09-29T16:16:03Z"
     },
     {
-      "title": "DMZ 북 지뢰 1발 추가발견…강 국방 “정전협정 위반 명백”",
+      "title": "네이버클라우드, DB·서버 접속 한곳서 통제한다…개인정보 접근기록 자동 관리 ‘DSAC’ 출시",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kUUE2QUpPbWJFS2I5amhFQ0lWMGctbml4eWZDS0NDZ1ZzX2lOZmdWcVk3aWZrZzNoc1ZtUWNfeXlUS2l0VHdUekVSMXNDdW1KalRScnh6XzI1TXo0WkoyMDhhWXVnN2VWdUNEUmd2LWtjcm1V?oc=5",
-      "source": "한겨레",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13NllHRVJhS2E5Zl9NbWgwYnhQQnlQX0t5ajBNLVZiRG9TSnFsZ3NVdkZpMHd5azBMWE9vcHdqdEladk9aSG1uUGxhcEJVNm8?oc=5",
+      "source": "벤처스퀘어",
       "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-09-29T13:15:00Z"
+      "category": "IT",
+      "publishedAt": "2026-09-29T16:09:47Z"
     },
     {
-      "title": "PFT’s Week 4 2026 NFL power rankings",
+      "title": "NFL Power Rankings, Week 4: 49ers claim No. 1 spot! Raiders, Vikings enter top 10; Patriots drop to 31",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVWFOSDBZMWtVSDlJYWtkVGdieGF0Q3BnZkZaVGxLY0t1U3BlOC1kZkhmWURjeEF4aTVSbnlGYmFWcDZ4Z2pncDVBSUdlb3N1a1ludnFkeHEtT3VGWHlzZkFYSDNWUmpwRjIxaEJSVGtHc0xmY2REd2owZXVNVnNlZnhyZGFVRF92U0RqMTRtbjloQ1lPTjExNmx3OTZwZw?oc=5",
-      "source": "NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0dE04azBhTzZoS285WDJ4VWFiaFNEN0x2U2lTQjQ3aXlfR2F0RnFoVm1NZkQ2clBxeEczTnZmTkdBbG9DNE93bE5qODdBb0RZNkhsUVJiSjNvS1RsXzJpdUZoMVBrZmNyUWc3MnNDQVFEN1BS?oc=5",
+      "source": "NFL.com",
       "country": "미국",
       "category": "스포츠",
-      "publishedAt": "2026-09-29T13:12:02Z"
+      "publishedAt": "2026-09-29T15:15:38Z"
+    },
+    {
+      "title": "[아시안게임] 허탈한 지소연 \"마지막 AG…동메달전서 유종의 미 남길 것\"",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hNmNkNXdsVk9kVHZ4VG9WbDY3REc2Nkx1ZkJBWi0xTzhCQU1XVXJSTmlQYkFqS2NTSXEzNzE5dTFnUWdSV21PdXBxZFpNOXdXYVBMSTdGdExNLUnSAWBBVV95cUxOTDlJMV92MlpTWHFLMGsyc1VpQmdGREFjMFhiQTNELWRZS2N4ajlTcENmbWNfc2RjaTgxcTlxVGlVRzZiVV9HMXVMRWttdEpQczJHdzVYRk1fdDNULWhvOWQ?oc=5",
+      "source": "연합뉴스",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-09-29T13:47:38Z"
     },
     {
       "title": "‘GMA’ Anchor and Christopher Reeve’s Son Will Reveals Testicular Cancer Diagnosis: ‘I Was Raised to Share One’s Struggles’",
@@ -110,13 +119,13 @@
       "publishedAt": "2026-09-29T12:40:00Z"
     },
     {
-      "title": "[아시안게임] 한국 여자축구, 일본에 져 '첫 결승행' 불발…중국과 동메달전",
+      "title": "이 대통령 “내년 명절 할인 지원 예산 대폭 늘려야…미래대응기금 활용”",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FNmRlTHNfYjFwWXdiRG1oLXFVcFBXTnZGWi1JeTAzbHl3allzUnZtWnhLSzIyRTRMWXA2M2tuNkVIb2NEV3lLV0F4dUl2djg?oc=5",
-      "source": "v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VN0p1OVhQWU83WnRxSHBzQWFZbXBNZl9DamVib2s2Z0pkOXdfZmVpcnJoSTdlTldTQkp1WG5pcTJoZ2RvcmtxbTl2MFA5cVFmQ01qSm5sUUZiVUkzLUhPYk9xYlVqbW9zdU9N?oc=5",
+      "source": "한겨레",
       "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-09-29T12:27:01Z"
+      "category": "정치",
+      "publishedAt": "2026-09-29T12:08:00Z"
     },
     {
       "title": "코스피, 美국채금리 급등에 약세…마이크론 실적 주목",
@@ -128,30 +137,12 @@
       "publishedAt": "2026-09-29T11:57:00Z"
     },
     {
-      "title": "[문체부] 멕시코 주요 방송사, K-컬처·인공지능 조명 다큐멘터리 3편 방영… 한-멕 문화·기술 협력 강화",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xdlk2MmM1b05xX0ZuQ1NXZ1o3dlk5Z1FlXzc4aDFvbXBVamZRX19lSVplMTBENzdKbU5ZT1JkTFQ3SXVEM1RfWFI0VHNFTXllQWN6cm4zMHdxWTc5dDNsZ3V5TjVOb0hmT0VIS3dUc0JZUQ?oc=5",
-      "source": "discoverynews.kr",
-      "country": "한국",
-      "category": "사회",
-      "publishedAt": "2026-09-29T11:45:31Z"
-    },
-    {
-      "title": "‘퍼펙트!’ 안세영의 대관식…AG 최초의 단식 ‘2연패’",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aT3A3cERKTjdXZ01KenRhWHlhWWtoYkQ5Uy1OVDBZTmw2ZHVwTXlTcXdGNDJMcnN6NDF6ZC11a0hmT2JROHRMX2hzVmZqRS1FQ3h3SA?oc=5",
-      "source": "JTBC",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-09-29T11:35:00Z"
-    },
-    {
       "title": "연구자 22명 “AI가 AI 만드는 ‘지능 폭발’ 대비…인류 멸종 이어질 수도”",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YOGFLUUZkM0s1dHhfS0JsYUh3aHJIQTMwZEFzc1JnY2F1VTNXRnVZUlF0QVgtWVF1eXllZ25JS0ZsZHdnOXNDbFVMWVAxeHZsOWRhLWtKb2w3bWE4MHRxMkdXUlNZdnVUTWczM2xjYw?oc=5",
       "source": "한겨레",
       "country": "한국",
-      "category": "과학",
+      "category": "AI",
       "publishedAt": "2026-09-29T11:09:00Z"
     },
     {
@@ -162,6 +153,15 @@
       "country": "한국",
       "category": "경제",
       "publishedAt": "2026-09-29T11:04:00Z"
+    },
+    {
+      "title": "SpaceX's Starship engine failure could impact NASA's moon mission objectives",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVG5vYVlQYmlYam04bTNfSlhBTW1fLVBOVXkwXzBIS3BCYXRBUnZOM05NUVE5dk1aU2tQYmNnTkZWa2l1U0dNNVBINGF1NkpTQjBfQzVseDRCakFkeGs5XzYtMVFtMzFZZXFESmtZR0F3dDN3VTJZNEE0aHAwOWpUVUlqZEMzQ2packNhMkFMNTJEYnJNZ2pfNWszOWw3NFBhSDM1STZOQ1NuY2g5bGhxM3BwTW1BT0dGY1c2dkw5a1ZxVEdickVlU2ZfMmtRUQ?oc=5",
+      "source": "Reuters",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-09-29T10:20:22Z"
     },
     {
       "title": "Inside the Biggest Feud in Artificial Intelligence",
@@ -200,37 +200,28 @@
       "publishedAt": "2026-09-29T08:44:47Z"
     },
     {
-      "title": "\"AI 통제 불능? 그냥 소프트웨어일 뿐\" 젠슨 황의 반박 [뉴스더보기]",
+      "title": "강신철, 북한 지뢰 폭발에 \"정전협정 위반 명백, 상응조치할 것\"",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZZWs2ME9aaTlBOU94S3RYZ1dXSHdqSGt6c3dKVENFaWhQeVJ4Z0Ywc3RJMGtFSkxJZUVjM2N1eXJPYUFINTZtRjFUVl9HWnVGMUpzZF9nZ2tybHZIS05oSlRwVFNaM2s?oc=5",
-      "source": "연합뉴스TV",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-09-29T08:07:00Z"
-    },
-    {
-      "title": "Nintendo Switch 2 소프트웨어 『Minecraft』 패키지 버전 예약 판매 일정 안내 | News | 한국닌텐도주식회사",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGZmdSRHpQek9PNHc5bmRnSk9HazVMU3FMVkNwalg3THRLSGFmdWVPU0RqWlpPU3lKVEllSUhkQ3BNU3Y1MkNHUUtIX25RUkJwMTBERFFzSWlva2JfNXJ0ajhkUk8xMEd6dWhZMVJmbHk?oc=5",
-      "source": "nintendo.com",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-09-29T07:56:08Z"
-    },
-    {
-      "title": "이 대통령, 정부 부처에 “청와대 손 뗄 테니, 자율적으로”…만기친람 비판 염두에 둔 듯",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GeFhTT3ZrX19MdTRuaXFBMG81SmNhby1EdjdHS2hnbWtWdV92THA4SlNoUXdkelRGOFlZSWtmLVdBZU81WldZbGJPTzV4eXA3eDZ1Y0w3OXdQUdIBX0FVX3lxTE5PTk1vcFlRTF84eU1TSHNQWU03eWt2dlF6MU12ZkVSRkFNRHlGQ0hsTlEwdDZzRUkxYUpZNGdocHNYM0dSblU1TEhZR3JvaUZkNFR1dEp3aDZkNklRb1pV?oc=5",
-      "source": "khan.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjN09uc3FScy1GOHRrdWNUZUhZVW5zckd1UGtOVXFhcVlOUmNySVRmZGVVc1BQNFNYaVFXRDhwMEo4cHIzS3JOZ0tWek5IcW1DamVFMDFXMkJoRFk3d3l4ak1rWnRLR1FmQVgyX2VmYlJ4eGVqZlowSdIBeEFVX3lxTE9oR3lVYTJJZVVneTJRUHdxYVdZUG9kSURUckNMN29TYTJjS2ZJU2JKT1B6d2wxTmdaSENDVEJ2ZTd0RTl0MnM1QkVRZTNGOFNZbmZuallBSW1rSGo3TVFObEJBZzFTb000UkZwalpSMlNrdktoUTJvMQ?oc=5",
+      "source": "imnews.imbc.com",
       "country": "한국",
       "category": "정치",
-      "publishedAt": "2026-09-29T07:40:00Z"
+      "publishedAt": "2026-09-29T07:46:48Z"
+    },
+    {
+      "title": "더좋은대한민국포럼 출범…대한민국 미래 비전 논의",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zUlhTZU5zRTBOQXVwODFqSTdpenh5RU8zalByR2ZBY0lrQ0Z5SmZMWXlKNFNxSzlvMU5uaGUycDBlRDByZmZjTmRmNDMzUHBiZTg4UG9feW1sOW40ak93UkRlSlVpMjNHelHSAWxBVV95cUxOU3g1ZzROY3ZLU1ZVUjBlSHEwTTcyVW5NSndyQXAwZDk1c1VIV080YWlOZFFaa05tdlRxYjBpazlNX24wcmdPZzdpcVlWUVFOX0VDTVk1YjFoM1EtaGJhbHdSUUZoaHVESnU5czI?oc=5",
+      "source": "시사경제신문",
+      "country": "한국",
+      "category": "사회",
+      "publishedAt": "2026-09-29T07:45:16Z"
     },
     {
       "title": "'암살자(들)' 중국 자본 의혹에‥제작사 \"국내 자본으로 제작\"",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mQzFUMDVqSk5rMldHb2xIamtVbjZ6YjhJRXkyQzViclpYNTJWTURETE52QW50c1ZIREQtOHdGOWJiTTJaOTdmNWtFWDBCWUdRSUtka2w3M1FadkxQbjBRVmIxQV9hZVNpUk5xT2ZHQ3VtZGZ2TUZr0gF3QVVfeXFMUEFJV1NJb092RUJDUENlN0VRWmxwRHk5VEkzb0NaZHV5SG9wb3JxdEc0dTVjS2Y0NGhNX3pGZlRBUkJ6X2V0a0JjQnNmYUNVMGR3Wk9xNkw1ZUEzU0FSbmNfSUM0WTY0OGh3TFlEZ3NzekpQV3NEY1E?oc=5",
-      "source": "MBC 뉴스",
+      "source": "imnews.imbc.com",
       "country": "한국",
       "category": "문화",
       "publishedAt": "2026-09-29T07:38:38Z"
@@ -245,13 +236,13 @@
       "publishedAt": "2026-09-29T07:18:00Z"
     },
     {
-      "title": "Exclusive | OpenAI Scraps Release of New AI Model Over Safety Concerns",
+      "title": "[2026 아시안게임]‘배드민턴 여제’ 안세영, 아시안게임 여자 단식 금메달⋯대회 사상 첫 2연패",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcC0xNDExdTJodUowZi1yeWdFN3M5RlpvY3FvZ1lQeHltWGVkeG01ZTVlaHJ0TldqVVRhekJhWl9ZRTRLNHRqX1NQQVFKMW5NRnhBTmlUNWNpX1FBX3Myc3VlaGIxbFZTZDZYRlYwTGNVLTUtNnJScGJWcm5rX0hMMmNadFFmZw?oc=5",
-      "source": "WSJ",
-      "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-09-28T23:07:00Z"
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vbUpJT25ZZURtSTBWMFIxMkxGYkFJUGM0RDk2VlNRX3BWZWZGTGkwZm56Nkw5Z0ppaVRmVjlMbkZlZXNWS1BlcFJXRHNfVWhXYWdYSWdxSExkZ1k?oc=5",
+      "source": "kwnews.co.kr",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-09-29T07:14:17Z"
     },
     {
       "title": "“창신메모리에 기술 넘기자 토사구팽”…전 삼성맨 초라한 말로",
@@ -261,6 +252,15 @@
       "country": "한국",
       "category": "기술",
       "publishedAt": "2026-09-28T20:03:00Z"
+    },
+    {
+      "title": "아파트 40층 높이 ‘역대 최강’ 스타십, 첫 궤도 진입 성공",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vb1Bvc3hxcFNFMUZ3clVsRXctSlNMOWRqYy1SMU9GVWFuUzhFbTVLRHZJSGxmeXZRY01ZcGdsZ1Q0elktMFhtWUliazJ5RkU?oc=5",
+      "source": "v.daum.net",
+      "country": "한국",
+      "category": "과학",
+      "publishedAt": "2026-09-28T13:26:58Z"
     },
     {
       "title": "Elon Musk’s SpaceX Starship ends flight early after first-ever orbit of Earth",
