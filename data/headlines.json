@@ -1,14 +1,32 @@
 {
-  "generatedAt": "2026-09-29T04:32:59.335910Z",
+  "generatedAt": "2026-09-29T05:32:23.515300Z",
   "items": [
+    {
+      "title": "U.S. Bans Canadian Motorcycles, Dairy and Liquor",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaVRvU1BXVDZTV1dpSVZfOWtoYjYyTWdIcmZGcUJCZVNoVWMzRFBoWnphRjFGVWlRbUZGNkZIOWE5UGhRRm4yenlUSUE4Vm9HRjA3aHo0RXJLY3hCb24ySHBFQVpsWlRIYnpvQWR0RmRaczlZaER0dlFNRzh2dGQ4Nw?oc=5",
+      "source": "The New York Times",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-09-29T04:01:12Z"
+    },
     {
       "title": "[인터뷰] 구글 떠난 연구원 “AI는 스스로 자란다, 해결책도 없다”",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zUjhEXzV1Uy1BWU5TcTV4MzRON2FhUHVTTTJjLVctSlNrTlNhaFd4X2E5MGRzQWNqLXNaeVZJQk1BMmQwREpEc1kySXBjMGdKdE9SdnpUWWJKTjFhSVVKU002M1l2eVdjOTFYSWJLUQ?oc=5",
       "source": "한겨레",
       "country": "한국",
-      "category": "AI",
+      "category": "기술",
       "publishedAt": "2026-09-29T03:46:00Z"
+    },
+    {
+      "title": "OpenAI cancels release of AI model GPT-6.1 Astra, citing safety concerns",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSExJX2RibHFyX3QwWDRia0VQYTFZS0tKTEtBRHF4TUlfSWh5Y0RQb1dheHk5X1BqMG9Za0c1R2NiU2lpSjdiWmNTdzE4cW9KX3pwZWV4N0gwSkNOdk5kb1diR1FWWU9RLVhIejlJQmRwcUdqRHF1a3gtdWZaemd5QmN5VXFmM0tnbFJzbjYzaWlSdGRyS082RkppVGxWNmNOTzh1UGdyWFnSAa4BQVVfeXFMTXB1R2UyUXQ4LVNoOVBpVnBUN29uclZvY0h0Z1RteXVuV2JCZEVwTzVKNUN0NkJ3alFZQ1F5M0REUmNZR05yWE1ZV0NsWkxjUVQ3MVd3dk50R3BJTHlwNVlDVnRrMXhlejJDR3lDazFkTm41QW1hb2JTWEpMVXBYOE83ZmJnSXQtT2poeF9FRGhMWGtzVVd1d1cwTHJxTFIwOTNWbTVWRmh0Q3Iwc2JB?oc=5",
+      "source": "Al Jazeera",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-09-29T03:43:46Z"
     },
     {
       "title": "Navigating artificial intelligence: What to know",
@@ -20,40 +38,58 @@
       "publishedAt": "2026-09-29T03:38:00Z"
     },
     {
+      "title": "Monday Night Football: Case Keenum, Bears beat Eagles 27-7",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLThWOFNxbFVSeXk3a2Q1dE4xNUE0YXlieE5YZDlnWHFHTkdmV2E5aENiMzFCOFdjUVhsSzBnazlqWmk2QmxzT2M1Nk1VbllRcUoxQ3pkS2szZ2FVWU11ZDEyQnlWdVZhSG1ZU2dXR3ZDdVZ5S1NZeWxPTzF4MGVGWWoxbE1MZGE2MzA3cFNwU0RWb2FBRlE4U1loRFFYNXpkU09VU3dZU3g4enNIT08tb283dW5pTkJib3c?oc=5",
+      "source": "NBC Sports",
+      "country": "미국",
+      "category": "스포츠",
+      "publishedAt": "2026-09-29T03:17:52Z"
+    },
+    {
       "title": "Dennis Haskins, Principal Belding on ‘Saved by the Bell,’ Dies at 75",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbnc5aUhDMEwyZllDdlZnZlBPMkxZajNTaEtKODdQczd4Z1d2NTREX1JMdEFZeTlGQ0s5WUNFVnFSeXRBXzFqbGQwRUZtQ2lzZlU4b2p3dV9VLXN3MzNfNE8wTEMwX2paYWxjX05BTTROaFhXS2UwdlZmWE5TcnVWbDdHTU53Q3hvWGJMRmRCclpYcmxhcUY2eHg4Wi0zOWlXbDlxRkxjOXVCZXF0?oc=5",
-      "source": "The Hollywood Reporter",
+      "source": "hollywoodreporter.com",
       "country": "미국",
       "category": "문화",
       "publishedAt": "2026-09-29T03:13:52Z"
     },
     {
-      "title": "OpenAI cancels new AI launch, citing safety issues",
+      "title": "Prosecutor reopens probe into Cornell gang rape allegations after accuser files lawsuit",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaS1OamRFUFBDMjRRdVp6cWl6RDE3WHVZSFcyVUhzcFNKT2tXcXpMTWtvY3g5TU8yZjdDYjR0cUJYWEdMQ2NhVHBNNmg2RmIwZVBqSG9IYnZnWHhYWW8xZGJOTDdiLXBJUVB5emVPMUtFdFhmaXJ6aThMMldubkV1dmwwUGlydW8xMjBuby05MklnMGh6OVJlTkVibjVPemVWNU11cUsxbGRYT3lNdDdzOEM3Rzcwc2c?oc=5",
-      "source": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY3c4MklqOEFoVTNlT2JxLWZvOW51ODdodUt4cGtTSFpaalNPeG5jNWpYNXVPdGxKd3BNeno2UEJacHBkVElGX1lzQ01KOWJhTmt1MmNSY1BjZ2l5N1J3UTV4c3RVU2ZZTnZXcHRwUGs0RXA0ZXQ5Z0VocGZfN29RQVlXSll3RTRtMm1oXzRiVGdHTmtPNENmLWs5OTJKRDQ?oc=5",
+      "source": "AP News",
       "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-09-29T03:11:00Z"
+      "category": "정치",
+      "publishedAt": "2026-09-29T02:58:00Z"
     },
     {
-      "title": "삼성, 미 AI 인프라 기업 헬릭스에 10억 달러 투자",
+      "title": "오픈AI, ‘인간 기만 우려’ GPT-6.1 아스트라 출시 계획 철회",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pbEREamNKdTUyOVZJNmZsUEJJbXJ1bGdaRkRraWhTWllrYlpCN2FhQXFXT1JjeW12V0hEajVBd0trZDRkTVNqdDVURV9Bak1qcmtzeVFQS1ZIUdIBX0FVX3lxTE5lMkJsUEQwcHRyMDVCRGNUR3NJUnREb3h5WVRpZ25CU3Fzd3NyU2xfMENQbGdSQUg4NUlhMk05MzJRZy1fcV9uNkROZkpvYUJ2WmppVWR0WEVyZ18wMV93?oc=5",
-      "source": "경향신문",
-      "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-09-29T02:28:00Z"
-    },
-    {
-      "title": "국힘 “암살자(들) 허진호 감독 국감 불러야”…수익환수 주장도",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lN2VDOUtPTGR1d3R0ZldveWxnaUxhZmgzbHFJQzRNMEluc0kxNmFIREoyd0hBS1hiTkFkNUpZTU5XUmVXZG1XZWtUQ2s4aEV4ejNzSFpVcV9HNGx2aFE5N0o1TDRjWDZ3aDdVZHNuWTJVWHRT?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnTlg4X3gxOUYxMUtKQlFjckdZU2VOUG9WakJpLTlvOEI1Z2VlSVhOaElXRTZ6NUhmTU1RcWZteFNlRmF0TlZVbEZELWhqU0pndEpHU3BleUpJWGQtZ1NIVg?oc=5",
       "source": "한겨레",
       "country": "한국",
-      "category": "문화",
-      "publishedAt": "2026-09-29T02:18:00Z"
+      "category": "AI",
+      "publishedAt": "2026-09-29T02:46:00Z"
+    },
+    {
+      "title": "'한강공원 흉기 위협' 혐의 40대 구속 심사‥\"잘못 없다\"",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kY09OQVQ4Wlpab1ZZOWlyU3VWVnJ0WVhSb0I1UExrVUlnOHdpQU1GeTVMdkVkRkNSNEo3bUdzWU1HNHREekY5anRvR0pRY2pNTURuT1JZU1ZPSWRhNXNlNzV5S3FQRjVJMUR1ZE9YV3NreEF3NHpR0gF3QVVfeXFMTjFFYkxnNnFJclhOeUt3TEhXRS0xS3FkQjJLTUd4ZGxZODZSOENRdHFGOUpvSzNLRVJ5ODliRDhXbWY4Ulhld0xpa19WUUlrLTNvWnh6cWQ3VXNSeHZGenhNVERuTFg3TnNKTWYxOWx2MXFhQ0lTSlE?oc=5",
+      "source": "imnews.imbc.com",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-09-29T02:08:32Z"
+    },
+    {
+      "title": "미공개 정보로 200억 원 부당이득 취한 명문대 경영동아리 출신 일당 적발",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pSU1WUXdEOWdpa1ZSVEZ1aGROTEdVbmhQNDV6LTRWSHJTN2VhWGhOczRpZjZReEV0czVMM0RjSnV6dW5ocHdpZUFPRW0tdmw3ZTZCM1J1NmtzT1JxZWE4WjJZeWVlVXdIWXBoWl9scVhvaTc10gF0QVVfeXFMTVV2RXJOTDh4Yjc3a3E2RmhkVktVRmJPUE5yeExqWUIyQWptTkYxNktiR2Q3MGlIRVZhN24xNVBRczBFRFZ1WW5xa3BxNVhhVW1abkhQaVZJbE5KT1VXaXNZZVRXUU14ekZDMGVKZlBrbzRlU1g?oc=5",
+      "source": "imnews.imbc.com",
+      "country": "한국",
+      "category": "경제",
+      "publishedAt": "2026-09-29T02:02:41Z"
     },
     {
       "title": "Contradicting Trump, Pope Leo says artificial intelligence safety concerns not ‘fake news’",
@@ -65,13 +101,31 @@
       "publishedAt": "2026-09-29T01:56:00Z"
     },
     {
-      "title": "Nothing’s new flagship Headphone 1 Pro put you in the studio",
+      "title": "코스피, 美국채금리·국제유가 상승에 하락세 지속",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hV05qcmZvdEVyTzhxV3Q4SUZiSmRBUjVJbXhyTDNvTkFRLTZzWHI4WDBRclppQTJraGNhZmllWklKSFdxNGV6T0hyR1dpMmc2dG9TanFoNFNqTUYtOFYwSGNrUldlbDhsTkVyRGJJelc5NU5qckVuTQ?oc=5",
-      "source": "The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OY0l3UGtQZ21zNURIUUxqbWRrTzAyYl93eHpJcklnbzZkTFRvT213UjNjVmN0eXc0aVBueExwRlZ2b3g1VWo5Q2hYdjZtcTljX0UzaGY2N0dmYUZsUlQ0b0RoV2pYZUE?oc=5",
+      "source": "연합뉴스TV",
+      "country": "한국",
+      "category": "주식",
+      "publishedAt": "2026-09-29T01:28:00Z"
+    },
+    {
+      "title": "진중권 \"'암살자들' 배우들 똥 밟았다\"…이동진 평론가 ★★★에 악플세례",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jaXczTG82a3lLRGJ3eUhBQ3JPaTVhMjN6Q2hEV2YwMkFTTW0tZVVBakhDVkFrRXhEbWVMVGRHN0N3aVljZlNvZExmMlpHS3h2VW9oUXloZktCYUpxSTRNdGlLcktmMjVlQllVRE9ERHp5cjZnQlRNLUQwLXM5N00?oc=5",
+      "source": "TV조선뉴스",
+      "country": "한국",
+      "category": "문화",
+      "publishedAt": "2026-09-29T01:23:01Z"
+    },
+    {
+      "title": "BTS Superstar V Named Global Brand Ambassador for Nothing as He Models New Headphones",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRl92aVQ3dHkwdzZBdW1mSUY4NmpCLTdDVWRjSHB4TUM2SmJ3MVRNdW93dEtNTU8wVlBOV2lpeHdBM21ySmN2bUYwY0Z2MlhtcThTeXMzOEgybDFmaWVGWlA1NXRRMGpnaVVXTm5zTHVoYS1YRHBQd2tOaGR0X29rRUlwZkVZakl3cHkySENOME81SUg2VG9zM2JZVEhrOThQLUtjNm5WQTdxa09wNkh1M3FSMFVyTHRzT2sybQ?oc=5",
+      "source": "hollywoodreporter.com",
       "country": "미국",
       "category": "기술",
-      "publishedAt": "2026-09-29T01:00:00Z"
+      "publishedAt": "2026-09-29T01:22:59Z"
     },
     {
       "title": "청와대 “지뢰사고 현장조사, 군사적 판단…이 대통령 유엔 연설과 무관”",
@@ -83,24 +137,6 @@
       "publishedAt": "2026-09-29T00:53:00Z"
     },
     {
-      "title": "이 대통령 \"FTA 정부재정으로 기금 1조 지원‥농축수산 등 피해 업계 조만간 만날 것\"",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9EUHEzY0xUNk10M04tcVRkYUlxQlRleW0xZDBQYzVpWDJNOTV5ZkQ1UmI5bFVVeFJ6enB0YkdBQ1dvZnhWb0hxdGlCTHUybUV3Q01FWkpoQXVyZzYyTThmUEVvTjY2eDhqNk9aaWVLb29zVUZrZXVGcNIBeEFVX3lxTE40V3Q2VGFWTmlUREZsOTFzWkIyd1h2MERKSGkwaDUxYnlBZU1JQnVGZHZ2ZFpVZGtNdkxsUy0tTHF5dFRLdGM4ZjFhR00wVzNKUUo1LWxuVGx4T3luTkRUOU5KdFdVRmlvUDRJZmwya3JsVGpmY3BpVg?oc=5",
-      "source": "MBC 뉴스",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-09-29T00:50:33Z"
-    },
-    {
-      "title": "코스피 오늘도 하락 출발...미 국채금리 연일 상승",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ic0RQVmpUTEdfZE5PNWRoMGZ2TGRYUFpWOVFadmZab0FFQ3FBeS0xdWh6bW1COEZuRXl3TmZ5NWdmMGhSV1pnNjV1R3h3d3FFLUhNUVpJc28tUUVnak05RDk2U2FyckZpYjVqZll0SQ?oc=5",
-      "source": "YTN",
-      "country": "한국",
-      "category": "주식",
-      "publishedAt": "2026-09-29T00:34:00Z"
-    },
-    {
       "title": "李대통령 방한 맞춰…멕시코 방송, 한국 사회 집중 조명",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4dzdsVnk5SVl2Rm1vUnVnS2dNWDk1ZDVra2pYSHlFMktUeElOaC0wazRNTk80OE85SEVUVmFxOTAydlRmWFNjY0VJQWxQTnNtYXpCb1gtMUEtRkliRkV6b9IBeEFVX3lxTE82ZnhBcF9pXzZObzZHaTU5M0NHTExLY2xyaXV5U0ZjeVRiNGtRcUtmTFI4SXBHdzVvbno3cW80T3VrUlBBV3IwVXd3VE9RUlN3RVVHeVp0MFNxTmhTMVhZRDFJMzlFdkVTN1Zqem9uSGVGdVdDWHB2Tg?oc=5",
@@ -110,13 +146,13 @@
       "publishedAt": "2026-09-29T00:32:22Z"
     },
     {
-      "title": "In-laws arrested on suspicion of murder after New York Times engineer shot dead in California",
+      "title": "'태양의 후예' 염소소년 조엘진, AG 男 400m 계주 동메달…韓 신기록까지",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLWhoaTBaSVI1QV9henBLUVJSZUNYLXVXMXRRZGo2bkhwWDEwYVZVRHFOVVVjakVYSk9kdklRS0VveXpOVmJ2M0EtTnhTTTM1QjM0d2FlX0c3dUpIRUlQYWxPZlBhZ3lDWVJxaU8xd3M1d2RtZEtlZ2U2TDBSY3Zac09TUGtYTUxhbG0tLWZGMjkwNjFvWXc?oc=5",
-      "source": "The Guardian",
-      "country": "미국",
-      "category": "정치",
-      "publishedAt": "2026-09-28T23:55:00Z"
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Hbzc5T2E5Zk9pdlZzaFVCRmZMdm9ka0FkTHYtRnhsQ2xFZnM2Xzl3dE4wa0RZX3dWdkFSZnhZaFN4UGx4NmFOVUJuUE9mTVk?oc=5",
+      "source": "v.daum.net",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-09-29T00:01:44Z"
     },
     {
       "title": "다큐로 만난 K-컬처와 AI…멕시코 방송사들 특집 방송",
@@ -128,6 +164,15 @@
       "publishedAt": "2026-09-28T23:51:58Z"
     },
     {
+      "title": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxdzBTN1hGTnNfZXZNWUU1MjhzQnpHUndjNkNYMGZiRGc1TDR5NExfTmtrbkFvZU5Fakp1eG1CVVFOZ0tpYzJ2aFVVY1pCSFY4Vl80Tkhqbkp3blMyejJkUXdpTVlBZWdzd2VKdVdR?oc=5",
+      "source": "NVIDIA Newsroom",
+      "country": "미국",
+      "category": "IT",
+      "publishedAt": "2026-09-28T22:54:06Z"
+    },
+    {
       "title": "사이버 보안주, 오픈AI SEC 무단 접근 소식에 급등…팔로알토 등 강세",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2NVpyNFcyWHJsb0ZLZThXckZ2ZDF6MTk0UThHSklHcVZTLWw3MEZBVUZSRlVabjE3d1pTX055Nk9ETFlzeUFKSmp3ZGRyLVpCd1Jad2sxYVBpTG9KVmNPT3hzWWp4ckEwd3JiYmZHSUzSAXRBVV95cUxPSTAxajVHUWRXSDdraDVmclBBb3l1SnNNQmh0V2tXV1ItTHJlOW9BTXRBRjZoV3FpQ094UkItQTU3bkMzVWRGc0hLVUUwc3lGdUJMRnU3OUJUM1FXbEVSVThaTGo0NWE0Y1NrOVZVT09manFjZA?oc=5",
@@ -137,28 +182,10 @@
       "publishedAt": "2026-09-28T22:50:52Z"
     },
     {
-      "title": "나마디, 남자 400m 계주 극적 동메달…“더 성장하겠다”",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kVFB4VGxCcUF4ZFN6cDc0TndId0draVF2RjcwOTVUQXR5Zmt4dC1YSTAxVEhKN1RvVkIwSEZsaW9ob0NBY3FRNzRkeWo4R25aS1ZlVGJhYS1UX3VsTTU4cHpxa2RxNmRBbmtHd0VFWGVrelFnUm00?oc=5",
-      "source": "한겨레",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-09-28T22:37:00Z"
-    },
-    {
-      "title": "J.J. McCarthy trade grades as Giants, Vikings swing QB deal",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQUlvVFJUTHVWVEZ0NldjQ0loMWFmVXdNTzJ0SHV6RGUxQk5RcTlFeW1pc1VPWW0tS3V1czdCVVczenY0bDBBRmYyckszUDVDa1JNd0kwVWxrdnhUXzJpSUJpUzFPcjYtVGRsWlZrMzUzZ3A2R0Z4aFptSTBQMUVwZldHdFZpaHQxV0owb3VnRFQ3U20wVHFlekJXUTkycDZxZndDUGlfU0d3VGU4SFlmTVBR?oc=5",
-      "source": "USA Today",
-      "country": "미국",
-      "category": "스포츠",
-      "publishedAt": "2026-09-28T22:30:00Z"
-    },
-    {
       "title": "Boeing “incredibly excited” to serve as nation’s only astronaut transportation",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSVYxN1cwdzR2a3JwaUV2T0Qzb3Z6aWh4YUlsZU9jTnVTVl9ManVBTzFuMWlOSl81cm1Mbk11bm85SllrYUxxVENrTlMzUHRhNnFrWDl4VHRQVjNFeXRxUm50LVZHOVFFRmlHdDk1aVlJRVJ4bElZU0dnejZVb0JrQ0hOaUMzY2Rpc3ZkeEJSUGxLY3pIeEY0SVJmYkstTURMcUk0RzJra2c4WUxaMTdWSDIzNHA?oc=5",
-      "source": "arstechnica.com",
+      "source": "Ars Technica",
       "country": "미국",
       "category": "과학",
       "publishedAt": "2026-09-28T22:24:33Z"
@@ -200,22 +227,13 @@
       "publishedAt": "2026-09-28T21:07:00Z"
     },
     {
-      "title": "Stock futures are little changed after higher yields lead to losing session: Live updates",
+      "title": "돼지 위에서 사흘 작동했다…삼키고 나면 녹는 ‘종이 배터리’ 개발",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52VGJIVWQ2MTdhY1B1a0ZxMEUwVFlraXdZbGJRRHVWcUNDOHB5QWhJTGx6d1lDTGVid09sVlpBLUV4YTA0eVdUUVU2Y1h4eEZodHVJczdGa1dRckVmU1R1WldFUWItMDR2N3pZR003Z2ZHZTRxeWow0gF8QVVfeXFMT0dRNTNjTElzNUlEQmhmaWR6UXNBVmFxR2lkVklGU2JNSXZjWUNwRTlDa05ZUWJHbjlFZk41N3BiT3RIak01R3k5UU9VWEpRSzJMVWVXSGhQQ0NodjRkTUdCTHlPZGFzTnlKQzBKeFlrSlNWcklVS3JJTkVQMg?oc=5",
-      "source": "cnbc.com",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-09-28T20:13:57Z"
-    },
-    {
-      "title": "Boeing 737 Max 10 certification delayed by software issue, FAA says",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTnRidF96UDZ1MDk4eUp2SnJoN19lX3QxVnFKQ2NmeE9kM0x6WThOMWZZSkVncHZCTlp2bXd4YkZuWGdUOGt5SmxJUGdtX2xKVGJLaVRzVXByRHdKdUlPYlpaaVlqQk83X3MtWm4zc0t2c0RidTdYcDRYSUl6Rk94T2lEeDRHaklUQlJ5cWJKOVFac1NRQ2RaetIBngFBVV95cUxQbFJRYU1zYk1WWTlxMGQyNDlUUnUyUEVDcFVxYTVvekNYUXIwQTd0bVY0UjV5UFVKR1FkTE52alhLWFQxWm1CVnppWDJueXJiWHI1Y2NEeGJRZC1aZWh6R3BZRHE3VE9OdHF2T0sxaUFNeWdjbVItNEhwcDRHdnhId3BSc2NxeTNJSUg4cWJ3dzZuQU1jWjJKNGNxejZjZw?oc=5",
-      "source": "CNBC",
-      "country": "미국",
-      "category": "IT",
-      "publishedAt": "2026-09-28T19:46:42Z"
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1LTFLYWRVa3lSRHppTW9sRkxEUURXeEd0ellzOFFPQWkzMnZGSGFUUjVQRmdkU0FmcmkzMmFXR1dXX3dlYS1jNzFnMGU4aWM?oc=5",
+      "source": "v.daum.net",
+      "country": "한국",
+      "category": "과학",
+      "publishedAt": "2026-09-28T21:02:00Z"
     },
     {
       "title": "Asia Society Listening Tour comes as U.S.-China relationship looms over state’s top industry",
@@ -236,13 +254,13 @@
       "publishedAt": "2026-09-28T18:43:00Z"
     },
     {
-      "title": "SpaceX's supersized Starship launches into orbit for the first time but flight ends early",
+      "title": "SpaceX launches giant Starship rocket on first flight to orbit",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU0MzOUZjQWJudnVRc0lTSDVRaVluUFRUUkRWbS1CSlV6VnlhZ1ZUa0t0WXUtaC1uZlNSVVJOcFRsRHpPWkNkMkNTVFJEdzJvbmlKc21HTmlaamktSDVTN0pidlpsQmp0cklCVFdrZmZUaEJ0U0RpeDJCTERrNlhRUU5fV004Vl95Vk01dUJDeDNpWTJoc2ZPVmZwb292YmZtbmhHQ2lyT3pUSXRHWXh1dzZiV0cxTU9BTFFsQ1VGR204bmM?oc=5",
-      "source": "KSL.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUkJmSlNzXzJVV3NhdXZiNjVMSGhDWE9VMkl2UlFmeTZtajdoSlowSlAxLUVWWTFab2phUkdhTkluTUFQUjhLZjUyYWtNMHppWVRmTG9mcGlNQW16NU5na0lXQWlTV05xTkhZZEY3Nlh5d0VYbTFJSjJCYUtKclJNQ3BkZl9QRXpEWDMwdnQySkxvWWJIZHRTRG5kRzdIQUlTb0E1LWktUWROb1p6Yno4SWIzSnRGV0VFTWxB?oc=5",
+      "source": "The Times",
       "country": "미국",
       "category": "과학",
-      "publishedAt": "2026-09-28T18:42:23Z"
+      "publishedAt": "2026-09-28T15:24:24Z"
     },
     {
       "title": "우루과이전 완패, 모레노 기대감 ‘와르르’···한국 축구 ‘민낯’ 그대로",
@@ -252,24 +270,6 @@
       "country": "한국",
       "category": "스포츠",
       "publishedAt": "2026-09-28T13:40:00Z"
-    },
-    {
-      "title": "드론 띄우고 미사일 퍼붓는 北… ‘벌떼 공격’이 한반도 방공망 흔드나",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc011Wmc1NUJFMWN5bUlHc09QMTVBYWdTTUNUNmhCTG9CbWJQR3Y5SlV0TDhEX3p4QXZLQ051akQzd0xmR3VBTkc0OVNmVWJrZVBMSjJERDNrdGVwa3YyWUR4V25Ic1QzNXZTRlVfaTBPOVMtbm9rZEJldnhjSG11UnlJWXV2VF9FOURST2xGd21lN3oyakFzS1pVTndGZw?oc=5",
-      "source": "조선일보",
-      "country": "한국",
-      "category": "기술",
-      "publishedAt": "2026-09-28T01:33:13Z"
-    },
-    {
-      "title": "AI도 아프다?... ‘고통’ 반응 키우니 사용자 피해 있어도 ‘진통 버튼’ 선택",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWXBHd3pFSHN6VVU4UmhiLWMzN3ZScjdlX0tMT0c2Q0pIajBOakwzbkFUOUJXZkFBNkZGdThDN0NzajJEd0NsbnAwSVQwcFdZMVVDbVFlTGJlc2hnMERJLWd5RnczQTlybUFVcU93cUlCMld2UWs0N09pSWh6TEN4b05uUQ?oc=5",
-      "source": "조선일보",
-      "country": "한국",
-      "category": "과학",
-      "publishedAt": "2026-09-27T23:15:05Z"
     }
   ],
   "briefing": [],
