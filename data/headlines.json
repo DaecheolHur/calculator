@@ -1,59 +1,86 @@
 {
-  "generatedAt": "2026-09-30T14:37:29.912751Z",
+  "generatedAt": "2026-09-30T15:36:35.576237Z",
   "items": [
+    {
+      "title": "Annual Cybersecurity awareness month kickoff",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTlJzLUdnODZjcUxydGFLd250X25qblhnbHJUSndPZjJqc1FWSjBFcWFfX3pBd20yUHAxTzNoTGFOdS1wbVhqR0ZRUU91UWw2TUJ2OGQ2NVljN1E0emlhR1RTcDFkdW02NzlpNGdiOWVCQVM4V3J3NEU2WEdfdDZMM1paRWpZenRhemk5Vk8xNGpjbTBfT0FTQko0U2x0N2lpVk5zalRsQm1tQ1BWNnU5LVE0Z2ItRGhiQ0E?oc=5",
+      "source": "Auburn University",
+      "country": "미국",
+      "category": "IT",
+      "publishedAt": "2026-09-30T15:27:22Z"
+    },
+    {
+      "title": "Mellon Foundation Releases the First National Study of Community-Based Archives",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdUcwaV96UWpVVkE4eEI0NUc2Mjk5QlVZNlZsVHctVlNvOUJrNE8tSXo2d0ZpZk5zdTJhMnZpc3JWbm1DZFFraUZGMGxTVlpLeFhKM0t6b2xkdkpGSjVGbGc0OTYtMUJHSlpJTXZTenAxZEJpTE5hMGJKX2oxTFByVHA1bnpEUTlTY01IUmx2TzczS3JjQ2p3d1REY2pSRnMzb2hFUk1rYmlMLUU?oc=5",
+      "source": "Mellon Foundation",
+      "country": "미국",
+      "category": "사회",
+      "publishedAt": "2026-09-30T15:00:58Z"
+    },
+    {
+      "title": "[2026 아시안게임]양궁 은·동메달 추가…男복싱 12년 만의 정상 정조준",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04cXpnY09Ed2tVNWNESGpPdmNKU21WdVAzX1cydjg1WUpPLUtsMng1UFZpZVUyUW53dWdWOF9xMzJMTWVSUDFGalo2bUVuSnlTWkNLWlRaeEotS0k?oc=5",
+      "source": "강원일보",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-09-30T15:00:00Z"
+    },
+    {
+      "title": "Actor Chad Lowe's daughter Fiona Lowe dies at 13",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV204NENsZW4wSEdWTU9nQzZIVWJkNGRoWnBsbWNZSk1meU1VY2dFWG9rTUFzVC1LaUZSNnBnalllRmEybEVyZUdia0Q3aVdkVXJaMngzckUxVll2Yi1nYTBoRWdsMkxOSHdCZWxneUVYdUhJblh0TmphSkhoUGdUWlhuN1JFbGcwM1U3eUcxNHhlYVdoNmp2b1BjTWxZSExsZ2tpZHlTOWk2TGNxSVhCeGRRYzRELXJOV2Rz?oc=5",
+      "source": "USA Today",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-09-30T14:55:00Z"
+    },
+    {
+      "title": "브리지워터, AI로 인한 18% 노동 충격 경고",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwMVZzc0tVbWRGeFdER3UxcG51Znk0QlpZX09DNzYtbV9kQXIxbFVKTnFPcFN5RFdNTGwxM3Fnd2RVYV9oMFVlQ0NWb1ZZUUxiWG9zbzdkVkx4VUJFQnlnZmJ2cWZTVzY2M3c?oc=5",
+      "source": "Investing.com 한국어",
+      "country": "한국",
+      "category": "AI",
+      "publishedAt": "2026-09-30T14:49:00Z"
+    },
+    {
+      "title": "Carnegie Mellon gets $3 billion donation from Ken Griffin, largest ever gift in higher education",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZGFzRGdXaFNJUGItZDdPbld0RHhUOXFyY1pvb013dnlOQlpFT0h2U3M4R19TVFpBMl8tVDN3enpRZFl3RnZWTVJOOEVySjdBWGtlcjN5UlVSM29UdkV1SmZEVm1SQUdSQlZnQXVaWFBQc0d4NmN6NHlaaU52N1NUeFdUYnhXTmxNMV9oaDZycEVWWDl2WkkzLWlBX3dkbm10?oc=5",
+      "source": "cbsnews.com",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-09-30T14:47:02Z"
+    },
     {
       "title": "Wall St climbs as cooling inflation tempers Fed rate-hike concerns",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdXFFNHNQQUxXRkRPN3ZndG5TZS1PSGpvaFZPMG8zRU1oNFdrOUFZQnNsT183YWZ2R3NoNGNUX1NVdmtZNmxaYVc2X2c0Vm5tNWZjbEo1ZkYzNzVqeW1BS0VTaWZYc1hKRlRaRGxrQlk1aGlpQTROOV9mSDZldFlkejFZVGxKYmZzQ3czLUFPUDRBVmNJNWpuMnBPdE00QUlncU9EU2lXZw?oc=5",
-      "source": "Reuters",
+      "source": "reuters.com",
       "country": "미국",
       "category": "주식",
       "publishedAt": "2026-09-30T14:15:20Z"
     },
     {
-      "title": "5 things to know about cybersecurity",
+      "title": "AI solves a ‘holy grail’ problem from probability theory",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83RGprQXlsVU44RjB2NlgzNjhhdVZBa1RnT3ZfRzI4dW90MktBMl9MZi1wY3RYa0psakNINlZXaG9ZSEhUVGFVaGpfQkpWd0lrX3kzRU1lN1lMdzZpUnhrcmg3Z3pNZFNxT0lJVUdOUUFlYkU?oc=5",
-      "source": "UA News Center",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeUpqcXR1WmlpNmhPZWE2cVNha0taRVJnMmdTdHh1V2x6MF9BUFp3NzI4TE96cHNhTFI1b0J0eURreDRicUNxc2E2SWRUVkxqa0p1TmQ5bF9uZ2Fsal9UMVA1Y2VBQkdtQVppWW5jQVMyZ0Ixclh0SlRaTEhtWTg2NU53bkNzUWhyal9LQjRFSVVGQnB4WHkza25ZOW5adUk?oc=5",
+      "source": "Scientific American",
       "country": "미국",
-      "category": "IT",
-      "publishedAt": "2026-09-30T13:01:18Z"
+      "category": "AI",
+      "publishedAt": "2026-09-30T13:00:00Z"
     },
     {
-      "title": "양궁 컴파운드·여자 유도·클라이밍 '은은은'…사이클 등 동메달 낭보",
+      "title": "Fed’s Preferred Inflation Gauge Points to Continued Price Pressures",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MeWxyMXlxZG1NSWM0VERGVUFXMUlnQ0dGYXZOZEs5R3hHbS0xUHNsMVIxOTA0SXkwaUNjUGpQTVdXSTZXbGhiODY5dnlBUVJfSmJHcGFKbnFZbl9pczFFckZJR3pKeE1DR0NoYlZIaGs4T0FnVENLVGdnaE1JVnc?oc=5",
-      "source": "TV조선뉴스",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-09-30T12:43:55Z"
-    },
-    {
-      "title": "Astros players express anger after fans boo team during wild-card loss to White Sox: 'We want their support.'",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeXVoSUdwazZ6Rmd3WlNkT1REVGoyenFNZDhxNjFORHZKNnliYzlPNTRTVXg5OGZiSW9PaUx4YTVfMjRDc0F0RnF6OUJ5eEpKdEVlQzF2N3JNUTNKc0FqWUpHNkE5ZlYtRGlOem5sSXhZNGdUZkpuUl9SeTFTQTNWWUNzTTZDRzZMSHRZWVZidTJvZFFSRUgwN1ZZbHdwOUlKVTNCcmliOVJJYVUtYXpzVXR5SGVmbThPZlhVZWQweFU1OXNKMzNhTGxrYlBydnZpaUNNZkdxbjdlNzI1c0k1b2dta2gxRC03d3RvTkFn?oc=5",
-      "source": "Yahoo Sports",
-      "country": "미국",
-      "category": "스포츠",
-      "publishedAt": "2026-09-30T12:43:19Z"
-    },
-    {
-      "title": "Fed’s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQndXXzRXaW96Nkx6SWhIMnZETC0wTWlMelQwWWtkZUhZWjMta0c2akhaMl83Z1dpRjBzOHduOUdrbVlhQXFvR3RYaEUwaHR5MjB6TUVoQzVaclEyQ3VqcDBwVDFNQ0dQM2RpM1JVaDJEX1NVMWZ5U2NYU2NJbUxjRmlNUzdNUlNPbWFvTHZrTHJUSmNCTEdjcnhWOEtXLURId0pXZVFRY3RsM2JKUkRIcnYzb3BNOGVINmFJSERMQ1pjUi1yWnIwZENkcDdYSXfSAdQBQVVfeXFMTXh2SEN5ZlFUdldiYzdtRF9TbUMyVU5NaV9qZUU0NmZMb2RFLTdMMmVfem5YdzBmdXVIM0toa1dTbVg4WnFWa0ZxSWRtZWxCNEl4TERQUDJzU2Nack5QSjU3STZBT0otSWRFZTJuLWQxbWc4QTJtX2FEcW96MTQtem5WbF91VmY0dGlqWVEzdlg0UURrT2RoMXRwQkE2ek5kdGFFX0xOcFVMejNDdzA5YkFoVU9LR1phdlRmekprZHMtLUJmeFR1dF9saGNIU04yeTVPQlU?oc=5",
-      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYlhkRWRnNTd1WFFKa3k0RF8yNmVNSG5MNHdRZk1PVi1na01fMHB4bldhb2JZeTdWc0gwZmhWbE5wWkVzWHF6eHBHUThHc1hnNWN3ZEJQN0FYVGFlRW1RQl9MMEZfaFhIeGY1OUl6Nk9aM3VURmFlVFZQNEJhU2hGU01VZ2ZOdWlX?oc=5",
+      "source": "The New York Times",
       "country": "미국",
       "category": "경제",
-      "publishedAt": "2026-09-30T12:32:07Z"
-    },
-    {
-      "title": "‘AI로 인류 종말’…구글·MS 떠난 소아레스 “허깅 해킹은 마지막 경고”",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QTHRzdGxmZHI4bVNkM2xJNFY5dDdabmJIUUVUMTV2ekk3dHBlcmstQTFsQmE2anVzaDVKX1o5T3FqWk5rckZNUVdCRlFfRE1TSFBlanF3aTZSY3RRTDZmRVhIRU1ub1ljdzJ3aV9sWQ?oc=5",
-      "source": "한겨레",
-      "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-09-30T12:20:00Z"
+      "publishedAt": "2026-09-30T12:39:54Z"
     },
     {
       "title": "트럼프, 내일 새벽 4시반 한국 대미투자 직접 발표…“알래스카 LNG 포함”",
@@ -65,6 +92,15 @@
       "publishedAt": "2026-09-30T12:19:00Z"
     },
     {
+      "title": "Astros frustrated by boos from sparse crowd during wild-card opener",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbW52U1J0a0NCYlA0MnFUODhtOXVJQWhTYTZIVldLZ2QyWG5HWEU3SnRzbVNvQkdZMXBkd0h3U2dGZ2VhLUZyanFUeENrTFVxcDlWSlFacHRnTHBpWm9RWV9CM2dOSko4N3hJWUNrMm11TEZWVUNfd3VST0ZFS3lRSUtzWFI4X3JydWxILWpUenFLcEdIU3FWem9aQUV0Zw?oc=5",
+      "source": "ESPN",
+      "country": "미국",
+      "category": "스포츠",
+      "publishedAt": "2026-09-30T12:18:00Z"
+    },
+    {
       "title": "소림 축구에 역전승 참교육…이민성호, AG 4연패 눈앞에!",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JV3ppMW1ncHdqR2hYUkU4Nk4wY3prRmlkU240d3p0T3BmaGxFTnFPOVYtTUVvd3hXVF9tTjBzWlJqUGMzWE9VcnlteXk3am1CSXdvN3JNaEJreTQ?oc=5",
@@ -74,31 +110,13 @@
       "publishedAt": "2026-09-30T12:09:00Z"
     },
     {
-      "title": "Actor Chad Lowe's daughter Fiona Lowe dies at 13",
+      "title": "코스피, 美금리 부담에 사흘째 하락…\"10월 반도체 실적 주목\"",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV204NENsZW4wSEdWTU9nQzZIVWJkNGRoWnBsbWNZSk1meU1VY2dFWG9rTUFzVC1LaUZSNnBnalllRmEybEVyZUdia0Q3aVdkVXJaMngzckUxVll2Yi1nYTBoRWdsMkxOSHdCZWxneUVYdUhJblh0TmphSkhoUGdUWlhuN1JFbGcwM1U3eUcxNHhlYVdoNmp2b1BjTWxZSExsZ2tpZHlTOWk2TGNxSVhCeGRRYzRELXJOV2Rz?oc=5",
-      "source": "USA Today",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-09-30T12:07:00Z"
-    },
-    {
-      "title": "Artificial intelligence (AI) capable of identifying uncommon gastrointestinal pathologies despite no targeted disease training",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNRnc0RmhkR1ZkSGlEa0tRNmMyY0xhMUZzTGNZUWRHQjRGWGR4c2g1bFBTNVdCSmNnVGNrNkloMTZhSmswdEhfY3hMSWU5WThfeXdZaGIydHJDbTNZa2J0aWZqRi1QenFSbUhQZEx6cHBidnYya05pcDVOT1VTYm9VLVVzc3Z3aG9POFBLd2NVbXhaRkxabnMyN0ZyNl82V0VqSk4yUjBKYUxKRlBIS3AtaEo2OFJUcFphRWRyc0I2QU5oTDJEd012dEpVUGlPVUZWYVhYb05ZbVRJYWhpUF9xamNjUjlTZVlYaFZXY1pSUjJCd1JUS3VjeUVMNkJoZVE?oc=5",
-      "source": "2 Minute Medicine",
-      "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-09-30T12:01:30Z"
-    },
-    {
-      "title": "Harry and Meghan blame ‘extraordinarily reckless’ paparazzi for security scare at children’s school",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYWxSbHg3a3BxeElCbVBTX3JQTGFkcjVIb3c4QjMtNERYeVBuR3ZJMEtSZXh5UEt4aEpZMUV0SkZjTUthQW5JNHJRWWo2a0ZhVjlTb0ZiR3RhcnJpWktab0FJeTdjZWJVYnNKaHVSV0dDaV9WdHQzbDd0ZlE2Q0o2MlRfbTVOeExiZ21QVlhjUQ?oc=5",
-      "source": "CNN",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-09-30T11:21:41Z"
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YWTVuTldVQWp2V3ZLVm9WTHEtdzhIcGFmSENrWVNzcUxra1c1VnRXQjh0ZmszQmdPWVFCajlWNmlsTV9QY3ZJazRRdmJHZ1RwRTNVclJzTl92SzZFVjlYNVA3UzVXcm8?oc=5",
+      "source": "연합뉴스TV",
+      "country": "한국",
+      "category": "주식",
+      "publishedAt": "2026-09-30T12:09:00Z"
     },
     {
       "title": "Cornell rape allegations highlight consent laws and Israeli settlers attack family trying to return home: Morning Rundown",
@@ -128,15 +146,6 @@
       "publishedAt": "2026-09-30T10:54:03Z"
     },
     {
-      "title": "I Was Part Of A Secret Society Of Jane Does On My College Campus. I’m Infuriated By How Little Has Changed.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHQnFUNXRDQ1JZUDMwLTBmNmFOMk84NTluU3dlbDQ5RXBwelp5cm1UM09RQ1ZNQVZlSjd2cnF5N1lhNE5yZzZjMUpjUENtZHJ3LWg3STJxRUJOeHU1cEkteE5MNm5fNGdscUNod01XdkQ4al9JUERCQ0xzdw?oc=5",
-      "source": "Yahoo Lifestyle Singapore",
-      "country": "미국",
-      "category": "사회",
-      "publishedAt": "2026-09-30T10:53:17Z"
-    },
-    {
       "title": "나는 뉴스에 대한 관심을 끊기 시작했다 - 정혜승의 토론 | 내 손 안의 광장, 빠띠",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5xdk1KSFR6LVZjN2V3VFRHdUUyMFBYUFpkYmlaSC1IUmdSSnNvUEJIR2dZQ2w3bjRTWWdfMEcwSjFhXzA2YW9fYXZXOVpCQQ?oc=5",
@@ -146,22 +155,13 @@
       "publishedAt": "2026-09-30T10:41:07Z"
     },
     {
-      "title": "돌봄의 섬, 돌봄의 광장 [똑똑! 한국사회]",
+      "title": "\"한가인이 피해자인데?\" 사망여우 사과문에도 비판 나온 까닭 '오해 유발'[이슈S]",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JUnlFVWhPWGNsY3IzbnpONW0wMl96bFBoYTUtUnpQWnN0Q0NVQzFmdm13TVBGSXM0bmpFclFwYk1EQWpYRDhYNTNWM1JXQXc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Qc2NPcWJ3a2xnckZzVGR4d0pNN21Ya3JkUXdqS0JFaWNkN0lwby1vbUtGRC1jTEdSMTBzM0ljUFZvLUxzZmdPMUZPeTZMWWc?oc=5",
       "source": "v.daum.net",
       "country": "한국",
-      "category": "사회",
-      "publishedAt": "2026-09-30T10:31:00Z"
-    },
-    {
-      "title": "Anthropic IPO documents show there really is only one risk with AI",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbWZiNUVsSEFCbnJkbWI4QVdnSXRuOTRrUWpGQ19TLWZTTWRjWXN6TGt6RzB4azUzZktWZ2g4Q2xibGRIY3B0dE1kZzh5eHVVYXh0OHFVcFd6LXI2M3VBWF8tYlNQT0daem1LX09wdTBRUFp2ZjhvMmh3Q3A0aDBrbElYeFQ1dVl4OWR6WWdDaVJyQ05kbmUwMHFtNHhGaUY2X0JCdkFJT0d2MXlkbkQ1MFBYU3R6c0lKa2JLVkp4X1otYlFQ?oc=5",
-      "source": "Yahoo Finance",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-09-30T10:00:00Z"
+      "category": "문화",
+      "publishedAt": "2026-09-30T09:41:00Z"
     },
     {
       "title": "메가존클라우드, 크라우드스트라이크와 기업 사이버보안 운영 지원",
@@ -171,15 +171,6 @@
       "country": "한국",
       "category": "IT",
       "publishedAt": "2026-09-30T09:35:41Z"
-    },
-    {
-      "title": "상승 출발했던 코스피, 하락 마감...코스닥 상승",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oelVVcEVKdjh2dWtheWlIVk0yTHVHRDZZNVBVdWw4UDhYdy04Mzhmc2N5b1MxN3g4UktsYmFjYWRUU05vZ28xQW84RVdVaFhkTThBcGhYQ1c1cmNGcm01dVFheTZLdUJ2Tm5oTjhKdw?oc=5",
-      "source": "YTN",
-      "country": "한국",
-      "category": "주식",
-      "publishedAt": "2026-09-30T07:49:00Z"
     },
     {
       "title": "장윤기, ‘강간살인’ 인정에도 무기징역···“부모 마음에 또 대못 박아” 유가족은 반발하며 ‘실신’",
@@ -194,7 +185,7 @@
       "title": "메가존클라우드, 크라우드스트라이크와 협력해 AI 시대 사이버보안 운영 지원",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vLUR3Z1hNZXBUQ1RMZW1zSkZ0OXBLbmk2YXdkdzJMMEpVSmJtaHhCbFBxRlhBaWpHSmR1Sk1pbkNzeld4enJYRGg1ZHZTOWs?oc=5",
-      "source": "byline.network",
+      "source": "바이라인네트워크",
       "country": "한국",
       "category": "IT",
       "publishedAt": "2026-09-30T07:38:34Z"
@@ -203,19 +194,19 @@
       "title": "S&P 500 closes at record high as US-Iran ceasefire enters second week",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX1duZXRvZGtnOHFraUhIVHNmQ0JPMGdVMXRXbDhGYndBSWJOZXNQU2FjZGZrYW9jVlM2TnhoYjlMY3FWTElCVDJNWlJHTDVVUm9Wcnl0VE4zVkxCR1B2QWttbE13emUyaFRpLVNMaE5PSzB0dVpCd3F4Q3dzb09TUkFlZTMwcGtZY25GYW5DQ2cwVVHSAZgBQVVfeXFMTjFnbXZnMDFyaGtjNERya2l2V0Focm5TaE95dUh3bmJtS3R1R0tISW51VzhrMFBrZi1mSFg5QzV5cWRxTkFIS2k2MDd6UlI4cXYySG1pTVBWSTlPVUVTb2s1bFJZenQ1ZVBnUU92N0lJQ25XSzZJVTYtNXRMeF9nVkdRU2tqRWNHaWJ2NU9Vbl80ZlBaN0pNNFI?oc=5",
-      "source": "abcnews.com",
+      "source": "ABC News - Breaking News, Latest News and Videos",
       "country": "미국",
       "category": "주식",
       "publishedAt": "2026-09-30T05:31:42Z"
     },
     {
-      "title": "사망여우, 한가인 영양제 영상 논란에 사과…\"불필요한 피해·상처 드려\"",
+      "title": "이재명 대통령의 미국 및 멕시코 순방외교 (홍현익 유네스코 한국위원회 사무총장)",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2bTZEc1pSWDdIZWlaVnAzbEJfdkJzejNDZjVYV3RhdGtROVczRGxHaXpMRVpsOC0zRHdHc05MTV9mbzI0eHFQOF9VaHNwbWkyXzB6ZTIyYVR3VHNa?oc=5",
-      "source": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZkgyd3lVc0xPVUZyWHVDYjdlYlBwUzQ5MUw4NVVsZW1TSHdQem1Ec003Rm9zbTFWVlYtMFVQa3FrVXFCaEcxaDc5QkZteFdwYzNxWVRlTUc3U1BhVkR3MFRWRzdtbW5GMTNsd29UTXg2dFhvb2lIN0wxbU9lR0hWbmJKZw?oc=5",
+      "source": "Korea.net",
       "country": "한국",
-      "category": "문화",
-      "publishedAt": "2026-09-30T04:40:00Z"
+      "category": "사회",
+      "publishedAt": "2026-09-30T04:30:18Z"
     },
     {
       "title": "Apple Will Sell 6 Million iPhone Duos in 2026, Counterpoint Says",
@@ -230,10 +221,19 @@
       "title": "Nintendo Switch 2 소프트웨어 『젤다의 전설 시간의 오카리나』 패키지 버전 예약 판매 일정 및 조기 구입 특전 안내. 특별한 디자인의 Nintendo Switch 2 본체와 주변기기도 예약 판매 개시. | News | 한국닌텐도주식회사",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxWi1uWkxTRGtCRnlLN1YwTC1qOXZ6SWNfMkY2QVJoWWNIWVFaUkNyTXBlMWZRWjhsTFNpYmtRMXd4cnBpNU1SZnNua0ZuZ05vNncya2swNHlRLTJDZkx1T1B3WDZ3RmhZQ2ZBaERoYkU?oc=5",
-      "source": "Nintendo",
+      "source": "nintendo.com",
       "country": "한국",
       "category": "기술",
       "publishedAt": "2026-09-30T02:31:21Z"
+    },
+    {
+      "title": "'Verity' Red Carpet Premiere Photos: Anne Hathaway, Dakota Johnson, Josh Hartnett & More",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX3J5cjgycmt3dDVBdXp5eXlRZ1BUOU1SeGFhQV9rb2lIbl9BTXVYYzVuejY2V2pTbzZMLVdtVUlmaFktWnd4bU5uem1JZl9tNzRtVktaY2xXY0paeFEyTG5lZlFvTE1oMFhsWFFLUlpWMVBVVDN2X25DaHRQbkJPZEhxLTJDZ2pSeVE?oc=5",
+      "source": "Deadline",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-09-30T02:11:00Z"
     },
     {
       "title": "[국감, 핀셋] “무료인데 아무도 안 쓴다”…경기 공공와이파이 429곳 ‘이용 0’",
@@ -266,7 +266,7 @@
       "title": "SpaceX launches Starship on giant rocket's first flight to orbit",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXF2XzJ4NGRsRDNwN3FJajgtd0xzdTUzeW9XNkpRdE5nTGd2aTlLMVA5QlZZTi1sZHlaWmpOSlJLb2h1VHlSN3FkdlM2ZFlmZ3Y5NEZualA1YUhjNFpBYkM0MGh1MUN3ZGVOWUJ6cnkySGZlMEQ2TEg1NkZubGRnenBYUlcxN0NjSkpMQzdJdFV3QnFCbG5zRg?oc=5",
-      "source": "tech.yahoo.com",
+      "source": "Yahoo Tech",
       "country": "미국",
       "category": "과학",
       "publishedAt": "2026-09-28T16:48:01Z"
