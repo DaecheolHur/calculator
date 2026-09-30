@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-09-30T07:35:03.203376Z",
+  "generatedAt": "2026-09-30T08:36:12.050744Z",
   "items": [
+    {
+      "title": "중국의 도발 이겨낸 이민성호 결승 진출…‘공한증’은 있다!",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mVHFVUkNqLUNEYmRqRjJJYTRTQ3JYclR4c2dDUUZkcmlSZEpzdm5ybVRST1gzci1FX182cjlNVndmeUNqTW5KNnlGUy1NYmNtSDdCdERiVU5KWlU?oc=5",
+      "source": "KBS 뉴스",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-09-30T08:09:00Z"
+    },
+    {
+      "title": "상승 출발했던 코스피, 하락 마감...코스닥 상승",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzQktNdWVlZDJRVXBpM2d1Y1U3V2ZOVHNNdHJLTlFOdzFIUk4zWktkWEtBT0lyOGZnNjhNMjR6VmRsVXFZNG1VT2R1MkFXNXRhZ0VndVlNdmktWU9xb2c?oc=5",
+      "source": "YTN",
+      "country": "한국",
+      "category": "경제",
+      "publishedAt": "2026-09-30T07:49:00Z"
+    },
+    {
+      "title": "메가존클라우드, 크라우드스트라이크와 협력해 AI 시대 사이버보안 운영 지원",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vLUR3Z1hNZXBUQ1RMZW1zSkZ0OXBLbmk2YXdkdzJMMEpVSmJtaHhCbFBxRlhBaWpHSmR1Sk1pbkNzeld4enJYRGg1ZHZTOWs?oc=5",
+      "source": "바이라인네트워크",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-09-30T07:38:34Z"
+    },
     {
       "title": "코스피, 사흘 연속 하락…’전강후약’ 움직임",
       "summary": "",
@@ -11,31 +38,22 @@
       "publishedAt": "2026-09-30T07:09:00Z"
     },
     {
-      "title": "알래스카 LNG 투자 촉각…\"'상업적 합리성' 객관적 기준 마련해야\"",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EbFdudDB0WEpmQWJLa212TEllUEpYeHc4d1dtY2dHQUNOdXdybmhuY1JwczhDMlRQSFZ6NjFlY2htSWxGN3paZWxPZEN0NFdOMmlVYWxkaUhkTDBQREdzMFpyVWRPY0hmQzlQUGNLd0Q?oc=5",
-      "source": "연합인포맥스",
-      "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-09-30T07:06:42Z"
-    },
-    {
       "title": "Automotive Cyber Testing in the Software-Defined Vehicle Era",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNmtTYVdwS1FnX1JBZmxmM0RfQ0ZwZHhmM1Y3RklCQThyQUtEVEFSUXF1VldLNmt3b1lFU1JmUXYzbU8zQkZGaXdlSEowWndrbG91MEFocEdpRVFTcnV0V1c1MHlpWmNzOWNCM2RDTWNhc1d6aG1WMTlZTERLRUgxMThSSHpFR1JRQ3E2aWhfd3A4dERoWmc?oc=5",
-      "source": "cybermagazine.com",
+      "source": "Cyber Magazine",
       "country": "미국",
       "category": "IT",
       "publishedAt": "2026-09-30T07:01:34Z"
     },
     {
-      "title": "메가존클라우드, AI 보안 강화…크라우드스트라이크와 맞손",
+      "title": "Trump says top tech firms have signed accord to 'self-police' AI development",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DXzdEcjh1ekZIZUgzUzdVY19wYnFaM0JicTk1NmtFRjg1dFRxTFN6UXBGd2dSUXhvcmVDcW5sV3FVaTZnRS1iUlJQZm5fSGRLRzA4akJn?oc=5",
-      "source": "지디넷코리아",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-09-30T05:48:42Z"
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM3VtMGRJZnVDLWpGRXNpemMydzVIa3hEOU83Z0RqbERHSW9BVTk1eUc0RjRVNWh5VTVFazFzT2V3T2VhcldOclVZbU1nSElIY1piZnkwMGxYY1BER09jaHlaY192cEs0amFELTliLUo0ZmxkUmhSTVprajB0Z2RGTk1ZNA?oc=5",
+      "source": "NPR",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-09-30T06:54:43Z"
     },
     {
       "title": "이 대통령, DMZ 지뢰 부상 장병 위문…“복무 계속 할 수 있도록 예우”",
@@ -44,16 +62,25 @@
       "source": "한겨레",
       "country": "한국",
       "category": "정치",
-      "publishedAt": "2026-09-30T05:41:00Z"
+      "publishedAt": "2026-09-30T06:50:00Z"
     },
     {
-      "title": "[아시안게임] 양궁 시상 나선 정의선 회장 \"협회가 할 일이 많다는 것 느껴\"",
+      "title": "‘암살자(들)’ 파문 확산…구미서 “상영 중단” 집단 반발",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jMGJwYkM2czlqQW53aU51Y0VoVUF2N2FoeV9FVHA2MEY1X21DZDJKUEpjUmZyUU1sQmFWNDBPbFhWS1YyNGE0WEkwblhIcG9HS2ZtRFZlMENrYzjSAWBBVV95cUxNQXotT0hoamF2OU1Id3QyUjZ6ZEtLM1hpYWRxTHVBZWN3Tk9ZbEw1Wm95RTJVSXhRem43YVRGN1NRY0owSXN4MWI2a19ydzdoQTNySW9vNTVVeXZXWEJiSW8?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02SGQydVF1dHhrZTBfNFozaFpKdElYZ2F0c1k3VTNUTWJzb1I5eTFSbHJvWkw5bURwRWk3Z3RQb2pXNEhtMnNlZFNteFYzVTg?oc=5",
+      "source": "v.daum.net",
+      "country": "한국",
+      "category": "문화",
+      "publishedAt": "2026-09-30T06:30:00Z"
+    },
+    {
+      "title": "[아시안게임] 양궁 남자 컴파운드, 인도에 져 동메달 결정전행",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80SjJacUdfYWFfOExWemtVOGFON3V0bFNKNF9oLUZERWJ2R1hLUlpuYzc2SG41Ui1xb0FCelpHaEZkNzNIXy1FTEVlRzd4dWE2eGs1WXV6aGM0S0HSAWBBVV95cUxOYWVGZzJUSURPR1d0Z285alBBMmQySTdUZFhUdmxaTDl1Q0daZEZaQXlPZnRWT3lIVDFJM21qWEZpVFI0MS1JdHdJTkdxVE85NHpfeTlpZ3dLaWZEWHI3YXE?oc=5",
       "source": "연합뉴스",
       "country": "한국",
       "category": "스포츠",
-      "publishedAt": "2026-09-30T05:22:50Z"
+      "publishedAt": "2026-09-30T06:22:25Z"
     },
     {
       "title": "Million-dollar question: Between S&P 500 bulls and bears, who would likely win?",
@@ -65,6 +92,24 @@
       "publishedAt": "2026-09-30T05:11:53Z"
     },
     {
+      "title": "메가존클라우드, 크라우드스트라이크와 파트너십 “보안운영 현대화 지원”",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OejRiMjMycGp3MUF1bVhOemxSdldmcXBqMTlTYzNKRnBrVjdKVUhaZElDMG94UkRoYnBabndIVm9RU3JMSjVESjhKWnM2aXluTVB6S2lCS0EzUFowYXFyR3BPRzlKcVg2ZlJTVmZoVzV3LTI10gF0QVVfeXFMT056NGIyMzJwancxQXVtWE56bFJ2V2ZxcGoxOVNjM0pGcGtWN0pVSFpkSUMwb3hSRGhicFpud0hWb1FTckxKNURKOEpaczZpeW5NUHpLaUJLQTNQWjBhcXJHcE9HOUpxWDZmUlNWZmhXNXctMjU?oc=5",
+      "source": "IT조선",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-09-30T05:02:27Z"
+    },
+    {
+      "title": "복지부, 미래건강전략 포럼서 '근거 기반' 건강정책 논의",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Ball5UXlsMVVQYzRTVHI2VTBHQVVLa1VaQWFRaXMxb19OMzZheEdOcVBlRDQ4Z3RnbTFyWG8yeng2RlA4RDB1azJlLVgxXzNoenFVamd0VWpCbUNQYVgwTNIBYEFVX3lxTE1Ball5UXlsMVVQYzRTVHI2VTBHQVVLa1VaQWFRaXMxb19OMzZheEdOcVBlRDQ4Z3RnbTFyWG8yeng2RlA4RDB1azJlLVgxXzNoenFVamd0VWpCbUNQYVgwTA?oc=5",
+      "source": "연합뉴스",
+      "country": "한국",
+      "category": "사회",
+      "publishedAt": "2026-09-30T05:00:02Z"
+    },
+    {
       "title": "Trump Signs Executive Order Renaming AI To ‘Super Intelligence’—Here’s What It Changes",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR2MwUzFnSEZ6V2otc1E5ZDlYN0lzV0Q2NDVhWlVKNTJlSzBuYjBpZEdIRVJsdVFnbWlGR0FaS1ZCVE9yZnAwblVaNndhSWlwLVljTE4wZkh6cm14RDhOeHRreFFBcHJJa3BneTJlY080d3hOOXNCbmlKai1rWE9kTEl3ZzhicG5ESFdMT0s1azhHb2lfczRCd1FlWURxTWZjY2IxdXdQUkJMQVlYNm9mSDFhdXFwS2lZYWdrc2Q0dkNmbmM?oc=5",
@@ -72,24 +117,6 @@
       "country": "미국",
       "category": "AI",
       "publishedAt": "2026-09-30T04:22:31Z"
-    },
-    {
-      "title": "[영상] 안세영에 진 야마구치 10초 침묵하더니 “어쩔 수 없다고 말 할 수밖에”",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmRXVSLVZTbHhnSnV1dzFjTnU4eTBSMEg5OEp2VnBHT0xNZnh3dUpkcmdlQU9CLVRXTGhTblpsclBOTTZ4NWNkYXNqUXVYa3kyMkl1NFI0ZUdyRWc?oc=5",
-      "source": "KBS 뉴스",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-09-30T04:22:00Z"
-    },
-    {
-      "title": "중부발전, 해외사업장 K-USR(사회적 책임) 사회공헌 확대",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wZDRqQ3FQYzVBNzdyVkVCaE5GMFhpMng0eWpGTzVZNkxBb2pxT2V0MzlfcXhSLURQOTlrc2tta1FJOUxiZG4yVGwtdjl4a3VFcXRWQ2d4TE84M0JkU25qOHdfUnczTGZSOER3ZktVanlEdw?oc=5",
-      "source": "에너지데일리",
-      "country": "한국",
-      "category": "사회",
-      "publishedAt": "2026-09-30T04:07:49Z"
     },
     {
       "title": "Fiona Lowe, Daughter of Chad Lowe and Kim Painter, Dies at 13",
@@ -107,25 +134,7 @@
       "source": "대한민국 정책브리핑",
       "country": "한국",
       "category": "AI",
-      "publishedAt": "2026-09-30T03:33:45Z"
-    },
-    {
-      "title": "Dancing With The Stars Sails Into The Season's First Shocking Elimination On Yacht Rock Night — Who Went Home?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQk93X3Q3Y1U0ZTV6SUZnbEFHSjdlXzNpU1lSRzVJeEszLVVvb1ptRTJkYnJOOExoQ3Jnd21JaGtGb2RmX0lTbm00N2t3anVENGpUWHBoam0tWXprSmtJaHd0Um9HSGhqWm9waUJXZFE2aVFpcGhUVTkxTFBMTUFGdW1KUnZ2VDhOOS1aRGpGRW1ZR0NmRWppaUk3VG9Udw?oc=5",
-      "source": "TVLine",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-09-30T02:58:18Z"
-    },
-    {
-      "title": "육영수 여사 피격 직전 경호팀 이탈?… “실제론 현장서 대응사격”",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tYXRYNFpFc1dpN1BvNXdoNVo5bU9LTWttX3NHbjNwZXZPNmMzalVwMEtkQ2NRel8zREV1TWhGQm9jOGdzaUxTYmlZMDVnUl9O?oc=5",
-      "source": "문화일보",
-      "country": "한국",
-      "category": "문화",
-      "publishedAt": "2026-09-30T02:58:08Z"
+      "publishedAt": "2026-09-30T03:38:07Z"
     },
     {
       "title": "[속보]국정원 “우크라이나, 포로 송환 비공개 선제 요청…9월 중순 입국”",
@@ -140,7 +149,7 @@
       "title": "Nintendo Switch 2 소프트웨어 『젤다의 전설 시간의 오카리나』 패키지 버전 예약 판매 일정 및 조기 구입 특전 안내. 특별한 디자인의 Nintendo Switch 2 본체와 주변기기도 예약 판매 개시. | News | 한국닌텐도주식회사",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxWi1uWkxTRGtCRnlLN1YwTC1qOXZ6SWNfMkY2QVJoWWNIWVFaUkNyTXBlMWZRWjhsTFNpYmtRMXd4cnBpNU1SZnNua0ZuZ05vNncya2swNHlRLTJDZkx1T1B3WDZ3RmhZQ2ZBaERoYkU?oc=5",
-      "source": "nintendo.com",
+      "source": "Nintendo",
       "country": "한국",
       "category": "기술",
       "publishedAt": "2026-09-30T02:31:21Z"
@@ -164,13 +173,13 @@
       "publishedAt": "2026-09-30T01:24:58Z"
     },
     {
-      "title": "RANGE Artificial Intelligence (AI) policy",
+      "title": "‘DWTS’: Who Will Be Eliminated on Yacht Rock Night?",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4Nno4OXJDZXRDc2Q0SEpzd3lKTUNXb3BPbkh2QXB4YkZGczdZZTdYc01aUGFrY1lmMy1hN2F2TVU5NFltazN0b3dHODgtRzRkZzJaSzRZWXI3M2Y0YkUtNXhCQW1XVkt2TC1za2VwTFdqRXZD?oc=5",
-      "source": "RANGE Media",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMmI0aEV6bWlrREdCNUpVOF9ZZWlGSmUxYmdYWXpoR2hlSkRBYXZ4YUREdzJFVXJ5N1ZjSDE5b05TVTJUREJ4aGJTUzFYUW1VeW1CeFhqeFdtMW1xLWVIXzRudU9kTWZReVVNVk1uTjd3cjJXbk9WaXB6MEoyaHowQU9xME1hdm1uYUNUYmRvZVlkOHI0Wk8xZGo1TQ?oc=5",
+      "source": "Yahoo",
       "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-09-30T00:14:04Z"
+      "category": "문화",
+      "publishedAt": "2026-09-30T00:11:00Z"
     },
     {
       "title": "A night to honor some of Pittsburgh's top leaders",
@@ -182,19 +191,10 @@
       "publishedAt": "2026-09-29T23:30:44Z"
     },
     {
-      "title": "[보도참고] 식약처, 전문가용 디지털의료기기소프트웨어 허가심사 가이드라인 마련",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY0xJVkJTNDRsLWRyVnVObzd6cE90VE5uaVN2Z3c0UTRDTmhzLW4wb2Ewb3ZLYkJfS0RjRjFiOEFaR1pEMF9KejBrcjRDRnFiQTNRY1NvSmd1OW9KaVAtT3V6RnZ1SFp2SHFJZ21XTTlwM2RFQXRKclVMaktpVlpVeTFpbXVveDYyeUIwYkliSzVhZw?oc=5",
-      "source": "대한민국 정책브리핑",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-09-29T22:59:21Z"
-    },
-    {
       "title": "Equities end slightly lower as bond yields hold near multi-decade highs",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdU92dlh4cVhyZkhtcW9aOEZyZXAwWERYNFdFQXBZZnREZVQ5TFplZnZjMHc0TzFSUWQ1WDN6aEg4a2ROb0g2SmZEWjhENHMybG9OTGJ6cTFCNWlqczROREpCV0tQU2VKbUFXMnZYeDBNTTh0MWNYS3lPZjBhWk5rR0dYYmpDcUhNc0stakhtWkR5OXA1M09nUVFIUUJaVGQ2NnlhT0JBMXo?oc=5",
-      "source": "reuters.com",
+      "source": "Reuters",
       "country": "미국",
       "category": "주식",
       "publishedAt": "2026-09-29T22:55:48Z"
@@ -212,19 +212,19 @@
       "title": "EXCLUSIVE: Anthropic IPO prospectus lays bare deep dependence on Big Tech partners",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ1Q4X3lqOUdZYllBZFVuZFBIWGt6dmdua2JoVnZ0aVVnWnd0M2lscWd0UFB6c3QxRmNJdXJ2T3ppbXR5TW8wZ2lzQU5obDR2U2t0WldJUWx4MEo2V29HVldhSEtVUWVPdkdIQ1dVSUtkcG5hTE5UWDVKek9hTjhkNGU4eGNKcmRPY1JjWmRaTXJVblBoWldzNU1PalhocDRfRHdPRnhxVEV5ckRsenJZ?oc=5",
-      "source": "reuters.com",
+      "source": "Reuters",
       "country": "미국",
       "category": "경제",
       "publishedAt": "2026-09-29T20:53:00Z"
     },
     {
-      "title": "[단독] 양말에 숨긴 하닉 기술, 中 넘겨도…유출범 절반 실형 안산다",
+      "title": "You Can 'Get Ready' for iPhone Duo Pre-Orders on October 12",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QYUsySE54c2xfb3BJMzJTRlZ1U2hQd0FyeENmZFRVRVRXZzI4Q2xkelBQYl8yRXIzc0EzTWtoY3g3U3JIem9MS19memRnb1U?oc=5",
-      "source": "v.daum.net",
-      "country": "한국",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95cHo5N3BNVjdNc1hCSlBlNXJIY0NoaVc5WTV4MWxtdlFOcXY3bnFxR19odGJVTEM2OTZ2QUtPYkg4TUprQmI3YU9MUmRlQUloY2pqNDF4Mm5nT0ZnVEpXM3JXVGFTM1gzVFQzdHQ5X0g3QUU?oc=5",
+      "source": "macrumors.com",
+      "country": "미국",
       "category": "기술",
-      "publishedAt": "2026-09-29T20:02:00Z"
+      "publishedAt": "2026-09-29T20:10:19Z"
     },
     {
       "title": "OpenAI Cancels Upcoming AI Model When It Shows Signs of Being Evil",
@@ -236,22 +236,22 @@
       "publishedAt": "2026-09-29T17:00:04Z"
     },
     {
-      "title": "Meta Plans VR Glasses Strap Accessory for Active VR Gaming",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RUEpMenZkTnh5eFl1X0lVNGRxVm5DcmFXLV95UTZ0ZXczLUZ1dXJwQUhnQ3ZCMUc1TUlDVGJZX0ZaaXY2Rzd3R0ZxQ2M0QWNpSXplSkQ5NE1ZYUZ6U09IZkN0M09pUENLQ19MWEFvSE5CX3pCeEJnam93?oc=5",
-      "source": "Road to VR",
-      "country": "미국",
-      "category": "기술",
-      "publishedAt": "2026-09-29T16:02:45Z"
-    },
-    {
       "title": "스타십, 첫 지구 궤도 진입… 스타링크 26기 실전 배치",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRUNwZ0M1TV9YeTVoOTV5Y3BhdkZCUzk5WUdrTGhMbWhJRURNemVfMGVTa1hUd3B4bFpfM1JaNk1iSkJkQ0NGUFBoZmpnU2JVYXVmTVVTWlBjQkZFUVVHaFdmMG8yeUpQZURWeDVQVkxXNDNkQ3VwWDRCWTV4aU91ajdiQQ?oc=5",
-      "source": "조선일보",
+      "source": "chosun.com",
       "country": "한국",
       "category": "과학",
       "publishedAt": "2026-09-29T09:10:02Z"
+    },
+    {
+      "title": "\"곧 망할 것\" 소리 듣더니…'카메라계 에르메스' 잭팟 터진 비결",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oWVpFUzZsdmpYckpVRzF3NXJIZ1I4ZEN5WTc0TVYyT1RTb01uUmN5Q3dRWWVLY083MEUwM2RaZTRwV0Uxb1FPc2NDaXNmV0xteWllTjFTUzdSZw?oc=5",
+      "source": "한국경제",
+      "country": "한국",
+      "category": "기술",
+      "publishedAt": "2026-09-29T08:44:47Z"
     },
     {
       "title": "SpaceX launches Starship on giant rocket's first flight to orbit",
