@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-10-01T18:39:02.740777Z",
+  "generatedAt": "2026-10-01T19:33:14.200997Z",
   "items": [
+    {
+      "title": "How Worried Should We Be About AI? Experts Weigh the Risks",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XUm9YdG1ISUtRaVBBNnM1NzJSbTgycjc2TVJKVUhPOGg0d3hORFZPTGtfQWxYSWJVRk9naTJKSmNhUkZaY0RrT09KcTladnhVQ2hSWDhWZXEzVlgzMi1sT0FhaS0za29BUW9FNXlTUUVEWkNnQmZJ?oc=5",
+      "source": "Northeastern Global News",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-10-01T19:00:13Z"
+    },
+    {
+      "title": "\"AI붐 꺼지면 시장 휘청\"...세계 3대 사모펀드 KKR의 경고",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TNkx3M3hCUTV4bkE5RTFxb2pzQ2hiQ2czdi1xSU14ZWYzSVFwdC1LZGxveVNrSDU1OFdEMzJFbkEyNE5MUFZLSXhGcldvLVk?oc=5",
+      "source": "v.daum.net",
+      "country": "한국",
+      "category": "AI",
+      "publishedAt": "2026-10-01T19:00:02Z"
+    },
+    {
+      "title": "Christa Pike is alive and receiving 'life-saving care' in hospital, her lawyers say",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95OEo5YVJpbW01eU0wenp4dmJIZXI5UjhZY3ZaeXpubjRsUVZzaGctbmM3bDVhczBpcV96V2s5WlN4ZGRRMmp0dWxfdzg3OGdFNmhpb1huZHpWa2c?oc=5",
+      "source": "BBC",
+      "country": "미국",
+      "category": "정치",
+      "publishedAt": "2026-10-01T18:51:56Z"
+    },
+    {
+      "title": "Equities turn higher as Treasury yields drop from highs",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT1NWcmpRdnNhV0szWEh4QVRhcF83OVVJSy1jY1BoOFZDb2ZGanhFd3VtQWp5bFJxa2kwRUZJaWExeXF0UmE0NS1vUVpjdWpoc1N4dUUzZ1AtT0ZyNkZBTjU2bmVSSTVjZVRUMmg3YmR2V3FVWXAwWk5lUWlNLVdSSUVRc1NoZEc3R1RrUVpxcnlEOHRmaHRlUjA4ZkVfekc2UGowc2J5T1AxanRxNUNieWw5cS00U3lEaGVN?oc=5",
+      "source": "Reuters",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-10-01T18:49:16Z"
+    },
+    {
+      "title": "‘Verity’ To Seduce $55M+ WW Opening As Box Office Braces For ‘Digger’ Impact – Global Preview",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU29TVkxfcDhpZWN4VUdIZ29xQmViR1RQWUxPZ1FTRGcycUpSX0tkVGwxaDFmYVJwMVB2dU5FbDJibGplekdDUTlWLUlTaVZPdGFuM2Q3M2JKaUF3OWtCVTZkMi1XQnNoMi1ybkxHQm13VlRUY3N4MUNBcUc2TWFjSmNR?oc=5",
+      "source": "Deadline",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-10-01T18:30:00Z"
+    },
+    {
+      "title": "U.S. Bond Yields Hit Highest Level Since 2002",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQnJCNkJ1amNqVkhnUnRoYy1TN0t0ZkxmSFlqSVY5aXQzVUpCanhTamN2eDBDNjhmeTNnSUw2V2xDODV4UWJZTE5YcE5WZWFuaGJBX3U0NjV3ZWluZVVXRVdCLWdtV3gwSF9jRzVpNEpoSU9NeVdTNVpqeFVtT3RUVXh4Yw?oc=5",
+      "source": "The New York Times",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-10-01T17:55:53Z"
+    },
     {
       "title": "소프트웨어가 차량 기능을 정의하고, 반도체가 이를 구현한다",
       "summary": "",
@@ -11,22 +65,13 @@
       "publishedAt": "2026-10-01T17:50:19Z"
     },
     {
-      "title": "Stock Market Today: Global Bond Selloff Resumes; Yields Remain at Highs — Live Updates",
+      "title": "Department of War Champions 'Brilliant at the Basics' for Cybersecurity Awareness Month",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVS1ZRW5MZml2WVJMcVIzTHFaeXVkdlllV3paRnNqbnFsYU1UX2V5ZzUtblhaMlFSNUJqRzI4QkdPQlJGR1lFZjEtd0tYZk16MUt5eFRmd294UGFKN0dvQ01YeS1WUlh0cDRIMHRvdUx3NXdZNG1jb1pUbzVKVUJVQ2ZWaHM2SGc?oc=5",
-      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTVg2c01kYnd0ZlpFeHU3Z1NNdU1ZVnEyRllTOXpVbDM4di1TX3luZ0tSM2gwRnFYZXpiZUZfQ0x3YUQxQzNUWmVpT1VZbXZXYzY3a0oyR1hBMlFUTDUwNlhmR3lTTF9LeG1CZlprX2tuOGd1Vk9xQVpzRXRMUl9wcU5tcVdpM2ZXTG1QT3Y0S2NCbk56TGxsNkd2MmNpdmhZMEtZWm9pTjllVFlSbTYxcURRZFB0SXhjUGFVb1RVaDFoUkJZYnZhMTlzWURHZkJscEV6cQ?oc=5",
+      "source": "war.gov",
       "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-10-01T17:35:00Z"
-    },
-    {
-      "title": "As Mortgage Rates Hit Highest Level Since 2023, Buyers Look at ARMs",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pb05VYi1JdWZESjd2NzhhWTJuYWZmQlYtVVpaamxuQnh4a0ZxWFFLU05oNXFyUDR5bnRvRzRGOC1uU3BRZUxmbHhyRXFVeER4M3VHVWNISlZvYTRkZTBmWE9QTWxISjNwcmlNX2pQeXBYcHZiNlk4OG5rTlBSV3M?oc=5",
-      "source": "The New York Times",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-10-01T17:31:21Z"
+      "category": "IT",
+      "publishedAt": "2026-10-01T17:17:34Z"
     },
     {
       "title": "MDC Students Earn Coca-Cola Leaders of Promise Scholarships",
@@ -38,49 +83,31 @@
       "publishedAt": "2026-10-01T17:12:20Z"
     },
     {
-      "title": "Phillies vs. Braves NL Wild Card Series Game 3 FAQ (8 ET, NBC/Peacock)",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ1k5TlhubTV1ODNaOHc5aFFmb1R4QXVSZU5zNTlRNlo3N1laR21yc0RKbi1DV1lOMENfOWlCNjkxRnhTMi0tRmRhdU1xMVdudUpNdjVpWTl6MHpHZGJtNy00enpHZ3dyazBLZ2tFSjRhTDZoSnc0X05wRUhqNzl1c050T0FLUEo4U3Q0OFNqRUtjVTVyUzJaVUlxQ2xPMkFYRi1YT2JhcDZILXlh?oc=5",
-      "source": "mlb.com",
-      "country": "미국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-01T17:10:28Z"
-    },
-    {
-      "title": "Rick Ross charged with battery after alleged attack on girlfriend",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcW1CMEpiTUpUZFhYYUhFV2ExX1ZKeEJ4VXJDNG4xVTE4LUo4NVA5b0Yyb3VYcHVSajgxdzhWVnkwQS1VOGVIX2RNZ2NtbFZ4SlNGWW0wOGdQSmI1ay0xZFpRZG1ZR0VHWEtlZTU0ZHNfTmZydll2WFY1bGlpb3k2VXdnV0NmeERtUmJ5SGVHTDRXcS05OHNWUUg4Rkxha01w?oc=5",
-      "source": "NBC News",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-10-01T17:01:46Z"
-    },
-    {
       "title": "SpaceX Crew-13 NASA launch live updates: Crew Dragon astronauts reach orbit, chase space station",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTlRuMDJCR1JZMzEwekVXUzNSZ2VOVWxabTh0X0cxanVvWmlsQUNwXzRsM3dESVNxcXFEbHJERk5QTWVZd0hQMU9WdjNKT01xbDNmdXFPc0xmYlptR0lFSnZHejVYVk51Ym5nNE5NM2wzNVF4WjNwdGl3cEtZcHhWcXk0OFZfVFh2U19zRUtJNkhMeDhJQXc?oc=5",
-      "source": "Space",
+      "source": "space.com",
       "country": "미국",
       "category": "과학",
       "publishedAt": "2026-10-01T16:47:47Z"
     },
     {
-      "title": "AI cybersecurity startup Armadin valued at over $2.5 billion after new funding round",
+      "title": "Microsoft makes Windows settings backup the default in 26H2",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRVNRVnY0bEVHMFFBV095N0xyYkVsTTNWdDNEOHJ0cVhoSFpJUVFrZ1pxZkNuX191dDdlSF9oRVQ1MHFoVmt5UzVBNDN1NjR6UUhxcDBNLVVYUXhUYWloMC1GWjVtSjdTUjJLOHVlR1R5aHV3aXIyTEhmVE94b1lCOXdqbGNMeTA2ckU3cWxwbzlqXzFsRGdMa2dLQ0FOR21TM0lEcHFPd3d4VURrazd6NXVER0dfUDFDUjZ5TGdUMjZ0WXBJYVlZYXVZdnQxbXAy?oc=5",
-      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUGFzMDdra2JHbnRCRWljT1JGTHpoOWpmS0hDS3pRRkdsaEhGQ0dPYlBCRnJ3UHJsS3d5cnpiTW5zMlVjMWo5WUltcWhseEtibFowMmk4TW1DVWpaR0xwS2tNM0VmTGlIWG44WmVkZUlJZm9xa29SdWJ4cXZ5UHVnRUdTOUhiVnlWN2F2VFJtZTNwZElQbzdyQWdRb1FHYVZIQjU0SDEyRnZPZzhvUmQ3SGZCWm5sU2thYjZN?oc=5",
+      "source": "The Register",
       "country": "미국",
-      "category": "IT",
-      "publishedAt": "2026-10-01T16:46:09Z"
+      "category": "기술",
+      "publishedAt": "2026-10-01T15:31:00Z"
     },
     {
-      "title": "“시민 누구나 AI혜택 누려야⋯‘작은 AI’가 필요하다”[춘천 AI포럼]",
+      "title": "Micron stock dips after earnings despite answer to analyst's key question",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSeUdNSWtCQzcxVGFMbWdqYkpfV2E4cGZDb0FLQVR5N3YyQmJDYVA5bzlzZzhaX01ZYndob1Z4cFIxRjUtRnp4dVk2UEtnQ3c?oc=5",
-      "source": "v.daum.net",
-      "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-10-01T15:01:58Z"
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ1lILVk2TkJjdC1Sbmg5WGpyU3BnZlNXSEJNRmtQYTFDNE50NTFwZG5Cc25MdHNNWGV5RGhDWmJ6emxUVV9QYlVzUXhPVXVaUzlZOENHVlEtU3QxbHAwaXJWU25uRVg3Z1JfeGFCMlVqb05GMEVFcURNc1dQRzFudXUzaG4wZ1REWWRwZ0ZQamdiX2szOTJ3dUtVQ1JnVDk2WWRPQW53U2dFU0FkUXVidkdJR1ZwQW00UVdzM2RtY29zX3V1N2liaHktYUg?oc=5",
+      "source": "finance.yahoo.com",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-10-01T15:06:17Z"
     },
     {
       "title": "[2026 아시안게임]독립운동가 후손 허미미, 일본서 조국에 금메달을 바치다 (종합)",
@@ -92,22 +119,31 @@
       "publishedAt": "2026-10-01T15:00:00Z"
     },
     {
-      "title": "‘It was a mess’: Tennessee fails to execute woman after 2 lethal injections",
+      "title": "Nathan Fielder on 'Liar' Elizabeth Holmes in Doc You Can See Everything",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTkNDWXR3Z0dkWWpMUHNnSUxzak5BUXVHM1BId0paYmgxM013TFhnM08zcjZHV3haMFI0TjZ6QmNJN1A3VHpmcU9EOUwwU0JzbnV6ZUNpc3B5RGo1c3lqRExvNTg0bTRoVHpxcHBCZVRoUEpQM1N2SlVGUWR3eVVwcndRanMwUTdxT2R2V0I0cldjTDFZUGpwZmJwX3FfUDNvZVRlNkFDd0gzeFk3?oc=5",
-      "source": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOckw2T1RxVW80MHh5bTFUT3A2YXlqYk1kcDR0TGp5SS1HZDlBMVIwZnZabGFpWXAwZXd3QnFRUWlTS1owWDQtcTAxdjFla0RnTnYyLXN0WDg5THpFa2UtcHY2MXhnTmRhZXA2M19weGF0d29oYmx2elB0dHczczZ2emRoOXE1QmxPNG1jMW9VQ25xS0VObEdvblcxaWhyOGw3MGt1OGRPX29LQQ?oc=5",
+      "source": "Variety",
       "country": "미국",
-      "category": "정치",
-      "publishedAt": "2026-10-01T14:48:45Z"
+      "category": "문화",
+      "publishedAt": "2026-10-01T14:56:00Z"
     },
     {
       "title": "이 대통령, 정청래와 4시간 만찬…“국정 현안·당내 사안 공감대”",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zbDEzVXY4MmFfb053T2dSRmJpZllHQU45TVNjMFJaT2JyR1dBR3VyUmNvbE5jQWlGNDhhVTctXzRRYzdjbklibU80b2YyQldTUHJlcjVwaGhWdE8yT3FCNldPUDZsYUJQYjgw?oc=5",
-      "source": "hani.co.kr",
+      "source": "한겨레",
       "country": "한국",
       "category": "정치",
       "publishedAt": "2026-10-01T14:27:00Z"
+    },
+    {
+      "title": "Phillies’ Aaron Nola to start deciding Wild Card Series game against Braves: Sources",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOXhWWEF0VWtiX2xNQ3hWa18zRHk5WGFJN0xTU21oemdQQng5ZFRDZU9wdGdmdldrMkhfZ2x0QnAyNU9BeDBMbTVBQktKS1dIYnJjb0JEUGwzQllaZHdpQkVMajlqOVU0OGVNR1pXUnlFdnN1OUlTZmE2TC1DWUhRMmxab1dIMHBSdVBGSjdBaUlyQW9sUVBJU2lMLV9EQQ?oc=5",
+      "source": "The New York Times",
+      "country": "미국",
+      "category": "스포츠",
+      "publishedAt": "2026-10-01T14:15:57Z"
     },
     {
       "title": "Dow, S&P 500, Nasdaq open higher to start October 2026",
@@ -119,13 +155,13 @@
       "publishedAt": "2026-10-01T14:06:50Z"
     },
     {
-      "title": "'암살자(들)' 논란 여기까지…이민호, 부국제 행사 돌연 취소",
+      "title": "제협 “‘암살자(들)’ 참여자 공격에 우려”…이민호, BIFF 일정 취소",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qV0ZqRFFQanlPYl9pUWt0RHBjeEQ1djduMC12azhyUjV1MVBndDdScUNSMW1PSF9melo2RFdaT3dabmlMcmMzQnRUSUgyVVc1X2pUMlBXSU5YUQ?oc=5",
-      "source": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1McFR4NG1Gc1NwQTlHUzJjQUdScEk1QTJPTjhVUm1oUXN2UXEtVEFZZ1FXM2VBVFNLQzFfWUVBRjVSVTlTWWgxTW52Q3NyYWZKVUF5d0V0R25SQl96cF9rWWV3dTZlTU9KVXdFcEdGSFM0UQ?oc=5",
+      "source": "한겨레",
       "country": "한국",
       "category": "문화",
-      "publishedAt": "2026-10-01T12:59:53Z"
+      "publishedAt": "2026-10-01T13:09:00Z"
     },
     {
       "title": "“차별받으면 신체 건강도 나빠져”",
@@ -140,19 +176,10 @@
       "title": "‘알래스카 투자’ 신의성실 원칙 깬 트럼프…정부 “상업성 없으면 투자 없어”",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zekt0b2JPZzVOSEFhZXRfem1aRHZSUEtGenFwOEZpRDAydXk0eHRNWncxWmxMc3VBRXhLRk54YlpsQjhhYVViTTF3NzZSNGd0TTdnTzBrMmp5MnUwRzhNTHpFNHlyVlM5UUZYLVM5bU5adw?oc=5",
-      "source": "hani.co.kr",
+      "source": "한겨레",
       "country": "한국",
       "category": "경제",
       "publishedAt": "2026-10-01T12:23:00Z"
-    },
-    {
-      "title": "Microsoft Has A Mountain To Climb To Address Windows 11 Optimizations, But Newest 26H2 Update Tackles Memory Usage; 8GB RAM Systems Left Out",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10Mjk4OTU2elVObEhCY2hKakNEQmh5UWhQQkdJN05FX1ZCVGxna3FLODl3eHVjaGN3V3BUSUZCaVpDNC1vcDFGQlVDdEFPZ3pHVjNFMlZFNUhROGxxa0VrY3RnSFE1alFvY1hNS1MtLUtYQWNINUHSAXtBVV95cUxQTnJZU003YUhlV3dIX09rWTRwZFRVVzZGVlJ0Mk5laGFPWGtJVHU5bjZtV0JJeTJtdFpibFpFWXBWX2R6VXFjczlmZkR0dW00RjBQc19mRjN0SFRZSVB6ajBVT2phTi1rWlViaXFpLVo5LUdVdzRlUW12dDQ?oc=5",
-      "source": "Wccftech",
-      "country": "미국",
-      "category": "기술",
-      "publishedAt": "2026-10-01T12:14:40Z"
     },
     {
       "title": "코스피, 마이크론·반도체 훈풍에 7,000선 회복 눈앞",
@@ -162,24 +189,6 @@
       "country": "한국",
       "category": "주식",
       "publishedAt": "2026-10-01T12:11:00Z"
-    },
-    {
-      "title": "New safeguards could help protect young people from unsafe content generated by artificial intelligence",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa2h6WDd0cm5fdjJWcktmRndHV2VIVHhKWFBtWk8xcVVVaUZoWlE5XzFFbG1VdWdodVFiaWVaVXVpZzFuOHA5WDY2T21XMDNOcmxhdU16dGlmakppUXM5ZEIwck9mMHU2ckh2bmkyM3k0cWpXUFZOdmVEWVVQQTJFR2FNTVBFQ2NLUkxTb24tTFZHc3YxZU91b3dmUnNFckFIS01WeEJTQzlTWW45U0JjOG1Mckp1Y0hlekNLeG5Jc196WUxNeGNWNw?oc=5",
-      "source": "Clemson News",
-      "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-10-01T11:32:11Z"
-    },
-    {
-      "title": "[아시안게임] 이민성호 측면 활력소 최석현 \"한일전 특별할 것 없어…꼭 우승\"",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WQ3VWNWNmN2tYRXhTZnNXZnlxVXFKaHduT3RuZnZkamVieENLb0cwTGZESnE2dTlxalcxMVozcHd1MkJWN2NqX0FWS0k5cW9TOXB1RVlpWFFoTGfSAWBBVV95cUxNNjJaUG5yT3h4SWZYTUExY1J0YUc2SG9WQmZqM05NQVJLYmpOMnhzc2pFSnROQWpXV2tfU0RZSTNGMVczWk9fUURleEpKM05Wc1BGcHBScks0dzlvRkNIOUk?oc=5",
-      "source": "연합뉴스",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-01T11:09:27Z"
     },
     {
       "title": "공공부문 사이버보안 책임 강화…위중한 정보 유출 '기관장에 책임'",
@@ -200,6 +209,15 @@
       "publishedAt": "2026-10-01T08:26:00Z"
     },
     {
+      "title": "김종호 금메달…한국 첫 AG 양궁 컴파운드 남자 개인전",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GWUtiTG1jSFFmUWE1VmdtLUxlc2xnMFVyVXB2S3dyczRIS3R5aHdjQngtNVVscEFpWXRodmh5RlV1WUZjNjZEWGxST1h4cDFFRlg2TFI4a1BzU1ljN3FSSTVOeVBub09XTlF5cHNLaTNqUnBRZFZR?oc=5",
+      "source": "한겨레",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-10-01T08:21:00Z"
+    },
+    {
       "title": "입법조사처 “사람은 배제될수록 아파···차별금지법, 건강권으로 접근해야”",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wRENOai1XUnY1UEtsZ3NXS2x4R19GeGpGMGhfU3FOT0hFOUR1ZDFxZVBoY19jaHdRaEF2MWZHUGdUdnBqNHczQ2h4Z1FRSGc?oc=5",
@@ -218,15 +236,6 @@
       "publishedAt": "2026-10-01T04:03:00Z"
     },
     {
-      "title": "Tom Cruise’s New Movie Is Expected to Become the Biggest Box Office Bomb of 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNEY4SERRTmp4a1BrTTdBNktmZHpqaUtZTTh6RDVLdGdpNWlZQWdsbmstWm16TDBKMmM5aUJmUzliVEFGVzBjQTNMR2N3LTZ4R01HTUFqNzl0eWJsUlFuUVphUnBnTnFab3dld3RHOUdsNHBxMzBRSGxleEZVX29EeXF5NFJ6dnVFTnpBTHNKVGhaV1JqbHZKdlMzd2NDeTl0?oc=5",
-      "source": "Yahoo",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-10-01T01:30:00Z"
-    },
-    {
       "title": "\"아이폰18 프로, 딱 3일 팔았을 뿐인데\"…中서 벌어진 일",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DdEE3cTZvSTcxQzY4R240ZmFCbkExN3FiNHNoS1pLU3g2ekJseXh6NmM0NTM0clJaUkVBbmhvNHpZWlRCd0xRMGVMVHV1a1ZNRHR0S0tkR0hUdw?oc=5",
@@ -234,15 +243,6 @@
       "country": "한국",
       "category": "기술",
       "publishedAt": "2026-10-01T00:10:24Z"
-    },
-    {
-      "title": "S&P 500 dips, Nasdaq higher after data shows moderate inflation rise",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdXFFNHNQQUxXRkRPN3ZndG5TZS1PSGpvaFZPMG8zRU1oNFdrOUFZQnNsT183YWZ2R3NoNGNUX1NVdmtZNmxaYVc2X2c0Vm5tNWZjbEo1ZkYzNzVqeW1BS0VTaWZYc1hKRlRaRGxrQlk1aGlpQTROOV9mSDZldFlkejFZVGxKYmZzQ3czLUFPUDRBVmNJNWpuMnBPdE00QUlncU9EU2lXZw?oc=5",
-      "source": "Reuters",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-09-30T23:40:02Z"
     },
     {
       "title": "웨스팅하우스 빗장 풀렸다…미국에 한국형 원전 진출 길 열려",
