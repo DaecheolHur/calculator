@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-10-02T06:40:04.490959Z",
+  "generatedAt": "2026-10-02T07:34:14.346741Z",
   "items": [
+    {
+      "title": "'개인정보 유출' 티빙, AWS와 클라우드 보안 체계 강화",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yc3ViTjQ0N2RXY3ByNnNtZ2NfQkhIZEpPdDB5cEM1MmVOUmxud3pkRzNGWXJ4RGdaay1uWkdKc0l0TG5uSVUySmFlTU9GS2tVREpzT0h0NnI1bEpKNkNkNQ?oc=5",
+      "source": "asiae.co.kr",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-10-02T07:29:44Z"
+    },
+    {
+      "title": "코스피, 연휴 앞 7,000선 탈환…코스닥은 하락",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NdlRUSFg4RUVvRWNXQzdlSUs5cWV2dlhkSDlzS3FieFU3ZDZpRXFjVHZFcS1ocjVILXBCWGJiT084WUhYenZKRnJwbUYzVzJ3VjVCUHNYSWtjM1NHQUFUTVZBYzFaWVE?oc=5",
+      "source": "연합뉴스TV",
+      "country": "한국",
+      "category": "주식",
+      "publishedAt": "2026-10-02T07:07:00Z"
+    },
+    {
+      "title": "Unsealed documents detail Cornell investigation into alleged rape at fraternity house",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNXNwdXh0Sm9UWFdTc2ZVbGRJbzlMdENFS2R1R0hYeWRJdlp6SjZhQVBKRWZNZU5ueHlEbXNyODVOdW12TnQxaF9xUWQzSVB5elVKbGlNaHF5cThZVFBCMjhybFpucUFISFVlaGp3QzRpQk1ybWJZYnRpcnFDLWVDbXJ4WDNUVFJ4dnVGUUQwQXFJd2hwSHBodXRqMzRERU1NLU1jWlBxekdqZE5kMFRHR1NEWUVpVG9BLW82NVRIdEctdW5sWHdONnZnc0tJdVJL?oc=5",
+      "source": "The Washington Post",
+      "country": "미국",
+      "category": "정치",
+      "publishedAt": "2026-10-02T06:50:00Z"
+    },
     {
       "title": "Dartmouth provost in a real bind over use of artificial intelligence",
       "summary": "",
@@ -11,22 +38,31 @@
       "publishedAt": "2026-10-02T06:36:37Z"
     },
     {
-      "title": "日 사이버 보안 또 뚫렸다…정부·기업 이어 대학까지 마비",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsZUNidUxoeHFIVjN1dGlhbUx4d1I1T3puaEVFX2hLZ0dXMUR3Z2VUSFlfMDNSUUh3RWhpdWVMUFhpdm41TENWRGEtbjZsSURaaXZ6N1duMDlCakXSAWBBVV95cUxPdmI0d096N3RBYWNhcTNuSEhmbXpwal9WbmpkYU5ic19SakRIMlEtR0dPd1hMSG1sV0N2SnY1bTJyRVNwRG5hX0NESmwxbXhxcEZoZG1TcDZQQ0lfendmdEc?oc=5",
-      "source": "연합뉴스",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-10-02T06:06:03Z"
-    },
-    {
       "title": "‘70% 싼 中 AI’ 맹추격… 美는 고급형 가격 올리고 보급형 내렸다",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT3pGZ1RTcFZ1VGQ0UjJMd1h6OEtnTGFHZGtxT1Zjb0kzMXc4S0FkelNpV21PMU9FX2ItVEljSFIzRm53b2pEYnM4YnN3S3pLdHdGRUNKcDQ1Ui1FcENxSG9tUDBDdS1VaEExcXdvMHBwZGpLQlZ2UUVfbWxXN0lCVUZVWQ?oc=5",
       "source": "조선일보",
       "country": "한국",
       "category": "AI",
-      "publishedAt": "2026-10-02T05:41:00Z"
+      "publishedAt": "2026-10-02T05:50:11Z"
+    },
+    {
+      "title": "시속 600㎞로 때린다... 제트엔진 단 러시아 드론",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX3hNUDNMbkN3cUI3Rno0WHRfdVFTYUZiWkNPZGRReFRiTXFFTnk3bTcwNEE0R0dJcHZLX1lSd2Q5NmFXb0h3ZmpfTEpRajFYVVhFNWkzWUUwdHJRbnNFcHpNUW1PdEczUjV4RDJadjNPU01XeVR6QzIweHBsU1JhQnczZzhHMHFNYWo5bWhZV19UMjlfeEdxSC11X0t1Zw?oc=5",
+      "source": "조선일보",
+      "country": "한국",
+      "category": "기술",
+      "publishedAt": "2026-10-02T05:38:00Z"
+    },
+    {
+      "title": "오세훈 서울시장, 항소심 결심공판 출석‥\"진실은 늘 밝혀진다\"",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VNzZ3c0s0cXpUbDZyOGs3S3FJTHh5d2hubXBvNFhTaWpzRDVnM2dzMzQwMnJBbjAtNHo2cndwZ3dGOTVLZi1jeXVMbWMzRE9GT2FmeEtneElucnRYQVkwQ0JSQjd2UU93cE9HeHFrWWpKVXRHYi1n0gF3QVVfeXFMT05zRnFxUTFleEVtM0VqNDIxaWZHalZYQzlVSnhEbUlOcjRvbVUtQzAwQkpjWlZsTjdDR0pxc2xwRXpGdlJSb3pjdGxDTE9DTllReVVrRm1HUTVBU2Jyb25naEN3R0hvc1FOdkxKVFdDYTFtdldtcG8?oc=5",
+      "source": "MBC 뉴스",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-10-02T05:12:37Z"
     },
     {
       "title": "‘암살자(들)’ 논란에 박근혜가 꺼낸 박정희 편지···“내가 맞고 어머니가 살았더라면”",
@@ -38,15 +74,6 @@
       "publishedAt": "2026-10-02T05:00:00Z"
     },
     {
-      "title": "'암살자(들)' 후폭풍‥유해진 집 앞까지 집회 신고",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54dWJueGg1WE1jQnRaWi1URTl4R1czWE9md2FuYWhPOUJ6ZFdyejktUHlCRGtKVGpXOWRVMmpRcG1uMXlCMmN4d211NllnY053UTlBTm5qXzZnT1AxSE9ScElaalRkclM0LWZXMGx1OXRuek5oc29Z0gF3QVVfeXFMUDlsQzZkRVB4a0FkX184aGpJNU1ManlCVEVzVm84TlZoMUhzc3hiT1NtTnE2ZTRpZHhJMWNTR0ZRVnc0UHFVSEhlN2lxRUR6eE01dkktVnZwc1BqWEQ4bVFJQU1DN0t3R29YS1dRVWs2TVJpZnV5ZWM?oc=5",
-      "source": "MBC 뉴스",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-10-02T04:36:48Z"
-    },
-    {
       "title": "'Disney Celebrates America' lineup announced for America's 250th anniversary",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMijgpBVV95cUxNMUlHYTFpZ1g5T0Q3WGEzcWVIalVpWkRKbWJjUE9YVlpOREVDTHFDbU9uSUFsZmoxbm03QmIwZl83X19LQkxYQjRsTmw5NnJnS2dULWxCVktTQUZGbGc4LU9zcGtNbnhXUzZyc1BYZlFfbW8xMUFob043Sjd0d0RaXy1Eb19WSTlZTG9YQktEWlNidmhSd3k2eVN5RENNeFZiY1o2LTNKejJzOTN1Ty0yRm1rRlVxZHMxX0doOEU1SWdsNzAzZlZMbUxGTUl3SVAybHNmeXlqUTBpWHVIT3JCN2ZuSFRIdm9MM2Q0Q1JhUC1GNVVhclA2YUJxWkdyY3Y5Tnh5N19tajdmUWVsaW5nLWlvZWVtT1pZODNYQTJ5cngyQktlREhNTlRqeGVHOEZ1dFdIM1VTbGhZOFBpbUZfbmk3dy1EWVM5YjdMenlFMzFoN2MzblRwM3hnR25fRE1RdmpnRTdDV1VUcVpjLVFGdkx6Tk5LNmpPSjdmdGdETWpfazNjUmh5NU1BQldyLXlxZE8wVVpfME5MZGRTQUsyLUZhX2prZ2llM2VINmJJX3hWZS01X1lIMExjRDZkeW5BZWh2YlNZTERtYnlIdWJLdC1FNmxzQTNoVkpaVlU1ODRyRzZpVmpnRFFsMmJ3clhKZVhxclZSN0cwLTlIaDl3TlNqb1BaNlJxSnhYaHFtZFFwd3RsdE5PcS1JTVBMUzctMXBjdURITThnSnBVcEtPbWFhMDJ0M0NqVWpld0o5UWk3aGNYU3JZalJiSzhOa29sRGN4MVE5OVdscnYwUUJYSll5X0ZkbkxCdnEzcXZVa3ZfV2dySUhGMnFHTDd3ZHg0QkZCd3NjZjBYSjE0RlZNTWpzaG5qTDlaZDVocC1rVnhXbFpaYmZZeVRmQnJGZ3ZLZWF6MEk1aW4yTXlDdmtKcHB1dUt1N2tkZUkzejZuRDZBMUFLbUxMLXBycHA2YkVGb215WTBPTURfZ19LSXlHb1NBeXFnbURlZjV6b21Vb05tYnJzQ0hrRXdCUVRiUUZ5QTNQQmotTVdBQzNzTnFkM19vYklQVEZnNm1kbmVpWHVLamNnaHd1OW90MFpiUlVvYi01dkVUWHpuNmFfRXprY3hoMExfVXMxRUUyMXZuZnRyOW13UlM2aWo2Mld6Z2xad19EV2hucXRldFNDeXlUeTdrZ0d5NUlUS2I1QU5ZUlBuZ05LUWxGTVFlZ25Md2p0V0p0Mmd5czlSRGpxNWhtMTlZbk4xTjZicnQ0S0dTVkdsQzNtNkV5ZFNOdUk2ekdxTzk0UURoYTh5QWc3VC1UeWM1R1oxLTZ3blJ2YzRfSUk5SVJYMDVaTHFVOW1pelRsRVc5VW04aW9nS0RDY1VtYnp3N0hqV2gtai1VN2lRMy10d1hvRy1zdVZmUnRUYXFPZUhfYThzVTdIekhnNFBHNEYyOC0zVkxlSFRGMFJCRC0zME5NRWNkcE5vLUFkblJoVGR4UWRsMkQxa3JRb2MtWG9xMFA4czV6enlSWHd4WFN5WkplZXVINkk2RU5sMW5GZDVaOTZYX1dxREpkV2p1bGg2MDdpeDJTYnpqVEZvMmw1OWItTzkwV1d4UE5VR3ZrMU9YZWFsNGFTRmM3ellOZXNEQVI0M2tCdEJaTW9WUVpUS05wXzhoLUVvSnQxMTN2dnpmWTlYU25JVjROTGFCZEZOeUZPMmREZm0zemlB0gGoAUFVX3lxTFB4RHM0M1M1MGFIUXpGR0F2NTNKTk5WWmtocERZdmRqcFo2R3k3azhKbHlZai1ReWlVQ1dKRHoxX01ieUZDMlVNZmlFRVlXNWsyRjhHZVpzZFZGSnVPeThqUlBLMEJwbnEyNVkyaEFVZ0pHdVNrcVpROFFlcjZEWHNNenJzS3NlalpaWUhtZ203YzYxX1ZvLVRUWl9TLWEta2ZQY29HQmVadg?oc=5",
@@ -56,13 +83,13 @@
       "publishedAt": "2026-10-02T04:31:39Z"
     },
     {
-      "title": "Falcon Heavy flies its first mission for U.S. spy satellite agency",
+      "title": "Ken Urker, the Father of Gypsy-Rose Blanchard’s Daughter, Dies at 34",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVmdfTktZTWJkVmlyYXVOUHFNU0ZQbEpSSnpRLV9lRFBfV05tVjA2OWpZZ0dLRE9mV2p4eW5PdjBfY25kTGpVYWxTMjFhOXJubzJRcnd6dUhwUTZXbGdyTXlYRll2dmw3ZUFPRHRHaElnUkpqQzZzVk9DSUl2WjE1UTFWdlY5WW5oZThoeVM2Yk05WjhhOWRwRTBSekh2c3dpR0pmNGZxOE8?oc=5",
-      "source": "Spaceflight Now",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWnlUMng2YzhIV3BkaVNlT29yNnA2T2wzeDFrTUJaQUt5WFRsaEpHRXJwOUdUTVpNM0E3cThQbGxWWjd2aUswT19UTWxiblNxTzJ1SU9VTmc1SUJHdk1WREI1cElVTTdlV0tZaXhsX2JOa1kxbnQ2eHBTVEpCbTM5UExTRjdXMmE5Z0hCR2ZTWGdkQ0lPTmhFT1hTRWxCbmFvY3hhM21YMWMyLWVV?oc=5",
+      "source": "The Hollywood Reporter",
       "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-10-02T04:29:13Z"
+      "category": "문화",
+      "publishedAt": "2026-10-02T04:22:27Z"
     },
     {
       "title": "사회보장정보원·장애인개발원, 장애인 복지정보 접근성 확대 '맞손'",
@@ -83,31 +110,31 @@
       "publishedAt": "2026-10-02T04:02:05Z"
     },
     {
-      "title": "Ken Urker, Gypsy-Rose Blanchard’s Partner, Dies at 34",
+      "title": "Scientists Invent Underwater Umbrellas to Protect Coral Reefs—and It Appears to Be Working",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZWxVVHlHdV9HUWdaZlRFZ2hqbXB2UFcxLTdmNHRmbnB1XzFfX3NkQjlJdnFhaldINEctNVFGZnJqOVFERllMbFJXaDI1ajV3RjNESXIxclN2Ty1YaEZ4SWdJcUFfelpmbWZjUlNrNFZmMWdsRXR4am9rcERxMC1BMmdaUWJkLU15cFlSQ1otaUdVdw?oc=5",
-      "source": "Variety",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRUtuV3d2SUpQZExuelAxWi11MWloaVFaWjkwUzdkQTlyd2o2NFU3NmRPRjdYQnpBSU1SQVp3NlJIdmpRS3RtS2tNSUZpM0F4bk1RVFVzbjVMUzFuU0ZXSF9MSmMxQnZPN2p2bzRhNEN3M0d3cDgzU0F2WTFwbWMwaEl3MUVTWnE2M2xISzRvUkdMRGE0Vndad3hRc2stWVVPRGxjNG83Mlk5QTNtWExZdTlZZzlPYjhwR1M4cW13?oc=5",
+      "source": "Gizmodo",
       "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-10-02T03:52:00Z"
+      "category": "과학",
+      "publishedAt": "2026-10-02T04:00:56Z"
     },
     {
-      "title": "한국 양궁 명승부 끝 은메달 획득",
+      "title": "사회보장정보원·장애인개발원, 복지정보 접근성 개선 맞손",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TNFZmYUUybWhBRUVLVkc0S3BjR0RfZUdqVnFLZDZOeWphSjNwLV9Yb1YzSU9MSTJQSFUyMTJBcXBOQlZhOFBHQlQtVTcwT3ZKVHNDTkVfY0stZlE?oc=5",
-      "source": "KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vNF9nR1d5OEY5cnZGeHgwM2ZZX1ZwaVlBYnZzQkdzRWRlZDJPSW5WbzBrRTJPWTJDQi0yTVNsMHB4aUR4UzdtOGVuMWJ6LVh2eVVQWHFud1hfY3hSYVBHOVE5bVlwLWpSS2d6YUxB0gFyQVVfeXFMT1NvSTBmSTlwXzZYcmt2ZldYWU0zWEQteG12R2dVZy0tRlg1c1N0cmFEOFRTZ29EME1DVlVhY05GV2YtTTg0NXFVd1VIWDhmZDZWNGhUUnMxaF9GNUotc1JBQWc3S3Rpdjh1LWlIWjZCS0RB?oc=5",
+      "source": "에이블뉴스",
       "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-02T03:20:00Z"
+      "category": "사회",
+      "publishedAt": "2026-10-02T04:00:00Z"
     },
     {
-      "title": "코스피, 보합권 등락...코스닥, 장중 900선 회복",
+      "title": "AT&T Acknowledges iPhone 18 Pro Max Issues: 'Update Immediately'",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtemVCcEQ3TG9HSTFRZVdMQVVGblhGbzZOQTZLNFFXdmJnbzdGbjFhV1hQem1na3RGS01haFNDQzF2eU9VWThYQTlOaUJjRTVKSlpXLWVnaF9lc1lnOUFnQlo4bFFDUHhURE8wQk14bw?oc=5",
-      "source": "YTN",
-      "country": "한국",
-      "category": "주식",
-      "publishedAt": "2026-10-02T02:50:00Z"
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdS1TZnctYlJFcWJFd1dOM0tha21OdFpvYnI0TzJpdHg5ZTl2dTR2NUowSlQzbVluOXZPdV96MVRWNE9GZVVQem9iOXJOOVJibHM5SVRGQk53a3I2ejdPU2tncDVEZ0lxdmhuR2dkV0dhbmxIQTVfa0ctNUhYYW92d1dFRHdwUQ?oc=5",
+      "source": "MacRumors",
+      "country": "미국",
+      "category": "기술",
+      "publishedAt": "2026-10-02T03:42:00Z"
     },
     {
       "title": "트럼프가 韓투자 찍은 알래스카 LNG 사업비, 멕시코만의 2배 넘어",
@@ -119,31 +146,22 @@
       "publishedAt": "2026-10-02T02:32:27Z"
     },
     {
-      "title": "Hochul Names Letitia James as Special Prosecutor in Cornell Case",
+      "title": "‘세계 최강’ 女 양궁 무너졌다…인도에 충격패, 단체전 8연패 무산",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQajNoRUJqbzMxTTZqMV9jeDNOc0ktZGJiVUM0ZWRkTFVjeWJfVVJCVllhYW5WWDRoWHBTUXBHSVZlQnNFekg2UDhNY0hUd0d0T2RMTUtzLXJISHN3cUpQQlJmYjMtd05SNzJPV0ZXcE9kSmwydG9YaGNKbnFxczJKZUF6bklHLVlxZkZfZFFGUQ?oc=5",
-      "source": "nytimes.com",
-      "country": "미국",
-      "category": "정치",
-      "publishedAt": "2026-10-02T02:21:54Z"
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81eXFOM005ZXBYWmFDWWlkWndyZldGR3A2LXhxeGF6aklyeXFmaXY1Qlp1NkNoNzlqMnBubUI3QkxrWGpqeTRia1JUX0hPM2lzMnlDeTItTUpLTmN3WjU2R0g2NXk3SHk3RTBQdlVScG5qNEFl0gFmQVVfeXFMTlJCdlFrOXp3MTBKQ3NNTnpJMFRXMjFnY2REbFRvRWdlMUxFNWQ5Y3lrTTBLMElTUUx4WVA5cDY5N1c4OG1nT2lxRk9hQks1aTN1eW1IZnZlVGFoS0FoemFPVW9GOGZ3?oc=5",
+      "source": "동아일보",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-10-02T01:59:20Z"
     },
     {
-      "title": "이 대통령 \"우크라에 심각한 유감…공개 사과 거부하면 추가 조치\"",
+      "title": "李 대통령 \"우크라, 공개사과 거부하면 추가조치…묵과 못 해\"",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqZk42clg0b0FYVlhvMkRSZWNpcTFEaDExUjduc19hTFZDOE1JVGYwbnprQjVyZ0h0VVpOY0tCSkR0bFdYcUE0elNEcGJmczBLSzY0RjFRUEVjS2lxRjR6RXZoVXZwRkE?oc=5",
-      "source": "연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SLW9CYmNaV0RQZDBRSjhxREtHS1pkRFNiMWRxOVlCVGc0ekRtUVZmS1U5cEhKcUxwZllvM0R4NnpaY1hfRy10QTBHUDBPaW9wU1lBQWN6MndEdw?oc=5",
+      "source": "한국경제",
       "country": "한국",
       "category": "정치",
-      "publishedAt": "2026-10-02T01:55:00Z"
-    },
-    {
-      "title": "‘Big Brother’ Season 28 Crowns Winner On CBS & America’s Favorite Houseguest Revealed",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PbDBPYkViVzlXdFV3WVUyNG1uQ1ZuS3JrUHJuaUhzRnB5YWhBbEo2SnlSd3lFblEzUVAtMW5FUUd4dDR2RVprdkVJQlhWb2dvNmV2Y0NkUk1KTU1yNllIdGI2WHdjZG1pQWFfb2Vpdw?oc=5",
-      "source": "Deadline",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-10-02T01:24:00Z"
+      "publishedAt": "2026-10-02T01:45:26Z"
     },
     {
       "title": "박호준 KTR AI·소프트웨어사업단 사이버보안평가팀장, “시험 대기 병목현상 해소·기업 맞춤형 컨설팅 서비스 제공 기대”",
@@ -164,24 +182,6 @@
       "publishedAt": "2026-10-02T00:55:13Z"
     },
     {
-      "title": "‘An amazing ride’: SpaceX flight led by first Black female commander sets US speed record",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeV9aSUNESWdtb202c3YyZDQ1ZWdOa0lUU2p4aEpCV2lEdWNWbzRVdXJSamU1R3hBWlc0Uk9ZOXp5MldJeWo4RUhSMF9EZG4wWGF4RWJHdmpFalpvWTUwcmEySlVaeHMtWHhHaDNxc2ZiMU1kc283aUY0N3dOYkNRa3NzSjctNmFyUkpoNkc2NDlWY01NUVQ2RjFDZlk?oc=5",
-      "source": "theguardian.com",
-      "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-10-02T00:50:00Z"
-    },
-    {
-      "title": "혐오와 차별은 사람의 몸을 아프게 한다 [플랫]",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTnRiTlRoUTBKRlBEa2ZPX2tYOFZuQndPQjlEV2VGTEVEVFgzOG5sM2tFaC1OMVZ6Y1h3R0FEREFXUXllMXdfRWc5X0lZWE1IanI3bGdYWUkxZnN6VmdZa1dMdEhCcEdELVJTLWw2R0kwUGNQMS16clFTS1liU2ZiNndEcmNQbXpXM1FUMEVyVi1XdVlucTRpOXpxa0habER5V1RTa1FwamJjZw?oc=5",
-      "source": "경향신문",
-      "country": "한국",
-      "category": "사회",
-      "publishedAt": "2026-10-02T00:43:00Z"
-    },
-    {
       "title": "“예쁘다~” 환호에 시상식서 빵 터진 허미미 [화보]",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vUUQ0SEhVMnJFazhBaWVLNzExN05JcGRKUWNIQWdQVW85aXdGR0NXd29SQ2htX1B0aFJmWUo3OS1TREQtMVVMQTNWNVNyNUF5ZkRUblZQUjg5Z9IBX0FVX3lxTFBCTzVvai1zLTlxVUdCVmp0UXYyN25hZC1seTltZktGOERLVlJIcy0zRGVybG9JUFRGNFo2UU5pVHZqQmhsbGFYUXBsTWhpYW11d1ZkWDQxMUZOVzVwSmZB?oc=5",
@@ -200,13 +200,13 @@
       "publishedAt": "2026-10-01T23:30:52Z"
     },
     {
-      "title": "Apple’s reportedly developing a smart home camera that doesn’t record video",
+      "title": "SpaceX Crew-13 astronauts dock at ISS less than 8 hours after launch in fastest American flight ever",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzZzY5SFliNUZnN2FCSC1wci1aOE9Cc01vbC1saV9nUi1ycHpzN1RDQTdfMlN5cVpqTUNBNkh2OWk1eWVfRllQTE5pVDRwSFhBRmUzRkp1by1LalozVGdtcEIyYm9ESE5XSGw2WWMxTWhPblEyMGdN?oc=5",
-      "source": "The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSTdOUG9IVF9FeDFVU0poT1plSi02TjBmbVNhZVZ4MnZKVXFzQjlCWWlGWVFnamVqQVdFNUVTUGh0NUZIMzd1c0lJVWdObGhETFFKUC1IclRKVHVCVnZRdDE1TThXenpYaW4yajB4ckwtVjZvVlo1b2lSZGJ0a0pBb1lYamNLOVpiWDBTVjR2ZE1tWGh5VnhpWlNJemluVVRTQU1iY2tTdlRQbW5NSlpuNWJjZlFFQ1lRMjNJZXFuVF9yUHN3c0xzcQ?oc=5",
+      "source": "Space",
       "country": "미국",
-      "category": "기술",
-      "publishedAt": "2026-10-01T22:51:36Z"
+      "category": "과학",
+      "publishedAt": "2026-10-01T23:09:36Z"
     },
     {
       "title": "Joey Porter Jr. says he felt 'disrespected' and 'undervalued' by Steelers, wants to finish his career with Cowboys",
@@ -227,22 +227,31 @@
       "publishedAt": "2026-10-01T22:18:01Z"
     },
     {
-      "title": "Nike CEO Warns of New Layoffs Next Year Amid Changing Operating Model",
+      "title": "Mortgage rates approach 3-year high as new applications plunge",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMjQxRlp5Z056NFV3aFVzY243RXg1cTNmSWptcWZyNi1XLXNhckR5VFN2b3VnSmhDUmNOWWU5V2JvX29OcTkxelcybXJLUTUxeW13X1ZId21naEF1WkNGaXRjd0ctSGNvUENYN1RyRzRacUlraUVWaWNPVDNzNFRKVzF4ZWVsNHRXNUN0VXk5MEY5ak5Ib0NVa3dUa0Vud21jM3h2aDE4MHpBWTV4X0E?oc=5",
-      "source": "WWD",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yS1BqNHRnQmlJQy1YTG5iMmFTekdmY0ZPLU5SSnh2c2JrTkNMeTVqanlMNV9vVmx3aGt3QUh2VGhud3BfZlVwZVRMcVRrdzZ6YWVzdGFKX3oyVHRCSUFLTXBEVk1sdFdvNEZkNUdR?oc=5",
+      "source": "Axios",
       "country": "미국",
       "category": "경제",
-      "publishedAt": "2026-10-01T22:13:28Z"
+      "publishedAt": "2026-10-01T21:52:55Z"
     },
     {
-      "title": "Paramount, CNN Chief Mark Thompson in ‘Early Stages’ of Discussions to Keep Him in Post",
+      "title": "‘Verity’ To Seduce $55M+ Worldwide Opening As Box Office Braces For ‘Digger’ Impact – Global Preview",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbVZHcV9fU2t0QmVRTnppWnJORXBUbEtOb3JPallMaDR0YVVodDhWWEIxd1ZxLWRKb043X2FydWNWVWFuS2FkaC1vTHR4ekRoVmppRHpQeTdabXlsUWZiV21PMUpVdi1FOVFISjVUc19pOVJ2SDM0WGhva1ptNW1ua3BUdmVQWjFzQmVPYlJIMHV5X01q?oc=5",
-      "source": "Variety",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU29TVkxfcDhpZWN4VUdIZ29xQmViR1RQWUxPZ1FTRGcycUpSX0tkVGwxaDFmYVJwMVB2dU5FbDJibGplekdDUTlWLUlTaVZPdGFuM2Q3M2JKaUF3OWtCVTZkMi1XQnNoMi1ybkxHQm13VlRUY3N4MUNBcUc2TWFjSmNR?oc=5",
+      "source": "Deadline",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-10-01T18:30:00Z"
+    },
+    {
+      "title": "David Ellison Wants CEO Mark Thompson To Remain At CNN After Paramount-Warner Bros Discovery Deal Closes",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMTh5YmFpMnc2eU5mYkF0Um1xTWd2TENaUTd0OXpsUHRxLXlLTktYU21fREJRNG8wSHdsVEdLMThEV29QQU5YenpFWnhXWE4yTVE4eFFYV1RELV9NMW1yaWRENWVWSFZLR3NnQzJBeE9uaTdjQnJrMEJ3RWUxTWpOUnNtNFVndVdVa1E?oc=5",
+      "source": "Deadline",
       "country": "미국",
       "category": "경제",
-      "publishedAt": "2026-10-01T15:39:00Z"
+      "publishedAt": "2026-10-01T16:03:00Z"
     },
     {
       "title": "“어제 살 걸, 하루 만에 27만원 올랐다” 삼성 ‘스마트폰’…가격 보고 ‘쇼크’",
@@ -252,15 +261,6 @@
       "country": "한국",
       "category": "기술",
       "publishedAt": "2026-10-01T12:41:24Z"
-    },
-    {
-      "title": "\"아이폰18 프로, 딱 3일 팔았을 뿐인데\"…中서 벌어진 일",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DdEE3cTZvSTcxQzY4R240ZmFCbkExN3FiNHNoS1pLU3g2ekJseXh6NmM0NTM0clJaUkVBbmhvNHpZWlRCd0xRMGVMVHV1a1ZNRHR0S0tkR0hUdw?oc=5",
-      "source": "한국경제",
-      "country": "한국",
-      "category": "기술",
-      "publishedAt": "2026-10-01T00:10:24Z"
     },
     {
       "title": "핵융합 상용화 ‘부품 주문’ 시작됐다…CFS, 초전도체 1만㎞ 확보",
