@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-03T09:32:38.935503Z",
+  "generatedAt": "2026-10-03T10:35:12.730289Z",
   "items": [
     {
-      "title": "천문학적 돈 몰리는 AI 데이터센터… 전력·물 부담에 반발도",
+      "title": "How a Failed Execution Left Christa Pike Hovering Between Life and Death",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00RHR4VUhvNVlBczJqQ1hVUDlXMnpxRUNPcGpnWlNBUDVuNV9yZDFTVW8ycjN1RkNFYThDazY2ZGd3dE1fZUhQSGxoX2FRUzFxalBpbXA4T1hyVmJJUU16YzBsaHFYdmNzVVE?oc=5",
-      "source": "천지일보",
-      "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-10-03T09:03:06Z"
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdVVmYVE0d0hsYndRY3FBM05rb3ljQlJDMW5FY1hfYXdWZ0Rnc3N0X2MwOFdFWXNydWRYU3c5Y09WM0VEbEdyWGY4MndMWDlVWVBJNXBtWHJtZXlnZzlKdTk5cW95RHZia010a3lyRVZVdlZvR3pWSkF5ZTZYOW4xQw?oc=5",
+      "source": "The New York Times",
+      "country": "미국",
+      "category": "정치",
+      "publishedAt": "2026-10-03T09:03:51Z"
     },
     {
       "title": "[속보] 송다빈, 아시안게임 첫 출전서 금메달…한국 태권도 겨루기 ‘10회 연속 金’ [아시안게임]",
@@ -18,6 +18,24 @@
       "country": "한국",
       "category": "스포츠",
       "publishedAt": "2026-10-03T08:50:40Z"
+    },
+    {
+      "title": "국힘 쪽 처벌 요구 속…‘암살자(들)’ 200만 돌파",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE03c1ZNN1VQLVlVMFYyV2pEU3RmMUJLMmxQMkZIb2RLblpfUk9BVzJsQlFtaUZNVXdqckM5ek9mYTlCZ0Y2d19qb1NpZzJaeThaakJZVG0wb3lDZ1Q5eWtLejRtRmRTZHljM0xaQzdPc3Atdw?oc=5",
+      "source": "한겨레",
+      "country": "한국",
+      "category": "문화",
+      "publishedAt": "2026-10-03T08:49:00Z"
+    },
+    {
+      "title": "한 총리 \"모든 변화의 중심엔 사람…'AI 기본사회' 차근차근 실현\"",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSC1KSUxkbjdYZkVGOXBIbFVVY2VGcFFPTzgxQjVob1FOUkt1Mm5CaEszMnkyMy1CYl9Fa1hwNVBBVEtjQ21CdnRkUVV0TWtiUHZma0lFY2hZUHFLeFQzSDdmQjY5cWw2VzBUd093eXZ2WkxYWm5xcEFUSjQ5YlVSbjBDT2YzNkJUREE?oc=5",
+      "source": "정책브리핑",
+      "country": "한국",
+      "category": "AI",
+      "publishedAt": "2026-10-03T08:48:45Z"
     },
     {
       "title": "[아시안게임] 김주형, 16년 만에 남자 골프 개인전 우승‥단체전 은메달",
@@ -65,6 +83,15 @@
       "publishedAt": "2026-10-03T07:11:00Z"
     },
     {
+      "title": "[아시안게임] 양궁 남자 리커브 이우석, 개인전도 금‥대회 2관왕",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTYmtYVk5yM0ZEcjZvVTI2MXh5VVYxVTFtdVl1SDVpajVhQjhuS054NTB5OEgwZkZYbXFJajNvR3drbVRKOGl1TGNJZlJON1RIdl8xenBFS2g2alFOUmZBWWZFVU5jNGcwcExyTVdFNXprb1F2RGfSAXZBVV95cUxPYjhDVVBITm5XTHhPeVQ0d2pFZmNHUU9ISDZVUjB2ZzFsTm0zeG5KeHh5SExJSm1wVXVvZW9rWVBsZldvZk9MdDdSbGlKMDVmaU9pZFNfNjlQUWUyLW9nMWw1dW5ua3pNMlpyV2prZlI2amFHYnBn?oc=5",
+      "source": "MBC 뉴스",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-10-03T06:24:36Z"
+    },
+    {
       "title": "Should Schools Ban AI in the Classroom?",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQXBoMUdxUmt2UV9NR2YyZTV1aUJCTlljeGlCVl93MFlQVTdmbjA4cV95N2YtcnRhTFJzS1kyR1lieFBveE1MTEVjX2pISFNpamptZkJJSHZDM3JQd24ycDdzRWs2aS1wZmwzTW85eGpSdVlBdUNERl9GeGNJcU5IbnNkTjgycXktNmdRSkMzc2g?oc=5",
@@ -104,28 +131,19 @@
       "title": "China Now Music Festival: Chasing Dreams at Asia Society",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQWWFSd0hyekxzUXBWRkNIQ3U2Y2JhaUNscDZzUVJkYjVBaUF6WEpVYm1TenNXdGJZNXZwNGxPcEp2X09tVGxITlBoRDlVLUNSN2pPM2o5cUtqdG1XY0wySG4xZUtfZm1aX3RqUDQyeWZIdw?oc=5",
-      "source": "Bard College",
+      "source": "bard.edu",
       "country": "미국",
       "category": "사회",
       "publishedAt": "2026-10-03T04:04:54Z"
     },
     {
-      "title": "Christa Pike was on ventilator, unconscious after botched lethal injection, lawyers say",
+      "title": "국민의힘, 1년 만에 서울 도심 장외집회‥\"이재명 정부 규탄\"",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQWlwRWNmVDM5T2pGcHZWWmw5SFJ6QzJhYTZteUlOVzRZVVRicXMtVU1LUnNGUXoyNDNlOGliSGozaGRwN2tPRGxvek5HMV9YZjhyX3B0a2RFeGd6TWlGNkFaQ2Z6Um51Z216VHhrSk1LUE5fZkw0REJxYmdPVHg3ejlMZUNjSW1HSUpBY252WnRsRDRXa2ZBNTFaZFdVZzFKVXhJOEdzdmdiU1kzSjBoNFJFUTV4V1pZUFpwNmt1aXhmZ2JoUFNQUEx3Q2VScElsOFk5Q000OGhQYXM?oc=5",
-      "source": "washingtonpost.com",
-      "country": "미국",
-      "category": "정치",
-      "publishedAt": "2026-10-03T03:38:45Z"
-    },
-    {
-      "title": "[아시안게임] 양궁 오예진, 여자 개인전 은메달‥인도 17세 모호드 우승",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13eWJ1Z3R0NFFWbVFwWmJiREdQNHpjaHVHRjhSaFJWdjlGYkl1M0EtdHRxdEpWVkxYYzVvdGNqWEpFenhyQ0s0Z05XNzRTZmxpVHlWLXV4UGlLYU92ZWpaUlJpNm1RWmNwS2l2Q3ZBeFZUNmFNLVHSAXZBVV95cUxQM25mT3diam1EdHpJUVBzUVdOcC1paUg2Z3JfZUFTOC1ZQUd2eDFhSHpaOWRFa1NkMjY3cEo2dnpoNC1Vbko1N25kbU9IbzZXNl9xaUpYWUsyNC1fdHhqUHU1QjFIVURQZlVfVzNRMjQxRWhGSUR3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WQ2N3Sm9oX3k5c3ZqZkJScnRMazEzMkdmWlhHOG15aTFwdy0wYjRqUXpIZVFCczJuN0paR1p6aHQ0dDVzdVNrWFVrM1pZN1ROMV91ZnhRUm5RRmdkTkxfcjlpN1ZVT2RaUDJ0d0xtN3JyZEdvOVJVWdIBeEFVX3lxTE9QUk1UV1E5a2VTT1A3cjY4aFZlcUVkRVNURTduUHVwb1JIVmEyd3ZEZlhrQmVkVTdweTlEbWwxMW9Oak5NT2tYRDBOQUdHMmhNQk5uME1PVnNaNndQNE1FQngtcVpoNnRDZ0V6VFAtaDRxOUd6TG0ydA?oc=5",
       "source": "MBC 뉴스",
       "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-03T02:16:22Z"
+      "category": "정치",
+      "publishedAt": "2026-10-03T02:13:16Z"
     },
     {
       "title": "[10월 첫째 주 세계경제동향 브리핑] 코스피 7,000선 회복…코스닥 5%대 강세",
@@ -155,13 +173,13 @@
       "publishedAt": "2026-10-03T01:44:10Z"
     },
     {
-      "title": "폐지 요구 빗발친 '나혼산', 김민 투입에 시청률 상승 '반전 발판될까'[초점S]",
+      "title": "David Ellison Won Warner Bros. Now He Has to Make the $81 Billion Deal Work.",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50SzhRbEpQLTF2MHpKMWhILU1lbWtKSDRvUGlES2ZoVEhGSndSU1lzY0lNSUVyS1FObG1kaXJSazNpNXhqbF85bFJUWmRpSWc?oc=5",
-      "source": "v.daum.net",
-      "country": "한국",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeHJ6SUgzSEFMak9iT2tWcDNIUnN1U3hzNjh2V3htQ3Q2dmI4LTVFMFMxN0czeEhUTEJxTDdtZ1ZCSzhoUkNKYUZVTlp2a0VVRXpEa3g5MDBTWE9keHg2Zk5oWnBLNmJxN0Rrc1VaVW93S1BMRDlNNDRqS2FBSTBkb2g4NFM2alBrU2dZTFpSamxKR1pIWmxLVHlOMERWTTBjWFRYQ1BYWEdZRElVVzF1SDZHck9GbEFE?oc=5",
+      "source": "WSJ",
+      "country": "미국",
       "category": "문화",
-      "publishedAt": "2026-10-03T01:05:41Z"
+      "publishedAt": "2026-10-03T01:00:00Z"
     },
     {
       "title": "한국사회복지사협회, 목포서 2026년 제1차 지방협회장회의 개최",
@@ -173,46 +191,28 @@
       "publishedAt": "2026-10-03T00:54:05Z"
     },
     {
-      "title": "여자 양궁 에이스도 인도에 잡혔다... 강채영 개인전 8강 탈락",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYV9wdERlOC1YQ3Y0QjZnckh0eXNPd0RDcVl1OXY4UkJZalJvNVNVdC1pZ1YxajhqS1UwaWJJVUFoT1BhMEEwa3lDSEVmOVVlai1nUTd6QlFvaUl2emlQb0VPUTVBLXgxXzNXbnVwZXJTdmNJT05QVDlXSHhlWEUxbGxoRGdHVmZXNFMw?oc=5",
-      "source": "조선일보",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-10-03T00:20:00Z"
-    },
-    {
       "title": "Apple Confirms AT&T iPhone 18 Pro Max Problems. You Might Need a New Phone",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUWlkMnY1T1J0YmZVZmFQSnNCcElVOENZRDdHYVBNd1lxS045UFdTR25LaFJabWIzQnFKbHZZUThQV3l4eEJVZ014V1UtWUtBc1B1Ti1vaVNPcVQtS0JxYm9FdTVSZXNhMS1FcngzaTU0c2lJanRQSm9uZmYwTUxaTFI4YzdGQzFBNFE5aloyaDRZSk5iMkphMm1xcVE0UQ?oc=5",
-      "source": "PCMag",
+      "source": "pcmag.com",
       "country": "미국",
       "category": "기술",
       "publishedAt": "2026-10-02T23:59:18Z"
     },
     {
-      "title": "OpenAI safety leader David Robinson resigns as the team's upheaval mounts",
+      "title": "Unemployment Rate Ticks Higher as Job Growth Slows",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN20tZjFiX1d5WEdVanJFQWoxNEdpalhTNzJPb3Rlc0tPOERjVW00cS01YkxudVI1LXNHQnBhVUJ2aDhSdFJKTm96eF9wZ2JVVDF0N2NibE9oRFdhQUg1ZEIxejNsUV9kalRvR1ZRaFg1UThCN1p2YVFxNjlxa0dZRWpTdGVONkYyZnNmTWJpc2c3UQ?oc=5",
-      "source": "Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObEtydENOekZWcXdKYjZVY1E1dlJybWd5WjVSS0ZkR3JZSmdoSWF2OVZmVU9rV2syTk9Zc1hrTl9NV0tPVU1nREQzQ3RlU1dldThyV25ZVV9uZEJfY0VQazVGejU4RURrNVZNSkJGVEc3Ungxb2ZsYnZzQXFyVUctVDg4VTJEbWRoWFZKMDI1NDhFWHRmeGxN?oc=5",
+      "source": "Yahoo Finance",
       "country": "미국",
       "category": "경제",
-      "publishedAt": "2026-10-02T23:15:00Z"
-    },
-    {
-      "title": "Skydance Shuffle: David Ellison Addresses Troops About New Name, Says Adieu to Mike and Pam and Sets Table for ‘Barbie 2’",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTUNVSTgyd19COEJQTmFERDRVRXNwcFowTDRlQ1RuM0xmMUR4Mm5WTkc1NDZjNXJ4aFdMSUhzdjdEcGthdkxvVExTLV94S1N2OHRNemFFdkVNUi1IZ3M4ZmRSNkhIUklaUDBNbVQ5N1duZG1PX3hYSk9sOXRYMUc0UlFlR0FFZ1dHU0dqNUJlV2FjUnpudkVV?oc=5",
-      "source": "Variety",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-10-02T22:17:00Z"
+      "publishedAt": "2026-10-02T22:28:30Z"
     },
     {
       "title": "Wall St Week Ahead Spiking bond yields, midterms, earnings to test US stocks' typical fourth-quarter strength",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLWE0blFwNjQtYzV3UTJuODNjRmZQbTJydkY1SkVmZjd3bkFjVW5ET0JKS1U3aTEyb3N0MUN0RWNRUEdXX2YzSnpBMG9mbk9Ock8tNjZUMzdLRWRoN2lGMTlYY3BDVVdTeW5SdFlyNzVDbXBVSmJwWWdWTVcwSVFwaXgySHlleW56TS1ZN1k0S2ZlekxDemVmaWpnU3dWWHFQQlZfLXRvUEM2UGZVdjdJWThvRTd1djlsbWJuUkVFNUlpUQ?oc=5",
-      "source": "reuters.com",
+      "source": "Reuters",
       "country": "미국",
       "category": "주식",
       "publishedAt": "2026-10-02T20:43:04Z"
@@ -227,6 +227,15 @@
       "publishedAt": "2026-10-02T20:10:33Z"
     },
     {
+      "title": "American League Division Series Preview: Guardians vs. White Sox",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcElnTllKRkdVV2VvZXA3TlVOUHl2QTk3dTBQQnA0aUIxS3lSdGJ1anYzRHc3QmhyXzNFbW92ZnhEQVlRdThQM2V2TllnUW9tVGptVkJtZmR6UXl4SzF1SnNKZHpjSlhfYjRLTlV0SFJMd0JJRWVuUWMtc09kSWlHZWJGemhwZmlDMWx2QjE5QUx4TjA5S3dPZk93eUVWQ1lMZE5HaTY4cEVQekk2aFZaT05mSDlhT3YzQVhKejFiUmtTMzJHNlZjY2h5Yw?oc=5",
+      "source": "Covering the Corner",
+      "country": "미국",
+      "category": "스포츠",
+      "publishedAt": "2026-10-02T18:50:17Z"
+    },
+    {
       "title": "Look up: Saturn is at its brightest this weekend",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aRExCMjNvOUpFd0x4TEhrbF9ISGxDUDFXRWpWZFliYWdMMVp6QXNKdkhWcHlreXR3Qk5ReC1BdDR4QkJnalFLdHpPdnpmWWMybmFCS29OMjZVVmFkS2NBYzAwYlFHaXR5LTVr?oc=5",
@@ -234,15 +243,6 @@
       "country": "미국",
       "category": "과학",
       "publishedAt": "2026-10-02T17:04:08Z"
-    },
-    {
-      "title": "ALDS schedule for White Sox revealed",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DWlNtN3JMUF9ycFRsNjdPYlRVUmhWSmc2c2RwWWxRREgxbl9xTmpQTVlmdDMxZldRWnJPOWFYRnA4ckxQTGtmbGtySWhYTURzNlZlN0J6dlNZY3ROd2I1NG5GY1JjWHJIZmJKaUxTZUd0eUpZaDlmNExMbDbSAYIBQVVfeXFMTkVaX3Fyb2pWa19yTGFSbjRWLXFyRUlCUy0xOWpoNlVyRDhScS0wcEdiM19PYnY3Rjk0UTVhOGY2N2ViN3NUVG02ckp1NlRoNzdaQVhad1lyd1NITmhWc2dBV0VzYjJqaUVjTE5rRUxIOERFVmN0WG1zTWgwYUhIeWEtdw?oc=5",
-      "source": "WGN-TV",
-      "country": "미국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-02T15:25:14Z"
     },
     {
       "title": "Astronauts arrive at International Space Station on the quickest US express flight yet",
@@ -254,13 +254,13 @@
       "publishedAt": "2026-10-02T11:02:00Z"
     },
     {
-      "title": "시속 600㎞로 때린다... 제트엔진 단 러시아 드론",
+      "title": "기업가치 반토막 난 현대차, IPO 군불 때는 보스턴다이내믹스",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX3hNUDNMbkN3cUI3Rno0WHRfdVFTYUZiWkNPZGRReFRiTXFFTnk3bTcwNEE0R0dJcHZLX1lSd2Q5NmFXb0h3ZmpfTEpRajFYVVhFNWkzWUUwdHJRbnNFcHpNUW1PdEczUjV4RDJadjNPU01XeVR6QzIweHBsU1JhQnczZzhHMHFNYWo5bWhZV19UMjlfeEdxSC11X0t1Zw?oc=5",
-      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd1liUjh6QWZtTFg2dzhCRFlyQnNVMVF3OTBkdHdZUkFOLUFGU1ZxUll4WVJrNndONTQtV0UxbTdDRTZSWFpheEc0YnRVdFliS3BRejllREFZVlU3blg5VDJSTlhBb3Q4aFpvRnJQVlFhbXFjVHlTdUdHNDB3STdlVFgwdw?oc=5",
+      "source": "인베스트조선",
       "country": "한국",
       "category": "기술",
-      "publishedAt": "2026-10-02T08:42:00Z"
+      "publishedAt": "2026-10-01T22:33:10Z"
     },
     {
       "title": "핵융합 상용화 ‘부품 주문’ 시작됐다…CFS, 초전도체 1만㎞ 확보",
