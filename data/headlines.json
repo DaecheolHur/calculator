@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-05T23:29:56.315525Z",
+  "generatedAt": "2026-10-06T00:45:01.374468Z",
   "items": [
+    {
+      "title": "롯데칠성음료, 퓨린 90% 줄인 '클라우드 퓨린 컷다운'",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRWFBITVc0WnZobV9aclpyTTVVN0RIeDBVd2ZQeHoyYVBJUzVoZFRyS2VfT3dmX3dyZHVMREl1Xy1IQlphdl9sUEdSeHNCdkl1UE9vVW9Oa1BGazkt?oc=5",
+      "source": "newspim.com",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-10-05T23:39:00Z"
+    },
     {
       "title": "[AI MY 증시전망]코스피 7100선 재도전…삼성전자 실적 '주목'",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YNjV6Mzhka0VwN1NlX3NyLVNBQ1VIVXJ6cE4xYkU0NGpacW45dVBScWM0QXJPcEtiaEdpZF9TT0JoUXUxbTFFS1N4LUNKc3lkNmZDMlB3Zmc0RnQy?oc=5",
-      "source": "뉴스핌",
+      "source": "newspim.com",
       "country": "한국",
       "category": "주식",
       "publishedAt": "2026-10-05T23:09:00Z"
-    },
-    {
-      "title": "NFL suspends referee Adrian Hill, line judge Jeff Seeman for unprofessional conduct toward players",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQWpHR2xxbDZkNHJGR1N0Si1FeEpMbjR5eV9rMGhRWEVHNUZIaFVwUEI1NXlDTVMxZEU1elVtQlFydUJQUGdXSjU5alVYczVhbWJwVDdCVkVZLTFDSE9ub0FpVTdyYVZiZ082SzVmbS11b0pELUVRRjd4WHJtYTQ2TUhmenNDeGVWTjluVXZ6eS1wc1VXdW1obzFMSFAteXo3MVlqMVJpY0wxS2JyaGw4a1Y2Qnc3NWNDdjl4SkhGa21odTY0dENkYXhlazVzVFZnTkdvWExnLVNwY0Z4bVlUN0pQdE5HZFpkekstVEJMeXY?oc=5",
-      "source": "nbcsports.com",
-      "country": "미국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-05T22:55:35Z"
     },
     {
       "title": "Longshot Bid to Block Paramount-Warner Bros. Discovery Merger Filed to Supreme Court",
@@ -32,16 +32,25 @@
       "title": "Nasdaq notches record high close as investors focus on earnings",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV09jSm4zWHp2ODd2SmNPRHdJcUhDcjNzZ3dwYkwzZ3NSVHdyVUdUVEI0TWltb3RKQUZucVVNa2l1UzAxWmtSd0hQSWFjVXV0WVZiUjJFNGJDeEZQVlhoWDJ5WWpxLWxuc3ZVYXBLR0QxSzdZMVFjSklpUTB2Q2YwdE12VFl0bUw2RGRjZ3VoUmFlMkp4UUstYy1R?oc=5",
-      "source": "reuters.com",
+      "source": "Reuters",
       "country": "미국",
       "category": "주식",
       "publishedAt": "2026-10-05T22:38:44Z"
     },
     {
+      "title": "White Sox vs. Guardians live updates, starting pitchers, where to watch: Gavin Williams, Anthony Kay take the mound for Game 2 of ALDS",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMEk1SWIzUWJvemUzYU9odnF6MHRvSVBiZGZMbEVucldnSExuU2tvcllodm9iY2dKX28zWE5OTmQ3Z1N5Nk5hN1IyMXg3Q0hhT2d3SUJXd3RpVmYxMzJOZXJ0ZVZndlNmOUdVX2FuZUxQZ1ZpQ2dJQ2w5M2dGaHAybTVCLTFreHFpSE82a193VGJoMkRrcC1NTUNZb0oySEMxUmZmeTljRWZpYlRaNlpYd21JbHh0X1gzZF9La1Etc0kzTVhHLVB0VHpMR2E1eTF6ejZNLTlROUNtY055ZHlvUlIxUWl6UQ?oc=5",
+      "source": "Yahoo Sports",
+      "country": "미국",
+      "category": "스포츠",
+      "publishedAt": "2026-10-05T22:34:08Z"
+    },
+    {
       "title": "Amazon Launches Prime Day Discounts on AirPods, iPad, MacBook Air, and More",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FbzBkTzFhTlFiank2aFRfRE9OVzdWTFRfMDJpRF9OeHBQOGNPc3dSUXI0N1NyWG1HQ0FLLVhzT1FGQno3R3hwMWI0NUpTYmxXY0lYaXJsOFBxdllaWjgxaFN1TFJNdTBOLVNlTWEwWGFPSS1s?oc=5",
-      "source": "MacRumors",
+      "source": "macrumors.com",
       "country": "미국",
       "category": "기술",
       "publishedAt": "2026-10-05T22:22:57Z"
@@ -50,10 +59,19 @@
       "title": "[우분투칼럼] '아프리카 속 유럽'…이중적 맥락과 비즈니스 통찰",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tVFVaZGE4NVZYSEIzRXB1OUpjRk8xOHp4eVVqZTlwZWtfOGlnRlFqbmcxUFc3YkRDZ0pLSTI5WGJlV3ZValE3eFkyTUR5YlhQWUFYejBYX1FZbFXSAWBBVV95cUxPbHFsdG9wRG9PMjBjdjZqLURjVkMxaDh3a0pfdTltV3VjOWpTenN3eDFzQXUzT3JWYmZ2clpEMUtrNEpETncyV1hyQ19zOGgtem5maUF5cXc3bndFWV9xRi0?oc=5",
-      "source": "연합뉴스",
+      "source": "yna.co.kr",
       "country": "한국",
       "category": "사회",
       "publishedAt": "2026-10-05T22:00:07Z"
+    },
+    {
+      "title": "‘나고야의 영웅들’ 금의환향…“LA 올림픽도 기대하세요!”",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QVjJZaWVkUVduQ0xmWnlCd3F1QmVFa3o2Y29JUy1kRlVNY3pkNkY0aTNpampFUTlLSUgzdmdyOEVhZDJpUlUwU2F3TDdJN1NlMG41WXNUWV9zUzU2SnhkNk1ORXEtZw?oc=5",
+      "source": "KBS 뉴스",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-10-05T21:48:00Z"
     },
     {
       "title": "White House AI task force faces expertise, partnership challenges",
@@ -77,10 +95,19 @@
       "title": "[스타in잠실] '9회 2사 역전 3점포' KIA 김도영, 고우석 무너뜨리며 슈퍼스타 자질 증명",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9idG1WTWt6MjVXTWQ0Nko5SG9NVVhwVkdTdGUxT1RCbjZaSHdCSjFNVmVaSGNiMUV3Rzl1ZWtfelNOMmV1em9mbGxDMHlUUklkbjNYMFRuQWgyZG5L?oc=5",
-      "source": "뉴스핌",
+      "source": "newspim.com",
       "country": "한국",
       "category": "스포츠",
       "publishedAt": "2026-10-05T21:35:00Z"
+    },
+    {
+      "title": "美국채금리 상승에도 뉴욕증시 상승‥나스닥 사상 최고치",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EUUU1Nmd6RU9xUHlmRDhPbW94aVlzeFRCckhyZVYxeFcwT1d0bnpiOUNnNUZWYXd0MFpfSk1VU1BYQ3dyU0loS242cU5NejFyemt6d1VtY0xneUxEM0lHVHFhUnBfaVMwMUVpaVFYdjNPUVFN0gF0QVVfeXFMTVZuck55bzhKbGYwUVVjUE0xVHp1MTA1RzFYRkdpZVhySXh5dDZ3Y2p4X21aekc1MExacjlQVHJaZ1ZXRG1HUHlLbFRrUFdKa05PWC1vNUFxMWNuRTdZbl91YnZKRW1KWjF3ckFybnhFdFBqWDk?oc=5",
+      "source": "MBC 뉴스",
+      "country": "한국",
+      "category": "경제",
+      "publishedAt": "2026-10-05T21:34:56Z"
     },
     {
       "title": "AFAS offers childcare assistance to Air Force, Space Force families",
@@ -95,28 +122,28 @@
       "title": "사회연대경제 판 키우는 윤호중 장관",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iMmh0SlByN2UtWUhrcWswaFVDZUxMTzlBYjVEeDhHR1FkRi1MblEzWUtnWG5kcHVVY2tJa0dsQ3Y3M1NhZlAzaHc2eXI2bm1GcUZHbzBGQVXSAVhBVV95cUxPYjJodEpQcjdlLVlIa3FrMGhVQ2VMTE85QWI1RHg4R0dRZEYtTG5RM1lLZ1huZHB1VWNrSWtHbEN2NzNTYWZQM2h3NnlyNm5tRnFGR28wRkFV?oc=5",
-      "source": "ajunews.com",
+      "source": "아주경제",
       "country": "한국",
       "category": "사회",
       "publishedAt": "2026-10-05T21:00:00Z"
     },
     {
-      "title": "AI가 일을 끝내준 자리, ‘내가 해냈다’는 기분은 남았을까",
+      "title": "AI whistleblowers join Google, Meta, OpenAI at NYC hearing",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNnN1d3d6WkJJNVZEMnRUb05qbFNxR1E0OTdaLTg4dUp5Z0tGNDFvNjZqS3RIdkJXalBSNDNoRmktOVIwTmpNX2RvOGVJbnZXTWJoVnFNdkFjekFiMDVsRGFMYkQyN0dFdUVtUGlvZmFoaFk4bTd3UmR1Yi1WNnZwcTZSSQ?oc=5",
-      "source": "조선일보",
-      "country": "한국",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOHJydEo0VjNfR1l0eWVTUlFTd2Zka0gxcWoyOUV3N0ZRVU9JOWVxaDI5Um91RU4tWW5ldk9EWjMzdGw4NzEzbzdiMVp5NW9Ud1dQT21YT2hfVVBfZElhVG9uWm9pUnJEN3d5MWNnZWNmMGdlSnZJS1dsTE5VcGJVbjVad01fMFdtOGdTM1Jmc3JneUnSAZgBQVVfeXFMTWJlb3RSWUFHMlRSaDNNMEhFNGJnaEdncGtRbWNmUzlld3B6Ym1tZng3SmM0WG1Jal9TX29qOU9tYXpxaVBNYV92WXNTLWxQeWt5MmJUaWZJamxOV1FpNjQ0VzAzUGQ0dTlULUppZlQ3YjFnZTk4ajQyX01Way1LVnJmdTRfVjgtby16Y19KTmp4Uzk1WEhNSUM?oc=5",
+      "source": "ABC7 Eyewitness News",
+      "country": "미국",
       "category": "AI",
-      "publishedAt": "2026-10-05T21:00:00Z"
+      "publishedAt": "2026-10-05T20:59:45Z"
     },
     {
-      "title": "국채 금리 고공행진에도 뉴욕 증시 상승...나스닥 사상 최고",
+      "title": "오픈AI '불량 에이전트', 위키백과도 무단침투…서비스장애 유발",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aMVJ5emVkUWx4cFllZXFCVEdVSUoyMmoxZkpCWXVReEUwdldzVGp0dXI2cG55cDZaa1RHcUFOdkJjMXdCN1hxeUQ2LXQ5TUI4UXBHQnk2Q3hUeUxQMlE?oc=5",
-      "source": "YTN",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qamdwenRab01mME5kYW9Da3ZFVFVrMXpJSHVrT3ZqWk1sc3JjaGFuMEhYaEJSWnUwZ1VCQTdRS09vdXJROFFiQjF3WXhaU254UDFudldDX0VKSnFpcGRUQdIBYEFVX3lxTE5qamdwenRab01mME5kYW9Da3ZFVFVrMXpJSHVrT3ZqWk1sc3JjaGFuMEhYaEJSWnUwZ1VCQTdRS09vdXJROFFiQjF3WXhaU254UDFudldDX0VKSnFpcGRUQQ?oc=5",
+      "source": "yna.co.kr",
       "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-10-05T20:52:00Z"
+      "category": "AI",
+      "publishedAt": "2026-10-05T20:48:09Z"
     },
     {
       "title": "SpaceX To Reattempt SDA Mission, Rally Continues Amid Busy Launch Schedule",
@@ -164,15 +191,6 @@
       "publishedAt": "2026-10-05T19:53:00Z"
     },
     {
-      "title": "AI whistleblowers join Google, Meta, OpenAI at NYC hearing",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOHJydEo0VjNfR1l0eWVTUlFTd2Zka0gxcWoyOUV3N0ZRVU9JOWVxaDI5Um91RU4tWW5ldk9EWjMzdGw4NzEzbzdiMVp5NW9Ud1dQT21YT2hfVVBfZElhVG9uWm9pUnJEN3d5MWNnZWNmMGdlSnZJS1dsTE5VcGJVbjVad01fMFdtOGdTM1Jmc3JneUnSAZgBQVVfeXFMTWJlb3RSWUFHMlRSaDNNMEhFNGJnaEdncGtRbWNmUzlld3B6Ym1tZng3SmM0WG1Jal9TX29qOU9tYXpxaVBNYV92WXNTLWxQeWt5MmJUaWZJamxOV1FpNjQ0VzAzUGQ0dTlULUppZlQ3YjFnZTk4ajQyX01Way1LVnJmdTRfVjgtby16Y19KTmp4Uzk1WEhNSUM?oc=5",
-      "source": "abc7ny.com",
-      "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-10-05T19:52:30Z"
-    },
-    {
       "title": "Ignatian Examen on artificial intelligence, Oct. 7",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYTItWnpBcUNjcHZKUlkzd2QzV2Y2anpCazFnbGI3Y2lYNHhlVDFlQUQ0QXlHMktmeU5UY3N0NHdYaVlfNkpMRmdtOHRpaWpsNkFTLUtQMlJnc0dnaC1IZkxXeWZwVHp4UlFNcWJCa1VVWDJkUzMyTWEzTENMWExPM2prYmtjVjFXU3ByNVNR?oc=5",
@@ -182,15 +200,6 @@
       "publishedAt": "2026-10-05T18:46:35Z"
     },
     {
-      "title": "AWS Well-Architected Agent 발표, 클라우드 환경을 최적화하기 위한 AI 기반 인텔리전스 (미리 보기)",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNX3JWT1pwbHhNbUQ2aHpIdmZKTUdmVUhsa1dtS0ZiQzhPYVlOMjNYTlVXZm1tanA0cU1JV1dnaFV5Wk4zMHRMNDcxVk90cW0xLWdIOGg1RDdOQW5kMGF6dlgwbGxGVm42akl0YUxfNkhzcHNGeEF5OWFNbUc2bXI1elFOTGdTOTBsNjdGbjUxSkJOYmFxNWlGdy1WRkoySXFIRHp1X1RtRW9tMlViYk5JU2RYUjIteXlfLWFkbGgxYnBFU0lGbDRrcUhrb2hKR0Q4MWVxTF9Sa053bEpldzJZ?oc=5",
-      "source": "Amazon Web Services (AWS)",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-10-05T17:26:54Z"
-    },
-    {
       "title": "New Supreme Court term begins with justices stumped by climate change case",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU1FnOFdJSE5xQXFjdUJTaFFpNG51S0JLeVhIWE4zR3BnYW1pdXlFZ1R0RzJYTENIVnUyaEZELXJFZWljVTNVMHE5OXV5dW5LZl9iSTRlTFRUYVZlZF9ESG02eUl0ZUhwVk5ralJxT2NzRFNtUmRqYnNnVjJqOGVycG1XQVFWOUZmb25aakFPUE9yWWpQVjNRdzRUeWJRaVFRWmVJZC11X2RuX3k5aDMwdzBacHRLQzFycnFsMEhZWEZOSGstTUE?oc=5",
@@ -198,15 +207,6 @@
       "country": "미국",
       "category": "정치",
       "publishedAt": "2026-10-05T17:11:14Z"
-    },
-    {
-      "title": "조희대, 국감 증인 불출석…민주 “그럴거면 사퇴” 국힘 “겁박정치”",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XaFBrRk1iemVpSWRFWlpXLVJ6UkdzajJyb1c0aDc0c1NKSkpxZFd1aDE0azZ5b0VUVHdpSTFld3JUNkFTdjdFckdyclViV1dLR1lkX2dNVHFXdFFmVzk5NzZlcFBDUGZQU2FLenhvY2J3VGsy?oc=5",
-      "source": "한겨레",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-10-05T16:50:00Z"
     },
     {
       "title": "‘Phoenix planet’ may have formed from a dead star’s ashes",
@@ -227,15 +227,6 @@
       "publishedAt": "2026-10-05T11:30:00Z"
     },
     {
-      "title": "[아시안게임] 병역 망발로 물 흐린 후배들…이강인·손흥민은 달랐다",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yTHl0VGczaFBnaEFOMVJvRmNZbnVoYmdqMUUyTnAxSjU1ZVNHT2hibGltSFZmRzhIVGdFd0pQN1RyVFB3Y2dDSDh4eGFIU1VvUFBpZFByQ2VUWUHSAWBBVV95cUxOR013VWp4TTlFTmNiR0JOcmlWMThaRjlvSVZ2RTNEb3YzVlB5MVdzVzdQZ1o1czJkQUZzN0t0YkEwTW5uNURKX2Uta05McjY1V3lmRGNHcEZVdHlsbnNKUUs?oc=5",
-      "source": "연합뉴스",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-05T10:55:27Z"
-    },
-    {
       "title": "오늘 저녁 노벨상 레이스 시작… 주요 후보는 누구?",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbWJFM29OV2pKMkFHR0JFOE5hZGdUNHE0c0ZxT0t2UVpjWFRhMUNtd3k0a3cwVnVTYzlWWG92UU53MGdEazBOYy1JdE5NR211WUdrbmtHVEtLTzdXMmJQaFlZSDltS296T1ZjZzROTVFaTHlCZkJsMGdDbFN6UHRzcFJrUQ?oc=5",
@@ -243,6 +234,15 @@
       "country": "한국",
       "category": "과학",
       "publishedAt": "2026-10-05T08:09:00Z"
+    },
+    {
+      "title": "조희대 국감 불출석에…與 \"예외 없어야\" 野 \"국회의 횡포\"",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM2dMUXdseW83TDROblV0ai10bUxWSUxtQ3FhVTRCSmg2X3kzbU9VOVZ5YUxpaC1HN0VsalFiWmJ5UTU0bTY1MHduMzBLMjBGc2FQNzZIR1RORlVGcHZmSHBpbWRHQk5vZXZtR3dNc1VLX1JPb21aaTNMYktxMUNxREJRTkp2QQ?oc=5",
+      "source": "조선일보",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-10-05T07:22:00Z"
     },
     {
       "title": "[속보] 군 “북한, 자발적 제거 안 하면 제거 작전 지속”···DMZ 사고 현장 북한 지뢰지대 제거",
