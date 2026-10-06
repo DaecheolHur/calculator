@@ -1,41 +1,59 @@
 {
-  "generatedAt": "2026-10-06T15:34:06.047459Z",
+  "generatedAt": "2026-10-06T16:36:44.340160Z",
   "items": [
+    {
+      "title": "S&P 500, Nasdaq hit record highs as Treasury yields stall, oil slips",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ0p5VWxQQ0ZmUUI0Vk5wRUVjTUJhZjZGUlZjU2tWU1AtOEdqYjZ0OFRtRXNrUVdrTFlNZjVWdzluRjUyaWhHTlYxMG5Yc21pMHFubTdiX1RIRTRUSnB4UTZPckRMZTlzTHBEbkZKU1ROMTZpWE9lMXhPQkhyQmhBV3JNdkFrQVk?oc=5",
+      "source": "Reuters",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-10-06T16:02:59Z"
+    },
+    {
+      "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iWkJqZmxiVTl4aFBGOVNHYkphbG5kSmpDRElxcS1MYlI2VFhKbUkxVlQzZWItczByMVBDV1p3cnkxbzdHMFVoQzlBaHRVMHhuNzRTV3RfcWlCTFE?oc=5",
+      "source": "BBC",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-10-06T16:01:11Z"
+    },
+    {
+      "title": "Clarksville Deal: Get 1TB of Koofr Cloud Storage for Life for $129.99",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV09KcHotd0hJTGpIbDJxUjNTalFfaTFGLXZHa21rZXF1T1FIZ3F6MkwxRTd2OXVTYzN4a0JaSk5yVEhsVGh1TEdLdE9OWndiWE9wRHVzUF9QR3ZLVGRmZXdTY1hKYnpGU2hOY1phOXpsLVhxdGw3aWlsRExnNVpaQl9lc3VaT1FHTGNkNm40blFSdXFTbVN2YktPSm5STUhtVE1Z?oc=5",
+      "source": "Clarksville Now",
+      "country": "미국",
+      "category": "IT",
+      "publishedAt": "2026-10-06T16:00:00Z"
+    },
+    {
+      "title": "MIT announces the MIT for America initiative, to strengthen STEM education across the country",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaE03bC12UTVFMi1ZUldEQUFUbWE0aXNhYkFKZzZfY0kxcXJKVTBLbHlMQklIWS1meGRBT2xZLTA4VE5nTDVMdXZCOGh2MVE5SXlIQjlISTV6MllxMG95R1NBYnlSX3B3MXdsSFB2WF9uNnlnLUJWRHdpZGZOek03Y3k1cW5Fc3lIT1NseXVBTGlTOU1sSmU3eHZ3TQ?oc=5",
+      "source": "MIT News",
+      "country": "미국",
+      "category": "사회",
+      "publishedAt": "2026-10-06T15:00:00Z"
+    },
+    {
+      "title": "S&P 500 Hits New Record High",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX3I1OEszTzJJODJ2akRVWUllemVFREIwckxfdkdMTEZ2TnRYNXBlbV9uVGZCMjF5aFJHcXE3RFp3RThWUEdIRUdpMVczeGpGZXN3MFFvcnlObF9lbnh6YXdRWXBta2pNTVJJejhEcEJPSzZ6aTZvTzEycG5KaF92eHN1cUhaNUUyalhkTWJ4NGdlZlVENjBKMzdHYUZQdw?oc=5",
+      "source": "WSJ",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-10-06T14:40:00Z"
+    },
     {
       "title": "[미국 특징주] 美 소프트웨어주 연고점…\"AI는 파괴자 아닌 조력자\"",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBrUVJKM0VRMi1uRFlWTlNyNkZTMkdMdHBkSmdsUkc4Tmg2elpwLXVPUnJKNjFnQmlqQU83N21SOF9FVWpIMmw1WkpVYUZtSjhmYWZzaUxPaUU5bUNB?oc=5",
-      "source": "newspim.com",
+      "source": "뉴스핌",
       "country": "한국",
       "category": "IT",
       "publishedAt": "2026-10-06T14:33:00Z"
-    },
-    {
-      "title": "US stocks hit record high, shrugging off bond market turmoil",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CVkNXNkYyc2ZNcGxWSXlXMkFqZnA1ZGlQRTJHUXhZXzhnb0NrVEJ3eXBYQS1wS2xEcExvd2pVUFpndFBLUnd2SFIwY01uOGdzbWc5aURKLWIzVEZWQkJRQ2tGQUNzb1E?oc=5",
-      "source": "CNN",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-10-06T14:25:46Z"
-    },
-    {
-      "title": "34+ Amazon Prime Day tech deals: Save over 50% on top products from Apple, Sony, Bose and more",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMlB4V3AzT19tVGtQTm1zWlJMRzYwVGVidGdQR0d6UkNnc29MckNRT1kxQnZNVUZKUzV1YVRGM09NQUJLMUtpWEhxb1NoMzI2cTlaRjdxT1liWGVTVDBCZ1FkR2ZESXhsRjg3NmJYZWY2bkJlS3lRcXVOVFA2bUhSZTdFQnRQU21fdUgtYg?oc=5",
-      "source": "NBC News",
-      "country": "미국",
-      "category": "기술",
-      "publishedAt": "2026-10-06T14:25:10Z"
-    },
-    {
-      "title": "Cornell faculty senate introduces no-confidence resolution over handling of alleged 2024 sexual assault",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTG9yOVdyZUFHRDFXQ1lFMUREZkQ1bmNDWUhiWU5fTjV0VUxEekdoY0NPdjlhMkNaRl9DV2tnTVVFeTNiaTlUSFdxTElMZHFEVk1fYUk3YUNiX0dNS2llQXVtUW80eWF1UVIwbGNXcl9rVHFVMlpjVzl4VTYyT2IxYjk3NVdvejFVMmVOalFtODQ4X2hWZlB0Z0RDYk9Sb0U1S0gyNzFFME5nMWJvZ04tdktMZk9DYUw2TlE?oc=5",
-      "source": "NBC News",
-      "country": "미국",
-      "category": "정치",
-      "publishedAt": "2026-10-06T14:20:23Z"
     },
     {
       "title": "AI가 24시간 건강·안전 상태 살피고 복지서비스 신청까지",
@@ -56,22 +74,40 @@
       "publishedAt": "2026-10-06T14:12:12Z"
     },
     {
-      "title": "FAU Receives NIST Grant to Build Quantum Cybersecurity Workforce",
+      "title": "OpenAI, Anthropic, Meta, Google stop short of AI safety guarantee",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NWXktSzRHSjFEb3RvZjRDdmpkVHdjcEEwVlNZdkQ2NWRrQWZULU9uQ2ZqSmFGeUoyYm9HUGxsbXZqZ3pMX2RHa3Y0R3o3aUlzTmEzZDFtNTVKMFdlQ0VSVWtkTkQxTzlhX0VVelh3N2I4dGNy?oc=5",
-      "source": "Florida Atlantic University",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1KVVk4bTFKdFJDZ0VqU0dpUVdGNlFUWWxubldpQ00zOS1iTGhOQzY0NU80OVFGWVFiRkR5eEVtM3p0T003UThnUmJBU0tMNXctNElXaWN0T2kzVDl3RWRpQzg0UHZwQm5CTXd5SkJGTGJ3Nmk2SUFr?oc=5",
+      "source": "Fox News",
       "country": "미국",
-      "category": "IT",
-      "publishedAt": "2026-10-06T14:03:40Z"
+      "category": "경제",
+      "publishedAt": "2026-10-06T14:10:00Z"
     },
     {
-      "title": "Done Deal: Paramount Completes Warner Bros. Takeover, Creating Hollywood Giant",
+      "title": "원고 꺼낸 조희대, 제청권 6분간 강변…민주 “대통령 임명권 위에 있나”",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU3FwTGxpUUJXeGhuX3RhUFlVa0ctN3BaQWZvWkNRdlBySDlqYk9WQ2tCVGxVQThJWXJYVW8xX0hjQkFCRkExSy1sS1U2ZERiT1JDMk8xZ2ljcElNT2x4U2JscXpGTWZnb3N6T250R1l6ZFR1MGFxQ0tFSTFWVFdfTUhPS1c5RGxnVGtUSHJxNlRIRmU4UXdnaUFFcU5RTWlYVlBSS1pWMTgtdWxtbXQ1UmdURk1pYVZoZkZTNQ?oc=5",
-      "source": "The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jM2NtMXA2dTZCQ1ZFTFRaWGg5VjJYZGpqc1BsbDlUcC1nVlVOUTVoVWZGaVJQazFOX3Q4NnVKQ2ZmVzcwRWx1dDRPWnZtZlhZRmpaYzNKY3dubWg0YjNLT1pZRXR6OTZ0WHc?oc=5",
+      "source": "한겨레",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-10-06T14:06:00Z"
+    },
+    {
+      "title": "S&P 500, Nasdaq touch new peaks as Treasury yields cool, oil slips",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ0p5VWxQQ0ZmUUI0Vk5wRUVjTUJhZjZGUlZjU2tWU1AtOEdqYjZ0OFRtRXNrUVdrTFlNZjVWdzluRjUyaWhHTlYxMG5Yc21pMHFubTdiX1RIRTRUSnB4UTZPckRMZTlzTHBEbkZKU1ROMTZpWE9lMXhPQkhyQmhBV3JNdkFrQVk?oc=5",
+      "source": "Reuters",
       "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-10-06T13:57:57Z"
+      "category": "경제",
+      "publishedAt": "2026-10-06T14:01:54Z"
+    },
+    {
+      "title": "Amazon Prime Big Deal Days Offers Major Discounts on AirPods, iPads, and Much More",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ITDE2TnBJck1VWXdMV1o5bkdsdUIycmhNOXRnb1d0bTlNT3M5VENmTXJIb1lFSW9jeUdDZ0QtOVFmSkp1b2dmMFhicTNhaGlmak0tQjlrSkVwZ0ZzRXhMZVJJdndubV9sMXpSQXFKaUM0amJKaHotZw?oc=5",
+      "source": "MacRumors",
+      "country": "미국",
+      "category": "기술",
+      "publishedAt": "2026-10-06T13:58:03Z"
     },
     {
       "title": "AI resume building: Tips to be careful when using artificial intelligence for a job search",
@@ -83,40 +119,31 @@
       "publishedAt": "2026-10-06T13:46:18Z"
     },
     {
-      "title": "Report: \"Outside chance\" Lamar Jackson plays in Week 5",
+      "title": "데뷔골 이후 15년9개월 걸렸다···손흥민, 차범근 넘어 한국 남자축구 A매치 단독 1위로",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZjNyNzhSc3djNkZWX3NrNDZSSmlSY2hNaVRtb1R0bVVSelZ2MWZvY1p3ZGJHTzBmazBGbjNjUmtXMWJtSW5XbTN3QWJmNVNiV2J4TWdpNkgxSW43YmVUd3JGZDhJQWcxVmc5OTFyVFlsRTNuRmI1eWRYOXduaXotdnl3MWNDVHlkczdUN0JzdUVOby1ZRHNNeVdwOC1oUktyTXdHTDFSWHNyQTFlb1JpZkhUSQ?oc=5",
-      "source": "NBC Sports",
-      "country": "미국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-06T13:15:38Z"
-    },
-    {
-      "title": "조희대 “대통령과 대법관 제청 협의, 헌법 근거 없지만 자진 협력해온 것”",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkakJHTHVHdGJieERhRDlsMzFsbFRCWFM1THBXaDJwYVFtQ19sN2xUMmN5MUE2V20tLWF2S09pZHRLR1ZyRVlFX0RCUFFvVl9ia2hORzViSEhFVFBlRmFZSUFyQXFiUFM1bEowSzZSakhETnNS?oc=5",
-      "source": "한겨레",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0Z1ZxUVpNTzFINC1TUlA2NDRzMXA4cTcwYUR2cE42Q2JoeHc4UnR0QTY4eXI2OVZfbzZnNW9sM1BLY0FZeV9VQWlqSmVnVnBMNFpkRnpTbGsyd9IBX0FVX3lxTE9KUmdsYmtSMjVwc2NnbDZIZTlPb1JoenpjaWo0N1p6d3ZRZTdmS205NzRTR2JPTDRSSUtPcnY2dS1qdkNSdmUwV1JQNXVrU1paU2tMd2phVnliUndEMTFZ?oc=5",
+      "source": "경향신문",
       "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-10-06T13:13:00Z"
+      "category": "스포츠",
+      "publishedAt": "2026-10-06T13:30:00Z"
     },
     {
       "title": "Collaborative research using artificial intelligence to optimize assembly line production",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZFJQdWVqWWJIdkVhUjZNN29ncTJndVI5MUI5enEtYk5lUkJIZTAwcnhzWDJHWkw5UlhnaGEwU1lPMWRFbmJTVnFmTWJIeU1DakJ6bGdmNXBOc0gwSndIdFdjY1pjN2ZMek1uYXc4aGwtVHZfR3ZFWkpyUE5CQm40dVJla2kxSlJpbVh1OXNsTzgybXV5UVNxVmJnZWhxRUU3NERiUmliQ3dMZWhZU3c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc09JM3dYRHJ5Y2t3QkphalZuQWNocEtRZUpvWDZ5Z2gtZll0RFA2ZFF0Ti1wRVJjbnlESHhYVnBaRVE2dmR6YzJPd1NMMFBQd2FwZ2ctenZZYTROa3E5RkVsY3RHckg2RzZBLXVHMjMtSVc1N3hVNzRiWGY0TGFLU1BIWFV0R0ZydmNMN0FEUVdvaDFZSVI2TXRJNkxrNld3TVFqM1ZFNA?oc=5",
       "source": "Auburn University Samuel Ginn College of Engineering",
       "country": "미국",
       "category": "AI",
       "publishedAt": "2026-10-06T13:08:27Z"
     },
     {
-      "title": "부산국제영화제 개막…‘세계적 영화제’ 높아진 위상",
+      "title": "[핌in부산] BIFF 개막, 글로벌 영화의 바다로…샤를로트 갱스부르·판빙빙·양자경 출격",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zQW1uX3ZqTWowejJXSGlWWThZY21RTXlnaE9QN1NXRm0xbjNIcENWUzZITlM0NU1UdXh2cjA2NVZqLUtVYU9rdEJ0eENtWkhIOEhrMU1ScmZFMElzckJNT3VULWEtQQ?oc=5",
-      "source": "KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOTEVhUG5IVFFFVkdTOGlOaGdUY0Fxa21QYXkyQXFsbXZ1NDZfWkNEX2V0REI5MnIwWGsxWVA5U0JLaU9BSy04c3dZVDE0cmdHOHVWSGpfUldDQQ?oc=5",
+      "source": "뉴스핌",
       "country": "한국",
       "category": "문화",
-      "publishedAt": "2026-10-06T12:26:00Z"
+      "publishedAt": "2026-10-06T12:42:00Z"
     },
     {
       "title": "연휴 끝 코스피, 7,000선 하회…외국인 매도",
@@ -128,42 +155,6 @@
       "publishedAt": "2026-10-06T12:25:00Z"
     },
     {
-      "title": "해킹 관할은 경찰? 중수청?…시작도 전에 ‘유권해석’부터",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rRmczMlVwN1hBZng3YkxhUmRyRDNoS1FBV1dXY0lfbFZsenlqRHdtZmp3U3FTdUVFX1Q1elVVOEE0T1dtUmdnaE02bkJiQ0NoV1hRZVRNc202SFU?oc=5",
-      "source": "KBS 뉴스",
-      "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-10-06T12:14:00Z"
-    },
-    {
-      "title": "The top biopharma conferences in 2027",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ3Y3M1NhekFLdHpFX3pqQmctWlJjdi05SmlYUzRNUjlmbnZ0ckVQUzlwbE5LOVpMRWJ1LVBjdVA0aTI1Qm5ndmZhSXBTblFGSmloM295SmIyY1ZDMXFnMmFxM18wWTBTYkZMVHBKd0wyRDQtcnNaNlliYk5xa0FGRGFqTkR2UUtLVFN6V1JDSQ?oc=5",
-      "source": "BioPharma Dive",
-      "country": "미국",
-      "category": "사회",
-      "publishedAt": "2026-10-06T12:03:16Z"
-    },
-    {
-      "title": "Now It’s Clear Why Amazon Didn’t Want to Release ‘Artificial’: It’s Withering AF",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQalJ0YkZiY1hXQkVKNC1nRi1TTVZlWmNUazRkZFNOSDNOOXlsSDh2ZzU1a3ExUWRxYXI3NjZsdVhfaG1ZYUVXWmYzMWtQUUxUMjYxbEpCWExKNTBLMmlBVUxqWmJqU25ybmhjazA1Wk1KLXdoT3lwd3NpcDVjMEVseUpEQVdtcDFfaGpTZWhsQ25DLWVZM2R1QlJySm5ORTJLei1CbXpR?oc=5",
-      "source": "The Hollywood Reporter",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-10-06T12:00:46Z"
-    },
-    {
-      "title": "손흥민, A매치 59호골 폭발…차범근 넘어 ’대기록’",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pZW9FM1A4N2VYeXBlb2FMSGNCd3B6dWlxYnN6aTdlR0o3dFJ6dzN0c3c5cDU5b3pGck41UEh0MWlaYld3cVp3UE9jUmJTZG1pN3V5UzA0Zm5Qb2huWEV1RE42Q1ktalE?oc=5",
-      "source": "연합뉴스TV",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-06T11:32:00Z"
-    },
-    {
       "title": "노벨물리학상에 할젠... ‘우주 유령입자’ 중성미자 포착해 우주 관측 새 길 열어",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTUxCVjdsbU0wajZNT3RLQ3Rnd0RyM1Blb2dXWWdfcm0xY2txOVZzWGlfRW5VU0FJVkZucS1xTGg4dHluTUhOZ0RKMy1reFVkMnRBay1KdDdzZXA5RTYwMndPcmh6cVk1d3Rqdnd5TS1BSjJ2bVNiUnlhYjR0aG9famdVbw?oc=5",
@@ -173,40 +164,40 @@
       "publishedAt": "2026-10-06T11:25:00Z"
     },
     {
-      "title": "박정희 고향 구미 지역 멀티플렉스, 결국 ‘암살자(들)’ 내렸다···경북 국힘 의원들 회견 연 날 ‘상영 중단’",
+      "title": "Lionel Messi prepares for his final match for Argentina",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJbjBGRHI5VjJxYzBOc0xmaGtmY3c5cGdiSEk1TjNMeXN0RE1sY0l3cG1wRURjRzIwek5Kdm0tTWp4LW9XNFUxcC10Y0JWLUFPN2VjOWtPVnJqZ9IBX0FVX3lxTE91YmdLdGpCWTd3YmFfWURIRl9VeUNZLWFSN0hVbmh5N1c4NDg4R0VBSGJvWm80TlZielVZdTZiMXN2dHFFX0ZMN0pmYURRR1JNaUV3V1JnMkxxY01Tejcw?oc=5",
-      "source": "경향신문",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-10-06T10:49:00Z"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdzllczc5VVVIbUpBWmx3TTMwUVNYMGRVUWJXaWlzSmFLS243NzhSalJzSmxKYUVyejlMbTNZVnRTMXBMNDR5ZDFwOG9fYWl5WVVzeG10R0VWRUhFcm1obVJ5cktxY3E1VkpGMTdjWlo2N1AtbmQ3UmpERTJvZFQxTXdqcGplY0pYNDZYSGlRcnAxMUloSURhcw?oc=5",
+      "source": "AP News",
+      "country": "미국",
+      "category": "스포츠",
+      "publishedAt": "2026-10-06T10:28:00Z"
+    },
+    {
+      "title": "‘Artificial’ Review: Andrew Garfield and Yura Borisov Shine as Ethical Opposites in Luca Guadagnino’s Riveting Real-World Tech Nightmare",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNG1KNEFGSmpJcWdQRW5VNWJWYTV2dzR1bUxIM24yMi1TSlRJU3V5STBxZlAyOU5lRkltZUJYa2ppSTc1NmtjTEdJcmV0bTM4enRyaFYtRTkzR0NKMmJlcENrdm1lMXRMN09IQ2JlVW40elZNMDE0bmlrLVA1V3FKR0FvNkVwcWZwUDhzczR5dXdIaDFJMjlLc1lOOUdFYVI1Q2tUSmx5RGFpRS1JMEZhc0k1VHZFRFFwejd1MXdGOGFoQQ?oc=5",
+      "source": "The Hollywood Reporter",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-10-06T10:02:28Z"
     },
     {
       "title": "“대한민국이 공격당하고 있다”... 국정감사 달군 사이버보안 공백",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zaXBiOUNRc2sxMVRvWkxtdVJYWTZmalhBYlpqc3FBazBEYTI1YWo5Q1FwS0s3ZlJVU0xudDZJOWJrN1hmd3FKQjFoZ01pTE1uOXBycmIyUkNFbGRHQkJJWV9COWduQlVxaTF3?oc=5",
-      "source": "boannews.com",
+      "source": "보안뉴스",
       "country": "한국",
       "category": "IT",
       "publishedAt": "2026-10-06T09:43:58Z"
     },
     {
-      "title": "Wall Street Eyes Record Bonuses as Profit Heads Past $90 Billion",
+      "title": "What happened during Christa Pike's failed execution",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcXZjX0s3dUVhaERiLVZfTlc1YmUxTzZMSjVyS3pxQ2ZZVnRLbGN3OVRqRjZCYXlBSEg1d01ha2tMV19McktMQVlycjVnXzRVamF1bDQ5WnBGb0tMZmtIb2ZTaUtZZVJvV2xVNUdRaEhxNE1GN1RLS050S2M4bGlSODMzZmpFeG9HNlNnaDlaTWRaQjZsTjhTeFFlLXQ?oc=5",
-      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR3ZqZVRrVlJweUNRSmJRLW4xMVZBUjV0MmJVeUtobTRTYW96YmlGOTIycW51N1JtMzhCNm9aSGxLUjVQU1RMR24yOWppWHlnOEg0UmFRYkdHQXRhU1E5ckx5NktJeDQxLTJDQ2NtNUd3aFlrcXQ2U3hmbjBWcWJXUlJyQll2bmdPa1JrVTAxNG1zYUtMeS1pZ0wwTzZKTnVtaUV3?oc=5",
+      "source": "NPR",
       "country": "미국",
-      "category": "경제",
+      "category": "정치",
       "publishedAt": "2026-10-06T09:00:00Z"
-    },
-    {
-      "title": "프로배구 정관장, 신임 사령탑에 권순찬 전 흥국생명 감독 선임",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1keUhpellheFB1Q0x3NVRyZ3Y3eFRIZ1hGZEdXTTEwU0I1M09mdlk3RHZVYjRVWnJ3ZlVQaXR5TTB6ZVRaRUNzdU5yZEgtaTFRTElxSm9WMi1yVVJBNk9jQnFoYl9rMFZlbVE?oc=5",
-      "source": "news.sbs.co.kr",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-06T08:58:38Z"
     },
     {
       "title": "AI를 멈출 것인가, 사회를 바꿀 것인가",
@@ -218,13 +209,22 @@
       "publishedAt": "2026-10-06T08:02:08Z"
     },
     {
-      "title": "Tech workers who resigned tell New York City Council that AI is moving too fast",
+      "title": "[단독]은행 해킹 AI 도구 깔린 서버 52대 포착…80%가 미 LA 임대업체 서버",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNUJlaXNhSDd3T0lpTHh3WGdMTXVMdFJNMV8zbG5YX1ZEakk4MTdCMW9sTklLUVVKYS1sTjVQYnVkZEVmR0RwOHB6X1JvbUlzSzhNdG1CanBMMHNtRVVmLXdWN2VzVzVsejVJSlpHSUtMQ1FOUG10MmQ1bWFWdDNlYXd0TEc0Y182MWduRF9jWDFKZUZBbndWNUs3V1dMUEFmdWVYMUtsakdZLVFXUlJWYw?oc=5",
-      "source": "The Washington Post",
-      "country": "미국",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EWmR2aUZIdnQ5NEFjbGp2T0hkUHZhSlh3RTIwOVU4S2hybk02SnZWQ1ktS191cVhJWURNb19OMnBWaGpEQkFTSmJER3lRRDU4X20tVzM2djc5UdIBX0FVX3lxTE93M1R0MF9uLTNDN3NLVWF4cFVxMENWT3hRZ24yMTRuYlpCcHZtblNqS1hnTTJGa1p3Y0NXZ05XeTdKRWl4M09TOEI2RnNYVENNUEhxdVhVMnlzb1A0MXBN?oc=5",
+      "source": "경향신문",
+      "country": "한국",
       "category": "경제",
-      "publishedAt": "2026-10-06T04:50:00Z"
+      "publishedAt": "2026-10-06T04:57:00Z"
+    },
+    {
+      "title": "경찰 \"암살자(들)' 배우 협박 등 불법행위 엄정 조치\"",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5MThMNjQ4WUxXRHhrVXJWQjRqdnc1WXJjM0VwZS1vaEVHbllXZDhVbzZMRUtWWTduVk5FV2lDS2FZbEt3YUEzbWo2eVdyOUF0TG5sWmVDN183WldYUEkwaFBCeVZVclQ2MmVqQ2p3MWh5TE13Rnhz0gF3QVVfeXFMTUZmRkw0TlBnT1B4ekJ4dXVXeHdvTmd4T1RvV0FEeUxXTDRSclNWRXh6SDF4TW5yZUIyUWN3Vl84YzdQd0ltcGxCbTV6bGFRZzZ3Wk42UlZVdWZ6U2syU3dDcTJtMGVwTE01Z3FURUdrREVBcHlsc28?oc=5",
+      "source": "MBC 뉴스",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-10-06T03:00:04Z"
     },
     {
       "title": "‘엄지 척’ 후 용광로에 스스로 몸 던져... 휴머노이드의 기괴한 ‘은퇴식’",
@@ -236,6 +236,15 @@
       "publishedAt": "2026-10-06T02:48:03Z"
     },
     {
+      "title": "국방부 \"예술체육요원 포함 보충역 감축·폐지 궁극적 추진\"",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pTndaZVpvd0I1dGp3QVVNZ2o3eW9TSXcwTldxYk92elg4T250V2lEQ2w4NHZWRjVfcEVLUXg2a0tKcHplX0pKODhjLXFIMFhGTS1YbDZucHphR03SAWBBVV95cUxOSWJablJmQjcwTm9TRHBvSTEwdFRVVnM3M2hzQ0hJbktsS2NVVzNNc3RwRjBxaDZYNXFSQ0FFbzlZMXREbW5rQmtFUjhPcjdFZDVnYlRMLVBBTWpfWVBiYXo?oc=5",
+      "source": "연합뉴스",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-10-06T02:13:34Z"
+    },
+    {
       "title": "[포토뉴스] 한국사회복지협의회, 에쓰오일 '감동의 마라톤' 현장 참여",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xYVpRa2g2SElHelFtNkZGSTJVWUlCWnNlNENzd21GeDh2aXltVUNQZHpDUkU1aEtRZVhkUC1GUU0yRkNQaDlhbmxsMTJpUWdWZHlVTkRITEwxUm80ZHQ0OUctbS1OT0NHLWZFNg?oc=5",
@@ -243,15 +252,6 @@
       "country": "한국",
       "category": "사회",
       "publishedAt": "2026-10-06T01:32:31Z"
-    },
-    {
-      "title": "Where are the best places for life in the cosmos? A universe in a supercomputer yields the answer",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPamUzRnNNU0JqTmJ2ZG05U0VCOGEwOHU0X3Npb2RUWHBtUFd1SHF1dmg2NHRzNFhlajQ5TmJnTWtHLVN5UWhkVGE4WEM3c25KeU5BV28zUVVHSDJNWEF2ZmdJOXM2VlhSZGp4VXRxWjlRUFVXdklIVG12a2VPZ3BBZWhUTWFiT21ray1ROUh2SEZiclNIMm5XUFRLOF9xYlJuUDJyY0xtMzV0cXo5YmxvbEpYVlpQSFdjQnd4YXE2dmJHQlNxaEZzOXZOdw?oc=5",
-      "source": "The Conversation",
-      "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-10-06T00:24:00Z"
     },
     {
       "title": "\"AI, 이대로 가면 인류 멸망 엔딩\"…섬뜩한 경고 또 나왔다",
@@ -263,13 +263,13 @@
       "publishedAt": "2026-10-05T22:52:55Z"
     },
     {
-      "title": "Nasdaq notches record high close as investors focus on earnings",
+      "title": "The moon and Jupiter are about to do something that won't happen again for 11 years",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV09jSm4zWHp2ODd2SmNPRHdJcUhDcjNzZ3dwYkwzZ3NSVHdyVUdUVEI0TWltb3RKQUZucVVNa2l1UzAxWmtSd0hQSWFjVXV0WVZiUjJFNGJDeEZQVlhoWDJ5WWpxLWxuc3ZVYXBLR0QxSzdZMVFjSklpUTB2Q2YwdE12VFl0bUw2RGRjZ3VoUmFlMkp4UUstYy1R?oc=5",
-      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQnJyRVBpQVBLQzJfRll4YTZ2dlU5SzUzZEhDWTRTOWlOUEZydjM3eVhZaWFyazJxRVZzQ1RLbGw0NFA5ajBpSVZVTndjZm9ucDkzZENueWFHdFBrNHUtTG5FbFhHQ2FWWjNVVndxVGNlbjlqbk4ydjU1cHlFNTU0cHM0NE9lNjdRY01JdVl5Q0N1Y2NVSldZc29oTldsb0ZmVE8yclIzWndXVjNHSWF6QUljRDlvYTR3ek1RTkc1N2Qwem1FZ191eGRoRHduQURSTUpHSVlJNWxKNnEtUVE?oc=5",
+      "source": "Live Science",
       "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-10-05T22:38:44Z"
+      "category": "과학",
+      "publishedAt": "2026-10-05T20:20:56Z"
     }
   ],
   "briefing": [],
