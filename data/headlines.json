@@ -1,23 +1,41 @@
 {
-  "generatedAt": "2026-10-07T08:37:17.038281Z",
+  "generatedAt": "2026-10-07T09:36:07.226148Z",
   "items": [
     {
-      "title": "Penn State Announces New Artificial Intelligence Grants For Faculty",
+      "title": "Can Artificial Intelligence Learn the Art of Surgery?",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM0pDdERDb3hwcDE1NnRaUmpBaEptbU9KdkhkM3hYYmhFOVctSF8tNnFtRGFNdHhhbk1YNS1NRDBuUjZadndSa1diTHRCNlc0MDJlamZGd2FiejFfQ3JteFNJb081c3FqbHlJUlo0ckhfMVF4b2thcy1DcVA1Z19HWFN4eTNuem8zWGc?oc=5",
-      "source": "Onward State",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ0VmNlQ5UmFXQVB2b0pOYTZNV0RuaFZLVWZHR2dsTDV0OGZjUWVwV3ozTEhpWVE3M3d3ZDJTNmh5QUgtM2JTdldya0ZnUXZxekFPVzRYaVItMDM5dldDN0ZfQXlpYzQwbkFEeEZubHJ3WmhZeGVUQld1VVg2a0tBWUIzWHRzemJOSnM4WER5M1hwNlNSQVE?oc=5",
+      "source": "The New York Times",
       "country": "미국",
       "category": "AI",
-      "publishedAt": "2026-10-07T08:07:08Z"
+      "publishedAt": "2026-10-07T09:00:09Z"
     },
     {
-      "title": "라인플러스, 아마존 셀러 위한 AI 마케팅 솔루션 ‘워너블 AI’ 출시",
+      "title": "우즈벡 꺾은 뒤 김민재·황인범·황희찬 은퇴설···승리에도 웃지 못한 모레노호, 세대교체 현실로 닥치나",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mTEo4YlVfd0VMZXBMZlpOSU82eTY3MmdGN2RFMWF1TEp1alJINFYxdlRBRFMwSkNZNXJQdVM1THlFTWtUZGwwTHk1NUR4UVY4eGt3N3ZBNA?oc=5",
-      "source": "LINE Plus Corporation",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wcEdvLVFQM3Y2YTdBTy1sQzVYcW5aS1p3UTBxV0kwU3pyVGdhVllNNUlXUWV6eFIzOU1tNFkxSngtWmhfQWpxcEgta0dCc2RHUTlXWlUySmllQdIBX0FVX3lxTE52MFZQSXhOcnlSTVg5X1dJdmNNb1lfZEdmbjQ4ODZPdDJmcm5wQUk0a1pPTlJ5M21lcC1fekg4T1U2T3BEN3ZxcVpTdktneUR5aXZObUxneEwwaVNHc29N?oc=5",
+      "source": "경향신문",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-10-07T08:36:00Z"
+    },
+    {
+      "title": "기업은행, 중소기업 대상 'AI 캠프'…AI 시스템 구축 지원",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFOW9BOTRVVjdUalBrYTg3MEY5N0ZpSjMxUHNmZWZTVzNGM2xmVk5BUGNFRlNZek04ZEhGaUYtT3drNjY4d3o2ay1JRE9sUW81UE5nVXZQRHZ1STJRYlJBR9IBYEFVX3lxTFBFOW9BOTRVVjdUalBrYTg3MEY5N0ZpSjMxUHNmZWZTVzNGM2xmVk5BUGNFRlNZek04ZEhGaUYtT3drNjY4d3o2ay1JRE9sUW81UE5nVXZQRHZ1STJRYlJBRw?oc=5",
+      "source": "연합뉴스",
       "country": "한국",
       "category": "AI",
-      "publishedAt": "2026-10-07T07:22:45Z"
+      "publishedAt": "2026-10-07T08:04:28Z"
+    },
+    {
+      "title": "'메이드 인 코리아 시즌2' 부산국제영화제 출격",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WQmVKSGIwOGRpcWtOM2tTVkFtRnV1YVUtNlBYUjFkLVNud1c0TjJJZGJ4N0wyTWoycC01VGpxUl9vUmduNlBWYVAwanJubHFwTXJCYjZjbnFwdVJW?oc=5",
+      "source": "뉴스핌",
+      "country": "한국",
+      "category": "문화",
+      "publishedAt": "2026-10-07T07:59:00Z"
     },
     {
       "title": "코스피, 2% 내려 6,800선…코스닥도 급락",
@@ -27,6 +45,15 @@
       "country": "한국",
       "category": "주식",
       "publishedAt": "2026-10-07T07:06:00Z"
+    },
+    {
+      "title": "[1보] '명태균 여론조사 무상수수' 윤석열 2심 무죄",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FUm5OU0JGYlZEWEg4RDNraEJrUXp3UGE5amhBR1lSN2ZTZkl1aTNHYkZqT0wwWmZ4S0xLY2RNWXpzSGdrVDVjaHJaWUhHYUIyY2c1bmcwRVF3cURGNFFYWdIBYEFVX3lxTE1FUm5OU0JGYlZEWEg4RDNraEJrUXp3UGE5amhBR1lSN2ZTZkl1aTNHYkZqT0wwWmZ4S0xLY2RNWXpzSGdrVDVjaHJaWUhHYUIyY2c1bmcwRVF3cURGNFFYWQ?oc=5",
+      "source": "연합뉴스",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-10-07T06:58:11Z"
     },
     {
       "title": "인천대 이재성 해양학과 교수, 과총 과학기술우수논문상 받아",
@@ -56,6 +83,15 @@
       "publishedAt": "2026-10-07T06:07:20Z"
     },
     {
+      "title": "누리호, 목표 궤도 진입…위성 15기 분리도 성공",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rMi1POU9Ua3FNanRVd3JZdTRfYTJXVmVUeklfRFFUc01jNldheXFrcWNrbHlWLWY5ano3US15blB6ZWJkTGdTYmg1UTl4QUlkNlRQR0hSWlFhOVpyNE1Talh2b0JiMk8wc2tveHczWk80dw?oc=5",
+      "source": "한겨레",
+      "country": "한국",
+      "category": "과학",
+      "publishedAt": "2026-10-07T06:05:00Z"
+    },
+    {
       "title": "보건의료 ‘공격형 사이버 보안’ 강화 추진",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDempmSThWUkZDZ3VOUW5YOFhvZGF5UUJHTlhmaTgyVWl1U0QwTmVEWWJyNVhBNEJoZTVEaW5xZFM4UC04aGYzUDlQeVRJZHJmclNCemZsVUs5amxKSDlXZGFCRGwzSXJ5OWc?oc=5",
@@ -83,22 +119,22 @@
       "publishedAt": "2026-10-07T05:50:36Z"
     },
     {
-      "title": "KIA 한기주 10억도 넘었다...'전체 1순위' 하현승, 키움과 16억 계약",
+      "title": "누리호 발사 성공…위성 14기 사출, 새 기동방식 통했다",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BVk4tVnZ6S3NYLUV2TVZuZXpwMXpsS2EyNDBYVmxOVlQxdVdHU2RhcVlkeml1YlZZdEE1R2NoOG1CTHA3aElPcS1ubkt5dXJGNXp1UEw4ODZVSWVCXzZ1STZn?oc=5",
-      "source": "KBC광주방송",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51UkVQeVhoUU14V085cGhqSnAzUjFSSGtFd0F1cHBiUDI4U1ZxbVN5ZVdHNFN4ajVGekIxVE1Bdk9CMUZydmF1Vlk1TndNTGl6SUxwMW5yM1ZSdWVTdExrSW94eURUTl9MX2JJbkpxX3JuZw?oc=5",
+      "source": "한겨레",
       "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-07T05:50:22Z"
+      "category": "정치",
+      "publishedAt": "2026-10-07T05:46:00Z"
     },
     {
-      "title": "국감 도마 오른 ‘암살자(들)’ 논란···최휘영 “사전 검열 금지, 창작에 제약 있어선 안돼”",
+      "title": "Artificial Intelligence",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BNGpzcWVDUjJlTWFLc2F0RnJMM0RmdTRGTnpCVmJxNFBIeHRmRXI1NVM5Mks5ekVPdjZvWV8xM3RDRnYtOG8wNWNiaFpvWkl6MnljeFd6Q3FlZ9IBX0FVX3lxTE1VQ1YyWUl0bGF0YUxNQ0tETEE3VTV0YXNEeXJkOTE3amhSS3U2SHRhSzNWWDBKMDlUaHBIb3VRSVpaVF83ZFZUVGVxbFMzNTZwdEVRUHVjM3J4Z21SV3dZ?oc=5",
-      "source": "경향신문",
-      "country": "한국",
-      "category": "문화",
-      "publishedAt": "2026-10-07T05:33:00Z"
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-10-07T05:11:52Z"
     },
     {
       "title": "“한국, 관세 낮추려 미 조선업 투자”…트럼프 중간선거 앞 성과 부각",
@@ -108,33 +144,6 @@
       "country": "한국",
       "category": "경제",
       "publishedAt": "2026-10-07T05:05:00Z"
-    },
-    {
-      "title": "[속보]‘명태균 여론조사 무상 수수’ 윤석열 2심서 무죄···1심 뒤집혀",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVTkgtQzZfbUFCMmgtSU1wOVFCd2VoWEN0ZS14WGxIdzRzTUNPMjRMQU1id0N3NmQ2ZFdOU3Y2dVlLR3FQNmh0YkVVNGlTbHI3aDRTRVpLdTdpd9IBX0FVX3lxTE9OUnpPX1BkdUtjU25aMF9QaG5zN0Y5YnpwOGtPUVBjWTlmbnFDa3g4RnBiUkJBRENDQXJmRVBoVFJSMDJONnRBMWZfdWlhYVU3YVVnazNSQVB0LURIUmJB?oc=5",
-      "source": "경향신문",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-10-07T05:03:00Z"
-    },
-    {
-      "title": "누리호, 목표 궤도 진입…위성 15기 분리도 성공",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rMi1POU9Ua3FNanRVd3JZdTRfYTJXVmVUeklfRFFUc01jNldheXFrcWNrbHlWLWY5ano3US15blB6ZWJkTGdTYmg1UTl4QUlkNlRQR0hSWlFhOVpyNE1Talh2b0JiMk8wc2tveHczWk80dw?oc=5",
-      "source": "한겨레",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-10-07T04:59:00Z"
-    },
-    {
-      "title": "Brewers fall to Padres, 4-3, in tense Game 3 as NLDS series tightens",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUjN5ZmpBQWh2Q2ZGODhtN3lZWlB1REhhalJ4MXY3cmNXR3ZrRVlwSkU5ME9HR0dRdXd6ckhrX1BMMkF5XzVIMW5HSHNoaHAzcFVXcHRFUkVac2x5Z0JkR2NmcWRRM2FZUk5lT2dNQzN0b05DOVJaZ194WjlvWmhtcXJkVXJCTlE2YkFoT0ZPXzh1MHJkdklKQVBhVGJYMUY3QTdHU1B4SEJTT05VdTIwbnQyd3BuWnZ6ODYxQ0QxbkRpa2JxYXBnVFBqd19SSlBhcXlYUE1n?oc=5",
-      "source": "Milwaukee Journal Sentinel",
-      "country": "미국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-07T04:59:00Z"
     },
     {
       "title": "Stock futures little changed after S&P 500 hits fresh record: Live updates",
@@ -152,7 +161,16 @@
       "source": "Cal OES News (.gov)",
       "country": "미국",
       "category": "IT",
-      "publishedAt": "2026-10-07T03:22:30Z"
+      "publishedAt": "2026-10-07T03:29:39Z"
+    },
+    {
+      "title": "Messi signs off in tears after one last Argentina master class",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORzVUcDNhYWtldkhtXzhGd2M3ZEpsTW53QmJvTy1Bamhybm5BYll5ZHk1bGF5czJlVE80QWc5blVjby1ycUpOTHF3N01XRng0TXRjdXJ1ZVpwTVZCN210WnpEc3M5WWl2RlE0VmVjWlJubklOZzhLVTFQekNncW90QThiMy1Uc3lWOUJJQWc2TEt2R0FnVm5tV3NaZmFPYVBhWUVFZWQwQUtnVFZqQlE?oc=5",
+      "source": "Reuters",
+      "country": "미국",
+      "category": "스포츠",
+      "publishedAt": "2026-10-07T02:21:00Z"
     },
     {
       "title": "‘Dancing With The Stars’ Recap: Lots Of Breakthroughs On Mariah Carey Night Stiffen Competition",
@@ -162,6 +180,15 @@
       "country": "미국",
       "category": "문화",
       "publishedAt": "2026-10-07T01:59:00Z"
+    },
+    {
+      "title": "[속보]안철수 “이번 아시안게임부터 군면제 특권 폐기해야”",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wS0Y5ckVIc0M0aHZReC1STFpiWEdZSXFfTE05QnVUWlZrdnFVWmRtWm5lOEYzQm5PdVJTOWlMR3AwNm9zeU5GcnpYVS1YeXVG?oc=5",
+      "source": "문화일보",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-10-07T01:45:49Z"
     },
     {
       "title": "Nobel winner Halzen says years of October 'misery' finally over",
@@ -180,15 +207,6 @@
       "country": "미국",
       "category": "경제",
       "publishedAt": "2026-10-07T00:00:00Z"
-    },
-    {
-      "title": "96년생 동갑내기 의기투합…황인범 “진짜 뭔가 보여주자고 했다”",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GZDBXY1V1X29sbWtaSjBQY1hLSTNfTnA4THJucWlKazFMLXhSQ3hZVUl4NHVNZVVrNncxbkNLcXc3ZUtCVDZRUi1rUmV0a1pFUVFUc0oyTDdUazA?oc=5",
-      "source": "KBS 뉴스",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-06T22:19:00Z"
     },
     {
       "title": "Xbox has secured GTA 6 streaming rights",
@@ -236,15 +254,6 @@
       "publishedAt": "2026-10-06T19:34:00Z"
     },
     {
-      "title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcXRtclE5eHgxeG55N2gxTDlGbzI0d1EzTXVEOWRNSUxZRzdwb28wd1BaemhwY0JkRTBWcnV6Y3ZkTmRZZXhZeFd5ZmktUXZHdjNXT2NpeXpWSWlkUkhTYXJlOE5vYkdIbktpd29ocWZraFFGVm1ES3NwZWdNV0pEbjBEejNndjBKM29vajhWcWNsSnhsR0lRZTdmTF8yNnZxOWtmLTlGblA1cFhITEVuTXdn?oc=5",
-      "source": "Georgia Tech News Center",
-      "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-10-06T19:32:43Z"
-    },
-    {
       "title": "S&P 500, Nasdaq reach record closing highs as focus pivots to earnings",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ0p5VWxQQ0ZmUUI0Vk5wRUVjTUJhZjZGUlZjU2tWU1AtOEdqYjZ0OFRtRXNrUVdrTFlNZjVWdzluRjUyaWhHTlYxMG5Yc21pMHFubTdiX1RIRTRUSnB4UTZPckRMZTlzTHBEbkZKU1ROMTZpWE9lMXhPQkhyQmhBV3JNdkFrQVk?oc=5",
@@ -252,15 +261,6 @@
       "country": "미국",
       "category": "주식",
       "publishedAt": "2026-10-06T10:27:00Z"
-    },
-    {
-      "title": "노벨물리학상에 할젠... ‘우주 유령입자’ 중성미자 포착해 우주 관측 새 길 열어",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTUxCVjdsbU0wajZNT3RLQ3Rnd0RyM1Blb2dXWWdfcm0xY2txOVZzWGlfRW5VU0FJVkZucS1xTGg4dHluTUhOZ0RKMy1reFVkMnRBay1KdDdzZXA5RTYwMndPcmh6cVk1d3Rqdnd5TS1BSjJ2bVNiUnlhYjR0aG9famdVbw?oc=5",
-      "source": "조선일보",
-      "country": "한국",
-      "category": "과학",
-      "publishedAt": "2026-10-06T09:51:00Z"
     },
     {
       "title": "Monday Northern Lights Forecast: 9 States May See The Aurora Borealis Tonight",
