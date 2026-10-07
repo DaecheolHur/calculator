@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-10-07T12:43:34.383621Z",
+  "generatedAt": "2026-10-07T13:36:43.735657Z",
   "items": [
+    {
+      "title": "Stock Market Today: Dow Futures Fall, 30-Year Treasury Yield Hits Fresh 24-Year High — Live Updates",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX2lHZVNpMXR1TEt6VjhHNTZqbldCdmJncHA1WDZ1TXJ2TUdSbklFTmlVWnFoODM2Yy05RTJBVUQ0QU5VeG1zZlVTRFczSkdtVVlTNzRfNkpXWXBLQ2JwQ2FNVUVRUGZyTjJ3djdaUGgtdGhPOW9LVHZJcHVRMDhpVjhKUFEtV1U?oc=5",
+      "source": "WSJ",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-10-07T13:09:00Z"
+    },
+    {
+      "title": "‘한기주·오타니 넘었다!’ 하현승 16억원에 키움행, 최지만 0원",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fcXRpYlBQM2VkZlFIRGtSaTc5VmhyRFJGc0ZjNm9idGNSeVRBMVpjTGt5VUlZUUdHVTYzRmo1ZWJiWDd3UkVOaWs3ZjUwclhQc1BKT3R1dEt4WnM?oc=5",
+      "source": "KBS 뉴스",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-10-07T12:50:00Z"
+    },
+    {
+      "title": "Amazon Prime Big Deal Days Offers Major Discounts on AirPods, iPads, and Much More",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ITDE2TnBJck1VWXdMV1o5bkdsdUIycmhNOXRnb1d0bTlNT3M5VENmTXJIb1lFSW9jeUdDZ0QtOVFmSkp1b2dmMFhicTNhaGlmak0tQjlrSkVwZ0ZzRXhMZVJJdndubV9sMXpSQXFKaUM0amJKaHotZw?oc=5",
+      "source": "MacRumors",
+      "country": "미국",
+      "category": "기술",
+      "publishedAt": "2026-10-07T12:38:42Z"
+    },
     {
       "title": "Artificial Intelligence Usage At Villanova",
       "summary": "",
@@ -9,6 +36,15 @@
       "country": "미국",
       "category": "AI",
       "publishedAt": "2026-10-07T12:13:55Z"
+    },
+    {
+      "title": "보스턴다이내믹스, 새 CEO에 ‘아마존 AI 총괄’",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tUGRYRzh5X3loZGxrWERFZHNHdUVKOUZhQVN4d2JSaVhIdFBaYlJoTWh0V3NaX3RWT0NoZlBiWE5qWXRwenpZQkVaQ3NINGZ1QVp1Rm95NlFPd9IBX0FVX3lxTE1VN3F3QzVZTHFiSzJkSUVJX0lYdnVoZmhJM28tNENiRjlKMV9yWjZNc1ZBRmQ0TXJkUXNmUnlUTlRUMFJBNDN0eFMxS19id1hRV1FuQ0l0d0t2X3JiYkFJ?oc=5",
+      "source": "경향신문",
+      "country": "한국",
+      "category": "AI",
+      "publishedAt": "2026-10-07T12:05:00Z"
     },
     {
       "title": "Jorge Bastarrachea Joins Raymond James to Strengthen Its International Financial Advisory Business in Miami",
@@ -20,6 +56,15 @@
       "publishedAt": "2026-10-07T12:03:25Z"
     },
     {
+      "title": "노벨화학상은 일본... 2년 연속으로 탔다",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMC1MU0ZWRWVDWW1BVnpkVDl3TDRyMVpha0laU3RVZGhVaWVaalMtTWQyU0FSRFRtWFA0YlpJR0dkZ2ZzT0o2b0pZNmkzc1h4OVVVWjBJSG14NlNsZm1KNnRxMlJ1YUV2X01sWXREZWVnNVAyenl3T3JaYm4wMWpJaFhYSQ?oc=5",
+      "source": "조선일보",
+      "country": "한국",
+      "category": "과학",
+      "publishedAt": "2026-10-07T12:03:00Z"
+    },
+    {
       "title": "한국 사회 전체가 표적됐다…AI 해킹에 은행·교회·대기업 무차별 노출",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nSUhhTWh5MWNibEtnWGE1eGN6elJCanhpOHktSUh1aVI0OTNOR2tBZE0xQU9sMENZd1ZkdVhEYjJCUUFkd1RreF9QOW1NaFlkamtLN2N5UnZGaktwZkV5NTdCX3BWYi03V3RvdXVDY9IBZkFVX3lxTE5QdlRUaWZ3RDJvSll4Um9FVWJQeE01b21VQ2hJajhCcnp0M0lHV01PN0dYdWZwWW1rTDgzMGZfYnA3WmdpSkVrRndOLWZhNkpLb1FIdldEQ2l5amRfd1Jzc3Rub045dw?oc=5",
@@ -29,22 +74,31 @@
       "publishedAt": "2026-10-07T11:35:58Z"
     },
     {
-      "title": "Stock Market Today: S&P 500, Nasdaq Futures Retreat After Record Highs — Live Updates",
+      "title": "서인영, 내 뒤에서 '공주님' 하며 조롱했다…백지영도 놀란 선배들의 '뒷담화' ('개과천선')",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX2lHZVNpMXR1TEt6VjhHNTZqbldCdmJncHA1WDZ1TXJ2TUdSbklFTmlVWnFoODM2Yy05RTJBVUQ0QU5VeG1zZlVTRFczSkdtVVlTNzRfNkpXWXBLQ2JwQ2FNVUVRUGZyTjJ3djdaUGgtdGhPOW9LVHZJcHVRMDhpVjhKUFEtV1U?oc=5",
-      "source": "WSJ",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-10-07T11:07:00Z"
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYjZVeXBjZEgtNk5HRXQ1cWVoa3U0c0ZQaWpKbExqODQwUWwyOUUzZ21OR2pGR3U5eXFRTUMyVDlVMzdCMG9JX3p1NEFmYV9GM3hTTkRnWi1pXzUwM1I2QnRvSTRyaGJJeWFLV0FETXVtWmpKM0k2cEZKbm9razltb0xlYnVKd2Mxak5MTFJ5SQ?oc=5",
+      "source": "조선일보",
+      "country": "한국",
+      "category": "문화",
+      "publishedAt": "2026-10-07T11:09:00Z"
     },
     {
-      "title": "하현승, 계약금 16억에 키움 입단",
+      "title": "Mortgage rates sit at nearly 3-year high, and demand continues to shrink",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON0N0TGw2ZUxTOTY1Y0FkT2pqajJ4V19tN3dRRTFjdWFjTXdpSW1GSzVsekg1c21hLWY0MnExOTMyNTgtRDN2dUs0V0VPYTJiVjhlRF91YkkyX3I1ZWYxcWt3WUVBdVdnZ3dLbXM3MDVWSmlITFFXV2cwS01UdC1fdWhPQl9TNDVqYkpXUFN3?oc=5",
-      "source": "국제신문",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM2NfR0lJWk5wN1pBTzBzWmlfTVBJclBYY1luV01kTWRGRnJvaVRxM2ZlTGtyZVAxZkRJdmhFQi1DSGd3M2FlVjYzdHdveUlLVWJtQkVRUTZRN2dqd3ZNWVFkb01BSm5xQU1md1QzTTFmOUlQTS1NbE5OWE1XeWVhZUpRQ3NxNjFJUklKeUV5Q0JNcnllZlZFcTdUZmZPVUdKS0c3bnEtTjhIVmJw0gGyAUFVX3lxTE9KMUQtZHUyY1N0YkNfSkw1SjB3ZXVFeWFrV1A0Z2xqNThfb2RzUEt1REpNMHFYQ2hjZXZoOGJueWxVcVZYc0dKQVEyejNibF9SZEE2Wm1hZDNIYU9JNGV5V1FpNEo5R3lVZW1fSElBSFJ3ZE8xSVZfSG9sTTc2TzFldjM3cmVCQTVYT3BiU0hWOUN5ZjhBd2dPUlIwZFYxS1VkR0x0OHdiMFFST2lpT0RlZmc?oc=5",
+      "source": "CNBC",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-10-07T11:00:01Z"
+    },
+    {
+      "title": "[단독] '尹·명태균 무죄' 2심 재판부 \"尹-김건희, 정치적 공동체\"",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81LVo2SlFYUkRsN3dOTmFWZGFwbWgtdWN1SFF5cFptSkl4N0t2ZlVXN1pfREhqRVB2U0w3U3RqRUVQc25OQzBqS0YwVXRrcGpQSVlzS0hEMzZkN1hYREgwTFlSM2lqVWtQcDBsbXNkeWUxZ0phOFdr0gF3QVVfeXFMUGNueDFDRmx6ejhnc1gxeGZybXJqdGU5UHJYdGxGNVZEOEJ5TTJZSTFKWTNlZWxnZmhkeHNuWE9sN3dPa1pZcy0zMkFkeVhDb2t3dnhUei1rSjdCX1k1V2Q3bVE1RGhla2pReHpxUzZNcjJpUXJjX0U?oc=5",
+      "source": "MBC 뉴스",
       "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-07T10:33:00Z"
+      "category": "정치",
+      "publishedAt": "2026-10-07T10:41:45Z"
     },
     {
       "title": "Isaias forms in Gulf; hurricane watches likely later Wednesday",
@@ -65,49 +119,22 @@
       "publishedAt": "2026-10-07T10:21:00Z"
     },
     {
-      "title": "[속보] 노벨화학상에 카간·소아이…비대칭 분자 합성의 난제 풀어",
+      "title": "kt클라우드, 50MW급 청라 AI 데이터센터 구축 참여…2030년 1분기 준공",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMC1MU0ZWRWVDWW1BVnpkVDl3TDRyMVpha0laU3RVZGhVaWVaalMtTWQyU0FSRFRtWFA0YlpJR0dkZ2ZzT0o2b0pZNmkzc1h4OVVVWjBJSG14NlNsZm1KNnRxMlJ1YUV2X01sWXREZWVnNVAyenl3T3JaYm4wMWpJaFhYSQ?oc=5",
-      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NV2U1RTRMRmNpQlpRZXZiZGwxLUhtQW9HcFBaX2ZJQmVtek1ZTld6WHd1Wjh5MEd6cjhZZGZiWHNvcFVCNDNvNGxUX3B0MGlxaTFJUmw3dW1rYmR3TTBvTUZEdlVfUQ?oc=5",
+      "source": "디일렉",
       "country": "한국",
-      "category": "과학",
-      "publishedAt": "2026-10-07T09:57:07Z"
+      "category": "IT",
+      "publishedAt": "2026-10-07T09:00:56Z"
     },
     {
-      "title": "싱가포르영화제, 국힘 요구 일축…‘암살자(들)’ 개막작 유지",
+      "title": "이 대통령 “한국형 녹색대전환은 ‘3대 메가’ 성공의 필수 전제”",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PM0dSMFZYRGI2dlJXbmducHJzRzlEMWU0eUVHd252SlFDSDFWSG1sTlJXcXQwN3pqZ0pWSTV2bTBXd0o4Wl9ZZVozWm4ybks5RzlpU1I0VmJfM2FHc29CaWhNVXJYWnNqclJ4d0JtVnlwZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nZExPQXlhV0swYlZXbkRsYkxoLVBrcnJ2cG56MkI1b3RRMUFPR09pLXdFd3hxbFpHZlpKVTF3a1pKVHdiZ2M2aDhmYXV0Y2swMFBVZHh6ank1TUdhR0h5Mm9DSksyTG5GeTNR?oc=5",
       "source": "한겨레",
       "country": "한국",
-      "category": "문화",
-      "publishedAt": "2026-10-07T09:34:00Z"
-    },
-    {
-      "title": "윤석열, ‘명태균 무상 여론조사’ 2심 무죄로…재판부 “재산상 이익 없어”",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iM2xhenJhakdURlBQNDYzQXNONHlNYWlXRmh4ZnhGZG5ONEUzelVEajhhZng3V1ZKeEdaQ0E4YWZ5WXo5V2VvckF0RTQ2bnpHWnN0cHRhQ3cyelRTVjBlaWZhSE5NM2VhMUs4VTVraVBZdw?oc=5",
-      "source": "한겨레",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-10-07T09:31:00Z"
-    },
-    {
-      "title": "Here's the latest sticker shock: Borrowing for a mortgage — or a car",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU2xMWmVQRnl3dnBYTWEzaXhvcFJUazRvUGMzdjJGQWJVU0NkRjRnOXotMmR1WkFjWU5MUzNrUU5RSlljaUNxSzkxRUt1MF9XZklVU2MxUnJOTW9wbW1vaG0wZndxOGh6V2xtUVlqUWZiMTBLNTZpMnJPc0w5N3ZVenhmcDRHQWpSbU9J?oc=5",
-      "source": "NPR",
-      "country": "미국",
       "category": "경제",
-      "publishedAt": "2026-10-07T09:00:00Z"
-    },
-    {
-      "title": "Carrie: Is Prime Video's adaptation still relevant in 2026?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16d0loNXZQOVN1UlplSl93S3J6TDlKemI2T05JaHQ2cmlCbW11aXc3NlhyMWltY2FkTlVNbTJ2dFJWQ3VFb01UczFrbUFYV0lwcWpGWDAyc2haY1k?oc=5",
-      "source": "BBC",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-10-07T08:39:36Z"
+      "publishedAt": "2026-10-07T08:43:00Z"
     },
     {
       "title": "우즈벡 꺾은 뒤 김민재·황인범·황희찬 은퇴설···승리에도 웃지 못한 모레노호, 세대교체 현실로 닥치나",
@@ -119,22 +146,13 @@
       "publishedAt": "2026-10-07T08:36:00Z"
     },
     {
-      "title": "기업은행, 중소기업 대상 'AI 캠프'…AI 시스템 구축 지원",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFOW9BOTRVVjdUalBrYTg3MEY5N0ZpSjMxUHNmZWZTVzNGM2xmVk5BUGNFRlNZek04ZEhGaUYtT3drNjY4d3o2ay1JRE9sUW81UE5nVXZQRHZ1STJRYlJBR9IBYEFVX3lxTFBFOW9BOTRVVjdUalBrYTg3MEY5N0ZpSjMxUHNmZWZTVzNGM2xmVk5BUGNFRlNZek04ZEhGaUYtT3drNjY4d3o2ay1JRE9sUW81UE5nVXZQRHZ1STJRYlJBRw?oc=5",
-      "source": "연합뉴스",
-      "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-10-07T08:04:28Z"
-    },
-    {
       "title": "Artificial Intelligence",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "country": "미국",
       "category": "AI",
-      "publishedAt": "2026-10-07T07:08:13Z"
+      "publishedAt": "2026-10-07T08:07:17Z"
     },
     {
       "title": "US stock market hits all-time high as investors continue to bet on AI",
@@ -173,24 +191,6 @@
       "publishedAt": "2026-10-07T05:55:19Z"
     },
     {
-      "title": "한전KDN, 신재생 인프라 사이버 보안 강화 나서",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wck9qYWZhaU8xdDl5TTJPZmNndmQtd21CN29Edk14RTJqUWU2cEpmclhLTG1lc0RkQThjVUVoVlR6aFB6akNYV0tpTU9UMmFTd3MwcVFWOW9qX2RpbFI1X0t0VlMyYUtjcGRSR2xSMljSAXBBVV95cUxPcHJPamFmYWlPMXQ5eU0yT2ZjZ3ZkLXdtQjdvRHZNeEUyalFlNnBKZnJYS0xtZXNEZEE4Y1VFaFZUemhQempDWFdLaU1PVDJhU3dzMHFRVjlval9kaWxSNV9LdFZTMmFLY3BkUkdsUjJY?oc=5",
-      "source": "전기신문",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-10-07T05:50:36Z"
-    },
-    {
-      "title": "“한국, 관세 낮추려 미 조선업 투자”…트럼프 중간선거 앞 성과 부각",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGejJCcFJLSXpmV2ljd2Z4RlZLa2RUdHRvUERYUl9ZeGpwQkpWTFU4eldWbTJvYkZRd0VlZDJKeWd0aHFpNmRvNWVCZnE0ekd2dS0yUFVLNmZvMnRJX0xSdmtGc1gtRjRLUnY2T0RXUQ?oc=5",
-      "source": "한겨레",
-      "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-10-07T05:05:00Z"
-    },
-    {
       "title": "[속보]5차 누리호 비행 종료···위성 14기 분리했지만 큐브위성 1기 사출 실패",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nb0gyb1piWWw1eFRLekRURHZWUDFZb210ZWhkU0RmS04ta3VEUUczeTlEdzUyZDZFMHFtU2hmQ1VLOERJU2JxNXFIdlpXSGgwRWc0bkpZa2xkd9IBX0FVX3lxTE9uWmYzZjRxM0k1cVVLM3o3SnEwNE93MUVBVS1weUpjVjZNREVZdjl2aC1rZm9QQW4tMm9rYV9hY1BvRVcyQ0VrWl9Qd3FEUTBKc1JUSzVBa2tyTGJvZDRj?oc=5",
@@ -198,15 +198,6 @@
       "country": "한국",
       "category": "정치",
       "publishedAt": "2026-10-07T04:02:00Z"
-    },
-    {
-      "title": "Skydance To Make Paramount & Warner Bros Lots Specialized, Each Housing Film Or TV/Streaming",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa0I5YUF6SkltOUJkZk5ZenI2WmJMZ0wtbkQzTFFDZ3liem00SWRja0dDclYwUGdkR2NsdjRCN3FqRUNTQm90M2ZKRjV0eGo2RzhEWmhjNG1RVUtGbzFsdk5ueTQ4eHFkQ0k3NjI2bnlNR0dJcEhkZGJ5OUFYRnFUb2pGME43OVo3RFd2TVdNdGRkTHdiNnQ5MUo4T0QwOEVx?oc=5",
-      "source": "Deadline",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-10-07T03:37:00Z"
     },
     {
       "title": "Cybersecurity Awareness Month 2026",
@@ -236,13 +227,13 @@
       "publishedAt": "2026-10-07T00:34:24Z"
     },
     {
-      "title": "Prime Day Mac deals: New Mac mini $150 off, MacBook Air $200 off, much more",
+      "title": "Eva Marie Saint, star of 'North by Northwest' and 'On the Waterfront,' dies at 102",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbTV1ejlTbFFuYUlFdW80cS1YUm1COTBmcUw3eWF5TnQ5b21mRVZVOWpnc1BuNHdvYXV1SXF0OXJUS3h1el9MdWwxd2V6b2dtZllTNHRFejVHc0YyYmo0bzRGaXZMYUtfTmNPS04zcVExTV8yMFZnaDFJU3IzTWtUdzlPRWhmc2ZubUR2Nnh2ZnFIRFlFUUxJdlZLVnV0cnE0Q1ptRVAwNmNlc0ZxZDZCeUhlc24?oc=5",
-      "source": "9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNem5nYmlGbVZHejRLUnA2X3FTbHQtTG9TS2tWWkJsUFE3X08zS2Z2TkRLTVo1WFJ0WE5tZWcxcVRJaXVpb0FRVUVxWG8yRjZtNlBPUms5VW5QVGJXV09jQW1mWm1YLWxwWE0tTUtjSUVOZWh2QkN1SWNhRFI4U0dIUG9tSW1pMURTMjBQcC15aW1RSDE4WDdGT2ozako4dWN4eGdpTktCc3pKd9IBrwFBVV95cUxQVDFGaV92aVg5SXlJRHJrVFcteHc0b1I2VlZELVJndThYN1ZlbGtaNGJrZDdXeXFvaUlmUW9IUzF0TWstZlNqc3NDTHdEb1JRUmQ3aVd3Umc0YWEwTjh1dnB4dlhrT244VmNvUVcyR1hXcVhQbDVNUDBZNENEam5udXQyVGllQy1GRnNfWnZOME1MSEdKaXVvTFAwWEdQYi1BdzhTaHZxTElnblBNLWdz?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
       "country": "미국",
-      "category": "기술",
-      "publishedAt": "2026-10-07T00:15:00Z"
+      "category": "문화",
+      "publishedAt": "2026-10-06T22:37:56Z"
     },
     {
       "title": "S&P 500 and Nasdaq surge to record highs after AI chipmaker rally",
@@ -263,13 +254,22 @@
       "publishedAt": "2026-10-06T20:04:15Z"
     },
     {
-      "title": "SpaceX's Crew-12 astronauts heading home today after nearly 10 months in space: Watch it live",
+      "title": "Andrew Garfield Could Win an Oscar for ‘Artificial’ and His Norman Bates-Inspired Turn as Sam Altman",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNck44bkQ0c3B3Z2VTLTgzU01XeVRibHgzRUFtbENGaXJkemNjbzBpQmZtNTlBUDBpZW5DajEtdG5EWmt4OGZ1bnc0a29xT3llUk5BSjZ3WVB0a0x2ODBNRzRjRG4zODJOcjZ6c2VpWEt3N2tjSjdQOXJpRzdILTZSNDdjUDJpUTRfUk81Mm11cG1HWnJfa01tMERpYzZ4ZlFNSW5GTzk2YlhNMF9nWE1URzFvdVlYQmtCS05lUg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWJlbnIwd1d1SU9VU1pFSmJZRHFjdGZPMk1Sekt4ajNNeENzX0NRUmRKZVhMeEh5ZHFFOEJIVGcybUxyWXBoa2s2UkV6TlhMMmJTZHZYTmNKWk82VDJRYVJvS3BTLXpjSUNlTmhoRVYwTFFuWTVEV0lGZGJHVVhGVnZVX2JiWnM4d2JHTC03SE1tTm5JUDRqeg?oc=5",
+      "source": "Variety",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-10-06T19:34:00Z"
+    },
+    {
+      "title": "Worlds collide! James Webb Space Telescope investigates what happens when planets crash together",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZklGX2k2OXl1cjdwVUNvWllqY05iOEp4STRiOE5zX040OHlKczBNc1ZTcEIzem9hMld1QlJaR3BGc1QxWjhPNGtlTTkzbFJtOTZxenJlbGJVVWxwSXJkQlRTVWpWRTdxRGZmVGhRSVh4dU9oakNTM3FPRkVpTkVhcm4yZzAzNm9LS2xJcVVTWjBoRi11UTZhMDM3MzFLcGNLblFEdWhuWGQzTkZ6RjJNMWpYcnFodS1PMDVXWFA3NnM4VTJRS21sc0JOUzE4Mk1USllYZw?oc=5",
       "source": "Space",
       "country": "미국",
       "category": "과학",
-      "publishedAt": "2026-10-06T16:00:00Z"
+      "publishedAt": "2026-10-06T10:00:00Z"
     }
   ],
   "briefing": [],
