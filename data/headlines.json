@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-07T06:41:03.037377Z",
+  "generatedAt": "2026-10-07T07:36:12.220779Z",
   "items": [
+    {
+      "title": "코스피, 2% 내려 6,800선…코스닥도 급락",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pX08xWm9BYVB1bGZ0bHJ2YnBSSlExR3E3dnpVSVFXX2hubS1kcEN5YVotZFY1NnM4amQzcjNsY2xERzg0aFdrel9KeTdVcUxUYThLRjJmQmlDTmZGcmw3V3h3Mzd1bjQ?oc=5",
+      "source": "연합뉴스TV",
+      "country": "한국",
+      "category": "주식",
+      "publishedAt": "2026-10-07T07:06:00Z"
+    },
+    {
+      "title": "검색 넘어 실행형 AI로…KT표 '모두의 AI' 12월 출격",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Pb05mRWRPNnl1SW80d1gtaklLbWJjMU02b0ZzWGU4S0FMNlM0dThvdU1TS1QzaGlZbm1aX3Q5eWZ1Wnd0MU5VU2JMMjRiVzQxVnE1b2NVZDM1amNVeUpn?oc=5",
+      "source": "뉴스토마토",
+      "country": "한국",
+      "category": "AI",
+      "publishedAt": "2026-10-07T06:50:16Z"
+    },
     {
       "title": "한국사회복지협의회, 한·일 전문가와 ‘K-복지’ 선도할 지역사회 통합돌봄 발전 방안 모색",
       "summary": "",
@@ -9,15 +27,6 @@
       "country": "한국",
       "category": "사회",
       "publishedAt": "2026-10-07T06:32:56Z"
-    },
-    {
-      "title": "「인공지능(AI)과 함께하는 스마트 행정」 직장교육 개최",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYklmaDhQcmJ3ZkFDZVFQZ3U3dGRIOUdaU3pFVWFwREpWbUF1OU9OTW4tS01CRVlQQWNQTm1nTnFnVGMxVWlsY04yMS04MjJGYUduY3dMdWRlQjBHX2g5NFU3cFN3dWZvV2g3SFhwaHg2T1lUNDJqM0dIWFc1cFRNcnRqc1g0U084QVhTMGVzS3RabFk?oc=5",
-      "source": "국제신문",
-      "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-10-07T06:12:00Z"
     },
     {
       "title": "제31회 부산국제영화제 6일 개막…김민하·전도연·김도연, 샤넬 룩 선보여",
@@ -29,22 +38,13 @@
       "publishedAt": "2026-10-07T06:10:00Z"
     },
     {
-      "title": "한 달 남은 '저PBR 공표'…코스닥 참여율 23% '밸류업 온도차'",
+      "title": "누리호, 목표 궤도 진입…위성 15기 분리도 성공",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GdGZMdWwwQXpPaXBVRWJLV29xRmFoM2VhWHhIM25aTU1UM1padF9BUnpGbzZObGJFN1RTLUQtTFlHODg1SXFpbE9ZejV0el9DSERlLTRrbWNHd1Bpc3FhMjhWcWxMby16SXZhRHc1ZjA?oc=5",
-      "source": "연합인포맥스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rMi1POU9Ua3FNanRVd3JZdTRfYTJXVmVUeklfRFFUc01jNldheXFrcWNrbHlWLWY5ano3US15blB6ZWJkTGdTYmg1UTl4QUlkNlRQR0hSWlFhOVpyNE1Talh2b0JiMk8wc2tveHczWk80dw?oc=5",
+      "source": "한겨레",
       "country": "한국",
-      "category": "주식",
-      "publishedAt": "2026-10-07T06:01:54Z"
-    },
-    {
-      "title": "‘Dancing With the Stars’ Mariah Carey Night Ends With Another Unexpected Elimination, Season 35’s Highest Score Yet: See the Scores, Who Went Home",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWl9tblg1NmR4Z1VZWGxHbkhuckJKOWtSY1dhZ2xfMnVRbnV6c2tTVExMYjd1SzctMkEtTzlPM3pwb25xWk1sR25abGtQaHBnazFscnc0Vlk2VzRYRjkteDBJVXotVTk2Q1dpNFJGWENYLWpvQ1lEWGY0dll6QlByYlpHdjJaQ2ktdDNRaXBXNWdqeWtmTlJqSU96M0JTaXpYd3h1T1hndGRGZmdwSEFKMm10ZnhoQjQ?oc=5",
-      "source": "The Hollywood Reporter",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-10-07T05:59:22Z"
+      "category": "과학",
+      "publishedAt": "2026-10-07T06:05:00Z"
     },
     {
       "title": "보건의료 ‘공격형 사이버 보안’ 강화 추진",
@@ -56,16 +56,25 @@
       "publishedAt": "2026-10-07T05:57:50Z"
     },
     {
-      "title": "모건스탠리 \"AI 공격 우려로 기업 사이버보안 지출 매년 23~33%↑\"",
+      "title": "고윤정, 광고모델도 아닌데 갈아탔다…손에 든 '이것' 뭐길래 [테크로그]",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rU2RSUWtFSlM2VEVKZHVXQlpQdGFrbHlGNkVxTDlUS205UnFMNnFsNS1qUWh2Z2ZRbEotUG1jY0xkc0FOc2xVbnRrdnZub19PTnJYUlBZbS16c0RWODFxYWhXTzd2clNnTGJUOWhJTnA?oc=5",
-      "source": "연합인포맥스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1udkpKWUtwdVVwZGNqNE82X3B6ZU1lUlRXbFdXX2N3QTFOSmFVTGZyaG5VUzJXb2ZNZVRCNUNQanF3VW5ScDBRcVJMVmhxVzlPSzNaT0ZSSy03QQ?oc=5",
+      "source": "한국경제",
       "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-10-07T05:27:49Z"
+      "category": "기술",
+      "publishedAt": "2026-10-07T05:55:19Z"
     },
     {
-      "title": "[속보] '명태균 여론조사 수수' 윤석열 2심 무죄로 뒤집혀",
+      "title": "한전KDN, 신재생 인프라 사이버 보안 강화 나서",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wck9qYWZhaU8xdDl5TTJPZmNndmQtd21CN29Edk14RTJqUWU2cEpmclhLTG1lc0RkQThjVUVoVlR6aFB6akNYV0tpTU9UMmFTd3MwcVFWOW9qX2RpbFI1X0t0VlMyYUtjcGRSR2xSMljSAXBBVV95cUxPcHJPamFmYWlPMXQ5eU0yT2ZjZ3ZkLXdtQjdvRHZNeEUyalFlNnBKZnJYS0xtZXNEZEE4Y1VFaFZUemhQempDWFdLaU1PVDJhU3dzMHFRVjlval9kaWxSNV9LdFZTMmFLY3BkUkdsUjJY?oc=5",
+      "source": "전기신문",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-10-07T05:50:36Z"
+    },
+    {
+      "title": "'명태균 여론조사 수수' 윤석열 2심 무죄로 뒤집혀",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sOXUtZTdvcFdqM3RnTVFLM01HcHl0N0l5Mms1SFAtczVRcTMzOG1YQUN5dXJQMDFJT3VpaUt4U3VpUEp2RGNPX2d6UVBTcm92SFVZQnlsVURnUHVDSWZpV2FzNTlKMTkybmJOWUlxOW51ODFvYXNF0gF3QVVfeXFMTVBoSm1FMk1EZFl2N3Z4b0wtVk5xOGdPVzdPV0JaazVkeEVTdlBXNzh2ZWZNRUZsUkZRamR6ZFlZbVlHbEhqVDl5QjM5T25rUmMxYUI1Rm5pWTdDQXJvYmpYZG9ocThTUW9fdXQ3dURPWl9PSHZPWDQ?oc=5",
       "source": "MBC 뉴스",
@@ -83,31 +92,22 @@
       "publishedAt": "2026-10-07T05:00:00Z"
     },
     {
-      "title": "하현승, 키움과 16억 원에 계약...KBO 역대 최고액",
+      "title": "키움 하현승 KBO 신인 역대 최고액, 한기주 넘어 16억",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uem93SnpteFhib0pibHd5eklaUzBhMEtnc2VJY0xqSl9uRmhLZFpselNLdWtzazFwTHZIcDRwbU1MMUZLS3J3YVVMY1ViRUk1TWlTQkc2RkpLcXZCemc?oc=5",
-      "source": "YTN",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzM3A4dFNmT0VIOUstcDVnSWU0eVB4MU0zUzlMUGNjX3VIaGVfd24wVUxmN0FNSHJtNjhiOTUxQXlMeENKQ205NHQ1T3c1ZE9GdzUxdU5PdFdQeXM?oc=5",
+      "source": "KBS 뉴스",
       "country": "한국",
       "category": "스포츠",
-      "publishedAt": "2026-10-07T04:33:00Z"
+      "publishedAt": "2026-10-07T04:53:00Z"
     },
     {
-      "title": "France’s student protests highlight a debt crisis that could spill over to the rest of Europe",
+      "title": "Trump worries Iran could target U.S. cities. These places get extra nuclear protection",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOGEwdFZuRDJIQ09Jel9FTUJuczYwcV85elpYVjJxNmNkY1BVYnpySE90Tk1fUWZfU04tR09MZnV1NG1KVU9KZTZfbEZBMVVuc2Y4bmhpanNqcHAxMW1sNmJna1M0R05KZGJhWkg3SWZvN28xRUwtS0t4dW9fb254Y29ISkw?oc=5",
-      "source": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV1ZiUHZxVzFmOWwxcFJTR05td0xmbURuRVJjRjhwclc2aXp0cEVoanVHOTJUWmFnRlprS01TbHVpNXpUeE5pNDZGVGRVRDhrRGE0bk5LUkRvMENoQ1FhdThMZEJtMkNoSExKbHJKdkx6YlNDU2pNckRPYWwxZ000WkFRU1dnTVk?oc=5",
+      "source": "Axios",
       "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-10-07T04:00:33Z"
-    },
-    {
-      "title": "Stock futures are little changed after S&P 500 hits fresh record: Live updates",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMcmRHZjcwcGdXX1NxUXliUklxQlZWa3JwRDNzbXFzYzJCcHViTUtTekk2bmNTVDJKVUlHdkFRZlAzUnIzSFhKU0JwZUp3SzBxYnZrRXZHcm9wZWNTS0ZjZFVfa01uN3h1TUJ4TFV5UkxXNEl2Vy1j0gF8QVVfeXFMT2JydmdNdUwxSHhwUHF5b2RRbU1jdmN6NDNUcW52SjRNemlQQXVVMnNMdFpHbHdzLUV4ZFpMc2dNclhKWnBaVWVaTlpKbFdmazJLbXQzZTNUMWpOYUtnNGIwVkxKczZjSFZ0YTJXX3hud0dhbXJNYjN0NGphbA?oc=5",
-      "source": "CNBC",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-10-07T03:44:36Z"
+      "category": "정치",
+      "publishedAt": "2026-10-07T04:30:38Z"
     },
     {
       "title": "Cybersecurity Awareness Month 2026",
@@ -119,22 +119,22 @@
       "publishedAt": "2026-10-07T03:22:30Z"
     },
     {
-      "title": "은퇴 꺼낸 김민재·황인범·황희찬 ‘1박2일 설득’…일단 마음 돌렸다",
+      "title": "Messi signs off in tears after one last Argentina master class",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPZDY0QWctODA1d0N4SkZzMFBNbWVSTDBkVXpQbjNCQy10ZktLdTVfaDlwZ0FmakFmcVNtc3NFNXNtOHFjRmctQjYxcnRsT0E?oc=5",
-      "source": "Daum",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-07T02:57:13Z"
-    },
-    {
-      "title": "Brewers fall to Padres, 4-3, in tense Game 3 as NLDS series tightens",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUjN5ZmpBQWh2Q2ZGODhtN3lZWlB1REhhalJ4MXY3cmNXR3ZrRVlwSkU5ME9HR0dRdXd6ckhrX1BMMkF5XzVIMW5HSHNoaHAzcFVXcHRFUkVac2x5Z0JkR2NmcWRRM2FZUk5lT2dNQzN0b05DOVJaZ194WjlvWmhtcXJkVXJCTlE2YkFoT0ZPXzh1MHJkdklKQVBhVGJYMUY3QTdHU1B4SEJTT05VdTIwbnQyd3BuWnZ6ODYxQ0QxbkRpa2JxYXBnVFBqd19SSlBhcXlYUE1n?oc=5",
-      "source": "Milwaukee Journal Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORzVUcDNhYWtldkhtXzhGd2M3ZEpsTW53QmJvTy1Bamhybm5BYll5ZHk1bGF5czJlVE80QWc5blVjby1ycUpOTHF3N01XRng0TXRjdXJ1ZVpwTVZCN210WnpEc3M5WWl2RlE0VmVjWlJubklOZzhLVTFQekNncW90QThiMy1Uc3lWOUJJQWc2TEt2R0FnVm5tV3NaZmFPYVBhWUVFZWQwQUtnVFZqQlE?oc=5",
+      "source": "Reuters",
       "country": "미국",
       "category": "스포츠",
-      "publishedAt": "2026-10-07T02:45:00Z"
+      "publishedAt": "2026-10-07T02:21:00Z"
+    },
+    {
+      "title": "‘Dancing With The Stars’ Recap: Lots Of Breakthroughs On Mariah Carey Night Stiffen Competition",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdlpJTUY2c3hQT01oRTVZemZER3d4eWEwN0xDOGQ4OUlwU0dIMmRhUkJMZWZNN19FaGZvX0lYMG8zeG5EbWF6REFQOWhsUEdkZUxpNk9NVkNLRTRhR0tUZzZFek1QQ083a05PczZBQ0JEQ3dySXFFMTZHRFI2LTlsMGFKczJsOVA3SlpQZEtqR1ZJMWJnS2RyZV9HWF9ENktR?oc=5",
+      "source": "Deadline",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-10-07T01:59:00Z"
     },
     {
       "title": "회계사들 \"4분기도 경기 확장세 지속…반도체 수출 호조 기대\"",
@@ -146,13 +146,13 @@
       "publishedAt": "2026-10-07T01:36:19Z"
     },
     {
-      "title": "Couple Charged With Conspiring to Abuse Numerous Surrogate Children",
+      "title": "Vietnam's banks tap investors for $7 billion as economy runs red hot",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa3BfQTZhQ21IT3B1Z2Y3VjVfcDBaNmdsaDBRZEIyV1VpZ1l5dWU3MkNPT09sTXdJNThTOFBTWlgxb1ZIVndtTTJwV3YwaVhtUV9sTUlzcEhKb1JERTZ0ZXc0Y28yQlpiMVVqcmp2cjRiSnNqUFprUFczc3gtNVVYdA?oc=5",
-      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSHo4NlJqZktPYWpaZGJOdjdzRXhwcENlTHkwZXNsVjJtbktRUklSaloxTHYxZTUtcm1oa1JId2U0QTg1SkdvVFRDdnQtLUpmUHFnZGpPVmNLRXRKcEY5UmVYblZSb3hWbGJyMTJRYkxIbThodnJNWmtlendmZFpIZjlsdUpEWGVYb1lRZUhEQnpiRlVkdmk4UWs3aUpXMnNjaGtjLXl4V2ZGY0VnRFRySTVR?oc=5",
+      "source": "Reuters",
       "country": "미국",
-      "category": "정치",
-      "publishedAt": "2026-10-07T01:20:09Z"
+      "category": "경제",
+      "publishedAt": "2026-10-07T01:02:00Z"
     },
     {
       "title": "Nobel winner Halzen says years of October 'misery' finally over",
@@ -164,6 +164,15 @@
       "publishedAt": "2026-10-07T01:00:01Z"
     },
     {
+      "title": "Jaguar targets young Americans with Type 01 EV – but it’s too long for UK parking spaces",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYmlfdHhJWUdQU3lyelJXbjdKalRyQ3RYdnh3dC1FSWxPcnZYaUUtSTEzenhmeUhCcF90WE5NUENsTHBLcmU4WWxIOGJDUWNlSm12d0hadDltazJkWnNGcnh1VGdGc3pWTXUwdEpWU0tja0VIVzZJNndWaWFZaUkwRi1aX2lIQkRoR25PeHp0TTY?oc=5",
+      "source": "The Guardian",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-10-07T00:02:31Z"
+    },
+    {
       "title": "Xbox has secured GTA 6 streaming rights",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdjd6VzIyMTdRVDZoQmZaMmVac2Y4ak1GbnQ1dW5XR3p1Y0ZnY3FBT1JwRjRMdWxsS2kxUm5DTjVVd003dGJ0RjRVVFItVFhYcmxoTzBhdzFFYzdFajJHZ0VseC1sUzNHZi1RTURQd3E0ektrR0xtYWczSzlmTFZScFFZMA?oc=5",
@@ -171,15 +180,6 @@
       "country": "미국",
       "category": "기술",
       "publishedAt": "2026-10-06T22:12:27Z"
-    },
-    {
-      "title": "[단독]‘해킹 AI’에 표적 입력하자 43초만에 뚫어…사용료 20원",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sYkFkeHRLem5FSThaZXp5bWpVc3NuUjhzMWJyZHVfSDMzenhWd1VVeG9Xa2UzeGxQdFVIOG9pZkxvR1pENlpYX1NqNTJMeE80TXpUSExuQjV4VkxqMVNTTER1djd3UXhsdXpqQzBuRS1IZmhLVnfSAWZBVV95cUxNNWJuWGg1WWZ0VjVDVEdtQkk1OHdKMTdacURBRjF2QzNfZEtvRG1Xb01UMlFWUnZNTmtsejIwVGdCamZqTFRmc3Fab1FJZktXeGdzUWdnNzF6VGxmYnF3VzRqeWF0Q1E?oc=5",
-      "source": "동아일보",
-      "country": "한국",
-      "category": "기술",
-      "publishedAt": "2026-10-06T21:28:55Z"
     },
     {
       "title": "트럼프, 관세 자화자찬…\"韓, 관세 낮추려 美 조선업에 1천500억弗 투입\"",
@@ -245,6 +245,15 @@
       "publishedAt": "2026-10-06T19:32:43Z"
     },
     {
+      "title": "96년생 동갑내기 의기투합…황인범 \"진짜 뭔가 보여주자고 했다\"(종합)",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Ka0g1WVE3MEVMSlhEQUc4SmN0M2w0X0cwS1dLWVR3SkFEN0ZpT3F0YmMwWnRsMlJ0b0F3TnY4NHRIdHM1dFk0a0djcUpJUU9zaGFFLXJjYnZxd0XSAWBBVV95cUxNSDJxZHk0MnEyRHRxZjZFQlZQZjBNaHN0bXdiZWdCVEo0cUNmbkFVMklMcHpKV1pKaVNPOTJQdG5aQWZpRTVRTmdMcUhhX0YwNXJ6U09CNkV2RFZNMEVISVA?oc=5",
+      "source": "연합뉴스",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-10-06T15:20:47Z"
+    },
+    {
       "title": "S&P 500, Nasdaq reach record closing highs as focus pivots to earnings",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ0p5VWxQQ0ZmUUI0Vk5wRUVjTUJhZjZGUlZjU2tWU1AtOEdqYjZ0OFRtRXNrUVdrTFlNZjVWdzluRjUyaWhHTlYxMG5Yc21pMHFubTdiX1RIRTRUSnB4UTZPckRMZTlzTHBEbkZKU1ROMTZpWE9lMXhPQkhyQmhBV3JNdkFrQVk?oc=5",
@@ -252,15 +261,6 @@
       "country": "미국",
       "category": "주식",
       "publishedAt": "2026-10-06T10:27:00Z"
-    },
-    {
-      "title": "노벨물리학상에 할젠... ‘우주 유령입자’ 중성미자 포착해 우주 관측 새 길 열어",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTUxCVjdsbU0wajZNT3RLQ3Rnd0RyM1Blb2dXWWdfcm0xY2txOVZzWGlfRW5VU0FJVkZucS1xTGg4dHluTUhOZ0RKMy1reFVkMnRBay1KdDdzZXA5RTYwMndPcmh6cVk1d3Rqdnd5TS1BSjJ2bVNiUnlhYjR0aG9famdVbw?oc=5",
-      "source": "조선일보",
-      "country": "한국",
-      "category": "과학",
-      "publishedAt": "2026-10-06T09:51:00Z"
     },
     {
       "title": "Monday Northern Lights Forecast: 9 States May See The Aurora Borealis Tonight",
