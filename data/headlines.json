@@ -1,14 +1,59 @@
 {
-  "generatedAt": "2026-10-08T08:37:23.472970Z",
+  "generatedAt": "2026-10-08T09:36:35.368324Z",
   "items": [
     {
-      "title": "AI 반도체 열풍에 … 삼성, 영업이익 사상 최대 107조원 기록",
+      "title": "Philly tenants are fighting to limit AI in property management. Here’s why",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSVnBWaUxtZERLQWxLY285M2gtT3Fxc292TWtXbVZtX2FwWDVRU1BtNkYyYlA3cUFkWFRhVnVjNk9xYm1yd0kzQml2MXNiUVh6cEdRbkY1eFFjNjZhRVHSAWNBVV95cUxQd1BGNFBzMHhOOE84S0ZWUmFaUGJWaUpaaTJVbXBsWUF5WHZ3Z2U5bllFZGsweEVkbnhMbXBQMm9xQXJDVFF3U29OOV9raHJ1U0dJRDlIZERTWVliZDlwbVRfTDQ?oc=5",
-      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSjlwZ0R0Qm9uOXlfanhhVU5TUHg1X2g2MHlqc3k2UnVNWWNtdTRWZG93R1YtamIzUGtadjgtTmFnYWFNMThiTkx1QTc5RWR5Q1VfYUN1N2puYV9wcGdDMlVVTVhncFE3Y1ZpQ2VaMEVLMFkyOExVSk9URWNqRFJSUTFRT003RV9nU3RR?oc=5",
+      "source": "WHYY",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-10-08T09:32:51Z"
+    },
+    {
+      "title": "한-이집트 사회보장협정 서명",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EOXJZSGRjblVSblF0VEZPVDcxUFpCWXlDODRYRzhaekJpWFRXVmJlbjJxOWRpSV9uYWNKSHA1c1YyLWZvRDhJbVNTaC11RTFZNVY2X2ZPZ19rc3M5V2c?oc=5",
+      "source": "한국방송뉴스",
+      "country": "한국",
+      "category": "사회",
+      "publishedAt": "2026-10-08T09:28:17Z"
+    },
+    {
+      "title": "[속보] 정부 “박기창 주우크라이나 대사, 본국 소환 결정”",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14NmdCemtrZXhvRTNWbnZ3VjV2OWswOVlNZmFZellfZ1VkNzAzZV93enZjaWRUQTBfcHpON0FkSGlmWEU4c2Y3MjJ1dDV4WjRwY2RsSXVzMmIyLTQ?oc=5",
+      "source": "KBS 뉴스",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-10-08T08:14:00Z"
+    },
+    {
+      "title": "Hurricane Isaias is expected to get stronger on its way to Florida, Alabama and Mississippi coasts",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNzlTM0pnaG9JM2k2Z19LSllNREhMckxuUE15MnZZdHZMYVUyendPbnBOejU3bS1RWXdJZXFPZllWb2hOMGdHS2ZPMTFqMTdGRFM4Yll1blQ2M2xMWC1YLTR4OVhsTVdyTUxkdm5CN1RUTXltMUpMdlhuLVoxcUVyTDFqejZyeTdvRHY5WGFMLURMTWRBZ1poYUl1WVI3VTMwajI0UzgwTzBKaU45eTVianM3eHhKSWtGVWc?oc=5",
+      "source": "AP News",
+      "country": "미국",
+      "category": "정치",
+      "publishedAt": "2026-10-08T08:05:00Z"
+    },
+    {
+      "title": "KISA, 나주 본원 신관 준공... “분산된 사이버보안 역량 한곳으로 통합”",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwRV8ySW9XT3MyMk0wVDI4NFMyVlF5N1R3ckFKWHRhTTNGemN5WTdRX2pNT0ZCTmkyVVVpTi1lS0JaaEhkWEFNQlMwTEVPeERvUDh3Y1NlbFE0aUVYdjA2am9PSi1UOHY5TTVN?oc=5",
+      "source": "보안뉴스",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-10-08T08:03:00Z"
+    },
+    {
+      "title": "AI가 전기화재 원인 10초 만에 가린다…전기안전공사, 화재조사 기술 고도화",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmZkdpSFcwT3U2Ymg5Y2stN1hhcWdBMkhpbDAtNEY2TFJtZEt5STNNTXdXS1F0cTREVkthenVjckhTeE0tYmpjQXRTcnYzTGFqRG1OdDhfNkplV3QzMnFSUnRhUC1FbEpnZXlwMmlUUDXSAXBBVV95cUxQZmZHaUhXME91NmJoOWNrLTdYYXFnQTJIaWwwLTRGNkxSbWRLeUkzTU13V0tRdHE0RFZLYXp1Y3JIU3hNLWJqY0F0U3J2M0xhakRtTnQ4XzZKZVd0MzJxUlJ0YVAtRWxKZ2V5cDJpVFA1?oc=5",
+      "source": "전기신문",
       "country": "한국",
       "category": "AI",
-      "publishedAt": "2026-10-08T07:51:09Z"
+      "publishedAt": "2026-10-08T07:47:40Z"
     },
     {
       "title": "삼성전자 ‘역대급 실적’에도 코스피 2.62% 급락… 6,625.93 마감",
@@ -29,6 +74,15 @@
       "publishedAt": "2026-10-08T06:58:11Z"
     },
     {
+      "title": "Tampa Bay Rays, led by unsung heroes and offseason additions, defeat the Yankees amid chaos in the Bronx to punch a ticket to the ALCS",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNejBfaXRGSnJ1aG1wYVdaUVE4Vy1xdWFxV1MzSU9OdHpLWUtlaGJBd1ZVTVZ5ZFI0ZldocVlkdi1wbmRGR21HM0MtcUo0QjgtTGRoWG9WeGltYUVVekhTcE9tbmZHWWVaZDhxd1haRzRsNHdHTHRTWHdMLURXTm5VbnppcHdXcWdZdzVLbF9yOElNbDV0YU5MTkdBaklIZXYyTDgtMjNPcVJJMFRlMnhSNEJsWnRjaFBuSkQ5cUdNZDdLT291SkoxUkN2ZTVrN1dhR051cXR6NnZzMUJmMlRRcXFyaHlQRGE3QU5vcDRQbFV5eVNiWVJ4OUd5TVZIQVJaYXJxVEVaaHFiRkl6WkZURjdB?oc=5",
+      "source": "Yahoo Sports",
+      "country": "미국",
+      "category": "스포츠",
+      "publishedAt": "2026-10-08T06:52:00Z"
+    },
+    {
       "title": "SKT·업스테이지, ‘독자 AI 사이버보안’ 공동 개발…11개 기관 뭉쳤다",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SLUdCR0d0a0trczhwNnJRME8xVU9nZS1xMEtMeW9HQV9xQm9LXzYwVGNpS2ZSV1l0MnBuS2dyTzAxdUhZYWZ0UTZDVW5ZM1dCRGR0SlJOeTNqMzhPdFRPUnlwZ0I?oc=5",
@@ -38,22 +92,13 @@
       "publishedAt": "2026-10-08T06:48:09Z"
     },
     {
-      "title": "다저스·밀워키 2년 연속 NLCS 격돌…애틀랜타 김하성 시즌 종료",
+      "title": "[속보] 홍준표 “어린 선수 한마디에 난리…군 면제 존폐 논의 정치권 한심”",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nOGtCTzRQNW1NUjZ2RS16S3FpMXFGZ0xLYlZGMnBIUVJjdW16ekNyN1ZGbzlJcVkwT1NBUElPSndTcnBwUDMyYXdXaE1tZnJnZFhfRFNjLXhWOFU0YnB1RlkyUXluRjZUWWc?oc=5",
-      "source": "SBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0SVoyNzZpd2RLbEo2UVhOZW5DdTg2eW9wMkF4X21LOXlDczhIT2pQSndkZDZQRk5UTGlSNmhGcmtaNlZGcmRfNFJtZXo2aXhUc0duUlNhME5JZ1E?oc=5",
+      "source": "경기일보",
       "country": "한국",
       "category": "스포츠",
-      "publishedAt": "2026-10-08T06:40:52Z"
-    },
-    {
-      "title": "[복지뉴스] 한국사회복지공제회, 17개 시·도사회복지사협회와 ‘사회복지인 퇴직연금’ 추진",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mNmJ3UG81TVhGNHRyeGduY0NJdUhSOFpkLWlFbWZzRXVMMXNnVmFxLWY3TTlIOTZiNE12MXY1TDl2bGEwMm9CSlVqdWx5R0c3MGp3QUxRbHpBcUZ4VDFUXzd0S3pXb2lSN1FXSg?oc=5",
-      "source": "베이비뉴스",
-      "country": "한국",
-      "category": "사회",
-      "publishedAt": "2026-10-08T06:14:44Z"
+      "publishedAt": "2026-10-08T06:07:26Z"
     },
     {
       "title": "Rice expands AI department with new Master of Artificial Intelligence program",
@@ -65,13 +110,13 @@
       "publishedAt": "2026-10-08T06:00:00Z"
     },
     {
-      "title": "Anthony Volpe’s tying home run in Game 3 overturned after Yankees fan interference",
+      "title": "다저스-밀워키 2년 연속 NLCS 격돌…애틀랜타 김하성 시즌 종료(종합)",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORkQ1WUxQRGU1UThhaU5mWDMzRXhSa0VnWWRFQV9fbk9HSDc2cGhFUFd3cml2Q2FIXzJ0VWJ2S0gzZ0VmU2hqejVnNU5nOHJOYkZwVXpNZDJidmZUYzNVcVJ3d1VoU25TMDVieUhwLUNrR3M2U3VCU0tyZzlWRGZleXp0cjltWGw1ZThVSWpJYkNDb1Vza3l6bk83T2k?oc=5",
-      "source": "The New York Times",
-      "country": "미국",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vX1VYV2xyYzVpWTRmZGkyS2MyR25jYWFkRmRsbHl5TXRrSS1VbzZVTlM3MHh2dmg2dlVJMGxLWWpwSDVXMVJFUVNnSkJUSExFX1h1dmFVR1U2QVdHYjBqSXpHQk5tcV9neGFvUWpQLXZfM1g3?oc=5",
+      "source": "연합뉴스 한민족센터",
+      "country": "한국",
       "category": "스포츠",
-      "publishedAt": "2026-10-08T05:55:00Z"
+      "publishedAt": "2026-10-08T05:20:21Z"
     },
     {
       "title": "김여정 “한국 의료지원 구상, 또 광대극…관계 개선하려면 존중 보여야”",
@@ -83,22 +128,22 @@
       "publishedAt": "2026-10-08T05:14:00Z"
     },
     {
-      "title": "SKT·업스테이지, 산학연 11개 기관 연합한 ‘독자 AI 사이버보안 협의체’ 출범",
+      "title": "Horoscope for Thursday, October 08, 2026",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16NkI4UTVfUDJlOFhpcVQxTVlPeW9lQ08zWVhCaTgyeVhJOEZNUXE5dGZ3RG83UFNEeTllRTlpXzBqUHVESk16OFNvekFYYVRFR1ZNZEJUTk1XRElVdGFUQ0syUDdGbDRTT3Y0?oc=5",
-      "source": "보안뉴스",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-10-08T05:00:00Z"
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHNqRmlLUW1sNFNSV2hEeEdyMDA1VnE3U3pBczdhQzEyclA2ZnVxOU82ME5NRUlkWE9KbzM0YUJ3aDBucU9wcy1wRzJ0MGRZSWY2eGxiQlZWVDNkVXJEMDZBcWZFZ2FYcmNMenY2MHJ6RVh4aVFSZGZnUVhhbVBTNk9LaS1xbGQ3N19HTGI1QXJyclZ6WC1V?oc=5",
+      "source": "Chicago Sun-Times",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-10-08T05:01:00Z"
     },
     {
-      "title": "WSU turns to artificial intelligence to assist sports communications",
+      "title": "\"도대체 이유를 모르겠다\"…증권가, 삼전 주가에 '멘붕' [분석+]",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWmtILXJZbWk0d2NDaDV0eFNoVzIzRF9JaW40VzBIQWczZWVfM2pvYzdVRWhZVk9kMzFpcDY5OEpINm1GQ1pOT3lueDlEOVVzelQyWWVxVmhyNmJrUjVpejZheWZubmhLbzJRNEdNcGpPQ1ZnMUViaF9qM2lFbDNzejE4TDRWSDdoOGxqaW82TW1LcUEtT2FxSTJ3R0RWZw?oc=5",
-      "source": "The Spokesman-Review",
-      "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-10-08T04:28:03Z"
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Dd3BYT2NXY3ptMDJUMUtkN0EwM1ozUklhUWRBUFhQOVlPUXdHam9hMzBJeXNTSUFSbkI5M19QN2lnWnYyemZUS2otRDlsdUZkM1g5RHFFRWlYdw?oc=5",
+      "source": "한국경제",
+      "country": "한국",
+      "category": "경제",
+      "publishedAt": "2026-10-08T04:55:35Z"
     },
     {
       "title": "이세영 \"김혜자 선생님과 작품, 크리스마스 선물 같아\"",
@@ -119,51 +164,6 @@
       "publishedAt": "2026-10-08T04:11:21Z"
     },
     {
-      "title": "Isaias becomes first hurricane of 2026 Atlantic season, threatens northern Gulf Coast. See maps, forecast path.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObU11UTVyOElhZ1JOcUNIYWJPWDVGQUFOamhKTmNmbnlNVWNNMDFlcUN3VTFhSzRXOXdzZEZMaldVczEtdmRGMkdBQkw4d3ktR1ZzX1pMV1dlb1ROTms1RFBOMUhJS1ByODlFTVRrOS1KUUpCdjdneDdUemRwZGE5WGRqLXJBaWJzaHVoSnZkUQ?oc=5",
-      "source": "CBS News",
-      "country": "미국",
-      "category": "정치",
-      "publishedAt": "2026-10-08T03:43:00Z"
-    },
-    {
-      "title": "In Vienna and Beijing, the First Nuclear Clocks Begin to Tick",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTEdDTHFQam5OWW41dGdVdGh6Sy1EME5ObGdvdWNYc1RIb3RsQUFPWGRlQlhHSms1NmxQQVRCbzBBOVNYXzhObjc5V1g5TmttdUN6ZDFlTTdka2FOdkc2ZlMxX29NQ1hfSFBOem5wRzlBaEhLS0dmTHhKNXFRYzBFTnh4cWRvcXM?oc=5",
-      "source": "The New York Times",
-      "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-10-08T02:52:04Z"
-    },
-    {
-      "title": "금융권 해커 ‘중국 광둥성 26살’ 추정…홍콩 서버·딥시크 썼다",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkcF81UHJDN3B0dnJlYkprY2o4dXZkdXRwdEVaZ2RnLXRIWC1aZkVlYVQzZ2J6N1g4WUoxa2lNNHdtaVB4R1RTbmU2SGtnY2JQM1hTRlh4YVVZUXF5VExXaw?oc=5",
-      "source": "한겨레",
-      "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-10-08T02:43:00Z"
-    },
-    {
-      "title": "홍준표 \"철부지 한 마디에 병역특례 존폐 논의…한심\"",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zY2RBa0VMeUVzSTFSM0c5UWJjN2YyZjlPMFhHa29OYUdYNVdLUGwzRXA4M1R4TUIwSFBvUkZ1UTd2QnFVdGMtR3d3Z0dmSm9sZ21nWG9zd3g4QQ?oc=5",
-      "source": "한국경제",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-08T02:13:19Z"
-    },
-    {
-      "title": "[속보]정부, 농민들 반발에 농지조사 큰 폭 후퇴···관행적 임대·휴경, 농지은행 안 맡겨도 처분 안 한다",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52OG5TMk13bEpfQ0dzRVNJempPZlJIMDkzOHNIaFh3TGFGQ19VR1o5Q051Y29IU0NKTnYzNjBhajRKT2tobENyVENOYUFDVmtLQUh6TEN4elU1UdIBX0FVX3lxTE9MVlc5Y1huY3FBaWpFcTg2TU1OMXE2cVhhcmh0RUZpdXl6LWFCYkRaX2hoSlBWM0p2czlOWUpLTDQ5WXhoWmh1a3B0VW5qQUxaZ0s4czRUOGpFUzA5eko4?oc=5",
-      "source": "경향신문",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-10-08T02:00:00Z"
-    },
-    {
       "title": "삼전 ‘영업이익 100조 시대’... 세계 테크 기업 최초 기록",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdm1ieE1RYTRTUmZWZ080M3BGR2xnNDJkeVJLc2NlN2VZNnZfYVNZczh1aHlMelpPX0JkOUU5dTlOQ1ltWk5NU0N1SGF2ZHYtTzQzSk5vM193cmQwbjdJRk5XT1NxeUg2XzNlNnlCWm16RTdncmdXa1VtZjh6bG5uSHVFcw?oc=5",
@@ -173,13 +173,13 @@
       "publishedAt": "2026-10-08T01:52:39Z"
     },
     {
-      "title": "Microsoft Launches $2,599 Surface Laptop Ultra to Take on MacBook Pro",
+      "title": "Oil rises as Middle East supply concerns persist amid shipping attacks",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMaW9Lc1l6c1J3cnRTV0VjSUxDd1p4MVpLUmVLM3paczM0TlAtT1JNY2hGNjExWE8zSS1paVdSLWpkNHMzMlpsVnFWcXBJM3RpUnZkVm1jUzV2by0wbVZrUVg0REtlM3owSG93eFUzb2VWSkZUTEZR?oc=5",
-      "source": "MacRumors",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZlloTmR5SkZfME9kcjlVcENtQzFrdmc2cnJfTWthWWJYcFIwZFFGNUs5Y2Y2TkR0MjE2STZ3WXktSXJRRmRiXzZYTnQ4clNNZlNQempZRzFPTERYUXpFM1d0SUJoUzFyN3FLRTg0d3UtckZWbWpWM01DNVJIUEdBTTkyd0dFaDgwX0llWXBtMXV1dVROdXUwVUF6VG9Ca3BReDdJTzNhT0d3RjcwUVF5TS12N1ZWNzJXdlRz?oc=5",
+      "source": "Reuters",
       "country": "미국",
-      "category": "기술",
-      "publishedAt": "2026-10-08T00:45:00Z"
+      "category": "경제",
+      "publishedAt": "2026-10-08T01:25:00Z"
     },
     {
       "title": "Samsung profit surges ninefold to $80bn on AI chip demand",
@@ -198,6 +198,15 @@
       "country": "미국",
       "category": "주식",
       "publishedAt": "2026-10-07T23:14:17Z"
+    },
+    {
+      "title": "A thorium-229 optical nuclear clock with feedback loop",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MUldxSWNGZlpKZVVoSzR2VW0tZXJKSm9jOWhLODZUMzRjNXUxMDJweEt0MUpZOXF0YVBnRlZCdlRXWm1WQXNGaHBaX2Rwa0pWTlNhT3FFb3lPYzRseWlR?oc=5",
+      "source": "Nature",
+      "country": "미국",
+      "category": "과학",
+      "publishedAt": "2026-10-07T23:03:38Z"
     },
     {
       "title": "'Ted Lasso' Co-Creator & Star Brendan Hunt Explains Season 4 Ending",
@@ -227,6 +236,15 @@
       "publishedAt": "2026-10-07T20:53:00Z"
     },
     {
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNEN2SzdRLWZYSFVmU1RTUTYwTFZqRE85T1d1TW9QcFRaalJSRHlOVWhlZkJfU3BrSklSWXU0LVlOTU0ybUVuN1lOZGQ0RDNlMGU0dWJwQy0tOXVLVlpnSkwxeWVZSlBodXR0WFk5UktOU0s3TXAtUlZ0NC1yNnFxeHRJMnZ3ajlOM2I2ZU04UFNtd2NncXZRVnExWFNNejdEN05B?oc=5",
+      "source": "TechCrunch",
+      "country": "미국",
+      "category": "기술",
+      "publishedAt": "2026-10-07T20:22:37Z"
+    },
+    {
       "title": "This surprising mammal fossil is giving scientists something to chew on",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUDR0M3djcjNIRUF5RmFQdXNadktqVXlKYkJ2Q0xkUmUteVJUWDh2MXFSZEtaQnJyTi11Y1JiRV9kUkNUWUUtTWhxeC1hY0hGcWtkUGJZVUctZjBSdnVhem1hanlPVkJlM3lJUE51amVlaXM0QThyV1hFaUxrekdNNWctSUZXMHB0Z01rMk9MQnlWVjVBRGZ0VUwzSXY?oc=5",
@@ -236,15 +254,6 @@
       "publishedAt": "2026-10-07T19:59:16Z"
     },
     {
-      "title": "Fed Minutes Show Officials Saw More Work to Do to Quell Inflation",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM2M3ZjBmVDVpR1M3eE9qYWtmRHRKNWsxT0FnNGtOdHFzVXZYS0Q0N1ZYeWo3MTl2SkVSMllDSFhZTzJVS0ZvU2FDTmlUTVVfQzJXTHRPb2lUcElLc3JWUGZCZjBfQ3Rxa3M5c0Nnc28yX25NR1BybUFtTWdEUTB3NlBpS0FjdnBvaDgtZGdxaDJHVUZrakNncUJmeVNWSlZSMW9kV3dzQnJOWHE1TG5HdmQ2T04?oc=5",
-      "source": "The New York Times",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-10-07T19:18:48Z"
-    },
-    {
       "title": "[단독]\"팔아도 남는 게 없다\"…삼성, 스마트폰 생산량 30% 줄인다 - 머니투데이",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsY3k3aF9va2hpaWdJdnFQTlAxZXB5ME0wUW5fWkhLSmtCYWxfN2RfNXU1NXBBa2hMRFMxcjhKcnBuOGk0eGdVUEVWV2RGc09VX1J1dmhLX3pWZll3WFpsRGREXzBqaHfSAWxBVV95cUxORWRCNUFxS2tNQkRETVgtc3p2OXRhYkFRY2QxMzhRX2RoNUNIczJuWF92aFF0dkJETldqNlpVVW9YS25WUGRsdlRYNHBrSG9Jdl9QMEdFYkkzUlhjb2RmSS0zVXJ6OGFhb1lybzk?oc=5",
@@ -252,15 +261,6 @@
       "country": "한국",
       "category": "기술",
       "publishedAt": "2026-10-07T19:00:00Z"
-    },
-    {
-      "title": "Travis Barker shares cryptic photo from hospital with Kourtney Kardashian by his side",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYzFvS2NoUHlGTXotbEhLTDI1SFpRQmg5dHJxREpPU2ZMOWEtWjBsOUx2Zjg3VmdwWFVZeFRmUFYzWGVYQmFyaXBkZzR0MzdBRXRKdFlFN09yWFE1ZXA1LTVVdHE1QlJCZFFyM3pRczhhT1l0a2x5bkpqQ3pxRElXaG1IbEl1a0xjeERLMlZyUEwyUGgySGpkQlVmYXloNVJLNm9YbW1vU1JRblE5VUpRb2c5ZWhfLWNuMWZIU1Y1VVl6eThsUUswbU5CVVo?oc=5",
-      "source": "The National Desk",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-10-07T16:45:43Z"
     },
     {
       "title": "노벨화학상은 일본... 2년 연속으로 탔다",
