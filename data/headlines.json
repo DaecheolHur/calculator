@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-08T22:34:14.729673Z",
+  "generatedAt": "2026-10-08T23:32:40.907279Z",
   "items": [
+    {
+      "title": "Pentagon says the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be livestreamed",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNFlfYXBjMDRKS0YzTHZFdFBOSGE4bGxpTEt1aXcxeHlSbktpNjVPNUd4QVVOYjlCNUd5NnBBS3hldGlhYXc5ZlJFWWZCa0JqcUQ0dUZETzJTeC1idVU0eDRkNlRBLWtWNmtTSi1RWFFfb2pKVnRrQjBZTnRpZk85dWhxZi1TSXRLVm9BdHhfbVBaOWRVTVIxUTM4a1o?oc=5",
+      "source": "AP News",
+      "country": "미국",
+      "category": "정치",
+      "publishedAt": "2026-10-08T23:10:00Z"
+    },
+    {
+      "title": "오픈AI, AI의 수학 난제풀이 722편 동시 공개…\"철저한 검증 있었나\" 비판도",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TYXMyRWFJTzlEeFl0Ym1MUVhvaTg2WW5SZG5QUHpUVXhLeHk4dnFUNzRobDZrN1NBSWF3OElLLXAxY3YyWVdicm15SmRDbzV1OGdXTw?oc=5",
+      "source": "DongA Science",
+      "country": "한국",
+      "category": "AI",
+      "publishedAt": "2026-10-08T23:00:00Z"
+    },
     {
       "title": "Nasdaq falls 1% as AI trade stumbles following OpenAI revenue setback",
       "summary": "",
@@ -9,6 +27,15 @@
       "country": "미국",
       "category": "경제",
       "publishedAt": "2026-10-08T22:28:26Z"
+    },
+    {
+      "title": "Canadian author Anne Carson wins literature Nobel for 'bold and inventive' works that blend genres",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY09mUWtpSkRXOWZETlVRbXc2UUF6VzMzYm9TSmcyLVJ6YVlKRVBKODJnMlMweDVZanJuN1V4WFFlbWJCNkROZDU2NUFTeEItbnI3Uy1uNlEwU3BHZ1JYTEViWmxEVWN5NFRCVnpTaUdWS3B6cWZiRDZuSnNBQkk5V1hKR3RXbW9CU2RDbmRkN0R4Mm5pbk1DOU15WDk2cFhYSGlFeE54SF8?oc=5",
+      "source": "AP News",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-10-08T22:04:00Z"
     },
     {
       "title": "與김병주 \"방산5사 영업이익 2.7조인데…사회공헌 지출은 1% 미만\"",
@@ -20,31 +47,13 @@
       "publishedAt": "2026-10-08T22:00:02Z"
     },
     {
-      "title": "[잇슈 컬처] 정지영·이명세 등 영화인들, ‘암살자(들)’ 논란에 입장 발표",
+      "title": "Cowboys vs. Buccaneers prediction: Can Tampa Bay slow down CeeDee Lamb and high-powered Dallas offense?",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tY2s0Q0VMblBkM1NvVmFNOWl0ZzVRNVJRVzNaZlRIWHNGa09adGMtZzNKYUJ0aV9ydDh4WllvUEQ5dHhfNWxmQUhsdWF5Y2kwak1sNWdOZk9DY1E?oc=5",
-      "source": "KBS 뉴스",
-      "country": "한국",
-      "category": "문화",
-      "publishedAt": "2026-10-08T21:57:00Z"
-    },
-    {
-      "title": "캐릭터 피규어를 획득할 수 있는 『동키콩 바난자 DK 아일랜드&에메랄드 러시』의 기간 한정 이벤트(총 12회)를 매달 순차적으로 플레이할 수 있게 됩니다. | News | 한국닌텐도주식회사",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3cDQzc1FhSENhQW0wQ1Z4WHpqV0pDYWhuRzhYZUlHVXEtZzRkaW9nUGZsRmdCeDhFUW1qa2tJZllFcy1fMXhuRU90VzJZcFBXWEZoS2RucVBXcjZOY3Jsd2RCWXVpc3VlQU4zb29fZ2c?oc=5",
-      "source": "Nintendo",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-10-08T21:37:19Z"
-    },
-    {
-      "title": "U.S.S. Abraham Lincoln Returns Home After Long and Grueling Deployment",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbTdrT2pHbVp5eGtTd3hySkxqak1VaEVtWEU5NlR6WjdHV0M0T2tBaXNNaG4xd3AtaDFIb1BtXzUtTWZhQ0tZZ3J5NFZaM0pseVhDbjI1cU5zYmhVdWxST3U5VTRhZnl5cF8xUlJsdThXelFlWk1mbFhMbk1PSDNSVDlITnpybUIx?oc=5",
-      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRGFhLU1hdGs3OFZBanRGSjJNVHp5YmxYLWxFWkxWbTNiVjBtcV9aWndwdndwaFNYYW5CR1lqTTZ1T3o4OXNWREJOZWNDendSSC15VlRHZVdLLVhCbHdCQTl1TFgxOGxXa1hvQ0c3Q05JaFYyWjZ5UmxmQVp4WEtJbGlISWI5T2ZxUkFGVDV2enc?oc=5",
+      "source": "CBS Sports",
       "country": "미국",
-      "category": "정치",
-      "publishedAt": "2026-10-08T21:34:00Z"
+      "category": "스포츠",
+      "publishedAt": "2026-10-08T21:25:00Z"
     },
     {
       "title": "Trump administration freezes green cards for Microsoft, IT firms, probes universities",
@@ -83,6 +92,15 @@
       "publishedAt": "2026-10-08T20:58:57Z"
     },
     {
+      "title": "국제유가, 美 이란 공격 우려·중동 유조선 피격에 급등",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjX2FRWHFaVWRLb0hfQmhmWkpQWlpKaEtoT0UyUlRjWkgxOVNyZldneFd1NUdNSEJmWTFCMjQ2aDNCYmVrY0dXYlhzWW1HbDVoWjlveW1zWjVMUlZicy1tNWg5cnZNcVpFdTYyNjZIV1hWUmNu0gF0QVVfeXFMTWpkbTRqWjQ2UUNwdjVZTjFKRVF6OGRQeUNuT2lWNm50bUt3Z2FWemhWbE91Z3cxRnNhWWZkZFNhWGZoNjJ5TnlvZElkbGxEY0QwbTkzSVpuNDhhaVVKaVhfdFB3T3dXYWZjOHNOSVFlTDhTN1I?oc=5",
+      "source": "MBC 뉴스",
+      "country": "한국",
+      "category": "경제",
+      "publishedAt": "2026-10-08T20:58:51Z"
+    },
+    {
       "title": "U.S. Stocks Mixed as Oil Spikes, AI Profit Doubts Hit Tech",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcmRmSzBtSkZNNUdzbkJoOThxUHFJNlhXVDQ3aUhtQklNTTlCN2lyckhrSGxJY2d2OGV3QnFlYzdXYTltUmdvb01Kd3Uwa0ZGYnJ3VnE2OFkxUzRpSWpLUURoX2hkcVVhc056UXAxTEdrR0k3S3A1U3RUOUhjMlVjNk5WM1JXazV6VFpBY2lZeUpPa0E4YVBmZEFQVzhuWUZCNWc?oc=5",
@@ -119,22 +137,13 @@
       "publishedAt": "2026-10-08T20:18:00Z"
     },
     {
-      "title": "Global ETF Market Evolution Regional Challenges",
+      "title": "연결형 카메라 시장 2035년 전망: 엣지 AI와 사이버보안 규제가 성장 견인",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWlEwdDQzVTVBb1REWjdlOTE3SFFtQ2k3eTVqTXdBeXFmU044TkFobHhmWDhkaTFac3lhLVdRN01JR1RibkxCRktudlpkQTFNRjdVTkdiMlZaSFpQdjBtZm1ZSjkyelBQYUdfUlM3MXJ5ck1tdG01cU8wdC1MQ3N0bVBR?oc=5",
-      "source": "Funds Society",
-      "country": "미국",
-      "category": "사회",
-      "publishedAt": "2026-10-08T19:47:50Z"
-    },
-    {
-      "title": "AI·로봇과 함께 꿈 찾기...특별한 초등학교 축제",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1razZ6RHhEaWhZRjRsVlFQdTlRQjNkVmdhWDZVaHNuSllqamVQSTktSmJyazFnVkRqZjA3MGxmVUJTNHVjZU4tUHZQLW1vd1NqdEdPUWJXTzVKLVltMDR6cktVUDNfYlhxWkZoTGVyMA?oc=5",
-      "source": "YTN",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ1Y4bG9OY2N3a2l0VEc3RVJVZWFqUm1XT3M4Uzl4M1pGSG5lWjZIdDEyREUyaGhlUUpDcGJ0ZGpLcUdwekxZemhmcGtFWExQZTMwdnYwLVRCNkcyem5TeHFuREZQekVDcWFGWHlDRlpQVlBwWVYxV1YyaU11YkNmdWk3Mm1vdVZqS0NPTGJveGk4SmhfRlVJSnRZTGR5dWRpN1E2MGpEUllUWG83ZmlkMWR0WHBzZXdfRXNzZkdOUGZRZUk?oc=5",
+      "source": "IndexBox",
       "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-10-08T19:35:00Z"
+      "category": "IT",
+      "publishedAt": "2026-10-08T19:26:04Z"
     },
     {
       "title": "KAI, 해병대 상륙헬기 1145억 군수지원 계약 수주",
@@ -155,13 +164,13 @@
       "publishedAt": "2026-10-08T18:58:02Z"
     },
     {
-      "title": "Week Five Expert Picks: Buccaneers at Cowboys",
+      "title": "Passport Grant Helps Pomona Students Gain International Experiences",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdy12WmhxRnZ2MGJYYjR0bWJTc01LekJweXB0NmdidlhzVmxiaUE2UVNjalFSWnhUalQzSVhvWkR1dkNQOVg5R0hWalJUSHV2a0MwUURkVC1tZTFOTlZETEhLdXlrWmEtLVI4RWZTdTRNS0VRUUJHQldObmhvUlQ0eWZR?oc=5",
-      "source": "Tampa Bay Buccaneers",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbFVTR1dYekZDXzlTeWNlZ0RqYkFhQUVMRFZRZFhPWmNyVjdRb2RpcXd3VzlSYVJFSGs1R2VVMGp4SkRDUnIwMnRHa3pBYlFlUVJOekR6ajRQbXJLcjJWNzNsXzZlTGYyWXhzXzJ2RmpVTUNFbnppdGs1bDdJTU9Gb3NxNEpDcVdOcXp3Skd1SE00NUpoTURRV3ZkTnZsRFgyeDF1ZG02Z0VpUQ?oc=5",
+      "source": "Pomona College",
       "country": "미국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-08T17:47:57Z"
+      "category": "사회",
+      "publishedAt": "2026-10-08T18:15:46Z"
     },
     {
       "title": "Amazon is phasing out Fire Tablets because they weren’t ‘giving customers what they were asking for’",
@@ -173,15 +182,6 @@
       "publishedAt": "2026-10-08T16:34:57Z"
     },
     {
-      "title": "Canadian author Anne Carson wins literature Nobel for 'bold and inventive' works that blend genres",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY09mUWtpSkRXOWZETlVRbXc2UUF6VzMzYm9TSmcyLVJ6YVlKRVBKODJnMlMweDVZanJuN1V4WFFlbWJCNkROZDU2NUFTeEItbnI3Uy1uNlEwU3BHZ1JYTEViWmxEVWN5NFRCVnpTaUdWS3B6cWZiRDZuSnNBQkk5V1hKR3RXbW9CU2RDbmRkN0R4Mm5pbk1DOU15WDk2cFhYSGlFeE54SF8?oc=5",
-      "source": "AP News",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-10-08T16:28:00Z"
-    },
-    {
       "title": "이 대통령, 극초음속 미사일 성공에 “자주국방은 기술로 증명된다”",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRNHBTMEFsVXRGWmoyNE5aUlp6b0FiTGdqbkRpd0lELWhjOU85azRpT2VZc2daUm85ajRiaVVCMHJCc19fMXd0dFMwV09yMG1XcFZqc2FOTktjMjBmM1JSaGVEMlBlZ0Zsa0RZ?oc=5",
@@ -191,13 +191,13 @@
       "publishedAt": "2026-10-08T13:08:00Z"
     },
     {
-      "title": "\"대체 얼마나 벌어야 오르나\"…삼전닉스 개미들 속타는 이유 [분석+]",
+      "title": "리센느 “오이데~ 오이데~”를 외친 남자배구팀 감독은?",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CNm03MG9DaldVNXFmaHYtRjhzMEZ4dEpCeWpMQzFnbnJ5ZFVESExWMmltUERnNXM3akdROGwxdDdMSlVlVWdtaDIzWGxCQ3BWQkltcDV6aHlqQQ?oc=5",
-      "source": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4SGtMZG9pQ01QMDY5NHYyeTNEOUZjLUMyTG8tQXJPMkxNTmhzOEw1cldPY0JkYnpOTmRXLUpBV2tRNGIzMFBMUWJYcHhRbG9GWERPb3FaU3lRNUk?oc=5",
+      "source": "KBS 뉴스",
       "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-10-08T13:00:01Z"
+      "category": "스포츠",
+      "publishedAt": "2026-10-08T12:54:00Z"
     },
     {
       "title": "[속보] 외교부 “주 우크라이나 한국 대사 소환 결정”···‘북한군 포로 공개’ 강경 대응",
@@ -245,13 +245,13 @@
       "publishedAt": "2026-10-08T06:07:26Z"
     },
     {
-      "title": "'AG 7위' 현대캐피탈 허수봉 \"메달 들고 오고 싶었지만…\"",
+      "title": "'6년 열애설' 유승호·임세주…소속사 \"과거 연인 맞으나 이미 결별\"",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YY0FRMTVnTEVYMTJ2aGpISEp3NFRWOXIwYlc3anNIRy1Wc01iV1Z6VmtzYWlwa2xRQW9LaXBpTkdnWkhFNUlMTkhSalc0bWluNVFYZTJJTUdfdzjSAWBBVV95cUxPZnVIaTd0YTVtdFBucEFGdlU5LXJVRVpSdUhvWkVKeTdIRDUySV9TNm1YYkkzWWVZOWl3MkJlbXpTR2x5dEVxTTk5YkgzSFlnSzRTZ0hpOV82d19CcnVpQ1U?oc=5",
-      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MU1BjMG9yTWJFTHdSRFF1NE0xaUl0alRFX1JiNUZ5MVRtdWkyWVNQSTVXMDdHN3Fqd2ljbmFSRmpqZnJwUEE4a3pJMnM1WDlBLU1BcVhManB4NWM?oc=5",
+      "source": "경기일보",
       "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-08T05:59:24Z"
+      "category": "문화",
+      "publishedAt": "2026-10-08T05:44:19Z"
     },
     {
       "title": "\"말도 안 된다\" 수학계 발칵…AI가 푼 수학 난제",
