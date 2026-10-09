@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-10-09T17:33:09.041295Z",
+  "generatedAt": "2026-10-09T18:38:24.515850Z",
   "items": [
+    {
+      "title": "Hurricane Isaias now a major hurricane as it closes in. These cities will be hard hit.",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMmZkODNtV0lzdVpmVXpLRktNOEZEMmEyeFppa2xzSzRqOUpCN1dFeHRXMTNkMGpsZ20yb1BvUHV2bHl5YTdoUGxCcHhoNW1uTFZNM0stTkc2cWxHbnBNQmFteGxyaU91bFotY0xXU1hLZXVwWnJVNjhnRU9GaHhIOFNkZFVrR1RRc1VxNVpINmFIbV9sczdpTUhUbUplM1hsWEdfZGFEOWRaU0tlV3ByTHpnR213Nk1qX09j?oc=5",
+      "source": "The Washington Post",
+      "country": "미국",
+      "category": "정치",
+      "publishedAt": "2026-10-09T18:03:07Z"
+    },
+    {
+      "title": "Mike Ditka, Hall of Fame tight end and legendary Chicago Bears coach, dies at 86 - The Athletic",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfTElhSG5abDE0YTB0WnN4ZmxpRmk2OWNxaGlmQl9KX19VbHZZUFZNcGRkMl93alJnSkRHLWFxWDVrTnh2NGFIQ2lrRHZYTGU5MEZHSVFWLVhZcFJxcTU0eDZSUnFGLU1sWVJPX01mWTM4TVBBbmlvQjBRUU5yMTA?oc=5",
+      "source": "The New York Times",
+      "country": "미국",
+      "category": "스포츠",
+      "publishedAt": "2026-10-09T17:50:28Z"
+    },
+    {
+      "title": "Pairing cardiac magnetic resonance with electrocardiograms (ECGs) improved artificial intelligence (AI) assessments of cardiovascular diseases",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORTJ1TXBmSTlqWnR2Z3NyNHBzeTBoWmU5ZUFRdUQ2UHpMZFpJblZ0QXphb1llR1RxZWxZcm5nbW5lSzE2Tnl0VFJINW9RYWlmYThVTVdaYjRSY19UQ1VBc3BNRm5kWU8wem1kcUczRVVPRmpoclhRLThiYk9FSHNXSVhSS3FmbllRM19hTkhrenVBSURuclVJMXF1bVd1Nm5mUWhDUHppRzdhR243X09Ycmo1RTY4enV0d2dzVzBudmlYQllUNFN6MjZEYlpjZ3BHaHJOMWpjcmZUZ3VKNk5TYWF2WklId082a2k4R3FZUUxJaVdlVVd4MVRZN0htUVU?oc=5",
+      "source": "2 Minute Medicine",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-10-09T17:37:30Z"
+    },
     {
       "title": "오픈AI 매출 흔들리자 기술주 급락…AI 산업 ‘순환구조’ 위험성 재부각",
       "summary": "",
@@ -20,13 +47,31 @@
       "publishedAt": "2026-10-09T16:09:00Z"
     },
     {
-      "title": "ICE officer shoots man in New York City",
+      "title": "한국, 유엔서 북한에 공개 사과 요구…“DMZ 지뢰 매설은 정전협정 위반”",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTHplTWhyRHJMWkVVWnVzbDI5aVVzakJ4bFZpOHNlZGZKX1R5bXZtem9NQkd4aVRBVFZxUkw4Mm85dnI4MnNUb0F3Q3FyZzQ3RGdqTlEtZ1lYX1pYanEyM1M5U2N0a2JJNHFTT2U5WTFGaHU1QW5GQ3duanlDa3FkRWdhelRSalhydlhJLUJtcw?oc=5",
-      "source": "NBC News",
-      "country": "미국",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeEVIYnk3ZEZnOGZLaFdKWm9oZ1JKaGl6cmtucVh2YnhxcV9NdjN3M0ZZZm91d0hDOWw0aEFfMkxUUk1sSkM0QXVaRUxaZmtadGdqdjduZDlweTJERXJtdEhaLVo0QTZKZUN6TFpNMWtFcGZZTGZqeEo3eHBSNjM3Rk5n?oc=5",
+      "source": "한겨레",
+      "country": "한국",
       "category": "정치",
-      "publishedAt": "2026-10-09T16:07:00Z"
+      "publishedAt": "2026-10-09T16:08:00Z"
+    },
+    {
+      "title": "최태원 SK 회장 \"호남 반도체, 수요 있으면 더 크게 짓겠다\"",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HRmJSWnhSaHg4WnpOaTRUSFBha0l5Y1NoRm5UbG9GcWJBMk1hbXo1d2MzQlltTTlwcFRZRzBzV3RSZGdTLTJFel9hV1RZbDZDUFNqUFhxQ3JGQQ?oc=5",
+      "source": "한국경제",
+      "country": "한국",
+      "category": "경제",
+      "publishedAt": "2026-10-09T16:06:00Z"
+    },
+    {
+      "title": "Stock Funds Cling to a 10.3% Gain for 2026",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OLUFkN3IxVm5BTWVsX2ttZm1XWTlOdFlsTC1KNEk0N0RaQ1Vib3Iwcm12Znk1N2RTWXlBSjY3ZFowbFFhOGZ1amxtYm1PcTFpQ0g5cmZiNVJZenB3cHBOY1A0YnduaVNUR3dGYTNKUHNNR3Bp?oc=5",
+      "source": "WSJ",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-10-09T16:01:47Z"
     },
     {
       "title": "前 축구 국대 김영광, 보복운전 논란에 사과…\"운전 습관 돌아보겠다\"",
@@ -47,40 +92,13 @@
       "publishedAt": "2026-10-09T15:19:53Z"
     },
     {
-      "title": "“그 형이 뭘 알아” 이서진, ‘전 여친’과 강릉 여행?..김광규에 발끈 (‘비서진’)",
+      "title": "Trump establishes panel to probe Fed governor Lisa Cook in latest attempt to fire her",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUzZydFRHRzhnUWRZSFp3MGJycDF5aTFFX3NwYW9UM1hJQUU0N1NaUGM2eDExcTgyUG44NmFEMGlWOHBCdmZ3Y1hpM2tDcW1jVUlYLWxwb2Y2QS1kbDVJVS03dHFOS1BTSXIyUE8xbUVwY2hQcG9jZTVIWXgySjBkajRaamx2LW05VEhiYTdRTQ?oc=5",
-      "source": "조선일보",
-      "country": "한국",
-      "category": "문화",
-      "publishedAt": "2026-10-09T15:18:00Z"
-    },
-    {
-      "title": "Legendary coach, Hall of Fame TE Mike Ditka dies at age 86",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWlV5QWJRZzVyVk1iOUtxLUQ0ZEhraU91N2tobF9wVHNJT1lSWHo5SkpXTjZHVHRPdUZWdm5QRkg0VU5tM2Z0UG04TUpqWEpVMng0c3RWWkdSRzF2RllUTzR0OHRlNS1EcnotUVlvMTJGdnRBcGtTSTlDTmM2T1lORy1mdnZ4UlVTV1dCZDJSWFg0aW1fb2F3cDZVRXg?oc=5",
-      "source": "ESPN",
-      "country": "미국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-09T15:03:00Z"
-    },
-    {
-      "title": "[농구] 삼성, 10년 만에 개막 2연승 신바람… 이규태 18점 맹활약",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xdXRnNUtvMlFyc3dYLXFxOGhUYW41SzZXZ2hCQ1hlRnlMMVJXS1lXM0ZCeFd2N2RtSWNyaWZmYzlCZ1BqZVRVSDFaZnlpS01TWlJROEYxOEw5VlB2X0R6c0FTbHZ5b294QlE?oc=5",
-      "source": "천지일보",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-09T14:43:53Z"
-    },
-    {
-      "title": "Trump Announces White House Inquiry Into Fed Governor Cook",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00c05fZUF5M2NfeElKZDZPSWkxcHJpM21Qd29XV0xyZU1JNDItU1F6WjJ4czJ5ay11ZW5nY1dZTUU3SE5CS210bWNtSnR5VXVSdXdZMW95TTk3dTRrV29WN0ZwMkpMVXV5VTlCdVFwS0FhZFR2dHBz?oc=5",
-      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ1p0ZVQwNWZjSmliSmtvcHVQSlcwUWl2VmstZC1JVkJJb25vZkRZOXNZbTlLTDVIM1c2a2JqNGRDaWdOYjFCZDZEcEd4d083Wm1pLUc2MEZVb2R5X0hCbnBzLVp3QzJXdXhtT0lpX1lZZWtxOXNxeUNMNHozcVFELV9nbjRELXk2?oc=5",
+      "source": "NBC News",
       "country": "미국",
       "category": "경제",
-      "publishedAt": "2026-10-09T14:34:04Z"
+      "publishedAt": "2026-10-09T15:00:53Z"
     },
     {
       "title": "Apple’s new ‘second-party’ HomeKit products will have this exclusive iPhone feature",
@@ -90,15 +108,6 @@
       "country": "미국",
       "category": "기술",
       "publishedAt": "2026-10-09T14:10:00Z"
-    },
-    {
-      "title": "Trump decrees that anyone who uses the term Artificial Intelligence is now ‘The Enemy!’",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdExPMWRnMzR4Y1VidUdjSE1rbEU5SDk1SmdZaEZBdGRpNmJocXp3U3pYTHd6YjdNQVVWejJJa2Q2cndRMnF3MGtOYjhYR29TU3MzTExscEJkc294US1xMGdxZHg5aHB6djBLQ3FtQWFhaUdlN3RuTWxOcW1CQWRwc1NHOFN3aGFFeFY0SkZqU1daNzBjeDFqWkpqR2Z3cG82OW81Wkt1cGlCUmNUbnV0YUFycw?oc=5",
-      "source": "The Independent",
-      "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-10-09T13:58:00Z"
     },
     {
       "title": "[패트롤] 고양시의회-남양주시의회-연천군의회-의정부시의회",
@@ -137,31 +146,22 @@
       "publishedAt": "2026-10-09T12:28:24Z"
     },
     {
-      "title": "최태원 “호남반도체, 가장 빨리 최대한 짓겠다”",
+      "title": "배현성, 최악 선배 無 \"한석규, 좋은 어른..박지환, 무섭지 않고 자상\" (채널 조정석)",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00MnVHd1ZJamRtN0NtaVcta252WEZqWnpMT0FRdlZPSV8zV0F2R2VZdmdLUTZJYnRwVUpWclhhUVhKUk5JZEVJM1M3TVh4bjNreGVGbmpORldOdWM?oc=5",
-      "source": "KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMnRiU1ZPd0lCOEFJTWdFRVBoRXpmQ2RsYjhEVldYQmpRdTRJOGw4MkJoY0Q2aUhvcmF4YmRGNE1JRWxDOGY5cUpDS0dPYmc3S1lINndraG8zQkdhSkdnQ3NFRHdzc2lpQUZlQWhFY01Sd1lwMHdqTklHZ0lON0wyWE0wVXpiLUs5eDY1dGFQRQ?oc=5",
+      "source": "조선일보",
       "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-10-09T12:06:00Z"
+      "category": "문화",
+      "publishedAt": "2026-10-09T11:42:00Z"
     },
     {
-      "title": "한국, 유엔서 북한에 공개 사과 요구…“DMZ 지뢰 매설은 정전협정 위반”",
+      "title": "5년 연속 최하위 프로농구 삼성, 10년 만에 개막 2연승",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeEVIYnk3ZEZnOGZLaFdKWm9oZ1JKaGl6cmtucVh2YnhxcV9NdjN3M0ZZZm91d0hDOWw0aEFfMkxUUk1sSkM0QXVaRUxaZmtadGdqdjduZDlweTJERXJtdEhaLVo0QTZKZUN6TFpNMWtFcGZZTGZqeEo3eHBSNjM3Rk5n?oc=5",
-      "source": "한겨레",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xWDU1VVkyOW04NFpKaXUwMUFINWpiVzBCZmV2VjRGOWkyQWU5Y0o0WU5JMGJmd3YzejRLb3RPU3Q4MEd0SWI5aVlzcFV3VThFTTlEdlVXTUF6M1lmNUFENS1WMzZDUkFkeko1U0xWUzhTRW430gFmQVVfeXFMT3ZxWE1kUTFCTVltOHBLLWJMZXZyLXE2UnNBRlZQbnVxbU15QzFBb0VDZVJ6ZXR1NnlueEFxUFRaUHRTSF9wNktsRUw1c0hUVzRxYlM2WmE1LW52RzhnOWpvU21uMXpB?oc=5",
+      "source": "동아일보",
       "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-10-09T11:20:00Z"
-    },
-    {
-      "title": "한미 정보당국 갈등 왜?‥실상은",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoblo2aDRKVmRGMEpqS3QwR2h3WnFxZVZNZGp6MUVOR0Z3MDQ3WWN5eE0zZE9SblRRUmFKS3VXMVp6NjQ4MmZQV25ZS3hxZkl2cFpVMS1pQ29GQ2RnZ2F5NHo4WDZ0WVZsSXZsT1VHR3poSnhFTFh2adIBeEFVX3lxTE84THNMQzVBMUNCVmNqakI5QmF0NldRYktSRmhtTXczT1VDQTlDSVFGVFZZUnpZbENDNVNpOGNPVXl2OHlHRkhiUG81ckR4SDl6Y3QxN0gtUWtva21DM2pMSFFfaFF5MUFaaS1kSUdzZi1Hby1zSWVsaw?oc=5",
-      "source": "MBC 뉴스",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-10-09T10:58:37Z"
+      "category": "스포츠",
+      "publishedAt": "2026-10-09T11:08:01Z"
     },
     {
       "title": "[포토] 대한민국 사이버보안 컨퍼런스 2026",
@@ -171,6 +171,15 @@
       "country": "한국",
       "category": "IT",
       "publishedAt": "2026-10-09T10:56:30Z"
+    },
+    {
+      "title": "'번쩍' 솟구치더니 탄착점 '쾅'‥극초음속 미사일 발사 공개",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKdVdOMDNXeC12LVJYUHNXQ1FwU29Edno0Tm5Rbk9pbW5sRWRHWmJSMW9vR0tJRU9uUHlSWGNxWWw3VU1GQUxpa0Y2TFhkMHZRWV84c19SQ2M5cm1tTDVxdEY2WEZ4OEZTS0ZRSWs0aTl0UWRlMkRiWtIBeEFVX3lxTE1jVkM0WWFlVnZQbFhWSWJZd0t4WnVwNDhnSDl4MUktRGdVRm9WMDF1ZHZjaXFpTEFZek04QzZpOEpnQ2Q0ZTFCZG1iTi1lbV82VlVIRmRjMlc0bjk5bDkxclZUMnpLLWdtYkxScEZ4TVo2bXRiSjVlcw?oc=5",
+      "source": "MBC 뉴스",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-10-09T10:45:26Z"
     },
     {
       "title": "코스닥 뻥튀기 상장 : 심층 특집 기획",
@@ -216,15 +225,6 @@
       "country": "한국",
       "category": "기술",
       "publishedAt": "2026-10-09T05:23:14Z"
-    },
-    {
-      "title": "S&P 500 Reaches New Record High",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX3I1OEszTzJJODJ2akRVWUllemVFREIwckxfdkdMTEZ2TnRYNXBlbV9uVGZCMjF5aFJHcXE3RFp3RThWUEdIRUdpMVczeGpGZXN3MFFvcnlObF9lbnh6YXdRWXBta2pNTVJJejhEcEJPSzZ6aTZvTzEycG5KaF92eHN1cUhaNUUyalhkTWJ4NGdlZlVENjBKMzdHYUZQdw?oc=5",
-      "source": "WSJ",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-10-09T03:10:28Z"
     },
     {
       "title": "국제사회, 태평양도서국에서 기후위기 공동 대응 논의…한국, 기후취약국 지원 확대 강조",
