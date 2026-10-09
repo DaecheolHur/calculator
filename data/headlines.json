@@ -1,15 +1,6 @@
 {
-  "generatedAt": "2026-10-09T00:48:11.331339Z",
+  "generatedAt": "2026-10-09T01:36:23.584706Z",
   "items": [
-    {
-      "title": "Pentagon says the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be livestreamed",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNFlfYXBjMDRKS0YzTHZFdFBOSGE4bGxpTEt1aXcxeHlSbktpNjVPNUd4QVVOYjlCNUd5NnBBS3hldGlhYXc5ZlJFWWZCa0JqcUQ0dUZETzJTeC1idVU0eDRkNlRBLWtWNmtTSi1RWFFfb2pKVnRrQjBZTnRpZk85dWhxZi1TSXRLVm9BdHhfbVBaOWRVTVIxUTM4a1o?oc=5",
-      "source": "AP News",
-      "country": "미국",
-      "category": "정치",
-      "publishedAt": "2026-10-09T00:31:00Z"
-    },
     {
       "title": "유럽 태양광발전소 ‘사이버 보안’ 경고…인터넷 노출 시스템 7,942개",
       "summary": "",
@@ -27,15 +18,6 @@
       "country": "미국",
       "category": "경제",
       "publishedAt": "2026-10-09T00:07:00Z"
-    },
-    {
-      "title": "‘2026 QA 코리아 컨퍼런스’ 온라인 개최… 산업별 소프트웨어 품질 관리 노하우 공유",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VVUVQQVM2SUt0NjZnb01HSWdCM2VMcGlLVFJVYjRVT3RvVGVVa2ttd1FwazR4M0RrcFo2ODdtcjdlMUZodEt4ZmtPZ3UwNDNZdUxLMHZjazBONGpQSHNOWC1RbjZSTGFO?oc=5",
-      "source": "테크월드",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-10-09T00:00:00Z"
     },
     {
       "title": "[AI리더의 서가] 이너 프롬프트",
@@ -56,6 +38,24 @@
       "publishedAt": "2026-10-08T23:49:48Z"
     },
     {
+      "title": "U.S.S. Abraham Lincoln Returns Home After Long and Grueling Deployment",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbTdrT2pHbVp5eGtTd3hySkxqak1VaEVtWEU5NlR6WjdHV0M0T2tBaXNNaG4xd3AtaDFIb1BtXzUtTWZhQ0tZZ3J5NFZaM0pseVhDbjI1cU5zYmhVdWxST3U5VTRhZnl5cF8xUlJsdThXelFlWk1mbFhMbk1PSDNSVDlITnpybUIx?oc=5",
+      "source": "The New York Times",
+      "country": "미국",
+      "category": "정치",
+      "publishedAt": "2026-10-08T23:42:27Z"
+    },
+    {
+      "title": "래피드포트·스페이스웍스, 미국 우주군 사이버보안 공동 연구개발 협정 체결",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQWGZ1WTk0YTZIakJUTlkxamx0bEpfT1RvV0poMjhZRDk4M0pUT2dQd2gtUEJzR2ZGQlpGWGwzVjRBdGgyWG80U0tudGRfeXFEWmpvcm1CSjEyRWkwQ2doeU4yTDVQZEZnSW5SSWNRUQ?oc=5",
+      "source": "양자신문",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-10-08T23:10:00Z"
+    },
+    {
       "title": "S&P 500, Nasdaq end lower as crude prices jump, chip stocks weigh",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLTluWFV5cWFfM2xBV243NUduZW80Q3dmYnFLa1Y4Nmhha2RNNHVGTS1sM2NYZ0ZCeWJlazZpSndKOWM0OVUxTmx2M3luSDdpbVgzNnYtanQtb2VkWV9tU2NQaU03ejAxZy1NU1JhWkMwLXRNbmJUY2pWaTBrVE9XbGRXa2VFekh1LTVZbVNGUVRKTVhIU0NnSUZqdXI?oc=5",
@@ -74,7 +74,7 @@
       "publishedAt": "2026-10-08T22:57:51Z"
     },
     {
-      "title": "Stocks fall, weighed down by oil prices and tech declines: Live updates",
+      "title": "Nasdaq falls 1% as AI trade stumbles following OpenAI revenue setback",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uZnFqRjRicl9Hc3lSeXlCQV9SS3QzVl83MFlGaUU5dDI5TFlWNWNmTktaTUtmLTJyNE5FQ3A2dE1lMU5pdk5IN21odldNeXlMemZpZEJuWFdVcHlWa21WaVBQOVRzNE9lR2dyOWhOOUF0amdINVkxStIBfkFVX3lxTFAxOVBHNFJ3UUZ5NXVkME1WOWpYZXZqSVpndGFCRUtTS2JJYnI3eVR6eXBDQjBkODBxYzdlOUFDaU5qMjQyS3J4b25sVmNtUlRmd0NBbGdOcjFMOHFGTEtWZkJzaU9ibXdWZjB4M2tpdWVIZi1vTS1lU19pUGk4QQ?oc=5",
       "source": "CNBC",
@@ -101,15 +101,6 @@
       "publishedAt": "2026-10-08T22:05:00Z"
     },
     {
-      "title": "Canadian author Anne Carson wins literature Nobel for 'bold and inventive' works that blend genres",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY09mUWtpSkRXOWZETlVRbXc2UUF6VzMzYm9TSmcyLVJ6YVlKRVBKODJnMlMweDVZanJuN1V4WFFlbWJCNkROZDU2NUFTeEItbnI3Uy1uNlEwU3BHZ1JYTEViWmxEVWN5NFRCVnpTaUdWS3B6cWZiRDZuSnNBQkk5V1hKR3RXbW9CU2RDbmRkN0R4Mm5pbk1DOU15WDk2cFhYSGlFeE54SF8?oc=5",
-      "source": "AP News",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-10-08T22:04:00Z"
-    },
-    {
       "title": "與김병주 \"방산5사 영업이익 2.7조인데…사회공헌 지출은 1% 미만\"",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NWHltdnF6UTNVekI3LXFMXzkxV1AydGQxRTdVVzlXaWpoX2MxcThwaXF5RWpDWUlEMUJDMDc1VWlLNFBIcEJrWF9zQmNyUy1qSmc?oc=5",
@@ -117,24 +108,6 @@
       "country": "한국",
       "category": "사회",
       "publishedAt": "2026-10-08T22:00:02Z"
-    },
-    {
-      "title": "‘Crazy Rich Asians’ HBO Series Sets Cast: Constance Wu, Henry Golding, Michelle Yeoh, Ronny Chieng Returning",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdVJpNTZBM003aGhnVXZYOFp6RFB4VEM2X1JmNy1scnhHQlRMeUNDV3pORmVjOHRtZUozODVmTlNSZVRMTDhlVF9Nck5HU0YxVThZaFdWMGZKTmRzTUpvWlViaVYyNUdqNEMtb0dHei1rNF9wenZ6eGd2VklEenV1Z3FPX05iV1hBd2ZfX1hCWnAtVXdpb0ViNUpmQnQ5ZTVfVWZuaF9sYmZEWmR2c1J0VEgwSjRpUQ?oc=5",
-      "source": "Variety",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-10-08T21:00:00Z"
-    },
-    {
-      "title": "도경완, 장윤정과 초고속 결혼...\"친모 빚 10억 때문\" - 머니투데이",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZbWo5NGp5a0RzSG42Qmh5ZDVIZFppOV9ZZHdBQ1Y5dUhRVmZJR2xZS3pUWTlCbC1iWjJ4NkNaakR1OUdwX3B4SkRJYXBoUFE1VnN4UHpjbEdJdUgzS20wOUNaTlM4Q2gyYVhGM3BKN2paQ2fSAXhBVV95cUxOZWVwalZNMUNJbkFlcGJHNUNYQ1JvNVRqWUVzTU1qLTdDOGxjTjYtd1BvVC0wTzdHbk9nbnF0cmpVLTlxU0UwWDM0QTJDOWRDLXlCUGxqaThxZ200WGJ0eW1FRXJHdHJJUVBSclk1R2VJbEV2cnphR1o?oc=5",
-      "source": "머니투데이",
-      "country": "한국",
-      "category": "문화",
-      "publishedAt": "2026-10-08T20:50:00Z"
     },
     {
       "title": "U.S. Stocks Mixed as Oil Spikes, AI Profit Doubts Hit Tech",
@@ -155,6 +128,24 @@
       "publishedAt": "2026-10-08T20:18:00Z"
     },
     {
+      "title": "Skydance’s JB Perrette Makes First Moves After Re-Upping Contract",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONVc2NEVHYVZaMThGVkE3ZXZNTWVscGxEQVl4QW9Gci1HNVR4Vk9tVGR1U3ZpRW9yMTRMWTFBWkdRNWF5bjlITEJYWDJCSDZ2b2Y0REVjdWlRR0hjcEg2VFk1bGhubC1oT0tRc05KNUh2UzZoUXZ2cm8zUUJCMFJNNWVhTy05Vms?oc=5",
+      "source": "Deadline",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-10-08T20:06:00Z"
+    },
+    {
+      "title": "Cardi B Cancels BZR WKND Jamaica Headlining Set, ‘Appreciates the Love & Support From Her Fans in Jamaica’",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd3AtNEVwaDE5RzdCOHpQd19EY1ZWNjhwVjRRWEptcEttMjBLVFd1aHhqa19uMnhpZ2czUlItLVdjdzc5LWd6ZThpdkkycUQySl9vN09MQnF1LVQ3aGdxVk1HdXFoc3JDMEJYWUs0MW9mbDlUS1hHa2N1dlZTMEZWXy0yQ3RRNjFGN1FJRGlTdDBtWHBaMjZYVDVwdEZHcXBoanJZ?oc=5",
+      "source": "Billboard",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-10-08T18:41:42Z"
+    },
+    {
       "title": "Passport Grant Helps Pomona Students Gain International Experiences",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbFVTR1dYekZDXzlTeWNlZ0RqYkFhQUVMRFZRZFhPWmNyVjdRb2RpcXd3VzlSYVJFSGs1R2VVMGp4SkRDUnIwMnRHa3pBYlFlUVJOekR6ajRQbXJLcjJWNzNsXzZlTGYyWXhzXzJ2RmpVTUNFbnppdGs1bDdJTU9Gb3NxNEpDcVdOcXp3Skd1SE00NUpoTURRV3ZkTnZsRFgyeDF1ZG02Z0VpUQ?oc=5",
@@ -173,13 +164,13 @@
       "publishedAt": "2026-10-08T17:47:57Z"
     },
     {
-      "title": "Amazon is phasing out Fire Tablets because they weren’t ‘giving customers what they were asking for’",
+      "title": "Apple Product Launch Announced for October 13: 'Welcome Home'",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQTdFUkNaZ2FPeFpadUpLdk9KQWxucWh5MnlhNGxyY1c5eC1zSnVOOE1fUTlScHRaSDRRS2lhRlhoLVBFRHBQWmtXbTRKc20yNlVqdy10S1U4WGZ2MEluejZ3QmIxck9jck95d3NZek1nTTNyd2tGOXJrY3FwRzVOcURsVUNYMFk?oc=5",
-      "source": "The Verge",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4ybjJ3VC01ZXljQ0htQUdGcFdmWUJiSG5EMVNvT3lwbXlpcmNHcW1id0cxdlhwbk90d2NpZTFQTHo4eTRGUjEtamJiVlJtZ3pkU3QyeGVoUWZPV25hcjNraWxrX2xxMHRvMkRQZ0FsR3RrZm43SUoxVQ?oc=5",
+      "source": "MacRumors",
       "country": "미국",
       "category": "기술",
-      "publishedAt": "2026-10-08T16:34:57Z"
+      "publishedAt": "2026-10-08T16:04:12Z"
     },
     {
       "title": "4 people on NASA's Crew-12 mission return to Earth after 8 months in space",
@@ -189,15 +180,6 @@
       "country": "미국",
       "category": "과학",
       "publishedAt": "2026-10-08T15:34:39Z"
-    },
-    {
-      "title": "이 대통령, 극초음속 미사일 성공에 “자주국방은 기술로 증명된다”",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRNHBTMEFsVXRGWmoyNE5aUlp6b0FiTGdqbkRpd0lELWhjOU85azRpT2VZc2daUm85ajRiaVVCMHJCc19fMXd0dFMwV09yMG1XcFZqc2FOTktjMjBmM1JSaGVEMlBlZ0Zsa0RZ?oc=5",
-      "source": "한겨레",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-10-08T13:08:00Z"
     },
     {
       "title": "\"대체 얼마나 벌어야 오르나\"…삼전닉스 개미들 속타는 이유 [분석+]",
@@ -216,6 +198,24 @@
       "country": "한국",
       "category": "스포츠",
       "publishedAt": "2026-10-08T12:55:27Z"
+    },
+    {
+      "title": "'장윤정♥' 도경완, 이정재·손종원 같은 과였네 “8시 20분 처진 눈 닮아” (‘편스토랑’) - 조선비즈",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNFpjWF9xNU9fYlJ1NWdxMlBKSGM2ZmNBTU9FOEhTZVFUM1BkcWM5Mmc5Vy1RUFVYWERjMzdZRlBCUXNUOUtXeDFxYXZkUlpZVzRobGR1T2xOWmdVdHVGTXlZbnRjUGJKYlMzME9lOWZyOFMyMko4ampuMHlzTHd3QWdZdG9BNWU4bldDVkVZR2VabzTSAacBQVVfeXFMTUd2UXlHZ0J1N1ZCQVpFQVFxWVJjMmk4dEo4alc3c3prcVNIRlJIM2ZIcllCVGhQaGg2cXNZVGJRdDJQMXZwdzkyczNNVmpKY091TGNKb0FPMV9TeEcyd0VQal9OZHd5cXVqWGJuTFZRaUpfMExrV29STzNNNEI3WnR6S0RJQ0pmVVRqR05KZkpPTnN6R1JVSXdjVHk0QlBsQ3VaajNmOTA?oc=5",
+      "source": "Chosunbiz",
+      "country": "한국",
+      "category": "문화",
+      "publishedAt": "2026-10-08T12:10:00Z"
+    },
+    {
+      "title": "[사설] 장기화되는 한·미 정보당국 갈등, 서둘러 풀어야",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByd0NqQ3hreDhkRklvUEFwanlnZUc3MHlxTmxYV3RZRWF4SDVPb2JITXVQcWthMS0wUVVpNjRUOHE1Y05GTDdCeHlUVWpWNEIyVU1ZVy1EbW1PYUpHMUFocGMzM2NwNDN0b1E?oc=5",
+      "source": "한겨레",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-10-08T10:09:00Z"
     },
     {
       "title": "[속보] 외교부 “주 우크라이나 한국 대사 소환 결정”···‘북한군 포로 공개’ 강경 대응",
