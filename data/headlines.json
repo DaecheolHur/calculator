@@ -1,23 +1,59 @@
 {
-  "generatedAt": "2026-10-09T12:41:17.989043Z",
+  "generatedAt": "2026-10-09T13:38:19.003453Z",
   "items": [
     {
-      "title": "Stock futures rise as tech shares rebound following sell-off: Live updates",
+      "title": "Nasdaq jumps as tech shares rebound following sell-off: Live updates",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nSVM4THI4YlFUdXYtTTJyX3ZJamZOSWdDa3owRkpVU3FHWEVzZ3NJcTBoSkt6YVluWW1jaFlGeVB0Q1pMdGk5Z2Y3UVpwZjJ0WjlHdFppQnBMQVRjT2lLTGFBTklzelhYSFVQdEJJejAxOHRpMGVn0gF8QVVfeXFMTThPS25hbl9MZ0p2cGw3Nm5Pby1vTml4OE5aUHo0N204RTVnOWN6Z24tX2FQVUhjY3hHN0xxUURlQ1dkSnh3bVE2NEM5SWRrQXFNUzlVUVl3UzdDVm1rQVJCaVVDSVFsSER1ZFlXUDRkRlNpeUloQzFsbHpQWA?oc=5",
       "source": "CNBC",
       "country": "미국",
       "category": "경제",
-      "publishedAt": "2026-10-09T12:25:39Z"
+      "publishedAt": "2026-10-09T13:08:33Z"
     },
     {
-      "title": "조경태, 노무현 전 대통령 묘역 참배…“협치 정신 이어받겠다”",
+      "title": "As frontier models go rogue, colleges beef up AI cybersecurity education",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRVVRxdU5Tei1mVEIyVC1WcDY0MUtuZlZRNllkR3I0dGJKOTZMUjlOeTVFYWRSMVZnMFNxVzdyS0l0NHVjSVVyNnFCdzNsb0dfcEdqc1k1dWxmQTA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbUsyWDlhNlJGNnJBV1l6Sk5uZGdUTzI1MlZaOUFOSXlmSEpmYXVUUmR0T2d6bDhKVnJETFhSZXB2SmEyOU44QU9iU3hJMHA5NzVCdmVCNmp4Z21QOHQzSUNjQXJpRUpZZHppRzluN3JQRmstM1lpWG13bVJrMjhTc3EydklBY1Z3QmVjdw?oc=5",
+      "source": "Cybersecurity Dive",
+      "country": "미국",
+      "category": "IT",
+      "publishedAt": "2026-10-09T12:45:00Z"
+    },
+    {
+      "title": "오픈AI, 수학 난제 해결 주장…학계, 신뢰성에 의문 드러내",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Md2dueXUwcllERlhiNlNYVkd0MFhqdGg3YzZMTGxueDFnc2J4VENBdTZxQjNsS2g0MWxjYnVURXkySE5DWmR4SnlTcFFRRDFnamZ3Yi1B?oc=5",
+      "source": "지디넷코리아",
+      "country": "한국",
+      "category": "AI",
+      "publishedAt": "2026-10-09T12:41:22Z"
+    },
+    {
+      "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pVlNqcnVNNU5mOGhxUE5iajdxU3psRmdDdWNEZTBGenRRT1AtTC1YcmVTbkpNTlF4SkhkY25RblUtWXlwMHlrM2RfZ2VTVUprQ183THdKTWpEb1k?oc=5",
+      "source": "BBC",
+      "country": "미국",
+      "category": "정치",
+      "publishedAt": "2026-10-09T12:24:58Z"
+    },
+    {
+      "title": "최태원 “호남반도체, 가장 빨리 최대한 짓겠다”",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00MnVHd1ZJamRtN0NtaVcta252WEZqWnpMT0FRdlZPSV8zV0F2R2VZdmdLUTZJYnRwVUpWclhhUVhKUk5JZEVJM1M3TVh4bjNreGVGbmpORldOdWM?oc=5",
       "source": "KBS 뉴스",
       "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-10-09T11:50:00Z"
+      "category": "경제",
+      "publishedAt": "2026-10-09T12:06:00Z"
+    },
+    {
+      "title": "Jerry Jones 'extraordinarily disappointed' after Cowboys loss to Buccaneers",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXU1QlE2RUh3U2JxVEJsRmVNY3JJcXFYRThNY0lJQzd2bWVnV05OdnoxaDFRYlZDbjVsbF9xMmZZN0I4WjZUcnctX1lFX3BLWExzSDRsa2ZfUjk3UkE0LUJETFZTNmJmVkp6T084cWlDQ1BtSlQxd0ZreWdpV3loY3A5UzRibHRXcG1rVjVudkVhU2NfRG5HeUttSFZUVWc?oc=5",
+      "source": "NFL.com",
+      "country": "미국",
+      "category": "스포츠",
+      "publishedAt": "2026-10-09T11:42:14Z"
     },
     {
       "title": "‘보복운전 논란’ 김영광 “불송치에도 책임 느껴...운전 습관 무겁게 돌아볼 것”",
@@ -38,15 +74,6 @@
       "publishedAt": "2026-10-09T11:26:24Z"
     },
     {
-      "title": "오픈AI 매출 흔들리자 기술주 급락…AI 산업 ‘순환구조’ 위험성 재부각",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmNDloUl9icmZsdGFORWFxTHVHVm9ELVB1aWJrbGxJcno5VUVXbENpV0d5UmpXVTFMRVZ3U1RFTG4tRnpXNzdCSk9mN0tzdURiMXpsMWUtU0ppMnA1RzFHeWwtMm1OY3M?oc=5",
-      "source": "한겨레",
-      "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-10-09T11:26:00Z"
-    },
-    {
       "title": "[포토] 대한민국 사이버보안 컨퍼런스 2026",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BVmgyclE3MUR2eDA0dlR5TlNCMmR5aDNCYkFqdHJJeWk3YmRvOFR5TGcxWG1iell5U3VDdWdfaXRJWC1fYzhZdFBOUnRqUVBvTXdZOFJ3?oc=5",
@@ -65,15 +92,6 @@
       "publishedAt": "2026-10-09T10:38:32Z"
     },
     {
-      "title": "The Mango Strategy: A CEO’s Guide to AI Cybersecurity",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZVJuY2NVb2pMdmxMNlhtZmZoaXRqYTFsNVlxRkE5bkRfdHdoUGd0QVlHa3N6bjFnLUFxWWZuWEdDRzF0dUlQN3dqbzE5dTNaWmRiOElpWUFPMGRzdWJYWFRacTB5ZFJneHQxNlFlZ3Q4ekJIdktqTmw3R0YyQUp3OXBlU1NQcHhGNDlHMC1SMmc5MVU0ZjQwa2R0Nm5XdlE?oc=5",
-      "source": "Palo Alto Networks",
-      "country": "미국",
-      "category": "IT",
-      "publishedAt": "2026-10-09T10:19:11Z"
-    },
-    {
       "title": "Epidemiological modeling in the age of artificial intelligence",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPc05rTHdkSzFEWUpsYXFJRWNqMjdUeDZiZXJMYVh0dldqOUp3QzAtcFhFdFQ1NmxBTHpLdEtoNEFjN3ZNX0h6UUdtNE1ZMGxnc0h6eWNVbm82dEdHcmJj?oc=5",
@@ -81,15 +99,6 @@
       "country": "미국",
       "category": "AI",
       "publishedAt": "2026-10-09T10:10:31Z"
-    },
-    {
-      "title": "서영교 \"'암살자(들)' 진짜 잘 만든 영화…오늘 보러 가라\"",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0ycDZadmZ6SEc3TGFWTktrNG5XdnkwbkI4VGdrNXFNVVV2dGgyN3F2VmxzTUlWOGNMcGhiODNNVVdYZXVMSC1NR25hVzdjLUttT3NTRVpMV1dLZw?oc=5",
-      "source": "한국경제",
-      "country": "한국",
-      "category": "문화",
-      "publishedAt": "2026-10-09T09:57:55Z"
     },
     {
       "title": "Mellon Foundation Releases the First National Study of Community-Based Archives",
@@ -101,13 +110,13 @@
       "publishedAt": "2026-10-09T09:47:32Z"
     },
     {
-      "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
+      "title": "[포토] 우리 기술 ‘극초음속 미사일’ 전격 공개…첫 시험발사 성공 장면",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fNC1YZ1l3YkVvMlFvRTZNM2tqLUlOcFJGMk4ydkE1S0s3Um1wWWlCZ3VpVkFtU09QZGw1cE9BeS1pOW5YQzVkd2xMV0pWS0FOU05XWEg5STg5dXM?oc=5",
-      "source": "BBC",
-      "country": "미국",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zVW51VHVrNWo0Q195RmpWMVFZWkwxTjMtY3RMMWNDYldRaUU0TDFBYkVKOW9pRGJKcGV6dnM4eGVnaHVyQ1BVVS1rUkg1Zmg0VU5ZTG9vakxsaE0xWWVBc2oxT012cXo1bTZj?oc=5",
+      "source": "한겨레",
+      "country": "한국",
       "category": "정치",
-      "publishedAt": "2026-10-09T09:43:22Z"
+      "publishedAt": "2026-10-09T08:56:00Z"
     },
     {
       "title": "韓美, 경제·안보·정치 곳곳 파열음 … 野 \"李정부 입국 거부한셈\"",
@@ -117,42 +126,6 @@
       "country": "한국",
       "category": "사회",
       "publishedAt": "2026-10-09T08:30:41Z"
-    },
-    {
-      "title": "한국, 유엔서 북한에 공개 사과 요구…“DMZ 지뢰 매설은 정전협정 위반”",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeEVIYnk3ZEZnOGZLaFdKWm9oZ1JKaGl6cmtucVh2YnhxcV9NdjN3M0ZZZm91d0hDOWw0aEFfMkxUUk1sSkM0QXVaRUxaZmtadGdqdjduZDlweTJERXJtdEhaLVo0QTZKZUN6TFpNMWtFcGZZTGZqeEo3eHBSNjM3Rk5n?oc=5",
-      "source": "한겨레",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-10-09T08:28:00Z"
-    },
-    {
-      "title": "최태원, 호남 반도체부지 첫 방문‥\"가장 빠른 속도로 짓겠다\"",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PUVZmQVdlbjZMZW5ra1hOTll3Y1o4VmN5MDRpcnFUNlBGYlhGZHZEdVROMU0yR0ZGV3NQbnpDQlgyRy0xTzZuWFRzN0VmVzRlQUp0MTZ3ZHJuMnltb2ZmVERLMk9xTUpSaG1QVnBPSUhKRmxu0gF0QVVfeXFMUEgwOVRhanVnMmFJR3Byc19SYWFKQzAzTjR1amxMZ1U5SFZaSVRJNzFtWS05SzJDRUd5OGlEamlzTDlDMHlJNzlCY0M4X3BaRHd2Z1hmcjZicUJReGVUZXJqMDlfNlJhelVEejNqOGhEcEpmNUQ?oc=5",
-      "source": "MBC 뉴스",
-      "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-10-09T08:14:48Z"
-    },
-    {
-      "title": "Splendid sequel series Avatar: Seven Havens restores the balance, if only for now.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TMjQ3RjdBMkg5WWNrMEJQOUpJZGQ5bnVObDFyeEdUUGZXRWJ0ZXU0bi1ySHJMamZrNk1NSmJzYWJ3bUhOSzhkbFJOVl9wd0FOOW9NampuUUVRUFJRemZIU3d4UVQyaXNadjgtQU9lem5FZw?oc=5",
-      "source": "A.V. Club",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-10-09T08:00:00Z"
-    },
-    {
-      "title": "[AI상보] '이로운 8승·최지훈 3안타' SSG, 삼성 꺾고 홈 최종전서 6위 확정",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFVUpTODJJeWN3QmxuYVI2ak9VMjdveF9TVl9mQzJzeF94YV9xaXRYSUVnUVhjNXJobXp3SmZKTEpMMllPNm1DUnR5U2hpSzRfalBaUFk1MVNiYVR5?oc=5",
-      "source": "뉴스핌",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-09T07:44:00Z"
     },
     {
       "title": "What Smart People Say About PERM Suspension on Microsoft and Indian Tech",
@@ -182,13 +155,31 @@
       "publishedAt": "2026-10-09T05:23:14Z"
     },
     {
-      "title": "Jerry Jones calls Cowboys' TNF loss to Buccaneers 'extraordinarily disappointing'",
+      "title": "‘Animals’ Rotten Tomatoes Reviews Bash Ben Affleck Crime Thriller",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1V1Zlo1RFpWRGxIU1hqY3hraG8wRFBWOVhlUzJQWmNlS3kwSXhTUEs1ZVFBWS1CaTgtUHM0dlBPSVhJNUhTUDBYNzh5a0lseXpab09HZjZYYy1MdlhaNHlseDBTQ01EbC1OMFlKeXJCa01DYlJfc2xzYldQUWtzcWVNdDc?oc=5",
-      "source": "Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa3RkMXBMRHM4NHNBZGxaeXltNTZUenhvZERJMnYySFB2aGJST21GbUhscDJKa2xiRVc5aXMyM0lvU1NHeHBMLU1DZU4wQ0RmRThMVGR0MDNwcDdUcGJpMzVpSmVFLU1tMUlwZ3FvQUhmTGl6YzQtT3I0T3hONEk2MlhaYmkyLUpKMXQyaE1zNTFFSjFXMGZMWG9uXzFHdUs4eU5HUjhYOW1ycGlCZGpHdERsbjJVUQ?oc=5",
+      "source": "Forbes",
       "country": "미국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-09T05:19:00Z"
+      "category": "문화",
+      "publishedAt": "2026-10-09T03:37:30Z"
+    },
+    {
+      "title": "北 지뢰지대 이어 철책도 군사분계선 이남 설치 정황",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Nb0x5V2pCc1pUamJfbUVoTjZHNjlBbWt3MHgwb0QwaHliRlA2MDBIRTVVUXZJYXFxNExPUVpwV1ZCbTdoUUV0NDI4MFpOZzlMN2xjUVB1N0VZaDB0WDB3b0hpNEw3Y1NtQlRrZXpQdmQtNGpnRTROV9IBeEFVX3lxTE5mU2dUS3RfWU9pc3lUWVk2Qy1pSjJURlBfLU0wM3FJRkU3eFdPUUdOQy1YcHZZaF93eThibTh6d1NZN1ZERndrV0ZOcU5GazdmNDMyYTlwellNNFpBRDlOTUhwbWUtbzZQSHFlelZxdk9hTHp3OTVuRA?oc=5",
+      "source": "MBC 뉴스",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-10-09T03:35:28Z"
+    },
+    {
+      "title": "Hugh Hefner’s Widow Asks Jessica Biel “Please Reconsider” Starring In ‘Playmates’",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZEQ1bjZhUklXZ2VwdnJxVUgyb3BLMjVic2F6OEltdzdaLTR0TEo2QkFMVE5YSzFkSmJVejhVS1FRb2RPdTRqMGtjNmpmSHNBdVNpdlNjRjdxZWRrdno1aU5BN3hNWFZVYXhBRy1WWlI5SThVTXRYcHE1VUhVaGtUaFBPdERnTUt5X0Rjck1abmlXc29jT0FVamlWQTFIOG1L?oc=5",
+      "source": "Deadline",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-10-09T03:23:00Z"
     },
     {
       "title": "S&P 500 Reaches New Record High",
@@ -198,6 +189,15 @@
       "country": "미국",
       "category": "주식",
       "publishedAt": "2026-10-09T03:10:28Z"
+    },
+    {
+      "title": "최지훈·한유섬, 어쩌면 SSG 유니폼 입고 뛰는 인천 마지막 경기일 수도! 삼성 맞대결 선발 라인업 발표 - 머니투데이",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44VXpGdFh6THgwZzBqNXlUSWl4bDJfTUJsQXpjTEYyMUcyMFV3Nldaay02Z2hobmZreFlIcVdFZXFEbDlDeTV3a2tHS3p1YklMWFVmcXJFalk3Y3pTRFZMbzRJN2tpMExLaEHSAW9BVV95cUxObDdzY1VkeUhSTzVLUUZXb3luNDhhd25nVXZFaUdIVnRQWlhRbG5pTVphaGplSWhWTkx5RGpVaDlJalZNMUstaVlTb3dRNFp5ZVVkMWU4am9OcUlxbl9tODJ3U0d0ckowMk5ZSDExMmM?oc=5",
+      "source": "머니투데이",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-10-09T02:17:11Z"
     },
     {
       "title": "국제사회, 태평양도서국에서 기후위기 공동 대응 논의…한국, 기후취약국 지원 확대 강조",
@@ -227,13 +227,13 @@
       "publishedAt": "2026-10-09T01:25:05Z"
     },
     {
-      "title": "Crystal Harris, Hugh Hefner’s Widow, Urges Jessica Biel to Reconsider Playing His Wife in ‘Playmates’: “I Experienced Sexual, Emotional and Physical Abuse”",
+      "title": "유승호, 데뷔 첫 '6년 열애' 인정 후..임세주와 결별에도 과거 파묘 '눈살' [핫피플]",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbzEyUTY0ekZOY1JIQ0ZVQUVPTHJDYVRuUWh4ODZKd2tBZGsyY2RHaHFBQmpJQ1JjeV9SWFEwUzdMVDY4X1BmaXlEenl2eUEwZWtyQ1pkbTBoekZqdUNTVVNXaExLVHlzRlJzajIyWGhKSlpickt6OWVESURvNnBUV0Q4QldSNURpQmdsVXhmT2NpeGJHNmx1VHJWdG9lRF9wUk9JT0RSVkZKdU9pcDFJV2ExZHhNaGlsMndmTFNIUjVlZw?oc=5",
-      "source": "The Hollywood Reporter",
-      "country": "미국",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR2NndnJWdWNoOGl3UkpjSDh4RWFXUzUybmFUVXVqUEVqOGR6dk4yZjNfYWFOODJnVVRWbjBMdEMtZTF1aHlLbWpjRTdVWVFsaVJ3N3o3WnMzS1NxZDh1cjYwRFkyVXM3WUV2T3F1S1dhUXhtSGhvQWhEbkVxRTdFM2FKT0txUGtyRkVMVmhxWQ?oc=5",
+      "source": "조선일보",
+      "country": "한국",
       "category": "문화",
-      "publishedAt": "2026-10-09T01:22:51Z"
+      "publishedAt": "2026-10-09T00:20:00Z"
     },
     {
       "title": "S&P 500, Nasdaq end lower as crude prices jump, chip stocks weigh",
@@ -263,7 +263,7 @@
       "publishedAt": "2026-10-08T13:01:51Z"
     },
     {
-      "title": "“월급 말고 월 100만원 더”…2030이 눈 돌린 ‘이 부업’",
+      "title": "“집값 비싸다고 포기 안 한다”…2030세대, AI로 ‘월급 밖 소득’ 키운다",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZDdsRF9aNE5ETWRxWXFKQ0VJbEJRUjNIemJXUC1BclZaU2pCOTlGZWYyN2hHX3ZrcnlJcjgtdU5Ca3QxWm9fbDZjY21HdWdmcEFtUEdMNDFZMGczV2RTa2hVamd6OXBhalFMVWlCaDd6YUJqVmluc296ZklIQmdXNA?oc=5",
       "source": "이데일리",
