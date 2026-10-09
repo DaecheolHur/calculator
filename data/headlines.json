@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-10-09T21:34:14.023008Z",
+  "generatedAt": "2026-10-09T22:34:02.701804Z",
   "items": [
+    {
+      "title": "Hurricane Isaias lashes the US Gulf Coast with wind and rain as it nears the Florida Panhandle",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZVBiRWJSeWNWZEpGNmRjR3lPblNnZ0xDTXJ6RHRTOVdlbDJELUM1TXFOSUx4dGR5ekxhSUNFNmV3czlUYnJiV2tpTEUzRGJ6WW5qbldudTA1OVRnWEd4a1QzczJGbE80ZExTYXdhdjU2N0Exb3IzcmFKM3Mwb2k3U0x6TzJXczBSNHd5Wml0TmRERV9iQ2RRRzBfT3dhRXRUYU9TZUlhTWxPendla3gw?oc=5",
+      "source": "AP News",
+      "country": "미국",
+      "category": "정치",
+      "publishedAt": "2026-10-09T22:06:00Z"
+    },
+    {
+      "title": "[AI박스오피스] 논란의 '암살자들' 부동의 1위 유지…'치이카와' 2주째 예매율 정상",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Yc0p5bDJ1Y0NSNTBfUjhJWTh6Vzg1YkZYWDhwLWlyQ2FqMEZhVWNyYTVKOU9RbU1uNXNfdmFnVXBlVmdKeE9mUGxycEdUQm00VUJlVm9RYU9DVFAx?oc=5",
+      "source": "뉴스핌",
+      "country": "한국",
+      "category": "문화",
+      "publishedAt": "2026-10-09T22:00:00Z"
+    },
+    {
+      "title": "‘Other Mommy’ On Track To Top Weekend With $27.5M Debut, ‘The Social Reckoning’ Lacks Likes At $6M — Box Office Update",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdnRpTk15emxTZHFsanVULUJWSkZEZHlqSWltMTV1LW5TZzVBVF9TZlRtRWVNblJ5S2ZfY0g4RjlsaWpkN3NjVDRxNWE0UUx0RXFIMVlpZm40RVRERzJxZVhiV2tzZDVwV3EwVGJHWVphcF9ycm9lM21YYjVRbXl4TWpTYTRSVGM?oc=5",
+      "source": "Deadline",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-10-09T22:00:00Z"
+    },
+    {
+      "title": "흔들리는 코스피에도 10%수익 낸 ETF투자자, 비결은 - 머니투데이",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2NVRXLTE0MVB5c1NMUU9FWDBfYUhTcXhpSENNaW5xLWF6RzF5dnRZSm1sRjJ4Zk5YS240TE9jSi1YUVE3QUhWMmlFX185Z3pMdWF6aV9vYjZnTUlKYmhYSGlzcWx6a2ExbWVEc2trc1hsVUFtdlHSAXtBVV95cUxNdVdOdUExd3EzSUJjVnF6ZzY0WjBXVFVXb2RQa2NudkpScnhCeTk4UktPMmlGT19YUGJoLTJ2aC1sZ3BtNGl0ak1vUFlkNHk0TTEtTG4wOWNXSWdDaWUxY2NPSktVU1FZTlQwUnYxdXdpR0ItWGd0enFkWEU?oc=5",
+      "source": "머니투데이",
+      "country": "한국",
+      "category": "주식",
+      "publishedAt": "2026-10-09T22:00:00Z"
+    },
+    {
+      "title": "El-Sayed talks corporate money, healthcare, artificial intelligence at Lansing town hall",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRlJKSnVCQTV6Z0NiaGw3N2NrdkdtS0c0Zmo1VXlTMUQ0SjZLQzRuV3dzWmgxa2U2OHY0bVlPUW1xd2NfdFJxNUw0aEI5VTQ4LTd1VGtZQVk4ZFNoME5GVkFjNkFva0l5dFpKeElCWi1YZ1lnNEhSZVROWFFiVmFldVZCVS1wZDB3UW5NeS1DcTQ0M25TYUttX01GNG04cmg2T25TVlVtY2ZOTlFIanZvMERKYXctenV4cVJRMXpTTmNfMUJf?oc=5",
+      "source": "Michigan Advance",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-10-09T21:53:49Z"
+    },
+    {
+      "title": "병역특례도 모자라 로또청약까지?…\"한방에 7.5억\" 성과급 잭팟[이주의픽] - 머니투데이",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NVjVqc2Q0aVN5cExsekpDQ3FPS29kUUhUcWJSbnQ3REpxQzZBamxfU3pQREtHSVV4clBlYXBmTmVzZzdzZnlTNERZbXZMSTNSOUlfcVpIU25iV0JPM1BMcUNuYlhSTFZ2SUZ30gFwQVVfeXFMTmxRZzFUekNIaEtnZWVyeHVSS1M5cExQMGNCY2hWWEpad2kzRmRLS0staVhrN09WWF9ES3FOeEZEZTF2OUVwanptUlUzeEhodVd4NmNFMVRncVhCdFd0bV8tY0JTQmhRaHRfMjNSZldZaQ?oc=5",
+      "source": "머니투데이",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-10-09T21:40:00Z"
+    },
+    {
+      "title": "How major US stock indexes fared Friday 10/9/2026",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONUpINmF4YmNuYmxPbTJ3X1Bwc0JEVmRxSHQxZ0lsRURxRHFVUnczUjJGaFNjTHRuRGlGUWtOMmtIYzUzSmh3RmJoVDJaQ3FwVUxXdG5fZFVLeklDcVUta1VJMWRjWk16bmVCcmV1SURBOWZDSGZBa203MENFYmpIc2F3UzJRMHB6VjFTUG1EY25NOW5kVlRwOWl6Yi02TF94dXppR2djMkJtWWFBR3h5XzdDLXcxeXpqNnFVMld3TFFGR2ZOX3BJ?oc=5",
+      "source": "The Washington Post",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-10-09T21:21:41Z"
+    },
+    {
+      "title": "Wall St Week Ahead Bank earnings, CPI headline busy markets week as S&P 500 hovers near records",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc2ZtTkg1OU1ZeEVqdGdTUjFKR1BSYkwzcWRwWG1wNjE2UFpqa2NYbmxPMXNxM2pURVpLWVVUYm9zUmE2S1QwMEUxZURaejlrb1g1V0dEMF80RnBWOUo4U1VPYzNlM0M5dlBnMkdQVS1ObHA2b1BYTmJLa1RuUk8xSVB4bk5FUnRQblcwTUtLTVFMZGU2Y0o0VEVWLWFBUnRCOWlpUEI0MmF2WGJyTmdhd3lpQlZDZ3JQZXJMd0FYcw?oc=5",
+      "source": "Reuters",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-10-09T21:04:49Z"
+    },
     {
       "title": "[뉴욕증시] 이번에는 오픈AI 실적 낙관론…강세 마감",
       "summary": "",
@@ -20,13 +92,13 @@
       "publishedAt": "2026-10-09T20:36:22Z"
     },
     {
-      "title": "JD Vance says he won't watch livestream execution of Fort Hood shooter",
+      "title": "Here are 10 terms you need to know to understand artificial intelligence",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU29GaWlaWjVIek81VDNFancwa2ZzeFBmRzl3UGtIWmRVUXVxS1dUdUdVanJaR2Z2WDZRWk1YbWNOTWV2NHdVMEVzNlFSMGhHZ01sc1hyMDQ1eU9uaG9zTjZGaGpkbWIzbmoyUC1SWlBIbDNEcUM0YmlvYlFUb25mT2N5cmhQd1U?oc=5",
-      "source": "Axios",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUWd4c1dYOURVTjB0aFNpTGVyek9GNVFuVlc5S1R5aHBUMENkRHIwU0t2aFI5eUtycnRydDU1ZjBOSVFtYzVrUE5yZmNtZks5ZGFfVl9vc1hVaEpnWllWc0I1NGVvTWFjTENwdGxTQTZFSTdXRktKTjJFTGhMN0hBWVoydlhZWUE3UWcxUnNNMzl1ajNMS0JCdm5KLUdGaGhvQUM1YVU5cUNGV19PaFFMVXJn?oc=5",
+      "source": "New York Post",
       "country": "미국",
-      "category": "정치",
-      "publishedAt": "2026-10-09T20:26:47Z"
+      "category": "AI",
+      "publishedAt": "2026-10-09T20:32:00Z"
     },
     {
       "title": "Elon Musk’s growing SpaceX empire sends AT&T, Verizon and T-Mobile shares plunging",
@@ -38,15 +110,6 @@
       "publishedAt": "2026-10-09T20:26:10Z"
     },
     {
-      "title": "How major US stock indexes fared Friday 10/9/2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbzZia3Z5MnFpRWEtVG1meHh4QWlxUkFFbGUwWEFNdDJrRmFOQW8ydzNLZUpTWVdmSnRZWHhYeXgyQkYtR0FIWFF6bDNaQXFxNlhqSFJ4VUx4dWhqOGlIOXU1U0VGaTlGS3JPU3k0cmhjcXNVYWVtb0xoelV0SWhTS0tKUFBMaHdaWFNoalctSTJOQXBDZllvb1VNWkZkeHpOamVQODl6SEVOUTNvUzNUd0dfX1VMZjlrN2xlVmVUMjhYU2ZyaFliM1FKUF9VRTNncU1HSHdaeE1ETlB2YkE?oc=5",
-      "source": "10TV",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-10-09T20:16:00Z"
-    },
-    {
       "title": "Guilford County IT Shares Online Safety Tips for Cybersecurity Awareness Month",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZjNpMUFTeG9sQkdyVGwzaVRKUElJVXhSczNjUnZHZENqODc2cUVRSXk2LWVMVmotQ2ptNVM0TVdKWmU4OUFhbUxGdUtuQnBlWnp1cHNnX25yNU5XaUVtMDQxbE1HWTg1eW9mT1VGTE91VGd2cl9vVDUzMW80Q2picjdRRnRMc1NaVjJqWmluWkY1MVdmVngzaEJyZHRUM0llR2ZaOUV6UFh0ZTlVZUxDamkzYkRHTUNIeU16VjhxN0UwWWJGS1dCN3RjVVd4blJVVlJOeg?oc=5",
@@ -56,22 +119,13 @@
       "publishedAt": "2026-10-09T19:05:19Z"
     },
     {
-      "title": "Better Artificial Intelligence Stock: ASML vs. QUALCOMM",
+      "title": "From H-1B to CEO: How Satya Nadella traveled the path the U.S. just cut off for Microsoft workers",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRllOdC1FaVA3QnNoY3hvQkI5RjRDZW1hczJPNlc5azZ2V1lOOURuWXhlWG1PdnYxdVV4TFRBVGJaOGtWaUltUEN1Wi1fYXFtWTZxTGtudEJydTN1RHJmcmVQTjdHR1BNeDJMX2I2LUJrSVVDeTRvY2dTdmdzejhLT0JHUFJ6b0JBbWxQbk84bzdKQVQ5NmxhMkpVeHdJVHY1dUxrTmZuTzBrdw?oc=5",
-      "source": "The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWDZHU2VVY1lXT21sSTJBTVpHMldhRTlORi1ZWTBxelNrZXc2SVBjY3lsRzludldONVlpWUtIQ1hZd2pPUDRRaWFlVjU0dXVpLXRNbU5aRjl5NTFLbFVUTHdMZXNHTVIwVWdjbkZqZHg5bVZsakJReWdidmUtQ0lLOW5fbnpvMjBORDVXT29JLTlCVGVNeEVlaWZmRDJ1aGtUVWxtV2NIeEIycExPYkdqQjVSMjdiWkxBRHl3cXI2Vi02UW41?oc=5",
+      "source": "GeekWire",
       "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-10-09T19:04:22Z"
-    },
-    {
-      "title": "‘Other Mommy’ Scares Up $3.6 Million In Previews, Soft Start For ‘The Social Reckoning’ – Box Office",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdnRpTk15emxTZHFsanVULUJWSkZEZHlqSWltMTV1LW5TZzVBVF9TZlRtRWVNblJ5S2ZfY0g4RjlsaWpkN3NjVDRxNWE0UUx0RXFIMVlpZm40RVRERzJxZVhiV2tzZDVwV3EwVGJHWVphcF9ycm9lM21YYjVRbXl4TWpTYTRSVGM?oc=5",
-      "source": "Deadline",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-10-09T16:09:00Z"
+      "category": "경제",
+      "publishedAt": "2026-10-09T17:48:47Z"
     },
     {
       "title": "한국, 유엔서 북한에 공개 사과 요구…“DMZ 지뢰 매설은 정전협정 위반”",
@@ -101,22 +155,13 @@
       "publishedAt": "2026-10-09T15:35:56Z"
     },
     {
-      "title": "BCMA: Artificial Intelligence Conference 2026, October 17, 2026",
+      "title": "비트디어 AI, 말레이시아 67MW 데이터센터 확보…AI 클라우드 사업 규모 100억달러 돌파",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVV9xX0FQcXpYWnluUFNWN3pYUVEzU25DOGVKQTR0bGN0QnRYb1I3SkpQOE1VRHdCc0VoaVVObjRFUzR4cG9pUEt0SGR3VFg2R2oxS3Q2WFVYaXZUaE1HM2tKYXlkSFkwRzRoX09URFZSdWZzclJJY1NlLUZGaVVHelF5R3kyZlVDMGtOOXpiWEtlWF9wWUVZZUJDSjRmV0w2d3Y5MjBnOWJydE9FcXc?oc=5",
-      "source": "Florida Hospital News and Healthcare Report",
-      "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-10-09T15:19:53Z"
-    },
-    {
-      "title": "프로농구 삼성, 10년 만에 개막 2연승… KT도 승리",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iS2pBZ1U4U0pHM3NIZzlVX3RxNWRrUG1jQl9KcmU1MzlpLWVya3ZNT1FSdVZWa2VxVHc1LUtCQUFGTUVMWi0yam1QSGZPWXJydWwzSFJCRC13eVVCTUxxVjlHMkxYUlZUMzdEUNIBb0FVX3lxTE9NQTllTWlSVUo2c0Y5YldjV2xCZXpLV3RvZFlpNEI0T1hPMEpSQXRKcW1INngwOVhrY09PSnhlalpJUXVnSzRxY2wtUjR0Q1kzV0plcVZmOWFweUc1eWdqa3U3MWlMWHF5QkE1c1F2dw?oc=5",
-      "source": "한스경제",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yR3pnSUp3My03V2hyZjB2bEw1RUk2bGVRMUtCSFJ4bWVRcXpzM1h4dzVfanhaWVljdnVtMkwzNV9ucnhoNnR3cUZ4SzdGOXEw?oc=5",
+      "source": "블루밍비트",
       "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-09T14:43:46Z"
+      "category": "IT",
+      "publishedAt": "2026-10-09T15:20:37Z"
     },
     {
       "title": "[패트롤] 고양시의회-남양주시의회-연천군의회-의정부시의회",
@@ -128,22 +173,22 @@
       "publishedAt": "2026-10-09T13:46:25Z"
     },
     {
-      "title": "What Microsoft’s green card suspension means for Seattle-area workers",
+      "title": "Aaron Sorkin wants Facebook reform, warns the 'house is on fire'",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVTNnTnh0a1NhVGNZZXJRYWpGWGE0OGNBRUlacnNYbVhvQ210dUZyN0s0bVFmUmx0cjU3cVE0cjh1aXVPTnZxZWxjanNiU1hZTDNBTjdncHBKUFFINGNhV3RaRklTZTdmdmZETXV6dHhWdmdpRFN3OFBYWmZ3TWZnWkxTcWVXWGJrVFU2NnRuaFA0ZFhhRE5QTFZzOGktaDJJN3haZQ?oc=5",
-      "source": "The Seattle Times",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-10-09T13:00:00Z"
-    },
-    {
-      "title": "Hugh Hefner's widow urges Jessica Biel to turn down role in Playboy film",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMUI3QnFrZ0Y5LWRWSGh5ZExsSlo4dzdyWWdkTWNINXlOSkpRMWQ3MkI5WGlvZE42dDV3cHRFcFdWdXFhYnBHUkpDV3hIbWVfbW5lUnlWY3dGU1JMRGdWc1VUN1NfNFYtaVFLZ1FZdk15TnJzR2Fpc0tIeC1HaFd0ak85dW5KMnpoaDVOTndfbDNhOGJwRE5GNGM1SC0tQnlIb2E0UE1Ia1VBdE9ZNS0wamJmWUR4cHM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVEFTS01XUUJMVHJLRmRTZkQ3V3dUUFF5cFYzOExodTUyY3dPRFBXVEFaTFpLUnB4MVFjdklGRmlkSTlRZ2hNa2EzNUVLdmR1UWRqYkF6eU5DUjFYNDBIRUZZTEI2UHVDdkFUUkhHaWVEQW8yRGUwczZIUjJDeVZiZWJxSGJxSWNkTGVnMDNWTDlpTGtVOW1UVzJydDNpYTdaQk42a3RCeDVJenNZYmVYR0dSZDBnZHpBTGdFSlhJX1Y2cWtFb01lSUV2R055UDA?oc=5",
       "source": "USA Today",
       "country": "미국",
       "category": "문화",
-      "publishedAt": "2026-10-09T12:58:00Z"
+      "publishedAt": "2026-10-09T13:15:00Z"
+    },
+    {
+      "title": "SK최태원 호남반도체 부지 방문 “가장 빠르게 최대한”",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1paVdQMWFiOFg2a2tjeURDb3AxRmNycVVoc2FWbHRjQ2xUaHZzUHN4UDNNVDZrV0ZTRHpJZE9wWk83a2lPTkJnNzlSeW04czN3eVIwdXFDZGZSRkJUY290M2Fib3pnUQ?oc=5",
+      "source": "KBS 뉴스",
+      "country": "한국",
+      "category": "경제",
+      "publishedAt": "2026-10-09T12:51:00Z"
     },
     {
       "title": "Webb Telescope Detects Galaxy Origin Of The Farthest Fast Radio Burst We've Seen To Date",
@@ -155,22 +200,13 @@
       "publishedAt": "2026-10-09T12:28:24Z"
     },
     {
-      "title": "최태원 “호남반도체, 가장 빨리 최대한 짓겠다”",
+      "title": "Curiosity Rover Snaps Another Banger Photo: A Martian Mountain at Dawn",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00MnVHd1ZJamRtN0NtaVcta252WEZqWnpMT0FRdlZPSV8zV0F2R2VZdmdLUTZJYnRwVUpWclhhUVhKUk5JZEVJM1M3TVh4bjNreGVGbmpORldOdWM?oc=5",
-      "source": "KBS 뉴스",
-      "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-10-09T12:06:00Z"
-    },
-    {
-      "title": "배현성, 최악 선배 無 “한석규, 좋은 어른..박지환, 무섭지 않고 자상” (채널 조정석) - 조선비즈",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUR0WVlOWndYYmM3YjhKWFdUNG5PQmdkajQ4Q2tVeGNOQ1Rrc19vNTc3RmFrekhsWER6OUkwMF8tS3RodmpzV3hmSzk2WnhmeE84SFhqNWU5T2NvTzZfWDE5T3l2MHVhS0ZsbEt3Y05ySm16MHhRN2JyQ3pJNjV1RWFGdGx1ZTBGU3N4eW9YTFNxUmvSAacBQVVfeXFMT2VxRE1LaFhrUHhPdmFZSWtWUjNuSFVWZGpkOE9FTDlSejFHeE80cmxVUnpYb1g5Sm9lekQ3SldvZ2UxQklLcWFXVk5RYW5mNDZXT2g4aXF6d0VQTXJqbEVJaEdjN0lDTjN3bGN3ZkhEaFoxdFFDZURNYXE1Wm1xYzU1c2hsSW9wQzNBOWtaQXZobDdCY0tBUGNGcjNSdUtvMlFnRkkxOTQ?oc=5",
-      "source": "Chosunbiz",
-      "country": "한국",
-      "category": "문화",
-      "publishedAt": "2026-10-09T11:42:00Z"
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUE5FemFyUmg3bUIwYzVzelp1dTI1bkt5NWlILXpYVkR3QkhrdS1ZQ1NuUzVodFBSTGgxbWN1OHlHRWNaRUpRZTBQdmNEdk1sbHVvWDFEcGpGdDctb3k3WFc0U3ZtOUpYM01XN0syZTN6Wkd4a0NQaGlDV19UN241N0F4MXlQZE8yNjV5MUh0TXJwcHNNMll1WkF4QXNzLXA3dUVWVlFR?oc=5",
+      "source": "PetaPixel",
+      "country": "미국",
+      "category": "과학",
+      "publishedAt": "2026-10-09T11:44:01Z"
     },
     {
       "title": "[포토] 대한민국 사이버보안 컨퍼런스 2026",
@@ -180,15 +216,6 @@
       "country": "한국",
       "category": "IT",
       "publishedAt": "2026-10-09T10:56:30Z"
-    },
-    {
-      "title": "코스닥 뻥튀기 상장 : 심층 특집 기획",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLNFlESmtXeWpaMEN1aHZrQWNtSzR4bzNfUXpmSnQ1YU96eXhUdFp2VmY1a0N3SWZfYkJwa0ppcGJZb1JZTUI2cmE4ODNwQndrNHJCNXNSVnpaMnNuUjFuYlN1OWxJWDdqUUE?oc=5",
-      "source": "아시아경제",
-      "country": "한국",
-      "category": "주식",
-      "publishedAt": "2026-10-09T10:38:32Z"
     },
     {
       "title": "Mellon Foundation Releases the First National Study of Community-Based Archives",
@@ -236,40 +263,13 @@
       "publishedAt": "2026-10-09T02:11:07Z"
     },
     {
-      "title": "범용 AI 에이전트 ‘제미나이 에이전트’ 공개…구글 클라우드, 기업 업무 전 과정 자동화",
+      "title": "“월급 말고 월 100만원 더”…2030이 눈 돌린 ‘이 부업’",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tNFBwRDVXeFZvUGxGOERsbThrSVdEUDdETGx2T0g0aWpSd2QwQnVETEIzc29vR1M5UUpRekFkUm5WYjZHaVR6cmFadXBsWmNFNnVESXRvRUVaZS1DR2QxLThiMld4eGM?oc=5",
-      "source": "인공지능신문",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-10-09T01:47:26Z"
-    },
-    {
-      "title": "S&P 500, Nasdaq end lower as crude prices jump, chip stocks weigh",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLTluWFV5cWFfM2xBV243NUduZW80Q3dmYnFLa1Y4Nmhha2RNNHVGTS1sM2NYZ0ZCeWJlazZpSndKOWM0OVUxTmx2M3luSDdpbVgzNnYtanQtb2VkWV9tU2NQaU03ejAxZy1NU1JhWkMwLXRNbmJUY2pWaTBrVE9XbGRXa2VFekh1LTVZbVNGUVRKTVhIU0NnSUZqdXI?oc=5",
-      "source": "Reuters",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-10-08T23:09:38Z"
-    },
-    {
-      "title": "이재용·젠슨 황 두 딸의 악수…엔비디아, 뉴욕 만찬 사진 공개",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSdWp6NGdCS3JVN2hwQ1ZXTUp1RmNhYTJJV0ZVbWJiYUVyRWRtc1Q5bk5QeHZjU1I3OWVxcEQtYU1QMUhCc0Z2YUhxZw?oc=5",
-      "source": "아이뉴스24",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZDdsRF9aNE5ETWRxWXFKQ0VJbEJRUjNIemJXUC1BclZaU2pCOTlGZWYyN2hHX3ZrcnlJcjgtdU5Ca3QxWm9fbDZjY21HdWdmcEFtUEdMNDFZMGczV2RTa2hVamd6OXBhalFMVWlCaDd6YUJqVmluc296ZklIQmdXNA?oc=5",
+      "source": "이데일리",
       "country": "한국",
       "category": "기술",
-      "publishedAt": "2026-10-08T08:08:56Z"
-    },
-    {
-      "title": "A \"Phoenix\" World: Scientists Spot Planet Born From Ashes Of A Dead Star",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOFVHOVJFTjVjNTVKSjN5MUtaWE1TZ1dKWml4ME5RVXQtZFVocFdfTGtYQXRnYTI4ZlJ6VEhBYTFOMk9JZ0FnZHQ0ZlBXdGU3V2Q5VWR4SzlVYl8zQVhFc1d5S0dKdW5WXzRuM2JDcllXbnlGR0VtdjZ4ejRhNnAzLUJqSDBfbzNUZVVSR2huUEFYMW5uOXlib3BIVHc1U3JvY3cxaFVpeWkwenPSAbMBQVVfeXFMUHlranRyOENqcUZEdnpBUzRsOXUtMG55RHh1VHltbVZXUzVuRVZtVGg1US05ZkZWeFdsOUlBdFV2TWRQbE1zYldLN3NHNGF3NXJzX3VlUS1rU3lXbFZYOFVReGU2eU0zdTBIci0xYjhzWUNFeWFUNENFZUR2VTZ3OUluUUFVY2U0Qm1DV2c0UEZ5N2pRSnFCUWpMUlpTMXBoOUlleDhBZ21mei1jaENfVzVZU1E?oc=5",
-      "source": "NDTV",
-      "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-10-07T16:22:31Z"
+      "publishedAt": "2026-10-08T07:20:23Z"
     }
   ],
   "briefing": [],
