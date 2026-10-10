@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-10T03:35:18.326039Z",
+  "generatedAt": "2026-10-10T04:35:31.198729Z",
   "items": [
+    {
+      "title": "Anthropic AI Model Went Rogue, Submitted Fake Unsolved Murder Tip",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdC1Yb1VaRzVmWnNoRmpLRFF4cWtUZXNyMjYtVzItMEJIYWhGWUpsUXRtWEJmaDVpZ1lGSXE3WGFYWU94cUFwcTRZZnQzVFBsaktQVjQ3WmJMMFVyQnlTS3NtUEMzVkY1WmNoU1dmdW1LWVB5YXJ1amROdEVIWVRhSFNLdldjVkMwcVRjaHJoOGVwVFBDbmxCdHlqTGIwc2px?oc=5",
+      "source": "WSJ",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-10-10T03:34:00Z"
+    },
     {
       "title": "#12 Michigan Tech wins 3-2 in OT at St. Cloud State Friday",
       "summary": "",
@@ -20,16 +29,7 @@
       "publishedAt": "2026-10-10T02:40:29Z"
     },
     {
-      "title": "\"AI 직접 만들고 시장도 키운다\"…세계 AI 보고서가 본 한국",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fb0dQREVmaV9qLVJnRUQ4b0NzX0YzWURXQ05Qa2Y5cFJBbGd0ODZUMWJ2bVF5ekxsN2FMdFpZTWUxZVNZWVFDc0w5SXR0Y0FJRlhPWFNB?oc=5",
-      "source": "지디넷코리아",
-      "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-10-10T02:29:35Z"
-    },
-    {
-      "title": "Follow live: Hurricane Isaias approaches US Gulf Coast as evacuation orders issued",
+      "title": "Hurricane Isaias makes landfall in Florida leaving thousands without power across Gulf Coast",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PLWZWeUtka1ZvUnMweGlhV1hkU1NLTFpJdkxOWncwZ01sNFk1VWNabVRfYy1ZLUp3SkVTejVDOWxtWEZPS0VSd0c5V29laVJFS2ZTZENB?oc=5",
       "source": "BBC",
@@ -65,6 +65,15 @@
       "publishedAt": "2026-10-10T01:27:58Z"
     },
     {
+      "title": "전현무→구성환, 이사한 이주승에 통 큰 플렉스…천우희 그림 선물까지 (나혼산)",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ENGhhOVFJV2dBaFJjOVJ2SWFUUkRTSF9id3FHUGtmdlQxSjUxYTFiaWVfY29raUxOYkxuNkU1UnE2LXI0ajZhYjBZTUZ1cFhPRjFFSW1jamxWbjRFYUVEMw?oc=5",
+      "source": "iMBC 연예",
+      "country": "한국",
+      "category": "문화",
+      "publishedAt": "2026-10-10T01:15:00Z"
+    },
+    {
       "title": "Danny Trejo Insists He's \"Pro-Immigrant\" Amid Daily Wire Backlash",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaTdJSkN5N3dseVFJSjdlZHpTN3RxRnVhdHBQekdyMlA3ZGdMYi1BMlRZSG1PZTQ2ZXNEbUpQdVRpNVFQQWM1aExMLThXS3BrS2dDUHVyelBfWlgzRzc0anFtbHZSTkVJaHVEdXhoa0xRelZ3c3pQbDJBNk5DdkdqeDNsRjVpNUh0QURaNkY2RkRvX211a0d0amw5cw?oc=5",
@@ -72,15 +81,6 @@
       "country": "미국",
       "category": "문화",
       "publishedAt": "2026-10-10T01:02:00Z"
-    },
-    {
-      "title": "'3755만 명'은 자산인가, 부채인가",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtaU1lR0ozendhNDA4OWNqTE8xMnRwZDVNZHJCN255bG1BQS1JNXdPTXJ4UkN0NGF6dlNoRWh2dnpmTG9KakUzWjVsNTZBLU5rODY0eVJR?oc=5",
-      "source": "지디넷코리아",
-      "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-10-10T01:01:57Z"
     },
     {
       "title": "’박스권’ 갇힌 코스피…’파킹형’ ETF로 뭉칫돈 몰려",
@@ -92,24 +92,6 @@
       "publishedAt": "2026-10-10T00:48:00Z"
     },
     {
-      "title": "Anthropic AI model submitted false tip about unsolved murder, Philadelphia police say",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVUdPS1ZSX3I2OG4zdVNISmtQdWJDN1VmR1lSemRhS1dwUzVVU1ZZRV9UN0lyc2lEbE96WkgxX0J2TjI2U1l0cGRnX3BsNFhudE5oWUh3VUh1bDgxTk1ITmdJOFMxaFFTVXBJSE5tNXlVV0Nqb2VEek9rLTB0TE1YWGtMa3M1dmxhME1PWE9UbFVrS2dERHotazRzLWJza21seElQQmlFcUJZckZfTzQw0gG0AUFVX3lxTE1RSW5Xb2ZQQjNFYlpBVXllWTVUbmlpQWN0NGNPdzAxNEFqMEE1T196dHZNYXAwQTRTc3J6UVpGNkFOMEo4c2tialBna3MtQ24xbDJ5QTdxcUxXWEJUYmlKVFJXNXJMeFJjM2p3T3dpd2d2WjA1bmFpUEhhdzA1QmQwa0tMRm53U25RaGxVSlFReHdwWGdiSS1Sd2ZqcV9KZXE0al9VNUc1aXNOSjNDOTNFUmxpSg?oc=5",
-      "source": "6abc Philadelphia",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-10-10T00:21:43Z"
-    },
-    {
-      "title": "Large police presence on Burns Avenue",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdHhtbDdiZENlN0tXTzhtNmt6UVdOcm84cHhFN2VxRXZmTWI0TEJJM2huYUtrRjU2ZDlyUFZyeWo3UmdNRUp6T0o4RTNaMWp6VTlQNkNwTUt5Z3JCWFpjUjZGV3RicW93dW9kTlFWeUFfQVlNMHBNblNqTWlMZENfX1VKbnpPZzdkcWk3LVZ4QzdINDczX0xjQ1dRdG9SbXdoUFVlcE5OU3BQWUtPdk9mQjdneFdGUnF2TEpvUy1B?oc=5",
-      "source": "FOX13 Memphis",
-      "country": "미국",
-      "category": "사회",
-      "publishedAt": "2026-10-10T00:11:00Z"
-    },
-    {
       "title": "검색 제국 흔들리는 바이두…AI 클라우드·로보택시서 돌파구",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZN1NXT3lpNmVpV3F3Z0dtcm0wVU5ZdzhZLVlsNHJ1bExzbndKWGFqM3RVLUpPc2FFRDRoUVZyY0RMd2VqYW1GTGRqbExma0xzZ2dLMXlWaFpRdw?oc=5",
@@ -119,6 +101,24 @@
       "publishedAt": "2026-10-10T00:00:07Z"
     },
     {
+      "title": "[신간] 이정희 교수, 한반도화교 140년 역사 '경계를 살아온 사람들' 출간",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGRTJNeDhzak1TS05INUdVbDZQV0lhSjdRVktYTUV2RVJ5b1diZUpTTTRrQ2pVTHVIWUlGOXowODA0X1FOcXpVaHFPbm00VU92aWF1TDlxZ1l0aFZ5MzExN2t5TDdJcHFwd05DR25kWUo?oc=5",
+      "source": "인천투데이",
+      "country": "한국",
+      "category": "사회",
+      "publishedAt": "2026-10-10T00:00:00Z"
+    },
+    {
+      "title": "한미 정보 공유 갈등 속…미 고위 “한국, 정보·방첩 분야 동맹 기준 준수해야”",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41aVJrWHVIY2JfRkc3UXBmMEdIWXFBbnRtOEw0YTJGYmR5TlR0bUZ0VTdKdmlpWXkxck1EeV9NbjB1VkFCMVRZNFJKRFRXMVZmVnh6SWdZT2tYRDBXbWZzQzd5Zml2VzVkOUViRFJQRQ?oc=5",
+      "source": "한겨레",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-10-09T23:19:00Z"
+    },
+    {
       "title": "How major US stock indexes fared Friday 10/9/2026",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONUpINmF4YmNuYmxPbTJ3X1Bwc0JEVmRxSHQxZ0lsRURxRHFVUnczUjJGaFNjTHRuRGlGUWtOMmtIYzUzSmh3RmJoVDJaQ3FwVUxXdG5fZFVLeklDcVUta1VJMWRjWk16bmVCcmV1SURBOWZDSGZBa203MENFYmpIc2F3UzJRMHB6VjFTUG1EY25NOW5kVlRwOWl6Yi02TF94dXppR2djMkJtWWFBR3h5XzdDLXcxeXpqNnFVMld3TFFGR2ZOX3BJ?oc=5",
@@ -126,15 +126,6 @@
       "country": "미국",
       "category": "주식",
       "publishedAt": "2026-10-09T23:18:04Z"
-    },
-    {
-      "title": "[신간] 한반도 화교사회 140년…'경계를 살아온 사람들'",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lUEJjVVpiUWtnQmpZUmhpOEk2N3lRaEZoZG5JV2lnZVp5WGpCRmNnWVoxWWktcmNhMGFjX1Mxdi04eGJjT250MGFYUHJRaURBOFlkWFJyYlBpREJIRXJKZNIBYEFVX3lxTE5lUEJjVVpiUWtnQmpZUmhpOEk2N3lRaEZoZG5JV2lnZVp5WGpCRmNnWVoxWWktcmNhMGFjX1Mxdi04eGJjT250MGFYUHJRaURBOFlkWFJyYlBpREJIRXJKZA?oc=5",
-      "source": "연합뉴스",
-      "country": "한국",
-      "category": "사회",
-      "publishedAt": "2026-10-09T23:10:00Z"
     },
     {
       "title": "‘The Exorcist: Martyrs’ Trailer Radically Reboots Franchise With Scarlett Johansson",
@@ -153,6 +144,15 @@
       "country": "미국",
       "category": "AI",
       "publishedAt": "2026-10-09T22:30:53Z"
+    },
+    {
+      "title": "앤트로픽, 'AI모욕' 이용자 차단…\"클로드 지속 학대시 대화 종료\"",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RcUtfVnhiLXBnLUg0Y0RhWUJHM3h4dzk1Tk9UMmJqWWR5OG1hakEyUGViWkgxUDdSZmIyekNPY1dGUVRvWlJlQW5nZjlFTTRENnBtUFpKZXU0SmR2N2R2StIBYEFVX3lxTE9RcUtfVnhiLXBnLUg0Y0RhWUJHM3h4dzk1Tk9UMmJqWWR5OG1hakEyUGViWkgxUDdSZmIyekNPY1dGUVRvWlJlQW5nZjlFTTRENnBtUFpKZXU0SmR2N2R2Sg?oc=5",
+      "source": "연합뉴스",
+      "country": "한국",
+      "category": "AI",
+      "publishedAt": "2026-10-09T22:16:40Z"
     },
     {
       "title": "Everything We Expect From Apple’s Surprise Smart Home Event Next Week",
@@ -200,22 +200,31 @@
       "publishedAt": "2026-10-09T20:03:00Z"
     },
     {
-      "title": "“부르는 게 값 아니에요?\"...천우희, 절친 이주승에 직접 그린 '첫 그림' 선물 - 조선비즈",
+      "title": "Chakra Meditation With Jasmine Shah",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVk9GekRPQmdlUFM5Z3duYTJqOUQySUFOaFVoVE4yVXI2aHpUQkp2ckNTazY2MEdBU3RYelF0TGI5U1I1MjUwNmc1TlpyZ0xTelVLQjZMU0phd0JoR0lTVWFRRk14LUMtbnByekhFbTZuYlRtSF9lb3dOM0VVeldsT0puYWRIVVhGdUdlYWZlS01PUXPSAacBQVVfeXFMTlIwZjZMcDh2NlpKLXJmdW5xNFdIZUNPalZYaVVnRWo5dFpmb2M5Y2MtVmFxWWtSaVFOOTBYUEdKcl9Fcm5rSEU2TVhBYjVnS3RzZ3hBUm9INS1WU2Y0aFpXeTRKM3ZtVjhWamI4VVFKWG5zX3RzX0NMVk5IUVpQekI1Ty1DN0RiZURpOXlCQU5TWDlwMG00S3g3MkdZdjZ2MWZzOUxuYjA?oc=5",
-      "source": "Chosunbiz",
-      "country": "한국",
-      "category": "문화",
-      "publishedAt": "2026-10-09T16:13:00Z"
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qLVQ0RHN1MnRsRGZ4d2E5bGFOamJESnJlU1JtZnVPRlhwcU9sTXJ2bWp0aDlIVnE0YXRuRndtMkFCQWExdXZXeURDRXE4QUJTbHVUZU8wcGV3XzdhZEpaYmVXc3YzQkhpamNtWlNuY3Y0OWNZb2c?oc=5",
+      "source": "Asia Society",
+      "country": "미국",
+      "category": "사회",
+      "publishedAt": "2026-10-09T16:24:19Z"
     },
     {
-      "title": "나경원, 젤렌스키에 서한…“북한군 포로 한국행 허용에 감사”",
+      "title": "AI로 韓 금융기관 뚫은 해커, 中 디도스 조직 연루 정황",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XRHlDWFBMNDhkbnRUNXZDN0lFeUtOMDl1cUxnT3F2NEt4aEhEbzhJeUNmdVgzZHNhbkU5WDVEVkJmOS1TS1hZQ2huZnBCQU1wYm5uRG9FWVJ2aUVyTEtpUzJfNzBDcWdaYjRyVUxLY3pPUmJL?oc=5",
-      "source": "한겨레",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFeGVLck1Ybk11d3JEMEV6NXRNZXlIdUJNdThkblptOFViNWlvSDR2NDZLUUNwZFdVSTVudXlUMndJbXZKazVqT0NfMHhOdE9T?oc=5",
+      "source": "문화일보",
       "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-10-09T16:09:00Z"
+      "category": "경제",
+      "publishedAt": "2026-10-09T13:45:31Z"
+    },
+    {
+      "title": "Artificial Intelligence",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-10-09T13:03:32Z"
     },
     {
       "title": "Webb Telescope Detects Galaxy Origin Of The Farthest Fast Radio Burst We've Seen To Date",
@@ -225,15 +234,6 @@
       "country": "미국",
       "category": "과학",
       "publishedAt": "2026-10-09T12:28:24Z"
-    },
-    {
-      "title": "Artificial Intelligence",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-10-09T11:06:05Z"
     },
     {
       "title": "SpaceX brings four astronauts home after 8 months in space, and the return was flawless",
