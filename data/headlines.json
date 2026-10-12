@@ -1,32 +1,86 @@
 {
-  "generatedAt": "2026-10-12T08:42:22.210936Z",
+  "generatedAt": "2026-10-12T09:41:09.127633Z",
   "items": [
     {
-      "title": "\"AI 대신 SI 써라\"...트럼프 압박에 실리콘밸리 굴복",
+      "title": "Virginia teachers balance AI innovation with student creativity amid rising academic pressure",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FRWxSZXdRR2EySXNtUENzd3g4SGZTSW54aDRYS09PWkhhdTU1dmVZSUZNLVBlNXVwQTV4ckRWM0R4bUhYY2tiUlhMZzBFcHZWYk9oaWM1NUQ1eEg3c2JLZXhSWDQ5bGcxU2c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQX2R6aGJDX0w5bTBiaDlHakRfSXBYbXNtRXRueEZuUndRWU9ab2pNMnBTZ1R3MWZBZDl3bkRMNkoyWDNGN2ZlbkM5M2tKNzgyNU54NVozTDI5T1M0ZnRFb0xWUE1Ea1gzMlBEcGdJdW5QRXp0ZlBQRGZjcWdMQmV2Rkh5NXdqem9HVzRkTFF1TEZqMTJOR1B0bDZzd1ZGVmFmZGRBYlN2b0J0bFRYNVlJbEQ5cnVRR3Z2SVB6UE9oZy1UU2VCX0dQZ3Fvc1d2Zw?oc=5",
+      "source": "Virginia Mercury",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-10-12T09:33:14Z"
+    },
+    {
+      "title": "S&P 500 futures rise as big banks set to kick off earnings season: Live updates",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56cnRXR0YyTHF0YWUtQkZHYlZZb0lBTXVJVjQ5a20zSVZzU2Q0T2ZNNkdJSWQ2QWlxdWpUd21SZFhLeTdMVHhFaWVMRWhTYk1mR2FDMnNsVWhTSlVyQ3J0QVVlSWQ0Q0pWY0xEY0JpUVoyMDBQWUdr0gF8QVVfeXFMUEVZRmpuYWxmTnZpcXFhMk93UmlZRkZ1ejNQOVBlV2ZxdmNiaEVqaGJnVlZDREs0ZVBqTV9IMTJwWG51aXZDM3I0blE1QUJpRGZSZXBIYlZJNkZNQnNvRHhBblVGbUJRLWtGdm9DaUVuX3hjV2RxUnhudVFRaw?oc=5",
+      "source": "CNBC",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-10-12T09:13:05Z"
+    },
+    {
+      "title": "경상남도사회서비스원, AI·ICT 활용한 스마트 돌봄 확대",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OVlJKX0gtVFo1NF9BQzRObXhSX3FpRzc0SUV5Y2hVOHVIZF9nUjh3b0k4V2RObjBWV1BHQ01QWUk1eU1mVXJzVUNzSnhOcFNtaXhmX0tOU3FFWlBLdzFTZzN0XzR5VzAtRm9Mbg?oc=5",
+      "source": "복지타임즈",
+      "country": "한국",
+      "category": "사회",
+      "publishedAt": "2026-10-12T09:11:53Z"
+    },
+    {
+      "title": "Four Military Relief Groups Share $340,000 to Help Military Families With 'Complex Challenges'",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVDhIM1hzR1dwMDVVRWZERzJ4eHAtd0Z6cTY4bTQtcHlhY3F4Q09KRXJQUjBYcHFmWGg1LXU5d2UxeW14MTF2cU9zV3FVQ2ZpQUY0WGlMWkx0TzUtMFREVVdqVUlXYXhqd1M3a1NYcWdUdnFod2Z4OTRUQXZsVWNteVNMWFc4QlQ5Q3ZaaTVEQndPd2ZraEJaMks5NHA4OWRIUFlqdm9MV3g1MlkyV0NjRHVVa2xpNWh4SGc?oc=5",
+      "source": "Military.com",
+      "country": "미국",
+      "category": "사회",
+      "publishedAt": "2026-10-12T09:00:15Z"
+    },
+    {
+      "title": "오르카라우터, 100만 토큰 컨텍스트 지원 사이버 보안 모델 공개",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tMnV2anhrbmJhblhVQWczd3dwZ1ZSOXhCMkZUUHI1MTlmQ1A5c0pXQy1fV1dpcS1iMWxLdXlFUWd1elA1OVZuZjc5Nl9kcG02UU5iYzBVOHY0U285MmxLNjhkRTZYVnA1NHc?oc=5",
+      "source": "AI타임스",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-10-12T08:35:00Z"
+    },
+    {
+      "title": "네이버클라우드, 베트남 최대 IT 기업과 AI 팩토리 사업 추진...아태 AI 시장 공략 나선다",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qSF8yY1MyZE5vbTItQWtiQnRTMm9ZaXRYUHRZRjNDUzR0YnRSRWwwcHIzT1NEVTh1MUZfSUJPM09hWVhDWVFZeWxUeGJ3SUV5U1RxbEhyTDhRT2RFQTRjUk1pc2xlcFh3cDR1cFZDeW5Jdw?oc=5",
+      "source": "NAVERCorp.",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-10-12T08:32:51Z"
+    },
+    {
+      "title": "2 S&P 500 Stocks to Own for Decades and 1 We Find Risky",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR3d2bUZTaVR5N1phVElMYWVGVlo1UUZacG91Mmo5MEp4a18wQzc2amFlbkhDM1E0bUNxY0NURXhRRUNiN2ZEWHN2V2o2M093WnNvZGduQk4zYVU5al9oWDg2X05CaVk5RGdzQnBEZ3BrM2NqNmx1ejlJV1BCYW9LcWpVRGd2NTlZUG00WnZoZGZYSXVGZUFkY3luRV9mWFlVOEVoOFd3UUl5VHE4b1VDSnQ3cHpZNWlBQWY4?oc=5",
+      "source": "StockStory",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-10-12T08:22:39Z"
+    },
+    {
+      "title": "[게시판] KT '모두의 AI' 연내 출시 앞두고 중간 점검 등 단신",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBveENuTkJiNHZLRTZKY2hka1ptRFQtQm05c2MybjltakFVazVpZUNVTHczdUMzV1NIdlJ4Ynh6a2pBd1ZlekxycDlZWk15VUtWd1pRYmxHamd6QWZhZ0lnNzdSM1ZPcUpIdlE?oc=5",
       "source": "AI타임스",
       "country": "한국",
       "category": "AI",
-      "publishedAt": "2026-10-12T08:19:53Z"
+      "publishedAt": "2026-10-12T08:00:00Z"
     },
     {
-      "title": "한국환경공단 ‘2026 지속가능경영보고서’ 발간…탄소중립 등 5대 중대이슈 선정",
+      "title": "LH 사장 “집값 급락 가능성 좀 많아···지금 집 안 사도 손해 안 봐”",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4NWxNV2RjcGd6QTRLVzhYMmdDNjd2a1dQMU92czVKdHNnOXFZS05pWDVqcFMzeV9tdDBSWjh0a1ZyeEpWQ0dvalgtaFpxMG1URk1aRTY4MHlYeG81TnBEUEd5X0JWYm1ZVDZ0R191X1d0dw?oc=5",
-      "source": "에너지데일리",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IS1ZHSzZMQ2c2RDVjZGFuWXBiMEFXZnRlcjdrak9DbjNwMmxPNkVOUzZtQ3FsSFhtVlBjU1J1bi1wMTUzbHo5MlA0Wkp3djQybDlsalYxMzhIUdIBX0FVX3lxTE5fdEM5T09WM1IxUXRZZTZpUW5XZnl0akZCLTBrN1JoblpTTkpucWpoNFdPb1BVTFcyN3FIV3Y2ZHNMSVpTQ0FhWHRsMllRTXEtNGNsSG9nUzZ0eWNVMTM0?oc=5",
+      "source": "경향신문",
       "country": "한국",
-      "category": "사회",
-      "publishedAt": "2026-10-12T08:07:31Z"
-    },
-    {
-      "title": "클라우드플레어, 디노 인수…'워커스' 고도화 주력",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94N3NvN3BKM1VJZmh5QTkxcGZ4Y3B2eXRQZ2h1eWxKYVpPY0N2c0xQSzBmaGhzcEwyVVFjcENpVjVXckhZVFZudkxpQ2JXYVJaTWNCV3hn?oc=5",
-      "source": "지디넷코리아",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-10-12T07:39:20Z"
+      "category": "정치",
+      "publishedAt": "2026-10-12T07:23:00Z"
     },
     {
       "title": "대체 이강인에게 왜 이러나...\"손흥민 왕따범\" 가짜뉴스에 비니시우스 퇴장에도 이름 소환 '국내외 동시 난타'",
@@ -38,22 +92,13 @@
       "publishedAt": "2026-10-12T07:23:00Z"
     },
     {
-      "title": "코스피, 4거래일 연속 하락…반도체 투톱 동반 급락",
+      "title": "경찰청장 대행, '한동훈 딸 의혹' 조건부 재수사 가능성 시사",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81bE1EdGdTbVFpODc3RC1nQ0E5cjJwMnNGWHVnbE1VUWgzVmFSeUw4VmdCODdIMV9QcWg4bzQtMlpqd01ZZmFUWmt3czc5MUlNQ0hNNm84QmJVbVk?oc=5",
-      "source": "KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kRDByQ1ByMm9hczI0NWd6RlVUeXJudENFN2NVdWUtb2J5NzQzUThNS0EtbWVBY1pNUUI1SXliNHhFYVBXTk96SW81ZU1GSzdyWHJGeGREbWY4UlBHazZ0aUtSVEZTblJYVlNUeGRiR1ZjNzJjYXBhMNIBeEFVX3lxTFBnU2NZYk8tNTFTTUQ4M0RZMkpxMTNvSlliYTVFd2tadlZNaTd3dnlxNVFNRkZ6dEdSX0J6TVdiYTI4ajl2Ui1hNUdDUTFyaXN4d1otelF6MHNZdjJYcEZhcjJuYk81N3YzRkZTd2hvSHdvQUpveVpITg?oc=5",
+      "source": "MBC 뉴스",
       "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-10-12T06:58:00Z"
-    },
-    {
-      "title": "125 Years of the Swiss Chemical Society: The SCS President on the Swiss Way of Chemistry",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOalNFcFNIVnJndXZmM0xrOHVvNS1oTEt5T19tRnhHTlVoaGlfVjh3T0xkV2taVnJWZzN6RnAtLV9PWEhjRVlSTXpXTzlHWHBjRzB5YnF1eFdmY2RoTjRNUHdBcG1iZmVZZHVvazVvaVNIWWdFMHBLbVVCdjVYeEpWRWEzZThVeEdzMDhoMkhNaVFzc1lLX1VBTEJUOG9pcFdiQjRQZEpyb09XY0k3RlRQNWtwdlJvM01aY1NpQm4tME12d28?oc=5",
-      "source": "ChemistryViews",
-      "country": "미국",
-      "category": "사회",
-      "publishedAt": "2026-10-12T06:45:34Z"
+      "category": "정치",
+      "publishedAt": "2026-10-12T06:59:11Z"
     },
     {
       "title": "코스피, 두 달 만에 6400선 아래로…코스닥도 4% 넘게 '급락'",
@@ -92,22 +137,13 @@
       "publishedAt": "2026-10-12T06:29:37Z"
     },
     {
-      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "title": "\"작품 좀 찍어주세요\" 원빈, 16년 공백 무색한 동안 외모",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTmU2U1c3QXFsTWkwR0h6QTZHSmlNVmZtdlY1a2JvVXA0czJIeHFESUVmemJua05abmpxRFdvUmFrRjBfUXRmNk1VeHNYSUgzM0dobUdoYUpCUFdpeGdSbVA4Y3RMbjUxTlEyYVBHRmZKWW9zTXlXazdVQ2JiY3pBbmpMbHo2QV96RlNRQ3hEY0lmdw?oc=5",
-      "source": "Yahoo Finance",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-10-12T06:19:00Z"
-    },
-    {
-      "title": "중수청, 임은정 광주중수청장 감찰 착수‥윤호중 \"청장 품위 걸맞지 않아\"",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MUW1wSTJuOUJxdTg1bWE1WjY3eEF2d0o3TnNoTkJ4YzFUSHZ1WFdzcnRWMm9odTJ6M2ZOZnd0UEIyNU95a1RZUG9iSDVIdjJMRlNVa1FqQng0dl9kYkdQZjhFU09PSW5QbnplQmdsUVdtX0lVRWo00gF3QVVfeXFMTzFzQXpZMGtZWlRlbEE4clZfbTNyWmt2ZUpGRkptb3FCcXhidldqVGdCbXItUzVCV3h6SWRwLXRvMTBubjJCTzVFbDlGMWVHR2gtdDhycHRnMnI1U1V2X0VVVkRVdTBsMTdtSFdYSUJmcHB2cDY2dDA?oc=5",
-      "source": "MBC 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6WnVCT0JCZ3dVVW4zWm1vNlpEd1otSDhQVGlzT1A5dnNvVEJLR2k2V0ZXQUtQd205Vm9DMm5SUFdLempZeDJCV0xvd3c0SWFXTmhqVw?oc=5",
+      "source": "엑스포츠뉴스",
       "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-10-12T06:15:22Z"
+      "category": "문화",
+      "publishedAt": "2026-10-12T05:56:33Z"
     },
     {
       "title": "U.S. Stocks Rise as AI Momentum Builds",
@@ -117,33 +153,6 @@
       "country": "미국",
       "category": "주식",
       "publishedAt": "2026-10-12T05:38:13Z"
-    },
-    {
-      "title": "[영상] 경찰청장 대행 “한동훈 딸 의혹, 새 사실 드러나면 재수사 검토”",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zMHlkTmZaVndaYXluQ1pYcEI2NjJqX05NcUZMaXZlWXZSNkszMnJCZVE1M18zSDBOcFA0cWh5Tm56WkRial9YU3BSOXgyLXRwVWgwQ3pPR2FldjlyRWtEM2hFTlctLXZTekF0U0JpbGR6Zw?oc=5",
-      "source": "한겨레",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-10-12T05:27:00Z"
-    },
-    {
-      "title": "Leveraging Artificial Intelligence to Appraise Social Media Narratives on Breast Reduction Procedures: A Snapshot Analysis",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPc3VpSUFSVjJYUUFwY2EtXzNYcVZhdV94UzJtbDJPWHpQYVhDalZqMWxuVkVXZjRYOW5oWTU2NlgzTGJvQW83dzVMTXlJVEFfUDc0VDN4SGt6OV9JcnpRUnNaRVhTUTJNcU9EYXlSU21IaFA0S0x5dGVOaWdrNEtvaVVvaDRUeS1uUlA2V1VyYndTVFlYcDlRZnZ1dWN1endZcU5tSE9pY205bUpVUmxLLXhVT1dGZGtLcHM0MHdQOWVMYkdmbXFPVzg5TlNXS3lSVTlYb2JGaEJvcXR1YzlKQzZ4ZmFVVlVuVlpRNzRENk9oUQ?oc=5",
-      "source": "Cureus",
-      "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-10-12T04:42:13Z"
-    },
-    {
-      "title": "EU, 태양광 사이버보안 강화 논의…고위험 공급업체 제한 권고",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aOWtXc2UxM2d1VVpfSWdxakR2RExtU2hOa1laU0RmaDUwY21vVkZCSjJfQWZQQkZiMDNMREVIWkhtUUxBUmNvTGcxalAtdEZQM1B6WjF0eVNaSDRQM05vSWsyQ3poNGtJUUE?oc=5",
-      "source": "AI타임스",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-10-12T04:12:53Z"
     },
     {
       "title": "[뉴스in뉴스] 프로야구 KIA:LG 운명의 맞대결",
@@ -173,6 +182,15 @@
       "publishedAt": "2026-10-12T01:03:03Z"
     },
     {
+      "title": "\"외국인 순매도 사상최대 전망\"…코스피 수급 불확실성 커진다",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZM0c4VExsbUVUd25HN1dHeVFUN3VCWUdwM3UyMlpkN3FQWFdsZ1RuTFhNMXpsd3daeDEtZEtUak9OY21GeGNsYUMyQVc2aHRGZE5lYWxPMXI5LXZndnd3blVsVUNwR2xYQlVfd1RCM3E?oc=5",
+      "source": "연합인포맥스",
+      "country": "한국",
+      "category": "경제",
+      "publishedAt": "2026-10-12T01:01:00Z"
+    },
+    {
       "title": "Federal judge orders pro-Trump TV ads funded by taxpayers off air immediately",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxON1pBMERGUjZ4cG5DX0EyQlZWVG1KMGx5NWFCcHUtRnJac28wMmx4ME9kdmpRN1dqRDQxTTRSU1UzOEhNRHRnMUNkVEdSdDNRaTRUSkhSVDRWaHhDUnFTNmY5elA0Zm5UMXlZZHF2aGZGRUNuSmJLTlpSV2hwNDBuaTVOQWRublJOSU9EaVhrZGVVU2l0Wk5mYjhTOUVDSkVxckRWT3VVNG5iM1dFZC1xbzkxXzVGS3AzY2Vsc3o2TzJmZFpIQjJlaTRNMA?oc=5",
@@ -182,31 +200,13 @@
       "publishedAt": "2026-10-12T00:48:00Z"
     },
     {
-      "title": "성폭행 의혹에 이혼까지…김건모, 드디어 ‘기쁜 소식’ 전했다",
+      "title": "Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtRFNleUZ6VGZMZmY4QjdDUjk1MWlhcE11cTkxX2pSREtqWFhTWVd2MWdDVWNRVllhc2ZXeDJGMHlfdFlGcjJNa2l4MTc5LWlWd0I1NzVOSng5UGpRbDRJODd6US04M1B2RGNV?oc=5",
-      "source": "서울Eye",
-      "country": "한국",
-      "category": "문화",
-      "publishedAt": "2026-10-12T00:19:16Z"
-    },
-    {
-      "title": "Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Billion",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGxqNnJoTC12VnZiQm1ZTUhITmQ0RjZyTWhIRDYwcGQxZm9ZMW9tbVl2NU9BNk05LUlhQ3ZDbXZjdjNJNVZQRnhsU3ZveXFjRFBrRTlmMkJKc0JVREZiVlNZbVRKM3Z2bWd5XzVyMHFDdzk2MEJyaHpRRWRmWTlxQVg4c2l4UnZIM002Szhfem9kWHJUTlZZWktDb1NQU0JOb0xaV2hxNjE?oc=5",
-      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSTR0SUxydGYzRDJmaGtaWkRTYkkybS1GWlRkZFFnMjVXRFlZX0hHMUtVdFdIN0ZyQk0wMk1LNFhaUml3Y3FlRUV6SWFxVk9UUFg3MTUzelJtZU8tdjVpREpVS0owdkt2aVJhMUVObjg1TlRTREtZQzBINHJTTFloWDNBQTFCVl9yOE9HNXhBazJWMElncnlIZWNPdG5IY25ObFg0SGswNks5MkF0ODM4bEVRWkhjS3ZqcXVuWlVnamU0dw?oc=5",
+      "source": "Reuters",
       "country": "미국",
       "category": "경제",
-      "publishedAt": "2026-10-11T20:26:00Z"
-    },
-    {
-      "title": "What’s open on Columbus Day 2026? UPS, Costco, banks, mail delivery, stock markets, restaurants",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT2xqaEJnNVpkVi1YX3hQZndkRzA3ampPckNnR2pCZzhFOHhSVl94TDJIZWJzdFhyenVRRlRkSDc1dmJzTE51QUNLQmF2dmVDNi1ONW5tT2RRWHNETGlvWW5nLXR2Ty00Q3REN1p3cjBCV2ZxYnpLLU9LMGRucUs4TzJTb2o3X3JvNmQ4VmVDWVhoeVI2R1ZUYW1lRkRhM1BlWi05aVdUQUUycVp0SThSc1RsaU9FUDdTWlB5d2xVZzIzdVHSAdcBQVVfeXFMT29CS3VxSDJKU05YVmlsUzZ3VFVibGdkVkx5Y3RiZ25lV21udmlMTW9QS2tBQzgwTmFoMWhwLV9DY2t0eFZhZGhOM1dXSTdvMmJTeFBzWkJEdTVRQW1Pc0NQVGVWM1FnN2FueWJDd3g2UVlBM1huUHJydXJPTE13NjdUNUF5eWRmUFd0bVc0T3FZcHlFY2VpVFdLaHF0ZjVSN0FvOU8ydVJJRFJHZi0yQ0ViT1VYcjgwVFJEZVQ3ZVBXY0hUd3Q5bVpraWpEdFR0UTc3WTNsZG8?oc=5",
-      "source": "NJ.com",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-10-11T20:00:00Z"
+      "publishedAt": "2026-10-11T21:16:00Z"
     },
     {
       "title": "New Apple TV 4K, HomeView, and HomePod Mini: 16 Details Just Leaked",
