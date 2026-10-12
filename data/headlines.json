@@ -1,32 +1,68 @@
 {
-  "generatedAt": "2026-10-12T02:37:45.570222Z",
+  "generatedAt": "2026-10-12T03:40:39.752450Z",
   "items": [
     {
-      "title": "[국감이슈] 한은 “물가 상당 기간 목표 상회”…추가 금리 인상 가능성 시사",
+      "title": "中 '부채 이자 비중' 美 넘었다…AI 대결서 부담",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hR2VfMWd4dmFBbmpmVjE5RDhhMUtTQlV3cXQ3S1BZNGJkQlZyRnVpeWFmSWxaa1BaM2w3VnFGT01iSEp1ZlFkVW8wVnVlX1duenltNTE1U2RCRkNYQmhXTXdob01jc3pnemUyekxWbGhrUQ?oc=5",
-      "source": "인더스트리뉴스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIeEZQc2gwYURPdkNwZUVlNTA3aHNqM3pQb09VaWRfaVc1SklFUU95Q3RNYzctUVlWRlRNZjRxZFZjQWpjbkwzRjV4eHpoc19xckQ2YVZqeF9XX3g5TTNGeVBEYVp4cTk0X1dIYThMUlI?oc=5",
+      "source": "연합인포맥스",
+      "country": "한국",
+      "category": "AI",
+      "publishedAt": "2026-10-12T03:26:22Z"
+    },
+    {
+      "title": "네이버클라우드, 베트남 FPT와 아태 지역 AI 팩토리 사업 확대",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HV2VEZDlYVmpBS3k3WFBWM0hjYXNSN0JuQlNkNXZKZnpZS01uOHBvbWtET2p5WkM1MS1aQk03UFF5MWNXczUxUW9zSVNEN19vX3JodXJwaFVKYllDZlhQcGdkWG5yNGQtSGc?oc=5",
+      "source": "AI타임스",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-10-12T03:21:41Z"
+    },
+    {
+      "title": "신현송 \"물가, 상당 기간 목표 수준 상회하는 오름세 예상\"(종합)",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YR09kVkVyOUM2TC1sbnR1TUJUczlmNk9ITjB5ZTBpTFpROFRYaEFzdU8xXzFfblFjVnZXQmxQcjVLXzVUclpxVjRicl9rd0JMTWVNMUFJalpkVjMzLUhiUU5yWmltcjJ5cUEtZ09KNkM?oc=5",
+      "source": "연합인포맥스",
       "country": "한국",
       "category": "경제",
-      "publishedAt": "2026-10-12T01:50:32Z"
+      "publishedAt": "2026-10-12T03:19:28Z"
     },
     {
-      "title": "[전격시사] 권영진 국민의힘 의원 - “여당 내부부터 정치 중립 문제 삼아…결국 ‘정치 경찰 수장’ 만드려는 것 낙마 위해 철저히 검증 할 것” 김지용 중수청장 후보자 논란, 왜?",
+      "title": "Judge orders the Trump administration to cancel taxpayer-funded promotional TV ads",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFUG5udTRDSlNSSVBQdDFZMm1Zd0c3MmpTNkFBbkptNE1VeFgwWldTMlR3SmpCXzduQjJ2dTBLWXE3cm9yNjFvSXplQzBYZ3BWbFQ2WXhyVXNaWlk?oc=5",
-      "source": "KBS 뉴스",
-      "country": "한국",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZSkwzeFo3TmJLRmpQNGtfX3F4ajZsRlhSb2wtaWEyc2hrVFBrQ0RtbEE3ZjFjVkpiMFdkWjA2UTdHUWxwQW04dUVEY3ZUNnNabWFnb1NORV9EVlc1SlhnbURkU2FEdGdzNFVCeU9SbmYyV2I5bzlacjVLSmQ?oc=5",
+      "source": "AP News",
+      "country": "미국",
       "category": "정치",
-      "publishedAt": "2026-10-12T01:22:00Z"
+      "publishedAt": "2026-10-12T02:48:00Z"
     },
     {
-      "title": "李지지율 '2주 연속 하락' 35.2%‥여야 오차범위 내 역전",
+      "title": "윤호중 행안부 장관 \"임은정, 직위 이용한 정치행동 아닌지 감찰 지시\"",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04ZHVwNnc0VjFrdUh3VzlOVHZseEpQbmgwWllLNHZfZFdmS3h2a1FCeEMyd1dudmlUSEwyNkdJSkpxR0lNRGZVbU0xQ3ZfNUpUUDgtS2FVc0d1MkI0ZzI0TDVwMkpDRnZ5Z29SRGJyc3ZKcmI4ejZXVdIBeEFVX3lxTE5iQi1BRTRraDNXc054aEZaVlZ1LW9mZ2ZPa3pZVm9nc1dTM3hJbDBxX19CLUFpeFFJMGhhZ3FyUWR1VThTRGFhRGQySm9nUmVMY1BVMEp2UEx1TVQ2NUdDWjRiQVB6WEJRUV9KemZjSUJmT1BYOGk0dA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3bFFWNDBPVGszd0N3VU1RQkJVS3A1VFl5bmtRc0RsLWdTSGJoSkFuT3JKUE1LY2d2N3FqYmFWTi00aVM3OFNidTZQYjh5X29XNW53SHB3a2Nzc1FwQ21xcDUtcjEtOUZLZ1FhZDVuOVlXY0VWc3VN0gF3QVVfeXFMTy1UY3ZISlh5NDNPNDlRS2hSU3A3ZW42VFdSV292Nm04WHlJenR5a2xUWkZPaVB5MWJyTHd6RHEzV200Tl9aVHpyT01wdGFSZFFKd0VMNDdqaEN2a2hBT3VHd1JWSmpUOE1nTEo3T19XYWM3dGpiWUk?oc=5",
       "source": "MBC 뉴스",
       "country": "한국",
       "category": "정치",
-      "publishedAt": "2026-10-12T01:11:56Z"
+      "publishedAt": "2026-10-12T02:17:02Z"
+    },
+    {
+      "title": "아시안게임 금메달 양민혁, 벨기에 프로축구 데뷔골",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SUGJNVkZVZUNFbG1XenBwRUFWeVNnaEQtb1JPMXpReGxKejNRWHpwRkJmMGUwdHdMdFBEcFdsbkY0ZjUtUUJmQTMwcGcwODJIRGMxU0Q4Uk0zM2ZhcHc?oc=5",
+      "source": "YTN",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-10-12T01:35:00Z"
+    },
+    {
+      "title": "\"K건설 배우러 왔어요\"… 대우건설, 베트남 우수 직원 본사 초청 연수 - 머니투데이",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85REFyRE95V2d3THFYVzlaTVUydlFCaW8zMXhqVWVzWnFHaHNFRW1SLUQzYXBLNnhiNHJiRmhoaGxvN0JZcXY3aU5kVDJtWVlzZnhkRWwwc2RBZjhjQWJaQVFjTTFReXdoREpwem4xONIBb0FVX3lxTE85REFyRE95V2d3THFYVzlaTVUydlFCaW8zMXhqVWVzWnFHaHNFRW1SLUQzYXBLNnhiNHJiRmhoaGxvN0JZcXY3aU5kVDJtWVlzZnhkRWwwc2RBZjhjQWJaQVFjTTFReXdoREpwem4xOA?oc=5",
+      "source": "머니투데이",
+      "country": "한국",
+      "category": "사회",
+      "publishedAt": "2026-10-12T01:13:09Z"
     },
     {
       "title": "네이버클라우드, 베트남 기업과 AI팩토리 추진…아태 시장 공략",
@@ -38,13 +74,13 @@
       "publishedAt": "2026-10-12T01:11:11Z"
     },
     {
-      "title": "네이버클라우드, 베트남 최대 IT 기업과 AI 팩토리 사업 추진...아태 AI 시장 공략 나선다",
+      "title": "[단독] 한동훈 딸 ‘허위 스펙’ 수사…국내 11곳 압수수색 없이 ‘공문’만 보냈다",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nNVhKZDlJTVFkVjNvVmFRMWowNHBjQ1h0Z053UVF6NzA1ZjNTM0dQSDliM3pfSUZnUWoxazVfakoyVWhMcy1NUnpGWnlTaGZ2dmZRTWpOSzBXQk16RXpmZE1WWUhKQm8?oc=5",
-      "source": "인공지능신문",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6WlFfY2VJckYtaUJKODBUZ3ZkY3R2VDR3OVo2bjZRNU01VC16RnJKN0ZXbXJfTFRGVldEY2Z2M2NZcVVqbkNucEp4TG5RTjc4a3Q0bUR2R25EOGJxSWVmXzlscmJMUnBYaHd1OGlwMDRWdw?oc=5",
+      "source": "한겨레",
       "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-10-12T01:10:43Z"
+      "category": "정치",
+      "publishedAt": "2026-10-12T01:04:00Z"
     },
     {
       "title": "Kelly Clarkson Responds After New York Store Denies She Got the ‘Pretty Woman’ Treatment: “You’re a Liar”",
@@ -56,31 +92,13 @@
       "publishedAt": "2026-10-12T01:03:03Z"
     },
     {
-      "title": "S&P 500 Index(.SPX) Stock Price Today | Quotes & News",
+      "title": "‘외도 의혹’ 인기 셰프의 내연녀는 사실 친누나…데프콘 “말 같지도 않은 짓” 격앙 (탐정들의 영업비밀)",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQRGw5aHE1eG53Z3MwZXlGRXlxWWUxQnJ5WU1SRHNPb05fdkhISlRObUllcExVdTN1c21TYTNaR3k4RG5ha0ZSZmtBSlBCYmkzdEJkTHJCTzhnUWg0WU5KM3FsbkVORElqSUt1Zm9VMEpuQVJ4OC1BUWJ1OFVfMHZ0T2xVekFsMUJIU0dBQUZZeE9xelo5S1Q2Q2lvS3RPaTh5Tm5NbFMwdlFCVVpVc2NJLWlBamQ0VER5aHdNY1d2YWFiRWdBaW1xOVRqZ21pSU5paEhDQlgzYzN3Mi1YSFRTLV9TNjBscUJZM3hsNVBaYm4zS3pJbllXU01xeUZFakJvVVRRX2ZyS2Q1YThhUU8zUXVmaGRualFZOEpXRktkQjBVUEFMc0dKU2laV0hCdw?oc=5",
-      "source": "Moomoo",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-10-12T01:02:32Z"
-    },
-    {
-      "title": "프로미스나인 출신 노지선, \"탈퇴 후 카드론 받아..빚 눈덩이처럼 불어나\" (오픈 스튜디오)",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVl9kTXduNGctbldNY2NidFhDWFRXR0cyVE5EX2k2U2lUcTdqWk05WTZCTFUyeHpzUjQyMk1vT1VQWXZEMHRkaHhJX1c5YzB5b3ZBbjVUOFR4SWc0Zl9GVmVHTmh1V21MNU9xWjdoekJScFJWN0VfZWlUSmlNbGROc0VLM0NvYlk0ZUNtZHltVQ?oc=5",
-      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jbHVWLUJSbmhkekxEZ3J1bXJmT2dvaE54MGFvaHVMTnJ3SlpUN2N1SVh5aXhpNS1tcmNlWEJyVUlkczg1RGRzMVZsQVNwNWp1MjI5SVRLUkZHTlV4Q2fSAWNBVV95cUxQNEdNMWNrZjJKV0RYTUgzYXRMazBFVUFVTnFWSUhCVVlKTEliRlJtRkxfVktGb1dVMHR3eEE3V0ktNlAwWXl6UURmZnl3ZU9yWFVSSjVJOU9IVEN5clctWTExNWc?oc=5",
+      "source": "스포츠경향",
       "country": "한국",
       "category": "문화",
-      "publishedAt": "2026-10-12T00:44:00Z"
-    },
-    {
-      "title": "“쿠팡이 쌀까, 무신사가 쌀까”…'AI 멀티 쇼핑' 뜬다",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aZFl2SDBMWVp1YnJaTDR2WHFXOEhCU3ZwMktUWjEyb1h3Z1ZUem8zRV8tOGJqYmNwbkNFekktcC1JNU1jMWlicDZqUzRLdw?oc=5",
-      "source": "전자신문",
-      "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-10-12T00:31:11Z"
+      "publishedAt": "2026-10-12T00:40:00Z"
     },
     {
       "title": "코스피, 0.72% 내린 6,578.17 출발…코스닥도 소폭 하락",
@@ -90,24 +108,6 @@
       "country": "한국",
       "category": "주식",
       "publishedAt": "2026-10-12T00:17:00Z"
-    },
-    {
-      "title": "시행 앞둔 품질관리기준서 1·2 및 감사기준서 220 - 주요 제·개정사항",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02QnMtNEhhdTVlbG9LVWU5U3RWa0k0SjRTYlh0alZES3RYbHRHVU9kZG43LWI1R0JOMVVuVlNaVWVTVW1DSzBOSW5sYjBiRDVBNU84RWgzN1VvZS1hUm1KdUVpeDlNVDdR?oc=5",
-      "source": "CPA뉴스",
-      "country": "한국",
-      "category": "사회",
-      "publishedAt": "2026-10-12T00:00:00Z"
-    },
-    {
-      "title": "'아시안게임 병역 논란 발언' 양민혁, 벨기에 무대 데뷔골",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoTEFjdHpuZ2owbHVKQnFLZWRNS1J6RWN2NmRVZ1k0am1MZkpydVFib3d3UVl2VW16VUFTdzU4dlRuYXV0b2tvUkt6ODljb3lSZ2QxOERlUnlJalNYdVpCZVY0YUY2b2VQNFdrSEFHS3ZMQU9RRGfSAXZBVV95cUxNN2ZFQS16Z3puSG1wbmJwdW13b3RXX09lZnhzYVZKSjVJVVA0eFN0QXEzZzFJdUVkbXV2QUxWREw5ejE5b0pTOUhhMm9YS0dvdFAwT3ppLU1hSlhZTnRkZ0RLN0EzT2IzT25OdmZmcHBDb3AwQ1hn?oc=5",
-      "source": "MBC 뉴스",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-11T23:56:47Z"
     },
     {
       "title": "Commanders' Daniels takes blame for botched final play in OT",
@@ -137,15 +137,6 @@
       "publishedAt": "2026-10-11T21:30:00Z"
     },
     {
-      "title": "Hurricane Isaias in Video and Pictures",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX01WdllNYXZrbWp6YTBmU0JrZkg2LVphOW9fQ242dGtZdjRQTXI2eGp6NGVoM3pYX2NidkFKVDIyOU9aQUdncFhtd3ZwaUE3c25DOU5nX1J6RUQxcDFiN2pqUGsyUDFLbF9rYWhJOG9tRnd0SnpDTHNzN0RDLUNoai05dk1xdw?oc=5",
-      "source": "The New York Times",
-      "country": "미국",
-      "category": "정치",
-      "publishedAt": "2026-10-11T21:14:12Z"
-    },
-    {
       "title": "세계의 대입은 어디로 가나④·[수능 30년, 우리는 무엇을 평가해왔나]",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHVGZiWkd1TGZpQ3NLWUhNdl9PNUcyRDVZNkd3VGFUX3VFb3p5NmF6R1hJeUFCc3RFdlJvR2MzakhCQjNYTmtndW1fSkJMd1VOVFdXSjZCaFNweEtSNWNwa05qVUZJUQ?oc=5",
@@ -155,6 +146,15 @@
       "publishedAt": "2026-10-11T20:55:00Z"
     },
     {
+      "title": "Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Billion",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGxqNnJoTC12VnZiQm1ZTUhITmQ0RjZyTWhIRDYwcGQxZm9ZMW9tbVl2NU9BNk05LUlhQ3ZDbXZjdjNJNVZQRnhsU3ZveXFjRFBrRTlmMkJKc0JVREZiVlNZbVRKM3Z2bWd5XzVyMHFDdzk2MEJyaHpRRWRmWTlxQVg4c2l4UnZIM002Szhfem9kWHJUTlZZWktDb1NQU0JOb0xaV2hxNjE?oc=5",
+      "source": "WSJ",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-10-11T20:27:17Z"
+    },
+    {
       "title": "OpenAI CEO Sam Altman claims AI singularity has arrived: 'Awesome for the world'",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiwwlBVV95cUxQdkRnYmUwVWN0cFctckx5bFhYOUp2aDhnSmxKYU5sX1RDcmFIRkVRUzJNUDk1azJkd3VEbS1VOEROZzhSNUpnUm9LWkxwOXY2SEVSNWpZSG5LY1VxSi1BMTFWS3lKS0lYRER1X3ZrTy1ITmFkUHpPZUpEenczSHJESmptWU1BTTZ5Nmw1Wnh1WF8zcW5VN0NscmtSa1h0Y2RGZWI3LTdQdUI5QWljSnFTSzJxUGlkSnhQU0pNVkltMmhJLWY3bUhEOHU0UGs3Szh1bnB4QzBUMGpFSHhDcnlDc2V2eXkzQUZVSnktT19rQU9nX2dZbktfRHRkZ2U3bVF0TEltaFp4U2VNMjFMUnJ1RTFCc09oZ1JlS3hSdEFWRk8zdlVFNzVNSm5Wbld5cldWNWFKM2ZWcjhoY0o5dmJIcG83X1hRVzBwSE8tTWI2TEo4b1FTRUg3SklFOG9jOFZHWTZXSXJuTWpnSWdiUzNzVWJ6QUp1eHExMHlsQjdESzB2UGl4MnkzTzlIZzdsTmZlOTdoMUNFay1FYjlmWTNFZkh1REVpRlppLU1FU21tZjNVQVdLZEJYWEcyQ0tjN3NicDVMQTZ5LWJjNUs0Y0lBUUdROFFsd2R0M2hpSXcyeE9PUlFCQ0ZVeWp1dTVnblVxSjQxMnNPV3RqVFFETmRROHNfNFdmTWhDOXBHdEVyX0phVjAxT0JzMUtRZzlPSndHZEtya1VURDZZaWd5RHp0YmRNeVhFMFIxWnFlLThkU2ZKQ3VIWjh0dExUQnIzVU9VZG9oMUl0WGxHYkhSbERCTzlqX0lVUTF6N1dJbFFpQkFYYnI0TGxqaFZLWXh6YnF2UmR1OGdnelJpeWtLb0hvM0lQZ0p0eTJhWGljbEVQVlhSLUJTQUg2MUNDTzlrNmdvM2pwMnh5dmxaWU52bEtneGlRSEkwRUkteFU0dGhIQk1ubUFqTjNxV1luVTdtZmRRV3BQVWVfZmpySGFlUGY4VjMyamFvMGQtbERkSElJNE1yNjB5Q3EtNmFxZUptVENhUXhUT0tPd1dSTXFBMHVoakxHSnZVSW8tV1BYbm5pdWtfUVZlb21oZGFZZFlTNk0tUWg2STlmVThZN3BtbkNaQlB4LXVvRmdaVHJ6dGpyMEZkWmtVV2g1QjZaNFVUZ2Ryei1taXlIUXhPNnhvREpOcnhfTXk5WFhEbTc5bmFKYldOcDhtNi1vTzF3US1CMGRxUEhteHY3T093X2hoS29ubk1tU0Q3bzZSdDVrNkJPcEZta0JiZFJxRnI2LU1hTDRhUnZuX0ZUTFJ4VHpQYjZzYWRWaEFBdmFIYl8zMnNSVEl6VndlZmNKc3o0V1VDNGc3SHlrY2Zpa19VTm9YaENXckZObFMzUTgtWXQ5bHF0MnRUOXdWQkVrVUlPZFZDcmJFc0JLQzhOMGl5aFBNUGplY2ptM0ZwQjNVNkRXUGtveUZTMlZrUlZlVmFKd3V3ZkZvWUh1eTBWTU5ZOFFLZTV2a3U0TFpRZEU5ZEZXYk1BY0tSaC1qZEJzczhUSVB6NGwzRmhLaXNpU0xmLWM3c0xMcHJOLXBFY1VVdm5hVWVjcFRNWVZuMVdnbEV5SVplUW02d2hn?oc=5",
@@ -162,15 +162,6 @@
       "country": "미국",
       "category": "AI",
       "publishedAt": "2026-10-11T20:27:11Z"
-    },
-    {
-      "title": "Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Billion",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGxqNnJoTC12VnZiQm1ZTUhITmQ0RjZyTWhIRDYwcGQxZm9ZMW9tbVl2NU9BNk05LUlhQ3ZDbXZjdjNJNVZQRnhsU3ZveXFjRFBrRTlmMkJKc0JVREZiVlNZbVRKM3Z2bWd5XzVyMHFDdzk2MEJyaHpRRWRmWTlxQVg4c2l4UnZIM002Szhfem9kWHJUTlZZWktDb1NQU0JOb0xaV2hxNjE?oc=5",
-      "source": "WSJ",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-10-11T20:26:00Z"
     },
     {
       "title": "Trump's quest to bring down gas prices ahead of the midterms is not going great",
@@ -189,6 +180,15 @@
       "country": "미국",
       "category": "기술",
       "publishedAt": "2026-10-11T19:56:28Z"
+    },
+    {
+      "title": "Nasdaq, S&P 500, Dow Futures Slip As Chip Stocks Pull Back: LULU, NFLX, KEEL, MRLN Stocks In Focus",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORkd4V1pSeWVORXBMNlhsMXpwcjF3N2lfNk9rQmJ1djZ3akpFM1hLYTV0YWg4dThpd0NzRzZxS3Nha1I5blpCcnVoNDVXWFJLM0tSbTgwbE9OSHB4emR2U3phTWg4S1pISGhLZ05RUjFLWEotMnVvdE42MEpVaHFhSFdPOC00a2l3c2g5ZGN6QWhONFB6ZEM2SlVOYzVDNGNILWp2NTR2cGdRbUhtQ1F2Y1ctZnhHNldldlE?oc=5",
+      "source": "Stocktwits",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-10-11T19:52:01Z"
     },
     {
       "title": "U.S. Stocks Rise as AI Momentum Builds",
