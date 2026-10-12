@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-10-12T07:42:24.495967Z",
+  "generatedAt": "2026-10-12T08:42:22.210936Z",
   "items": [
+    {
+      "title": "\"AI 대신 SI 써라\"...트럼프 압박에 실리콘밸리 굴복",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FRWxSZXdRR2EySXNtUENzd3g4SGZTSW54aDRYS09PWkhhdTU1dmVZSUZNLVBlNXVwQTV4ckRWM0R4bUhYY2tiUlhMZzBFcHZWYk9oaWM1NUQ1eEg3c2JLZXhSWDQ5bGcxU2c?oc=5",
+      "source": "AI타임스",
+      "country": "한국",
+      "category": "AI",
+      "publishedAt": "2026-10-12T08:19:53Z"
+    },
+    {
+      "title": "한국환경공단 ‘2026 지속가능경영보고서’ 발간…탄소중립 등 5대 중대이슈 선정",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4NWxNV2RjcGd6QTRLVzhYMmdDNjd2a1dQMU92czVKdHNnOXFZS05pWDVqcFMzeV9tdDBSWjh0a1ZyeEpWQ0dvalgtaFpxMG1URk1aRTY4MHlYeG81TnBEUEd5X0JWYm1ZVDZ0R191X1d0dw?oc=5",
+      "source": "에너지데일리",
+      "country": "한국",
+      "category": "사회",
+      "publishedAt": "2026-10-12T08:07:31Z"
+    },
+    {
+      "title": "클라우드플레어, 디노 인수…'워커스' 고도화 주력",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94N3NvN3BKM1VJZmh5QTkxcGZ4Y3B2eXRQZ2h1eWxKYVpPY0N2c0xQSzBmaGhzcEwyVVFjcENpVjVXckhZVFZudkxpQ2JXYVJaTWNCV3hn?oc=5",
+      "source": "지디넷코리아",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-10-12T07:39:20Z"
+    },
     {
       "title": "대체 이강인에게 왜 이러나...\"손흥민 왕따범\" 가짜뉴스에 비니시우스 퇴장에도 이름 소환 '국내외 동시 난타'",
       "summary": "",
@@ -11,22 +38,31 @@
       "publishedAt": "2026-10-12T07:23:00Z"
     },
     {
-      "title": "코스피, 6,400선 아래로…코스닥도 4% 급락",
+      "title": "코스피, 4거래일 연속 하락…반도체 투톱 동반 급락",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pSWkwQVNabFFGcWFBelRBSk1OSTlwdWQ0UHBVVTY5ejVaS3JraUVISTNkM1dVT2hDMlZBbG53bFI1LXh2bjNsM1dlNDJvSUxQTjZLNVNMXzJielhpcFJuYzVSWUlhUVk?oc=5",
-      "source": "연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81bE1EdGdTbVFpODc3RC1nQ0E5cjJwMnNGWHVnbE1VUWgzVmFSeUw4VmdCODdIMV9QcWg4bzQtMlpqd01ZZmFUWmt3czc5MUlNQ0hNNm84QmJVbVk?oc=5",
+      "source": "KBS 뉴스",
       "country": "한국",
-      "category": "주식",
-      "publishedAt": "2026-10-12T07:04:00Z"
+      "category": "경제",
+      "publishedAt": "2026-10-12T06:58:00Z"
     },
     {
-      "title": "KT ‘모두의 AI’ 12월 베일 벗는다…17개 기업 참여",
+      "title": "125 Years of the Swiss Chemical Society: The SCS President on the Swiss Way of Chemistry",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DT2FSS3ZqMGVhRWNNYWtSSXBHbEhrdjhvV2tDX2Y3M0hXRTZlVXFNTXVRVUYwbXlMOUFRLVNNOWJrWjA5STE4UW9ERlNHRTl3UVZlRnhGV1ROQzJYSWYzemhpUQ?oc=5",
-      "source": "에너지경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOalNFcFNIVnJndXZmM0xrOHVvNS1oTEt5T19tRnhHTlVoaGlfVjh3T0xkV2taVnJWZzN6RnAtLV9PWEhjRVlSTXpXTzlHWHBjRzB5YnF1eFdmY2RoTjRNUHdBcG1iZmVZZHVvazVvaVNIWWdFMHBLbVVCdjVYeEpWRWEzZThVeEdzMDhoMkhNaVFzc1lLX1VBTEJUOG9pcFdiQjRQZEpyb09XY0k3RlRQNWtwdlJvM01aY1NpQm4tME12d28?oc=5",
+      "source": "ChemistryViews",
+      "country": "미국",
+      "category": "사회",
+      "publishedAt": "2026-10-12T06:45:34Z"
+    },
+    {
+      "title": "코스피, 두 달 만에 6400선 아래로…코스닥도 4% 넘게 '급락'",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wZmVKUEF2eHF2aGw2RzNVREc0ZU5OS1NYNnJLVUl5aXJ0Y1JUMEhtaGZyM0JpTDhJTmNMeFUwWm5BekZ2X3o5LXU4YzM3a0dwdmtKSE1HWHhGdw?oc=5",
+      "source": "한국경제",
       "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-10-12T06:55:27Z"
+      "category": "주식",
+      "publishedAt": "2026-10-12T06:38:29Z"
     },
     {
       "title": "Competitive Landscape of the Artificial Intelligence for Customer Service Market Examined Among Top Global Companies",
@@ -45,6 +81,15 @@
       "country": "한국",
       "category": "사회",
       "publishedAt": "2026-10-12T06:30:07Z"
+    },
+    {
+      "title": "Ahold Delhaize takes precautionary measures following cybersecurity incident",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbjN3bGhiSEFFdjFPRG9PMUM4Vzk2OUhxR1VwX05BYlh1eURaUmlEaGR1OUtkWnNUWndMV1QzZWs1OHR6ektEVXRyZ3BWUkh6YU5NN0pFU3FqUWE2V044QkJMYTVJR0ZfQTB3MnduNDFXcnpMNHBZS2RrOGhyLThaQ1Q4eHlwaE1RZUZMNXptcExhc2JfSE8tN1VwSWpkWFJjYVRESVhDVnI2M3pvQUd2QWxR?oc=5",
+      "source": "Ahold Delhaize",
+      "country": "미국",
+      "category": "IT",
+      "publishedAt": "2026-10-12T06:29:37Z"
     },
     {
       "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
@@ -83,42 +128,6 @@
       "publishedAt": "2026-10-12T05:27:00Z"
     },
     {
-      "title": "성균관대 경제연구소, ‘SERI Economic Review’ 창간…한국경제 현안 진단",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DRzl1UDNoV0NZZFJ2SDVuRFVMeGJYNGZmekFFdTZvSmNsb3QyakZKZVZOZTBYZUVDd3FyUm5CbHpYUUFTbVFYOGU2eFpBbEpPVUx0YUxn?oc=5",
-      "source": "중앙일보",
-      "country": "한국",
-      "category": "사회",
-      "publishedAt": "2026-10-12T05:12:23Z"
-    },
-    {
-      "title": "Techman Robot strengthens cybersecurity for collaborative robots in connected manufacturing environments",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMzI3ODJwTzBPOGJfZVlvQzVscEpDcDRpVE1maXl1cURYdWVmNzU3RW1Vb1VkUm9DcFZFcEs4eHpCNFZkZFpQSlJ6U0cxRW1zSUN2b0J6TW5HcFMtZ2wzdkZYaHJYU280V2p3NnAtRDhKUWVQZGlib2wwN3Bmcm1ia3VCNUU5bDBtcjkwMzQxUVFjZDR2YnIwTkhyVHNfMXFsQ1dyNFNDYVlrS3A1dHJFOVd3X0ZlazNmVFNwcGo2M09mamVWNGhfcmh3cXdRdUVqQ3pXS1VFcjJVS3NzS1E?oc=5",
-      "source": "Today's Medical Developments",
-      "country": "미국",
-      "category": "IT",
-      "publishedAt": "2026-10-12T05:00:00Z"
-    },
-    {
-      "title": "Met chief says ‘toxicity’ around DEI will not stop him recruiting more black and Asian officers",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS3lIbV9uanRNQ00zTFlwNTY3UFljTWk5LXJQT2o2QXUzN2RPUnF5Q1hvNW4yb2o4Uy1xUFBTOW5HdnZLcWxBbVQ3cmZEOWNNSmdld3BIQVNfRWpSb2UxQ0c3bmRuSnE5LWFyTExpVjlWOXZ2NmFMR1Y3YTItQjB6dnNMeXR1V1RqcXdDTnpaUFJJX1RRNWM1c2d0bVluZ1hnMXpYUGxGbkw2aWhv?oc=5",
-      "source": "The Guardian",
-      "country": "미국",
-      "category": "사회",
-      "publishedAt": "2026-10-12T05:00:00Z"
-    },
-    {
-      "title": "메가존클라우드, 미래혁신기술 박람회서 모빌리티·AI 등 첨단 플랫폼 소개",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhUjRkMVpxd29BaU9Xa2lmLUNTZmRSbkw3ZDFPb1ZJeDBGNWFxMEY5ZDR1eWEteHBhQWdkN1JJMDh6d0R6OEM3eFdLWGM3bmYzYm1zM081RVBIOVdEYWlpaTEzdWFjcTU3R0dIdUxnT3ltYXpm0gF0QVVfeXFMUGFSNGQxWnF3b0FpT1draWYtQ1NmZFJuTDdkMU9vVkl4MEY1YXEwRjlkNHV5YS14cGFBZ2Q3UkkwOHp3RHo4Qzd4V0tYYzduZjNibXMzTzVFUEg5V0RhaWlpMTN1YWNxNTdHR0h1TGdPeW1hemY?oc=5",
-      "source": "주간한국",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-10-12T04:52:44Z"
-    },
-    {
       "title": "Leveraging Artificial Intelligence to Appraise Social Media Narratives on Breast Reduction Procedures: A Snapshot Analysis",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPc3VpSUFSVjJYUUFwY2EtXzNYcVZhdV94UzJtbDJPWHpQYVhDalZqMWxuVkVXZjRYOW5oWTU2NlgzTGJvQW83dzVMTXlJVEFfUDc0VDN4SGt6OV9JcnpRUnNaRVhTUTJNcU9EYXlSU21IaFA0S0x5dGVOaWdrNEtvaVVvaDRUeS1uUlA2V1VyYndTVFlYcDlRZnZ1dWN1endZcU5tSE9pY205bUpVUmxLLXhVT1dGZGtLcHM0MHdQOWVMYkdmbXFPVzg5TlNXS3lSVTlYb2JGaEJvcXR1YzlKQzZ4ZmFVVlVuVlpRNzRENk9oUQ?oc=5",
@@ -137,6 +146,24 @@
       "publishedAt": "2026-10-12T04:12:53Z"
     },
     {
+      "title": "[뉴스in뉴스] 프로야구 KIA:LG 운명의 맞대결",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wNXlfYzZhRDZZMl9UZ1ptb3NRQnpTb0dNeENZWDZWRzVRZEZHclJQMFJhY0M4U2J2ZnlMN0Z3STZBV2pISHBybnBqZy1GdHBwNVdiMnZVRFNOOGM?oc=5",
+      "source": "KBS 뉴스",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-10-12T03:34:00Z"
+    },
+    {
+      "title": "Mike Evans stars in 49ers' win -- 'Exactly why he's here'",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONmhzS2U3ZXN5d3FCaEhPSEh3UU4yOTFXOU5rR3Q5NGZJb0ZUMG1rNXpqcGJzZVVHOEViOENtQkpxOUIyanpQRlZkT25ZT19HNjJrY3dwbjZhTFdwbzJKempzMTFFRjZxSlh6RW1hMktjaDZGcTlSMTFqMzdNbXFpZm9TOWtPUDBQcVZVUFZVaTdFZw?oc=5",
+      "source": "ESPN",
+      "country": "미국",
+      "category": "스포츠",
+      "publishedAt": "2026-10-12T03:22:00Z"
+    },
+    {
       "title": "Kelly Clarkson Responds After New York Store Denies She Got the ‘Pretty Woman’ Treatment: “You’re a Liar”",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ29jV2ZKcEo4b1FXYWVqUWRIdk8yZXNRYjRHMXVSdW5fSXZLNVBPZ19ScURZVTZFUnVSa0w3TXg4UDBLeE1WdGgyak00dXMwdVZ0aXRNN0xYcWZ5amFweUJEeWxDV3k4NURXTUMyYzloNmNQZlpGXzh0VHZTMmNCOWZ6RW9PenhKMnFZT2JHckxnX0NIaEJyQjFsM3JPZHI0cDNseGhrNV9mb0dGSGVnSG1VM1NuQ0J3WUdldHYyZTJzX1hTR0lr?oc=5",
@@ -144,15 +171,6 @@
       "country": "미국",
       "category": "문화",
       "publishedAt": "2026-10-12T01:03:03Z"
-    },
-    {
-      "title": "\"외국인 순매도 사상최대 전망\"…코스피 수급 불확실성 커진다",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZM0c4VExsbUVUd25HN1dHeVFUN3VCWUdwM3UyMlpkN3FQWFdsZ1RuTFhNMXpsd3daeDEtZEtUak9OY21GeGNsYUMyQVc2aHRGZE5lYWxPMXI5LXZndnd3blVsVUNwR2xYQlVfd1RCM3E?oc=5",
-      "source": "연합인포맥스",
-      "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-10-12T01:01:00Z"
     },
     {
       "title": "Federal judge orders pro-Trump TV ads funded by taxpayers off air immediately",
@@ -173,31 +191,13 @@
       "publishedAt": "2026-10-12T00:19:16Z"
     },
     {
-      "title": "What Commanders' Dan Quinn, Jayden Daniels said after jarring end-of-game mistake in tie vs. Giants",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGt5aWZKQkNwc05rbExSOU5wQU5HZFpKTjN2bEItYmVsU1QxUmNweVF1U3ZrY2VUc2VQYUpPR2x6UUJmMjRwYlY1NTNPRG5vZlFWMkhJNVBsZjd0Wm1yN2hLRmFVWVl2YVJad19sOEtkc0J1VENkTEpxLXZRVjlFOTE1NWU2b3dmalZFQ1cweXppNHVLZ0Y0ajJSRnFFdEtmeEE?oc=5",
-      "source": "CBS Sports",
-      "country": "미국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-11T22:54:00Z"
-    },
-    {
-      "title": "[프로야구] KIA 양현종·LG 임찬규, 준PO 직행 걸린 12일 정규시즌 최종전 선발 맞대결",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OWERsLUU0cm91cVpDOFBENDNyR0IwMGpkbTVHT2tkSlRQOTE2dTBhZVhsRWxpek9MYklXaHp4SVlDOS1yRGQ4V0hrQ3k1RkNyTkFVcFc4dnpmUUZx?oc=5",
-      "source": "뉴스핌",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-11T21:30:00Z"
-    },
-    {
       "title": "Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Billion",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGxqNnJoTC12VnZiQm1ZTUhITmQ0RjZyTWhIRDYwcGQxZm9ZMW9tbVl2NU9BNk05LUlhQ3ZDbXZjdjNJNVZQRnhsU3ZveXFjRFBrRTlmMkJKc0JVREZiVlNZbVRKM3Z2bWd5XzVyMHFDdzk2MEJyaHpRRWRmWTlxQVg4c2l4UnZIM002Szhfem9kWHJUTlZZWktDb1NQU0JOb0xaV2hxNjE?oc=5",
       "source": "WSJ",
       "country": "미국",
       "category": "경제",
-      "publishedAt": "2026-10-11T20:27:17Z"
+      "publishedAt": "2026-10-11T20:26:00Z"
     },
     {
       "title": "What’s open on Columbus Day 2026? UPS, Costco, banks, mail delivery, stock markets, restaurants",
