@@ -1,14 +1,59 @@
 {
-  "generatedAt": "2026-10-13T15:40:11.434467Z",
+  "generatedAt": "2026-10-13T16:39:31.772972Z",
   "items": [
     {
-      "title": "Stock Market Today: Wall Street Revenues Power Profit at Goldman and JPMorgan",
+      "title": "RJ Mitte, actor best known for ‘Breaking Bad,’ dies at 34",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaVpoWEZHOUphdU52VGpZdTFMUUVseXlHQ21JR3RHUUl0QUFMZ25NX3F6cVpweTIya2VnV3F6Szk1TXkweW1LeWlQa1phQ0NLUEtTZHNiaEV5ak5BdEhJU1VESnVZVHhkTFhvSV91bDBBMHYzY0lUazBaejhIbEhabndB?oc=5",
-      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFRFVCWm1aZmJGYlYwbzd3TWViZDFOc1lPc2J1RDBKWnI4NzU2T2FkanotSGpfZGFwUlpIUzFiOU1CamgyZ0VCenp6dGx6dDV2RlBDcmZNQTktUTc2UjVyUEVSbHJ5VXZOQnc?oc=5",
+      "source": "The Washington Post",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-10-13T16:13:22Z"
+    },
+    {
+      "title": "Did you see it? SpaceX launch visible in NC skies Tuesday morning",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeUNfeGdodnJZN3N1NTVuNWxnbk90ZWpiaGVfZzRCNEk2UzZlbmhzakJ3dVVLaUxOeVBCT1RWVmRRUEVZZTlVVE5velBzTjIwemc2cFNsY2liMjNBWUlidFpjZElzaUNodmtzNXBwaDFSVkJpcTJGTmptb3VFM3RPM0xyRVZYTEdVQl80?oc=5",
+      "source": "WRAL",
+      "country": "미국",
+      "category": "과학",
+      "publishedAt": "2026-10-13T16:01:35Z"
+    },
+    {
+      "title": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPak5ZbXdiNVNTR2dUSG5BaXVDZlgyWEdLYVNWU2FiTTl6QmRQTk1BcmJ4VXFNWHVtYUFBOVdlRnpaUlNnV1ZFRkJtVDRXQ3JzeEUxMVkyUVhKRF9qQ2hQdFBJcEVTVWhCempCTGZ6cmpTME5RTHU0SWdGd0s1QnQ1R2hlUEFRc3RudnlLd0ZKd2w0VDZVU0I2Ng?oc=5",
+      "source": "AP News",
+      "country": "미국",
+      "category": "정치",
+      "publishedAt": "2026-10-13T15:56:02Z"
+    },
+    {
+      "title": "SUN: SpaceX launch created glowing ‘jellyfish cloud’ over Maryland",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWDRaNWFVdnFVNGNGRXdXVTlPWXRHVVA4dTBaeGRKcEpCN3gwV0VJOTZXZ0xEQUVaVU43Zzl5ZkpydzRSS3hBTGU1WE94bFFMdktOa05NZVhZOXRhclc2MFR6MDN5elpDVjFyTHFnTWxURXFmTm85algzUTBWRlp6R1h4OGdmTkVZNzRlRkNueGZVT2tHZGZmREhQRkpmZTBW?oc=5",
+      "source": "WBFF",
+      "country": "미국",
+      "category": "IT",
+      "publishedAt": "2026-10-13T15:48:31Z"
+    },
+    {
+      "title": "Former ‘SNL’ star Ego Nwodim mocks Shane Gillis monologue about women’s gym outfits",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaUtSVERUOHJhbW9tTkg5OF9xWGx5RkZJY3hER1h0UFozRU9XQllqblZqSENtODZNTTV2UHlIT2dEazFRNkg5YlVXalo3R3RFLXZfXzZlTzhJRGQ5aG5SR3JwQUd0QkJzU3JwVWxoV0F3YmIzNXVDQ3VkSXRzdVBfaXloaGdBLTl2blkxSzZLaGJ5OFlDcDFjNlNqRE9PeXZhNlhWWTQ4YVVROVJoeGNEVERpNVdnYlVuRlFXN0JvWXp4anVKaEhsenZFcXdxM0U?oc=5",
+      "source": "NBC News",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-10-13T15:18:53Z"
+    },
+    {
+      "title": "Stocks fall after bank earnings deluge; chipmakers slide: Live updates",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vWkJFUkNSVTNpSXFUNGgxZWtlWUdXSmt3eC04ZllUYm9ma3UtYUNMS1ZQbDhDX0R1am5LZlZDcmx5Q2ZkR1pUTVBaOFR1WHgtY0FTakRvVkNpY1dnSDljcEp4SGpHYkw1cVF4LUhYZndrbmY5MlRR0gF8QVVfeXFMTmZhUmNzY2Z3a2tVNVlDdHVPZXUzeUQ2a3Vjc2Y4OGZuUTdmYlRvdDhSZXhVZmN0MWpoRjNkd19QYzQxZjN6RXlLcGZGYk5jLUQ1ZUdUZVpQSHp6eDh5X05pN1lWY2JpRWlpenZDNDFGQTJSdGtaOVFrczZUdQ?oc=5",
+      "source": "CNBC",
       "country": "미국",
       "category": "경제",
-      "publishedAt": "2026-10-13T15:06:00Z"
+      "publishedAt": "2026-10-13T15:01:00Z"
     },
     {
       "title": "Open to AI: Hollywood Is Embracing Artificial Intelligence Tools Despite Doomsday Fears",
@@ -20,31 +65,13 @@
       "publishedAt": "2026-10-13T15:00:00Z"
     },
     {
-      "title": "Trump asks Greece Ambassador Guilfoyle to resign after allegations of improper conduct: White House",
+      "title": "IMF, 올해 韓 1인당 GDP 4만弗 돌파 전망…명목 GDP 2.2조달러 관측",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPak5ZbXdiNVNTR2dUSG5BaXVDZlgyWEdLYVNWU2FiTTl6QmRQTk1BcmJ4VXFNWHVtYUFBOVdlRnpaUlNnV1ZFRkJtVDRXQ3JzeEUxMVkyUVhKRF9qQ2hQdFBJcEVTVWhCempCTGZ6cmpTME5RTHU0SWdGd0s1QnQ1R2hlUEFRc3RudnlLd0ZKd2w0VDZVU0I2Ng?oc=5",
-      "source": "AP News",
-      "country": "미국",
-      "category": "정치",
-      "publishedAt": "2026-10-13T14:52:00Z"
-    },
-    {
-      "title": "RJ Mitte, actor best known for ‘Breaking Bad,’ dies at 34",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFRFVCWm1aZmJGYlYwbzd3TWViZDFOc1lPc2J1RDBKWnI4NzU2T2FkanotSGpfZGFwUlpIUzFiOU1CamgyZ0VCenp6dGx6dDV2RlBDcmZNQTktUTc2UjVyUEVSbHJ5VXZOQnc?oc=5",
-      "source": "The Washington Post",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-10-13T14:15:23Z"
-    },
-    {
-      "title": "28 Miles and Counting: NASA’s Perseverance Rover Sets a Mars Driving Record",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01eHJSMzQzcy1pRDFwRWdCellUMnUxUl9fMncxcXdwX0FGOEZVSnEzRmNldnZoem9oYVRGb3RvUWw4Vi1QZ2R4VlFrTG5PZWQyNVVaRFg3NmZhM19nSkM0NjVqNHJJUGtCaFNiMXhiek5UbXFGOUN2Q1RR?oc=5",
-      "source": "The New York Times",
-      "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-10-13T14:09:00Z"
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sTGQ3OGV4TW55VElfaEZWN0FWak8tLTVXZHpOY0VKTVZkTzNCOXNHcEIzejFEYWYyVnU0d2dBQURsMlBIYWdKZ21ZenkwQlNCT0g0NkJLNGx3LVAxWWo5VERwZUJvTGtRcG5RYXd3SVg?oc=5",
+      "source": "연합인포맥스",
+      "country": "한국",
+      "category": "경제",
+      "publishedAt": "2026-10-13T14:36:11Z"
     },
     {
       "title": "반도체·로봇 기술 AI로 통합…산업현장 적용 가속",
@@ -65,15 +92,6 @@
       "publishedAt": "2026-10-13T13:39:00Z"
     },
     {
-      "title": "‘Wow, dude. You’re an idiot’: why Kelly Clarkson is fighting over a $15,000 bird on social media",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNDN3WC1aTkNSSl9xUDZMdFVwS2NMRlBJM2RsQTNYUHlmUjE3dVptRlFIVUhfZmZhY3ZYeWw3bjFjX1FRdzBPN1JmQUNtbXF1NXRITlB6VFdGZTJjMmxMZmhkSHo1dF9vRnpjZHQ4MldwbXRNMER2cmxQcmI1Sm1rSjl1dHhuYllJd0dGLUNPY0dpdHpicVRidWJYYUZ4Umo2VjNjOGlSUXkza1hHN2xhNWpsVQ?oc=5",
-      "source": "The Guardian",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-10-13T13:36:00Z"
-    },
-    {
       "title": "S&P 500 opens lower after bank earnings; chips weigh",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdkNncVkwQU9JeFhSRFFWQ1FhcW5SUk5hY1hQMkpocmdCRlZ5b04zOGJnZ184T1lONDh1cUQwZFY3RVJxUmJzZDhpUWZ0RlhsUGluV3hoVG1TV2JWNEZtUS12R1Z0VURRQmt3SjkyUU44UkZTcmF1RnFaTm9POE9LYW5TWjY3el9jNzQwV1lOVkhaOGFDTE9Wc1NrM0RYTzJ5UFM4eF92UWV3LW03SHJ1U1I5cHF4eDNFS1liNw?oc=5",
@@ -83,13 +101,22 @@
       "publishedAt": "2026-10-13T13:35:23Z"
     },
     {
-      "title": "Apple releases HomeView smart home hub with screen as showcase for Siri AI",
+      "title": "PFT’s Week 6 2026 NFL power rankings",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jSmJ6Q0FXZkNWQWUtZi0zOWVVNkVvWW5TeFNiX255bTdUNHRhbzV3aGdpTFhCci1LM203TWRCcTk3SmthT1VuUmJKemVXNGZnTzlRY1Y5VmlYQVpnbjRETTFzT1NPWGkzNlhKamFDa3VYX19GLUdWeXZn0gF_QVVfeXFMT08wdkg5bzg1V0FBc18ybEVtVlBVVlVRR01oWG5FVlBjTllGalFldkhENjdxbUIwUTdjZnZud1otYnRFYXdvTG5XY2lhM0g3WjltRWNLNHlZaHo4VXhuSUxMWV9CREdpZzIwR2VHR0x0eXNXU0tTc20zVXNqMGlFNA?oc=5",
-      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU1RjX2liRXd2TFJfZXVJTi1ES1Mwa0JRWE9nVUlpcW1HdW1ZZ0FfaTJQUFdpRV82WTN6dHJsV0J6VFJVNHR2TDNZQWdaTGw2MExLYlZaZm03RXRmYnhnMTFrOTN3cmRSMmUtVjRtSjNNTVg5WW5jY0VQMWJXa0dlTFBFbWhMZGFiRWRSa3VrQlpZYWM2MUtoaU1kOERPUQ?oc=5",
+      "source": "NBC Sports",
+      "country": "미국",
+      "category": "스포츠",
+      "publishedAt": "2026-10-13T13:29:18Z"
+    },
+    {
+      "title": "Apple makes another push into the smart home market with HomeView",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPODI2QjFmdTJOcU1zSmdsZ1RhSHhXQVlvTHlnMnhfUGJ3S2dWREo3XzY5a0NwMldscDZQbkNqY1BxUi0wYkstUWV5T1pjZ1M4MUNfak8wUDdMSFBGc3lkaUM2Q2dHNFp5SU8zSWdtek9scjBfNjJ5UElvMVI2LVk0OGdsR1hPSXR4Vm1CcTd6N05vUkp3dVZfal9pMU43Y0M5RHc?oc=5",
+      "source": "TechCrunch",
       "country": "미국",
       "category": "기술",
-      "publishedAt": "2026-10-13T13:34:13Z"
+      "publishedAt": "2026-10-13T13:15:46Z"
     },
     {
       "title": "마벨 테크놀로지·마이크로소프트·Oracle, 클라우드 보안 워킹그룹 결성",
@@ -108,15 +135,6 @@
       "country": "한국",
       "category": "사회",
       "publishedAt": "2026-10-13T13:08:00Z"
-    },
-    {
-      "title": "Ahold has no indication client data was stolen in cybersecurity incident",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdzVxU1VkbjNEMHlHUzIwTVBIU2lJc2YtVUJ0NS1wVnVMSEwzb205dUM1TUw0M3FGczZYN2psb3A0dFp6dnVqZXVPc1Q4ZDhFWVZ6b281Tm5ndUo3ak5oUlBxM0NySTdmc0t4Nzl0ekRONHhvZXhjYXFsNGVrb0g0ZEI2Qko4NE80T2QyekVxNWFCdktoZzdxSDVaN0pLMmZzSW9qN2VyVUxyVFlmbERFNEVEMUhNb04w?oc=5",
-      "source": "Reuters",
-      "country": "미국",
-      "category": "IT",
-      "publishedAt": "2026-10-13T13:06:15Z"
     },
     {
       "title": "Martin Shkreli violated lifetime pharma industry ban, FTC and states say in contempt claim",
@@ -146,24 +164,6 @@
       "publishedAt": "2026-10-13T11:33:11Z"
     },
     {
-      "title": "Artificial Intelligence",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-10-13T11:31:20Z"
-    },
-    {
-      "title": "Did you see it? SpaceX launch visible in NC skies Tuesday morning",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeUNfeGdodnJZN3N1NTVuNWxnbk90ZWpiaGVfZzRCNEk2UzZlbmhzakJ3dVVLaUxOeVBCT1RWVmRRUEVZZTlVVE5velBzTjIwemc2cFNsY2liMjNBWUlidFpjZElzaUNodmtzNXBwaDFSVkJpcTJGTmptb3VFM3RPM0xyRVZYTEdVQl80?oc=5",
-      "source": "WRAL",
-      "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-10-13T11:29:05Z"
-    },
-    {
       "title": "What doctors want women to know about menopause and heart health",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVkd4MVN3Nmd2b0RRZjFJbTljd0dzVUhabU10d3FiblJYcXFBREh4NllwZy1jNHAxQ3RPcVN0V09WWDNIS01HeFZFcnRFOHNqUVlXRjRRanpqMW1FYklBWU9xdjl4ajFObTBaWk8wc001NGllRnRrNFhsWnVfUERPY0RnaGpEeFNodzNaOUxyb0h3OGxZNUVBZ0t1QnI?oc=5",
@@ -171,6 +171,33 @@
       "country": "미국",
       "category": "사회",
       "publishedAt": "2026-10-13T11:02:03Z"
+    },
+    {
+      "title": "Artificial Intelligence",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-10-13T10:32:16Z"
+    },
+    {
+      "title": "Mini organs launching to space may help future astronauts and humans on Earth stay healthy",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMnQ3ekZCVXl1eFMzWkZseVRrMENHUWFWRUtEZGxicmRGMkk2NlBKTzdwRVJhN1ZJRExLRk01blJuM3J5YlE2cE9DNzcwVWtFQjFHMkIwUUxJa3d3dE9ZNS1hQ2JUd19QSGxaeVJKbXVwaFRyenZZNzdSNm5sLW5HU0pjUjFoYVgzbHBxZHdCZ3QxZ3pVVGJZWWtlS0wtXy1kVkJzUDFyNNIBrAFBVV95cUxPVGd0ZDl4TmhxMmxSZXlXZUVQbjByTmFJcTJfOVNGQjNSdHJNWFdCYjRRLUpPRG5qNl9iU3J1bTRNNEFucGlBYW53MXM3Q3ZhYkhiWTlJZEVlblhwWUIwUGg3ckdsbTd4S3FNdHloNkhXQW1zNlkwLTc1VTBsb3hVaC0tTHQyT0RDSklNVFV1Uk1acXV6aXJlUVVhTmJYdDVSSlhscTN6RnRrdWt2?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "country": "미국",
+      "category": "과학",
+      "publishedAt": "2026-10-13T10:32:12Z"
+    },
+    {
+      "title": "이병헌♥이민정, 子용돈카드 송금 클라스.. \"한 달 '10만원' 요구\" ('이민정')",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQODdQN1pTVG4zRGthZ053ZmwwSmREMFY3ekNTTFBTaTUzbS1UOUdMUDJIWUY5V2NKX3ZFWGJPRFJTTm5WVWNZcnZVSExWeTg1cFpnZURhZ2h1Zy00RXVvZnlveXNqVURweExvcHVBYXlaS1N3VEc0dkx1TDNQU0dicDRIdkUwUHU0RmxjOUk4cw?oc=5",
+      "source": "조선일보",
+      "country": "한국",
+      "category": "문화",
+      "publishedAt": "2026-10-13T10:29:00Z"
     },
     {
       "title": "“손흥민 질투하냐” 빗발치는 비난에…축구협회 “도 넘었다” [지금뉴스]",
@@ -191,15 +218,6 @@
       "publishedAt": "2026-10-13T10:04:37Z"
     },
     {
-      "title": "Inside the Bills’ overtime block: Greg Rousseau, Michael Hoecht and the move that beat the Rams",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNjZlUE1HQTlEcDZIV0hsZ2phZlpaNENsRHZOY1p6ek9GNmVwclV1a1poeWtPR21qa0pCajVaUDRqRzZEUUV1cTl2LVU4eTQtSWhPTlpla3lXMkU3MHpHRWp0S3BUSVZqaXhObV9WVk04WUhYUEFGSWtfLW9sekxQYkMyMkpEaVVPQjQ3bDFwakZ0Q3hkeGtQeGtzaTg4YW81TGFYV3FSdjJ6V3hLTEFoWFZ3ajd5U2FkWDUtTl9ESkxuZlJ2SFczQ3RlTEVKdXhUS0YxbkRuMGdUaFJE?oc=5",
-      "source": "Syracuse.com",
-      "country": "미국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-13T10:00:00Z"
-    },
-    {
       "title": "의사결정 모델도 멀티모달로 진화… vLLM·클라우드플레어 오픈소스 모델 공개",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fdEF3NWxNSktHOGdGZFVfdmFVb3lWLUpxMTZHcFNObTU5aG9BMHVCRDNLazR6cUR1SFMwbmNLeDF1ZzBwaGRBS1RVbnJmR1pSQUdHOEc4SzN4NFdORWVMcmJzLXR0LVVqTVE?oc=5",
@@ -216,15 +234,6 @@
       "country": "한국",
       "category": "과학",
       "publishedAt": "2026-10-13T07:11:48Z"
-    },
-    {
-      "title": "'장중 7% 급락' 코스피, 6천 회복하며 마감‥삼성전자 7%↓·SK하이닉스 10%↓",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sVndVemNfRk1HNTJjMmdsaEdEQWI4TUtUdmZzSGVmcGppWURybFloTFJMRXlFelRXME9vbzRfX2JsdkpiSjVrRWtrTnI3T2tQcjJaa0lObklFc0J4bXY5Rl9LR2RCb0V0ZGdqSEw2ZlE5M2dy0gF0QVVfeXFMTnpucFZ5c3lHeWlROUQ3WFlNQWtPczdaZnhNRzUwbDJFZnlwS0ZDdEFVX1BUV0JjeTg0M3hwczJXWUJTNUVueU9EcHNzQ0RKWFNTTlpsWFpzRi0wWmM5bXdBaG1MV1cyQWlHcHQ0dU1TMEhaWDQ?oc=5",
-      "source": "MBC 뉴스",
-      "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-10-13T07:05:49Z"
     },
     {
       "title": "공감연대 '해방 100년 토론회'…\"청년 위기 등 해결 시급\"",
@@ -252,15 +261,6 @@
       "country": "한국",
       "category": "스포츠",
       "publishedAt": "2026-10-13T02:50:45Z"
-    },
-    {
-      "title": "“19금 영상 보여주겠다” 메간 폭스, 성인 플랫폼 데뷔…‘반응 폭발’ 월 구독료는 [월드픽]",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XSkhYd3FmNFk3dEQ5Qjh5aU1VUGJwVlVrb3hwTE5XeE9FLVNodGMzY3QzYVRsSmJNU2xJQ01iRVFTTDZFR0ZTWTdjYnRJcHZaUTBiWm03dVd5akJOanVTYVBfNV80S1Q4LVIzcFVvMEdlendwSzF3?oc=5",
-      "source": "서울신문",
-      "country": "한국",
-      "category": "문화",
-      "publishedAt": "2026-10-12T23:03:07Z"
     },
     {
       "title": "양계장 카메라 해킹해 적군 염탐… 스파이가 된 CCTV",
