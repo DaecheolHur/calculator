@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-10-14T04:51:36.510387Z",
+  "generatedAt": "2026-10-14T05:48:41.161121Z",
   "items": [
+    {
+      "title": "해킹 공격 막아라…남부발전, 영남권 사이버보안 대회 개최",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LM2RGV2N2amdqRE1jd0FuY0UzamFkLWFGbWpZYmVHWFUzem41YU1aSVBkMEoxeV9JZlAxWG5HSVVrRUF2NmU2N2dYMm42aWZGZ00yaW1GYUYwbUZBZmVCY2dvYkhYekRCaU9aSdIBcEFVX3lxTE5PSHZweDFNdVNRakVCN3JNVGE1U0pOUWRFTU5kTHo0Wi0tamJwbm1iYWFFQ1FoV29rbjZ2b2R2VFNtdEMwVWl3OVI3VkFHbGdQei1WZUk5VHBSNUVjenlwOFJQTVp0Q3dPTXJuczdkekE?oc=5",
+      "source": "전기신문",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-10-14T05:31:11Z"
+    },
+    {
+      "title": "[경기도정책토론회] 경기도 사회연대경제 활성화…\"공통 정책 확대·전문성 강화 필요\"",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4weVhkcFE0aWpHckdUTjZkMjhZNGVNQ1EwZkdCcTZTS2w5Z3BMODBZRXNnaW13QzZsMTFhYm5PbkF2WlFpZG52T1VNSmVhSW1ZNHRrZ2xuUVpYU2U0Z1ZNOUEwck1WNGNzQ2s3UzlTZw?oc=5",
+      "source": "기호일보",
+      "country": "한국",
+      "category": "사회",
+      "publishedAt": "2026-10-14T05:26:00Z"
+    },
+    {
+      "title": "청와대 떠나는 강훈식 “이재명 정부 반드시 성공할 것…응원해 달라”",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94MVFxbGdsTUdsbTl2Q21yNDdUeHlvV3JlZXdwa3F2RllUbVpXSTloSU9HMHFoUHFRVzdCS1pkTEo1aU5RdXAzTVFDOER4ZDI0ZEI0Zk9HY0g1bDA?oc=5",
+      "source": "KBS 뉴스",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-10-14T04:59:00Z"
+    },
     {
       "title": "AI가 일상이 되는 순간, 'AI FESTA 26'에서 만난 모두의 AI",
       "summary": "",
@@ -11,22 +38,13 @@
       "publishedAt": "2026-10-14T04:30:00Z"
     },
     {
-      "title": "의사결정 모델도 멀티모달로 진화… vLLM·클라우드플레어 모델 공개",
+      "title": "Jose Ramirez takes blame as miscues sink Guardians in Game 2 of ALCS vs. Rays",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fdEF3NWxNSktHOGdGZFVfdmFVb3lWLUpxMTZHcFNObTU5aG9BMHVCRDNLazR6cUR1SFMwbmNLeDF1ZzBwaGRBS1RVbnJmR1pSQUdHOEc4SzN4NFdORWVMcmJzLXR0LVVqTVE?oc=5",
-      "source": "AI타임스",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-10-14T03:57:34Z"
-    },
-    {
-      "title": "'0구 금메달' 무임승차 한 풀었다→와카 ERA 17.36 악몽도 떨칠까…韓 2호 업셋 도전, 국대 에이스 손에 달렸다",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMndBUnNSYlprUjF1TTZ0YWFwM2Y2T2lsQnUwRHU2azdESkVYZTFHd3RxbnFXQld5R2RPMFZTSHBsd3dieFN4MTUyX1JnbUEteC1xaWNZalhIeFRKSlZzSmRiZUV4M04tdERKUHRKTk9EZl9PcExENFQ2WXhMV3dBZ0Z2cw?oc=5",
-      "source": "조선일보",
-      "country": "한국",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLTVkVVJ6ZzMtYXNYRGl0TnpDUV8yc1Z6eHYyZlhvbU5ERzJVcEE3UkF4RU42aFlTRXVSZjB4WE4zbFhTUWY5aEtWME83ZFFZbk1wQmpCRGVFbDl2Zi1iMEt6cjJxUFg1cnhYVE1PLXNULWUwNWwySHpwUVlnYkZHQlVsaGJQejBtVV82NXN3UlJhaHRqUFgwMms3Mmw?oc=5",
+      "source": "ESPN",
+      "country": "미국",
       "category": "스포츠",
-      "publishedAt": "2026-10-14T03:42:00Z"
+      "publishedAt": "2026-10-14T03:49:00Z"
     },
     {
       "title": "박정율 세계의사회 회장 취임...한국 의료계 위상 제고",
@@ -38,15 +56,6 @@
       "publishedAt": "2026-10-14T03:26:34Z"
     },
     {
-      "title": "Peralta tosses gem, Rays cash in on Ramirez's gaffe in ALCS Game 2 win",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcVhmR2hQWXRxdlRIWUNCNFp2Y0g5LXY5bzU4NHNtaWRfbDNFMUk0OXZFeG1wQ2prQmo1Sm1vNUhGUmt6MUIxOUYwVWd1cjNYVFhXZ0JyZFkwV2FlbTRwT0VOa2xGemVpU3dubTY2MzhfRlN0b0QzV1lJYXA3eEVfNDFwX3pKLU1wWTZXdVdiamtKeW5TUFp1SmpB?oc=5",
-      "source": "ESPN",
-      "country": "미국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-14T03:20:00Z"
-    },
-    {
       "title": "코스피 소폭 상승...상승세 흐름 이어질지는 지켜봐야",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FTUdfWUUzbktoZjdEQzdYTkhSRGUyM0R4ckpkNHZJN0RLcndnWlhGcmRLcDdZU0t1aUdpYVQ4Q3h4MGpfX0JWSDBkOUhuamREUVFoaWZIWGtGM3dpOU1fZ19DSXNsVkl4Uk9lVV9kQQ?oc=5",
@@ -54,6 +63,15 @@
       "country": "한국",
       "category": "주식",
       "publishedAt": "2026-10-14T02:45:00Z"
+    },
+    {
+      "title": "Dow, S&P 500, Nasdaq Futures Mixed Amid Rising Oil Prices Ahead Of CPI Data: BAC, RIVN, SLS, GME Stocks In Focus",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQ2lFajctSmVtMlNrUk4tRzVKaVQtelcwcnZNcFJ3T04wQlFQUUtrUXlzeFlZUDk0azc5N2o2alhISXpaTTN3N1hQRTRMeDZUNnpzRmgxU2k3ZF81TFlLRnhRb2RBT2hvaEszamRGR2Jjbm9GdFpWalhVdF8wb3VicUwxR2d2Q2t3MlJDUkRLdDJ6SGN4Z0V3Q0pMSWQzSkZ5Q3NTWS01UW9uSHV2dVczUmlpWWNvVkdWbmhCU3lXV2VLTTg1NldYOC0teHZiQ0NYZWlSOVNQNGtUSzlQQVBKQ2kwQVI3QjlyNEJldmYzREhVeWlua0ZLck5Jcw?oc=5",
+      "source": "TradingView",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-10-14T02:31:00Z"
     },
     {
       "title": "Pablo Torre Reveals Art of Play Security Camera Footage, and It Doesn’t Look Great for Kelly Clarkson",
@@ -65,13 +83,22 @@
       "publishedAt": "2026-10-14T02:19:45Z"
     },
     {
-      "title": "Bank of America Fined $1.2 Billion for Lax Money-Laundering Oversight",
+      "title": "Bank of America fined $1.2bn over failing to stop money laundering",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWlJWZy1rVmtlUnF0TkUwd3VBUWtETTQ1MllYdmQxMUZqdkszNE84TTY1Zm5sU3pkYzFyZXFxeTJ0T2FCWkEyVTcwZXFwN0MyZXRFT1Z3VmNMNEFDczQteVItaWxZeDdEUEtBRE1MaXdHWGI5cklUbDM2elp2ZENjVndhTDV6aU9udm5xRk9Ldw?oc=5",
-      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBULW5LeTJFX2xLUTlRLU01OFAyVm84dE5qODBzN1E3SDE2WnAzU2tKSEVQc3hJYm9PX2ZvUFRBRGNVZmYwWmVpQ0dZY2lTSWxZWldLdGhib3RQZWc?oc=5",
+      "source": "BBC",
       "country": "미국",
       "category": "경제",
-      "publishedAt": "2026-10-14T02:10:09Z"
+      "publishedAt": "2026-10-14T02:05:32Z"
+    },
+    {
+      "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeTRfZllOdFFNWDk3UDJBUzdKNFVfSEhPdDllMlJxWkNHZ0Z6ajAxYUxVYzNmWXNUVzMzV3Q2ZUI4bkF4OE52anVoXzdBRThDUHRlaGFScE44Q1hPUEhZUGZhMkFJMWZrZjBOVzFEamV5RC03ZFlwVWdKT3NOMGlGN0JCbw?oc=5",
+      "source": "The Hacker News",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-10-14T01:59:00Z"
     },
     {
       "title": "김지용 \"중수청, 외압 흔들림 없이 법·원칙 따라 공정 수사\"",
@@ -83,42 +110,6 @@
       "publishedAt": "2026-10-14T01:57:51Z"
     },
     {
-      "title": "Kimberly Guilfoyle Resigns as Ambassador to Greece",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdlVvUGdLc3Z0NUVzWlpJMWRIcTFtbzZveW5vLTE5a01WbnJ0YVdOdkpIZ01VNU91c0ZqX2oxM214d0xHWFBYdHZ1N3dtc0djVkNSUloyZ0RLZ0l3VFZZamZlSnQ0WFJoWGpkYmhCbUFoczRiTTRsaDM3ZTNtZklzUHQxdw?oc=5",
-      "source": "The New York Times",
-      "country": "미국",
-      "category": "정치",
-      "publishedAt": "2026-10-14T01:54:48Z"
-    },
-    {
-      "title": "U.S. Stocks Rise as AI Momentum Builds",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVjh2amtZeXZZbWFMVnVFOWFGaVBQOGtGWU1NVmE1WEhWeWgtakFIdEFzVGlQTDN1cjg3UXdOeVdxVDM2UG5GbGxzMFJCZ2pvT3A3eDZsZW9zcmRsbDlwTHB1QXRFMzFIdXpYNVVnSC1xZ1l2RTRhb19NcnZRbExxY2hxcjk4RnV0?oc=5",
-      "source": "WSJ",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-10-14T01:33:11Z"
-    },
-    {
-      "title": "한국공인회계사회,'제10회 가치평가 포럼' 개최",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FVldVWFZ3OWtrSmFRbHhhVU1UMEVtLWNzYjJCYnlsaHRYMTlfMTZCTlZ3V0ZOdldESUItNDFxXzZWb0RpbnluY2VqQmxOZ1BVUTBaemJUcWR6bTZVR2NLMzR1TVRnNjFG?oc=5",
-      "source": "CPA뉴스",
-      "country": "한국",
-      "category": "사회",
-      "publishedAt": "2026-10-14T01:31:03Z"
-    },
-    {
-      "title": "’나주 부부 살해’ 피의자는 52살 박용수…경찰, 신상 공개",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nU1UyemJ0TGsxNG85S2RvRlZfWXhIU05lajVXUE1kTENxNFA2ZWl4aGJXb1p3ZElCZlNiZklLY2RoNk1Ud2t1ejMwcmlZTG40SGVLY0tQTVlYS01Wd3ZpNVFKalZ1MTQ?oc=5",
-      "source": "연합뉴스TV",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-10-14T01:04:00Z"
-    },
-    {
       "title": "\"오픈AI, 사이버보안업체 '트레일오브비츠' 인수 추진\"",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94WEdVWm5Nak9RWG8zZDdpWGJxU2ZkdWx2SmtBSHd3RmhxYi1naGVHMFU5WF80eVRtWVA3dTlmcncwV1RuQkE2RWhCOTFnQlpCamQyeHJaNldYZVNQV1JMa9IBYEFVX3lxTE94WEdVWm5Nak9RWG8zZDdpWGJxU2ZkdWx2SmtBSHd3RmhxYi1naGVHMFU5WF80eVRtWVA3dTlmcncwV1RuQkE2RWhCOTFnQlpCamQyeHJaNldYZVNQV1JMaw?oc=5",
@@ -126,6 +117,15 @@
       "country": "한국",
       "category": "IT",
       "publishedAt": "2026-10-14T00:51:15Z"
+    },
+    {
+      "title": "‘이강인 침투패스→선제골’ 아틀레티코, 맨유 꺾고 챔피언스리그 첫 승",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BeUUyU21MSWtiSVc3dHhvU0N1T3FBd3dVWklialV1c01DX2did2hrdGpfblZrTERhVDZNMFhhY1F6SUsxVWFNSkZaek9fdWJzMVJ3ZE9sMW56UDNvd3BiR1o3bk0?oc=5",
+      "source": "한겨레",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-10-14T00:25:00Z"
     },
     {
       "title": "Cybersecurity research at UH Mānoa earns national recognition",
@@ -155,31 +155,13 @@
       "publishedAt": "2026-10-13T23:56:20Z"
     },
     {
-      "title": "\"코스피 닷새간 13.8% 급락 이례적…추격 매도보다 중기 회복에 무게\"",
+      "title": "최수종, 모친상 발인 다음 날 녹화서 눈물…“매일 보고 싶다”",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QbjF0Nzd6eGkwYlhxWDJYR1VqNk5KX2hERGpJbXFVcTFiYXA3dTl4aGV6bWZhSWFsMkkxLUx6N3dZbXRmSjJjMGJPdDhxM09wNDhYVmgtMWgtWi0zTUtQOC1ib2ZmZEhGVEtyR001VjQ?oc=5",
-      "source": "연합인포맥스",
-      "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-10-13T23:40:00Z"
-    },
-    {
-      "title": "\"아일릿이 뉴진스 표절\" 민희진, 명예훼손·업무방해 혐의로 송치",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nYTE5UDFESk5CVHBHblNOeHRsQkRfZzlocGZJalMtOUpjNnQ2ZVhvNHlIbzJhc3QxejFmQXpobFRVU21ybnZEN2ZtWHJQZnVhOWxPczNBdlF4N1ZJRmVSd0FqZGhGdmd1amFNa2l3OGk2VVNJOHcw0gF3QVVfeXFMTnFSNjN5SUVsYmZJMmF0U1BXOFVtdVVKeWFLQzhIU0xGY3o0WWt0dmFIRHFFQzZDeG9KY1BiUWpEQ01hdDBlQlRuWHlZZU4zdzdseG40bl9kRlVKUUtvR1VFaHBIVHFkNmpCb0g3ejBuOFdMT2RNeGc?oc=5",
-      "source": "MBC 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VcUlSUWZJZHhWb2RqWTF0dFFHSE5PMTZidzlNbUZZRUpTWEc1TXVaS3VZbkV5ZXVkbS1ubXB6Q0xENTVsRzNXMDc1TEp6UU5VRTJIWkVxWHjSAVRBVV95cUxOSUVma3k0em42Tm4tYy1rVFBBbDBrbHJJSlZrbFZaU3Z1ZFV4T3duM3BmR3VROG0zZGRpS0VGeWREU2J2SkZ4dl9aU01HSXNTSThEc3A?oc=5",
+      "source": "세계일보",
       "country": "한국",
       "category": "문화",
-      "publishedAt": "2026-10-13T23:34:49Z"
-    },
-    {
-      "title": "FBI arrests Saudi OpenAI engineer over covert recording device, DOJ says",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjkxNVh4Vlg5aXhHdHJySlBhbC1iZVRDTTF1a2hiUk52eUlqUW1aWWtoeUg2TjQ0OWU1aURzNW5aWmZ1TEFBcGl4NTBIQVZSVnNPaFpFUnZqb2RjRzNQS0xLQjRkMmtJZWhuU1RLRXplcktzVnBHMVVhNThISzMxMVFYbXZoeWE2WFc3b2VzMlQ0Sl92Y0kwLXJ0MUxBOTdUNzFxdjR0VTI?oc=5",
-      "source": "Reuters",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-10-13T23:29:36Z"
+      "publishedAt": "2026-10-13T23:54:44Z"
     },
     {
       "title": "Nasdaq ends down as chipmakers fall and bank earnings roll in",
@@ -200,6 +182,15 @@
       "publishedAt": "2026-10-13T22:45:00Z"
     },
     {
+      "title": "“코스피 6천 겨우 턱걸이”…범인은 중국 반도체? [잇슈 머니]",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81LTZBQkc1a0xKWXZmaUxsUXNOenBBcERySmFId2dndW94MjBtLXZWOURVUkZ0WVpQYXluc0hydTdvcjAwSHhoWlhsU3VPZGd1YlFvU1dfckxfUFE?oc=5",
+      "source": "KBS 뉴스",
+      "country": "한국",
+      "category": "경제",
+      "publishedAt": "2026-10-13T21:56:00Z"
+    },
+    {
       "title": "‘슈퍼스타’ 김도영의 완벽한 피날레…프로야구는 올해도 ‘대흥행’",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PRDdsSEl4SXZNYUpBck5oT3lpek9obVFXQ2NZdzZCRnhmZmFFWlhobGhZV0R3WHNhZm5ObmZxeGVDQ3BEeU92Smxza09BR3JiLThVRkw1VGdQSWc?oc=5",
@@ -218,6 +209,15 @@
       "publishedAt": "2026-10-13T21:13:00Z"
     },
     {
+      "title": "Kimberly Guilfoyle, U.S. ambassador to Greece, resigns amid misconduct allegations",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa0QtQnJyNUhDbjlLeVE2NEczcEhMR19SV2s3bjc2V1U1bXRkcUtBemctSE9HeXlMSHNZd0lnNmRhZFVjOUg5R0NEWW1oWUpWbHZ5NTRtd1VPZzNLbE44bDJwM04yTlV2a0xBWnNJUnUzVDdKZzVPQkRXY1NJZ0Iza2FTdDJHTVJkS0czNEtXVEhwR0ZENW81bnRha2cwc2hMRzZacFdPRC16TFlMaEZjRVdsQ3U?oc=5",
+      "source": "NBC News",
+      "country": "미국",
+      "category": "정치",
+      "publishedAt": "2026-10-13T20:45:09Z"
+    },
+    {
       "title": "[단독] “답변 거지같네” 막말에 발언 독식… 원안위원 한 명에 ‘원전 연장’ 발목",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNFRMdTh5VllSdlB5bjVxX1lvZjFrY0VSRm9tekF2eFVwbUNTazRNR2tNZERSeUczN01Dcmt6Sy1HV0lZdy1iMHZsMmlkU2lMZU5uWFN1a2wwR25TTDVBZ3piUV9BNTZNa2QteTlEMFFvVmI4QjZuZWtpV2FpelI3Nk1sUQ?oc=5",
@@ -234,15 +234,6 @@
       "country": "미국",
       "category": "AI",
       "publishedAt": "2026-10-13T19:30:06Z"
-    },
-    {
-      "title": "28 Miles and Counting: NASA’s Perseverance Rover Sets a Mars Driving Record",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01eHJSMzQzcy1pRDFwRWdCellUMnUxUl9fMncxcXdwX0FGOEZVSnEzRmNldnZoem9oYVRGb3RvUWw4Vi1QZ2R4VlFrTG5PZWQyNVVaRFg3NmZhM19nSkM0NjVqNHJJUGtCaFNiMXhiek5UbXFGOUN2Q1RR?oc=5",
-      "source": "The New York Times",
-      "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-10-13T19:26:00Z"
     },
     {
       "title": "What My Son Is Learning From Artificial Intelligence",
@@ -270,6 +261,15 @@
       "country": "한국",
       "category": "과학",
       "publishedAt": "2026-10-13T07:11:48Z"
+    },
+    {
+      "title": "Dinosaur fossil ‘sitting in a drawer’ for 100 years identified as new T rex relative",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ0NPWlQ1Z2syUDBReTdabDdiNDVpVTZHS2t3QlRyZThUZUNlV3NjdUZQdjItM3pXQk43YS1zUWFscVFZWVp0bjdRWmRQZXM2OEluTTVQRlk0UUNYUEdQVHBlTVJ6WGYwcUVPOFZwVGM2WmRucE1kUU1MU2FUU0RJc0YweElDZWVqQ2RuSW1tUDhYT3llQVQ5Y1lUa2lyQW9PcmZtaQ?oc=5",
+      "source": "The Independent",
+      "country": "미국",
+      "category": "과학",
+      "publishedAt": "2026-10-13T04:53:00Z"
     }
   ],
   "briefing": [],
