@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-10-14T03:51:45.612517Z",
+  "generatedAt": "2026-10-14T04:51:36.510387Z",
   "items": [
+    {
+      "title": "AI가 일상이 되는 순간, 'AI FESTA 26'에서 만난 모두의 AI",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUEI2VEd4NV81M1czTGNseTNDMXJZZ25DcmJIUzJLZTdfelpEZ0FKMTVqa3lzN0xKUFptWTdEYS1lcTFiRFVXZk4zQWlVYjNlUDhCaVVDc001ZFZBMWJKNHlRMS0tRThyaVM4SjRiSjNJZEZhak5CdzVEc1hzQzRHR3RCSUlWNGc?oc=5",
+      "source": "정책브리핑",
+      "country": "한국",
+      "category": "AI",
+      "publishedAt": "2026-10-14T04:30:00Z"
+    },
+    {
+      "title": "의사결정 모델도 멀티모달로 진화… vLLM·클라우드플레어 모델 공개",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fdEF3NWxNSktHOGdGZFVfdmFVb3lWLUpxMTZHcFNObTU5aG9BMHVCRDNLazR6cUR1SFMwbmNLeDF1ZzBwaGRBS1RVbnJmR1pSQUdHOEc4SzN4NFdORWVMcmJzLXR0LVVqTVE?oc=5",
+      "source": "AI타임스",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-10-14T03:57:34Z"
+    },
+    {
+      "title": "'0구 금메달' 무임승차 한 풀었다→와카 ERA 17.36 악몽도 떨칠까…韓 2호 업셋 도전, 국대 에이스 손에 달렸다",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMndBUnNSYlprUjF1TTZ0YWFwM2Y2T2lsQnUwRHU2azdESkVYZTFHd3RxbnFXQld5R2RPMFZTSHBsd3dieFN4MTUyX1JnbUEteC1xaWNZalhIeFRKSlZzSmRiZUV4M04tdERKUHRKTk9EZl9PcExENFQ2WXhMV3dBZ0Z2cw?oc=5",
+      "source": "조선일보",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-10-14T03:42:00Z"
+    },
     {
       "title": "박정율 세계의사회 회장 취임...한국 의료계 위상 제고",
       "summary": "",
@@ -9,6 +36,15 @@
       "country": "한국",
       "category": "사회",
       "publishedAt": "2026-10-14T03:26:34Z"
+    },
+    {
+      "title": "Peralta tosses gem, Rays cash in on Ramirez's gaffe in ALCS Game 2 win",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcVhmR2hQWXRxdlRIWUNCNFp2Y0g5LXY5bzU4NHNtaWRfbDNFMUk0OXZFeG1wQ2prQmo1Sm1vNUhGUmt6MUIxOUYwVWd1cjNYVFhXZ0JyZFkwV2FlbTRwT0VOa2xGemVpU3dubTY2MzhfRlN0b0QzV1lJYXA3eEVfNDFwX3pKLU1wWTZXdVdiamtKeW5TUFp1SmpB?oc=5",
+      "source": "ESPN",
+      "country": "미국",
+      "category": "스포츠",
+      "publishedAt": "2026-10-14T03:20:00Z"
     },
     {
       "title": "코스피 소폭 상승...상승세 흐름 이어질지는 지켜봐야",
@@ -20,6 +56,15 @@
       "publishedAt": "2026-10-14T02:45:00Z"
     },
     {
+      "title": "Pablo Torre Reveals Art of Play Security Camera Footage, and It Doesn’t Look Great for Kelly Clarkson",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ0lqeFdhNWVMMng3UHNjeTdnUXUwdVI4bDZrbFB5QWdYMHBSTmJnOTNMbFNmLTBLejExd0pKd3lEYmUxTnM4bnFaRGJwU1ZnZHAtbEdua19rMHdMa3hwNGFxV1haMFAzWkhja19TcVhSRE9zcmNXeTh6emJpTXMwUG1aVlhGLUYzU2lRcTM4ZDk4c0dUZUhVSGpyMFpGTnBaQWh5di1YTklmVE83TmxsYlI3RjBONkk3SHc?oc=5",
+      "source": "The Hollywood Reporter",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-10-14T02:19:45Z"
+    },
+    {
       "title": "Bank of America Fined $1.2 Billion for Lax Money-Laundering Oversight",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWlJWZy1rVmtlUnF0TkUwd3VBUWtETTQ1MllYdmQxMUZqdkszNE84TTY1Zm5sU3pkYzFyZXFxeTJ0T2FCWkEyVTcwZXFwN0MyZXRFT1Z3VmNMNEFDczQteVItaWxZeDdEUEtBRE1MaXdHWGI5cklUbDM2elp2ZENjVndhTDV6aU9udm5xRk9Ldw?oc=5",
@@ -27,24 +72,6 @@
       "country": "미국",
       "category": "경제",
       "publishedAt": "2026-10-14T02:10:09Z"
-    },
-    {
-      "title": "Kelly Clarkson's Art of Play Visit Revealed in Security Footage",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNkt4bXFjNlJZWXFoUTh4SlByRW4yS0dLOXZldWVRRk44M1pHMXJSR3Q0V3BRUUJLa2ZKNE10LVFaYmFtQ3NMaEt0QndCOVBseEJpVkd5bHcwYkJSZWZLc29jUzFtdXZ2SXlrSjhYZVBmTnZZMEdqa3loUUNaWmJYQWVjMUhlZ1dLcm5UWlp3OHpFa1dtZ24wUGdES2NDbTRIZ2JxNg?oc=5",
-      "source": "Variety",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-10-14T02:00:00Z"
-    },
-    {
-      "title": "LG 카라스코 vs 두산 곽빈, 프로야구 와일드카드 1차전 선발 대결",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MS0hJRW5TcnpORm5yZmprRU56Ujhac0lJTFJQblh5X1ZJTFNQbnFfd0pNeW9adlNfaEpuYnE5ajJVeDJoTUk4dGQ0a1ctUzhqMkdjSnZ1TGg4QzA?oc=5",
-      "source": "KBS 뉴스",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-14T01:59:00Z"
     },
     {
       "title": "김지용 \"중수청, 외압 흔들림 없이 법·원칙 따라 공정 수사\"",
@@ -83,22 +110,13 @@
       "publishedAt": "2026-10-14T01:31:03Z"
     },
     {
-      "title": "'나주 부부 살해' 피의자는 53살 박용수",
+      "title": "’나주 부부 살해’ 피의자는 52살 박용수…경찰, 신상 공개",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yeGxYdm1tWFh0cXBwSzVCRmxqUHFKNTk0b0FURnRoelU5VkdzTTh4SUsydkVySzdBSXhRMWF4MHhhV3YwcnBUSEZuZ1Y1eDYzdE5PSnh3ZFVBS216TnlXOWVVdWxvMWFQZDZYQ2Z0aXBjMlVCd0lR0gF3QVVfeXFMTWpab0dUU1pSQ3RfNlFpdjJLLUUtbTBkclE2a3MzcU9JNkFrWmh0eEhZV1BURVR3OUVWWlA2NG1kWnY2dUkzeGdrajByc2ZmOUJWbGtpQm53dGwtZklVSUJWamk3empxS3NBX3FCNVhWaGczSEdtRGs?oc=5",
-      "source": "MBC 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nU1UyemJ0TGsxNG85S2RvRlZfWXhIU05lajVXUE1kTENxNFA2ZWl4aGJXb1p3ZElCZlNiZklLY2RoNk1Ud2t1ejMwcmlZTG40SGVLY0tQTVlYS01Wd3ZpNVFKalZ1MTQ?oc=5",
+      "source": "연합뉴스TV",
       "country": "한국",
       "category": "정치",
-      "publishedAt": "2026-10-14T01:16:45Z"
-    },
-    {
-      "title": "의사결정 모델도 멀티모달로 진화… vLLM·클라우드플레어 모델 공개",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fdEF3NWxNSktHOGdGZFVfdmFVb3lWLUpxMTZHcFNObTU5aG9BMHVCRDNLazR6cUR1SFMwbmNLeDF1ZzBwaGRBS1RVbnJmR1pSQUdHOEc4SzN4NFdORWVMcmJzLXR0LVVqTVE?oc=5",
-      "source": "AI타임스",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-10-14T00:54:26Z"
+      "publishedAt": "2026-10-14T01:04:00Z"
     },
     {
       "title": "\"오픈AI, 사이버보안업체 '트레일오브비츠' 인수 추진\"",
@@ -119,22 +137,13 @@
       "publishedAt": "2026-10-14T00:14:52Z"
     },
     {
-      "title": "Shohei Ohtani will be in Dodgers' Game 3 NLCS lineup, Dave Roberts says",
+      "title": "John Ternus Takes Next Big Swing as Apple CEO With HomeView Tablet",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUXF0YU1IOXFnUTZ5SEtUWjk2Tkh3OHgwYjVfSmtYVUh0RWQ0ZkllWFBpZkQ1NnlXUXplekZ3T05PVWE4ZHdHVEFEQkFTNWpITXVZTUIyVU1Kbk5jQzEwNjJiMGxhejgtblZlN29HNXJXM1lYdlVLc0FodWNjMThVTm93NlRwaXRZbFRCc1RYV3phOVI0OWc?oc=5",
-      "source": "ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZEdZMldycmpZdTcwUFh1WldpMDhBMlUyVDgtNlpWdkgwQkdiN0xvYklXUGRYdmI3Z0ZYX0VqN1RpR3B4d1NhTkJiQjJlbmxELTUzaUZQdEF0emZYTkZYTFNVNGpJSkxTazVhN3FzbzRKRENhZWFPWTVaaS1DODFhQU4zYUk0bk5wMUlXSDRBUjg4ck1YX0MxZ3RiRVlKTmVwZEE?oc=5",
+      "source": "WSJ",
       "country": "미국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-14T00:04:00Z"
-    },
-    {
-      "title": "[AI리더의 서가] AI 소프트웨어 시스템 아키텍처",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YZGFMdDhPSXpOY1lteVFuZC1KQ3hMbk1WOWZvbVBqeWZmV2JoNVlGUmt4Z0ZFY2RYS2pnT3pWc2lRbGQyYV9WMjNKbllNZC1xUnpXVUZ3cVdvbi1fX2lGU1JwQkhsLUZQQmc?oc=5",
-      "source": "AI타임스",
-      "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-10-14T00:00:00Z"
+      "category": "기술",
+      "publishedAt": "2026-10-14T00:01:24Z"
     },
     {
       "title": "Tesla Jeltema named a 2026 American Physical Society Fellow",
@@ -144,6 +153,15 @@
       "country": "미국",
       "category": "사회",
       "publishedAt": "2026-10-13T23:56:20Z"
+    },
+    {
+      "title": "\"코스피 닷새간 13.8% 급락 이례적…추격 매도보다 중기 회복에 무게\"",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QbjF0Nzd6eGkwYlhxWDJYR1VqNk5KX2hERGpJbXFVcTFiYXA3dTl4aGV6bWZhSWFsMkkxLUx6N3dZbXRmSjJjMGJPdDhxM09wNDhYVmgtMWgtWi0zTUtQOC1ib2ZmZEhGVEtyR001VjQ?oc=5",
+      "source": "연합인포맥스",
+      "country": "한국",
+      "category": "경제",
+      "publishedAt": "2026-10-13T23:40:00Z"
     },
     {
       "title": "\"아일릿이 뉴진스 표절\" 민희진, 명예훼손·업무방해 혐의로 송치",
@@ -182,22 +200,13 @@
       "publishedAt": "2026-10-13T22:45:00Z"
     },
     {
-      "title": "Welcome Home: Everything Apple Announced on October 13",
+      "title": "‘슈퍼스타’ 김도영의 완벽한 피날레…프로야구는 올해도 ‘대흥행’",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VVTYxWlYwZmhDRXZKWk5QZGNsTGhrMmpmWWV0aUNvS2pHaHNldnpKRzFwRHBCbW5FVExNZXpZVl9EcVlUNnotdjV1MGVCSF9rVXUycGhCMzE2aTQ4M2pDbHFualJpbHUxdU9yQg?oc=5",
-      "source": "MacRumors",
-      "country": "미국",
-      "category": "기술",
-      "publishedAt": "2026-10-13T22:22:00Z"
-    },
-    {
-      "title": "'195조' 쓴 개미들 어쩌나…'셀 코리아' 공포 속 엇갈린 전망 [분석+]",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LV1hkYVlfRDhTRjNPRVlPUThWNFY0WEh4ZWE3VUpWd1owTHc5ekptOHhtOXFjd2I1YnNkeDNTeXR2TjlDRGJjaU13c0FSR0FmSllaT3NEc3Judw?oc=5",
-      "source": "한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PRDdsSEl4SXZNYUpBck5oT3lpek9obVFXQ2NZdzZCRnhmZmFFWlhobGhZV0R3WHNhZm5ObmZxeGVDQ3BEeU92Smxza09BR3JiLThVRkw1VGdQSWc?oc=5",
+      "source": "KBS 뉴스",
       "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-10-13T21:30:04Z"
+      "category": "스포츠",
+      "publishedAt": "2026-10-13T21:48:00Z"
     },
     {
       "title": "[K무기열전]⑨ 美 거절로 시작된 독자 개발… ‘부품 90% 국산’ MUAV 전력화 임박 - 조선비즈",
@@ -252,15 +261,6 @@
       "country": "미국",
       "category": "과학",
       "publishedAt": "2026-10-13T17:02:48Z"
-    },
-    {
-      "title": "'미리보는 준PO'...KIA, 올러·네일에 '도나스'까지",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GbV9zN1ZJWHNqSlF1WDAtcE1Zcm9DbEczQmpmS1E4clhLZFY0SzZXS0hQWU0xemZrOFVSTFdZVWZEc2VKVUphR2dpS0dTckxKdEZOSUdzM0xtU0d3UlRJazFB?oc=5",
-      "source": "KBC광주방송",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-13T12:27:55Z"
     },
     {
       "title": "\"온통 회색뿐? 가까이 보니 노랑·초록·갈색\"… 아르테미스 2호가 본 달의 빛깔",
