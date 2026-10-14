@@ -1,23 +1,32 @@
 {
-  "generatedAt": "2026-10-14T11:51:13.599418Z",
+  "generatedAt": "2026-10-14T13:01:06.566264Z",
   "items": [
     {
-      "title": "Under attack: State looks to harden cybersecurity as AI changes the game",
+      "title": "CPI Report Today: Investors Await Latest Inflation Report; Bank Earnings Roll In — Live Updates",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc1VzUUhuWnFFRjM0ejNLM3ZGZHhJRTZiRUx6ZndmOXYxQnZ4QzRfbzE4TGY1TjliRlNFLUtjMUZLMHU3Z2NHb3pLeDl0ck91anViY1IzVElfQTFZdExLTVEwdWFtcFpyYjFZbkRSbDBoMVB6ekg4RXhKNWo3RFY5a3JfZFh6WWR0ZUVEYjFnbm5LeGtuVUNiUU1DREo5aVNsS1dabmFKR0ZaRTZPQWJjdkxB?oc=5",
-      "source": "Mississippi Today",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBiVVMwcjFtY3BJZEVkSGxrR3dFTzVMbWpJa3U5X3l3WnlTUkZNZm1FVnlQeG9jRmhnY3l6SXZLb0dsVjhEbkxwOFUtbmphbndDMlRvN3hYUkY3THIybXA1Sm9sTklEalA0VDNvR3JuZkZ2ckhhcTB3aTd3?oc=5",
+      "source": "WSJ",
       "country": "미국",
-      "category": "IT",
-      "publishedAt": "2026-10-14T11:00:00Z"
+      "category": "경제",
+      "publishedAt": "2026-10-14T12:45:00Z"
     },
     {
-      "title": "영국 MI5 국장, 러시아·이란·AI발 국가 위협 경고",
+      "title": "UTC doctoral student Zach Lloyd finds his path in cybersecurity",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1anFOUE1mdE5MOUsySkJ3U2ZnbkxLSERvVzFwOUtScnNudGxoWDVGSWg1Zm9UaHE4S1NrY0hwSy1STy1uaUVMM2JnakdGZGtTZGNTc05KV3N6UDNTdXfSAWNBVV95cUxPVVo1ak5qYnhpd0QyTGV5TDM2WFEzSE5YOTk1T1BPTm56WVk5NlNXUzNhQ2lzZFZNbzVJMkM0ZkQ4SlhoR3BwY2gyS0tuQ3FJYWNhWHROWGZIQ1VMM1NNd201ams?oc=5",
-      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT1loc2J2RkhKWThwR3ZVNEZ6V25GMlYwcEVSaUdPZlJJNHliVUFnb093RVd1OFRtU09HeERCcGlKSEhCX2QwSEVBOU9sZklnZnY2Nk40b0FFOV9INThZa0JoaTJrMTYycjdGR01Fc1NvYkNXQ0IxeEF4VWtuOGNmWGJ2OGpFVTJCazhQNFZLSjk0OUcwdVZ2T1F2VlA3bGM?oc=5",
+      "source": "University of Tennessee at Chattanooga",
+      "country": "미국",
+      "category": "IT",
+      "publishedAt": "2026-10-14T12:41:15Z"
+    },
+    {
+      "title": "대역폭 8배 넓힌 KT ‘초고속 AI 전용회선’",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rcVJlUHMyYzBSTVZoekxhc2c0ZlZRUjdHWTlFUDByUEY0ZkFpX2c0dG5sT0FWcTUtdEN6bXNyTHJ4UWliQWdCSV9Wd204a2FGbzQyNGFyQjZIZ9IBX0FVX3lxTFB2YmlCWTYzckF4bk8zaEN4b2w5b2ZrR3ZFaGVJWE1LUzh3aWw2RXZRM0xKUHpIRVJxUjgtLXpiczBHdWhKS1F0b0JKRE9TWVBPNVk1ZzZDbHlDQUV1Mlg0?oc=5",
+      "source": "경향신문",
       "country": "한국",
       "category": "AI",
-      "publishedAt": "2026-10-14T10:06:26Z"
+      "publishedAt": "2026-10-14T11:45:00Z"
     },
     {
       "title": "배우 하정우·차정원, 6년 연애 끝 12월 결혼한다",
@@ -26,7 +35,25 @@
       "source": "한겨레",
       "country": "한국",
       "category": "문화",
-      "publishedAt": "2026-10-14T09:53:00Z"
+      "publishedAt": "2026-10-14T11:29:00Z"
+    },
+    {
+      "title": "AI ML Now: Gert Desmet on the Future of Artificial Intelligence and Machine Learning in Separation Science",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMHVjSTEzLUxMZUF4MzRFYXdIOFZubzRQenRuZndIbjhWT2RUYXY5NmF2NmRFcXpZLW5KR3ZRcUNkYUw4eUVzOEhiVWxWTFJoRUlxcjFZTnRIZHFPYmNvVFRmZXR1OHY5V0llSUtPLVFJSmlSU1FiTDNHOEJmUzFGRks2clpxVngzOXpQdEtSWjl6SDFsdDNURFRkWnlYN0x0YU9RbTNLbnkyM0VYS25mRXNZNnVJRDdGR0dmc2pBMktQcTNrWEwxWjJqYlo1YTVLQlpHYkl2RW5SMnJjeUl0Zg?oc=5",
+      "source": "Chromatography Online",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-10-14T11:22:28Z"
+    },
+    {
+      "title": "Prosecutor calls Russell Brand a ‘ruthless’ sexual predator at trial",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZGw2OGhkSlUxZ2VXWVJoYmk2cnh1WVVzQzh4Q2dpLXpnTDB2V3oySnhOTF93QTdDTUJid0U0cEIwNGhySTJ1amc0UzkwLXA5VWQ4TFdXc1pybEJLTU1ieVA5Wjh5VjF1N0xhMGlWR2pxcGp2ck9qbUlwTkpTSkJRcmZ3M3RWcm1mN21sc2dQcVZ6RGF5LXdRRjdnd0t0ejFtdnBZVWh0RnU3OFdkNVZjVTV5LWhCVUU?oc=5",
+      "source": "NBC News",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-10-14T11:06:21Z"
     },
     {
       "title": "‘기회의 공평’ 특별전형 [똑똑! 한국사회]",
@@ -38,13 +65,22 @@
       "publishedAt": "2026-10-14T09:39:00Z"
     },
     {
-      "title": "이승엽 전 감독, 일본프로야구 요미우리 코치직 마침표",
+      "title": "House control all but gone, top Republicans privately concede",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VcVBuTDhWX2JVUUVxMHNPNnl3Vzg3LThxRGJoNzBCdHBTZ0ExVFdTUVFhQkgzX2Rla3dIa2psc1BhZDBpck93c2RyV0dfbk1WYVR3Wno5d0NjT3ZsaTd2R2lOcm1QVDA?oc=5",
-      "source": "연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa19RZ2cyTnpRbE4xTTg1Y2tvMVhCTEFaNDB2SUxQM2pzN08xaUZVMENHMUhpYnNUVlVQWUwydWZfR0owdTIyLXJEa3BlOGZMT01zMmt2RllUcHY0ak1GN0hrYkVpc3BmWTAzeVZ1YkZfYzd0YXJ6Q2lwV1NiOFZfSTlRV3dmYVg0enpkaktKWQ?oc=5",
+      "source": "Politico",
+      "country": "미국",
+      "category": "정치",
+      "publishedAt": "2026-10-14T08:45:00Z"
+    },
+    {
+      "title": "경찰 '시민영웅' CCTV공개 '의자로 막고 온몸 던졌다'",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KMXlxemFOWlpQVThESGVCX0x5eTg4OEFWanJTQXVOUk5xN3ZRY2hPRURjZnBmQWZMT0F5Nm92RG96V2J5UlRyNWtzRWIxZzRBY19Obm44YTVpckxOZGRTZzZRRTVza3F2V2pxSVZyVnZmRjFMUEE40gF3QVVfeXFMTUZkdl81QkxPemZGMmFHcFY2VWs0NjA0ZUljS0piZ0RvM1Z0d3JGRTR6UURVMFpjU2ZaRGhrRG01UHlFMWhlNEowVHJNWDdPZ2RyU2tfV3ZKRWl5V2Rjb3AtRkxwZVQ1VmFXZ2liYVl6V0NzYlp1T2c?oc=5",
+      "source": "MBC 뉴스",
       "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-14T09:36:00Z"
+      "category": "정치",
+      "publishedAt": "2026-10-14T08:44:20Z"
     },
     {
       "title": "US Stock Market Today: S&P 500 Futures Edge Higher As Traders Brace For CPI",
@@ -65,13 +101,13 @@
       "publishedAt": "2026-10-14T07:59:03Z"
     },
     {
-      "title": "'인천 흉기 난동' 피해자 10명‥\"뉴스 만들려고\"",
+      "title": "이 대통령 “임광현, ‘훈식이형’ 이상 해내실 것…강훈식 수고 많으셨다”",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TMVV0dGJtelhrSkxJMFh1eW95dHRPQ3dtUk5qNVBXRmlCUFJzTG5BOFZWeXpFaGEwazZKUUx0WF84cHNYUDBuV0c4YVNRR3dMeF9FTVpoMHlRalJJTV9oMTRzR2ZyNldaeG5oT05kSktUSkNuMi1jUtIBeEFVX3lxTE9sZkNtUlMyVkN3N2JiS1lkM1A4QndkaE80RXFhYzkxNVNLNWxtY3BQMlpMN1FBcS1MenhCV2VHQVBMUWVQMGJWOGV0dm44ZnIyT3VuSk9yZlVmOGF2QXV5RnJYY1NPOVIwcE1NXzIzeWJ0M2wyOFlSOA?oc=5",
-      "source": "MBC 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EMUJEZjJjbDE1X0FqZ1o5UkZNc3lqNVB5RGhPQ2d3emxrdTZIa1YtUEhNbUVfM3NoOHVuSWR2VDQ3N2dOdzVCNVZuRjlEdkNGY0hyUjVVV1Z6RWtmb0FpUTQ4UUNBSjRwSVFn?oc=5",
+      "source": "한겨레",
       "country": "한국",
       "category": "정치",
-      "publishedAt": "2026-10-14T07:58:17Z"
+      "publishedAt": "2026-10-14T07:48:00Z"
     },
     {
       "title": "끝없는 코스피 탈출 행렬…200조원 팔아치운 외국인 어디로",
@@ -110,15 +146,6 @@
       "publishedAt": "2026-10-14T06:39:56Z"
     },
     {
-      "title": "김지용, 정치검사 묻자 “1호는 윤석열…한동훈도 부정하기 어려워”",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTNDNuZF90TTI1cnFCUnZTNlZvME1YaVp2Z0UxLWdmeF9QZVJuZzZTWVI0RGZkUm1sOV9GR0VrNVZ5WEFyVWhyZEpudjlQQkozTmRMaFk0Y1BPbTlGaWF6TlVkczRLSHdDaDQ5bG4tNHI2MmVW?oc=5",
-      "source": "한겨레",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-10-14T06:38:00Z"
-    },
-    {
       "title": "코스피, 하락 전환해 6000선 붕괴…23만전자·140만닉스 - 조선비즈",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOEdvU3d0VFZCOGRkRlJnZkFxLUl6Nk5MNVNUbTZvbGJYSEx4R25oNlBTYnNxZTFfV1lnMmdtU2NOanFZaWtwU21PQU1TMnVSSlU5aTZVNWxxdzRBQ0ZSekRzRGRSQ0l6UzFlY2ZJSFJSX19pd0dQNVNvenQ3TFJkcEVVYUFhamNJ0gGcAUFVX3lxTE9nSk8wZzZMa0h4c1ExRTRDRzJHRC04azlXcjdQTVMzcFYwckZVT21uVkN2N0lUQW0xYkNlT1VSQ2Jvak8xSHRsYjRFWHc3a1JuWElfSUFrQ1hzNjlWeUR3bUpuS0tmSlN0eklLQ1VzU25tZU1SOGtXbXJpWjNSWmlCOS1QWDVsWEx5SktNWWFQMlByY083enM4LWRDQw?oc=5",
@@ -137,31 +164,22 @@
       "publishedAt": "2026-10-14T05:16:18Z"
     },
     {
-      "title": "Federal judge issues longer-term decision blocking Trump’s White House media ban",
+      "title": "이승엽 전 감독, 일본프로야구 요미우리와 동행 마침표",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUkR6NmJzcUlPY0J1eHZvWnVneHhUc25mMVIxR19ZQ1dkOFE4QTNXSUNsbURRaTV2R0p5MnFtSlJrbFJOVWpKRUdSQnJBZ2JqbWVxakc5QUQwVmptY05KZGVFODQxVy1HdHBUTE9wRGx3djBvdnZmeWFnYzN2blYxQy1ta2Y0VUxqRTRyZXZieF9CRmtVZEdVTm5KU0ZIMmFmQmZsc0d3Mm1ZcmZibElva084d29kTU9oWkVwNl9RUjBXVllXN3NLQnRBQ1p1Z1k?oc=5",
-      "source": "NBC News",
-      "country": "미국",
-      "category": "정치",
-      "publishedAt": "2026-10-14T04:11:00Z"
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QcmlKYm1vbjVUTVFtcUI4azZkQ2RyMXN4bzY3Mnk3Ry13aXhJa1pKV0tzWDhNaVM1cGxPa2FfWGhzWmJROXVIZHZBdXdLRHdTT1dLMTQ1dW1TSHM?oc=5",
+      "source": "KBS 뉴스",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-10-14T05:05:00Z"
     },
     {
-      "title": "Tampa Bay Rays win game two over Guardians thanks to terrible error from José Ramírez, even ALCS at 1-1",
+      "title": "Jose Ramirez takes blame as miscues sink Guardians in Game 2 of ALCS vs. Rays",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbTdmXzVBR3lZNFZyZVVWTFVOUlFfbE9NX2NDLTZ1ZEx1QmFZTUxjd0pJdWpuRk5vS0pfbHNTNFItMWtDR0h5VHdieGx1UDRseVYwZzMzRGtTaG5TamFfbUhnakJMWExoS0NGck5jTG9jYjFGbnp0VnhGRDB5bG45eURhNVllYkhVMW5LZzlzLTY0QlJkMGJSU1lkenVTS0E3bkhxVUlkZk9DSU10UmtWNFc0OA?oc=5",
-      "source": "Fox News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLTVkVVJ6ZzMtYXNYRGl0TnpDUV8yc1Z6eHYyZlhvbU5ERzJVcEE3UkF4RU42aFlTRXVSZjB4WE4zbFhTUWY5aEtWME83ZFFZbk1wQmpCRGVFbDl2Zi1iMEt6cjJxUFg1cnhYVE1PLXNULWUwNWwySHpwUVlnYkZHQlVsaGJQejBtVV82NXN3UlJhaHRqUFgwMms3Mmw?oc=5",
+      "source": "ESPN",
       "country": "미국",
       "category": "스포츠",
-      "publishedAt": "2026-10-14T03:17:42Z"
-    },
-    {
-      "title": "‘DWTS’ season 35 week 5 recap: Beloved underdog’s elimination earns ballroom screams after comeback dance",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSZ2kzOW9HdEdwVFkwNjdJb0otZ1liU0xaSmtpTDZ5NWpNbndtNjJoV0w5UFdnU0t1U0h5TlNPbGVQWDJFUjh3bW90T21WWnlNZ1hXTThlVy1VS2o0M0dWMVpqUHRqWHZDaWpDVmJKZHBWaTBYNXQySQ?oc=5",
-      "source": "Entertainment Weekly",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-10-14T02:31:35Z"
+      "publishedAt": "2026-10-14T03:49:00Z"
     },
     {
       "title": "Pablo Torre Reveals Art of Play Security Camera Footage, and It Doesn’t Look Great for Kelly Clarkson",
@@ -171,15 +189,6 @@
       "country": "미국",
       "category": "문화",
       "publishedAt": "2026-10-14T02:19:45Z"
-    },
-    {
-      "title": "Bank of America hit with $1.2bn fine for money laundering failings",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBULW5LeTJFX2xLUTlRLU01OFAyVm84dE5qODBzN1E3SDE2WnAzU2tKSEVQc3hJYm9PX2ZvUFRBRGNVZmYwWmVpQ0dZY2lTSWxZWldLdGhib3RQZWc?oc=5",
-      "source": "BBC",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-10-14T02:05:32Z"
     },
     {
       "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
@@ -197,7 +206,7 @@
       "source": "WSJ",
       "country": "미국",
       "category": "기술",
-      "publishedAt": "2026-10-14T00:01:24Z"
+      "publishedAt": "2026-10-14T00:00:00Z"
     },
     {
       "title": "Tesla Jeltema named a 2026 American Physical Society Fellow",
@@ -243,15 +252,6 @@
       "country": "한국",
       "category": "기술",
       "publishedAt": "2026-10-13T20:08:46Z"
-    },
-    {
-      "title": "What My Son Is Learning From Artificial Intelligence",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWko1cF9xQjVnclFKcHBxTDl1dDNwNTlldW90cWFZOVBYaFpwMk1makQydU5vQXdlbjVSYjE5RUhFVFEyQmtyY2ljQzdoU0RqUkJvdGtOeWwxSTB0V2dlT2hqbHhaVVd0cWxoWHdrai12SUNfanFHLXBFdDVVRm1HTzRaZTVxM3BtX3ZSYy05TVB5ZC1nbm1TMjJGVFlWWWM?oc=5",
-      "source": "Greater Good: The Science of a Meaningful Life",
-      "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-10-13T17:09:40Z"
     },
     {
       "title": "프로야구 LG-두산, WC 엔트리 발표…LG 손주영 끝내 낙마",
