@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-14T10:51:18.366688Z",
+  "generatedAt": "2026-10-14T11:51:13.599418Z",
   "items": [
+    {
+      "title": "Under attack: State looks to harden cybersecurity as AI changes the game",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc1VzUUhuWnFFRjM0ejNLM3ZGZHhJRTZiRUx6ZndmOXYxQnZ4QzRfbzE4TGY1TjliRlNFLUtjMUZLMHU3Z2NHb3pLeDl0ck91anViY1IzVElfQTFZdExLTVEwdWFtcFpyYjFZbkRSbDBoMVB6ekg4RXhKNWo3RFY5a3JfZFh6WWR0ZUVEYjFnbm5LeGtuVUNiUU1DREo5aVNsS1dabmFKR0ZaRTZPQWJjdkxB?oc=5",
+      "source": "Mississippi Today",
+      "country": "미국",
+      "category": "IT",
+      "publishedAt": "2026-10-14T11:00:00Z"
+    },
     {
       "title": "영국 MI5 국장, 러시아·이란·AI발 국가 위협 경고",
       "summary": "",
@@ -38,15 +47,6 @@
       "publishedAt": "2026-10-14T09:36:00Z"
     },
     {
-      "title": "Judge deals another blow to Trump’s White House media bans",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPekQ5ZC1NVVZMSksyZnYwcUc2VGFmSmJZNkp3cWVUX0N3bHBDMEF1RDJOT1I3dzFJVmN0dTlyQVlfVWlIMG9ubXM2SXktUktfbnA5U0Iyb09Dem5oNDhleEY1Y3pKUmtGejdOb2FncXhPdnpSV1A4SXAxeGg5SmVfSUIwZVBqWVNUV0hIM2JldldZY0djekpIenk1amhZelkyYkV1NWpuLXJfZw?oc=5",
-      "source": "The Washington Post",
-      "country": "미국",
-      "category": "정치",
-      "publishedAt": "2026-10-14T08:32:40Z"
-    },
-    {
       "title": "US Stock Market Today: S&P 500 Futures Edge Higher As Traders Brace For CPI",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQll0OVhRZnFvWjZIaG1WQmFxaDZ3QlRMamVZSTVveFRBOExzZE5uWWF1VEpDNWV5TWIySG5GRkVITDEzaTdORTlmVEdCNnhpZE0xQm1WTVB6R1VyYlVVOUZhMnV1VlRvbWRtQk4zVVFiNmlSdlVkeWR2Q2Q0aW11eFVEVVQxeGxYLUlBcmJuT1lJdw?oc=5",
@@ -81,15 +81,6 @@
       "country": "한국",
       "category": "주식",
       "publishedAt": "2026-10-14T07:36:23Z"
-    },
-    {
-      "title": "DOE, INL launch weekly series on cyber-informed engineering to advance cybersecurity in energy infrastructure",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMllROWVsRTdCaGhocXVodHVjcktHRDRwOFZRNER4Wng4RE9DMkl6UFJWczJmNHFCdm9XV1ZZRkNkUVpLZ3MzMEZyblFtYW1sOWJSM2gxNk5ETkVRQlNrXzZ6YV84c1VzLTJCb09VTXdkSU1OekFuWk9mQ2FiRDFtZHo2eVdpY0tjMElIX2JONWQ1NUhoM3pQWTFkZ1M1dlVEa21Ka2FCald2SEpVS0thNldZdjhjSFpZa3JqUkV6bXFDRXNKWG11MktuTmd5bGU5T09rVlpmVWE?oc=5",
-      "source": "Industrial Cyber",
-      "country": "미국",
-      "category": "IT",
-      "publishedAt": "2026-10-14T07:10:47Z"
     },
     {
       "title": "오픈AI, 사이버보안 강화 위해 전문 스타트업 인수 추진",
@@ -137,6 +128,24 @@
       "publishedAt": "2026-10-14T06:10:00Z"
     },
     {
+      "title": "The leap second is on the chopping block — and timekeeping could change forever",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWXh5ckVrLWZ1VGZWSldZQlZ2OFpJLWtNSEdOSTBRNV9WcEVUcEZfNlp0VWFQTDh1ZURoY25LRHdlN3VRaFpNYmt3SFNYM3hmOVc1aUJSV0FKOUJadi1idzczRXdCMFNlQWw0VEdua2pKbk5yQ2pmMldsRk5FSUJnUXRFUFBsczl0ZGZaa0hkeHBicGpYNktwbmJDOEVHQ0tnLXBhbkw0QzJuSWdhVzdzSjk1aHYzQQ?oc=5",
+      "source": "KSL News",
+      "country": "미국",
+      "category": "과학",
+      "publishedAt": "2026-10-14T05:16:18Z"
+    },
+    {
+      "title": "Federal judge issues longer-term decision blocking Trump’s White House media ban",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUkR6NmJzcUlPY0J1eHZvWnVneHhUc25mMVIxR19ZQ1dkOFE4QTNXSUNsbURRaTV2R0p5MnFtSlJrbFJOVWpKRUdSQnJBZ2JqbWVxakc5QUQwVmptY05KZGVFODQxVy1HdHBUTE9wRGx3djBvdnZmeWFnYzN2blYxQy1ta2Y0VUxqRTRyZXZieF9CRmtVZEdVTm5KU0ZIMmFmQmZsc0d3Mm1ZcmZibElva084d29kTU9oWkVwNl9RUjBXVllXN3NLQnRBQ1p1Z1k?oc=5",
+      "source": "NBC News",
+      "country": "미국",
+      "category": "정치",
+      "publishedAt": "2026-10-14T04:11:00Z"
+    },
+    {
       "title": "Tampa Bay Rays win game two over Guardians thanks to terrible error from José Ramírez, even ALCS at 1-1",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbTdmXzVBR3lZNFZyZVVWTFVOUlFfbE9NX2NDLTZ1ZEx1QmFZTUxjd0pJdWpuRk5vS0pfbHNTNFItMWtDR0h5VHdieGx1UDRseVYwZzMzRGtTaG5TamFfbUhnakJMWExoS0NGck5jTG9jYjFGbnp0VnhGRDB5bG45eURhNVllYkhVMW5LZzlzLTY0QlJkMGJSU1lkenVTS0E3bkhxVUlkZk9DSU10UmtWNFc0OA?oc=5",
@@ -164,7 +173,7 @@
       "publishedAt": "2026-10-14T02:19:45Z"
     },
     {
-      "title": "Bank of America fined $1.2bn over failing to stop money laundering",
+      "title": "Bank of America hit with $1.2bn fine for money laundering failings",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBULW5LeTJFX2xLUTlRLU01OFAyVm84dE5qODBzN1E3SDE2WnAzU2tKSEVQc3hJYm9PX2ZvUFRBRGNVZmYwWmVpQ0dZY2lTSWxZWldLdGhib3RQZWc?oc=5",
       "source": "BBC",
@@ -200,6 +209,15 @@
       "publishedAt": "2026-10-13T23:56:20Z"
     },
     {
+      "title": "SpaceX launch creates ‘space jellyfish’ over Grand Isle, Southeast",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeHl4TlZZMVZLbUNVWFpFTkVKMW9SZjNzdXRGeU1Xb29LTDl1bkdZRHBjTnp5ZWotdUJMUmRIM1Q4djdMZFZWVGpxOUg4cTcyRVhJVlhOVUx2QmF4T2JxbzhGU0JJQWhJNXRROHdjWEhwbWhERV84cTlyWTVqemV1ZGNQZ1RLZ084bXpCZWRPUk5hckp1V3FCZHRJa1HSAbABQVVfeXFMTVptcmNVc0NsS3c5cGFJbzNmQjg4MVpPNUxya0NYWFNqMnlwZmxPMk1yYUMwUUJ5Z2JtZlFkRm1jeEdqR200amJGc3d0N3BsY1ZQN1ZwS2VHbi1QUllPX3BxS3ZNNmc5aXdUb3dDRlF4MWFubTNxMWdBM1d2VkZNRGFYa0ctNldEaE5wcGw2VnlyZlNyNDV6bU5BNkVmNXlxa2wxcXNCZXpfcHV5TkRNNTg?oc=5",
+      "source": "WAFB",
+      "country": "미국",
+      "category": "과학",
+      "publishedAt": "2026-10-13T23:29:00Z"
+    },
+    {
       "title": "Nasdaq ends down as chipmakers fall and bank earnings roll in",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdkNncVkwQU9JeFhSRFFWQ1FhcW5SUk5hY1hQMkpocmdCRlZ5b04zOGJnZ184T1lONDh1cUQwZFY3RVJxUmJzZDhpUWZ0RlhsUGluV3hoVG1TV2JWNEZtUS12R1Z0VURRQmt3SjkyUU44UkZTcmF1RnFaTm9POE9LYW5TWjY3el9jNzQwV1lOVkhaOGFDTE9Wc1NrM0RYTzJ5UFM4eF92UWV3LW03SHJ1U1I5cHF4eDNFS1liNw?oc=5",
@@ -207,15 +225,6 @@
       "country": "미국",
       "category": "주식",
       "publishedAt": "2026-10-13T23:25:08Z"
-    },
-    {
-      "title": "Scientists discover 'D-rex', a giant fungus from Chinese forests whose unique lineage dates back 65 million years",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKRFE5eXhjaXd3cGpSSkJlb0ZvVUdtQk0xVnJyb2lSTjR1SjZ2TXVpZUpKVjBqOWRUVTRFb094V0RVejhWNjlGV0FWZVE3a2lLVHRzRzJiazdxREVFY2F6YjlGNjFVcmFKUElXcEpBWXhyUQ?oc=5",
-      "source": "Phys.org",
-      "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-10-13T23:20:10Z"
     },
     {
       "title": "[K무기열전]⑨ 美 거절로 시작된 독자 개발… ‘부품 90% 국산’ MUAV 전력화 임박 - 조선비즈",
@@ -245,22 +254,13 @@
       "publishedAt": "2026-10-13T17:09:40Z"
     },
     {
-      "title": "SpaceX rocket launch creates incredible 'space jellyfish' visible throughout US East Coast (photos)",
+      "title": "프로야구 LG-두산, WC 엔트리 발표…LG 손주영 끝내 낙마",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORkF0NDVSazlQRGsyeXhILWhqRmZXR24zZW8yaW5VRW5tYjBjekdZakZMTkpoQzgyMXk1YmE3dm1TNkxuUFBXRHFBdlpkZnVJUDllZlB5NUZCQ2R4YXVXbkdYWVlxWVNfOGtjRjJRUTViaU9Oa2tBMTNqV1lKSmtzb25QOXR0N3BvVmFGLVJaV3BKTE13MVEtT1lSTUdjamxPQlFhVDEwdzM4dHF2eDl5MVFvSlZHdURKNU56TWtyd1NOdHg2TDFUMmxqdzBIbEF0azVMUzJfQW9ScFFPSHdSMm4zLXJhSTI2ZDRj?oc=5",
-      "source": "Space",
-      "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-10-13T17:02:48Z"
-    },
-    {
-      "title": "‘불사조’ 박철순 ‘미스터 OB’ 김형석 총출동…이젠 마지막 잠실 가을 야구",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkMDhSQi1CRjN4WE5VWmdhaUFGdnlCNEg3U1ZLQ09HSEFiUlh4eHNSaGNfVEZZOGRWSjVTbXVEay1vb2x5ZzRvcTdYYlhzdGVxQnJnMFIzV19WWlE?oc=5",
-      "source": "KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrUkdHdU56R1cxczIzcnhJd2JYNkpOM0M5MjVtY0NPYmcyQ2gtQ01fRGdWelZIRS13ekF3d3VUVHVNOVNhT0JWRVo5TElEOVdMNTg2aEVuTVhkYWM?oc=5",
+      "source": "연합뉴스",
       "country": "한국",
       "category": "스포츠",
-      "publishedAt": "2026-10-13T12:50:00Z"
+      "publishedAt": "2026-10-13T08:28:42Z"
     },
     {
       "title": "\"온통 회색뿐? 가까이 보니 노랑·초록·갈색\"… 아르테미스 2호가 본 달의 빛깔",
