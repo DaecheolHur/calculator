@@ -1,6 +1,105 @@
 {
-  "generatedAt": "2026-10-13T22:47:18.432215Z",
+  "generatedAt": "2026-10-14T01:01:35.970620Z",
   "items": [
+    {
+      "title": "의사결정 모델도 멀티모달로 진화… vLLM·클라우드플레어 모델 공개",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fdEF3NWxNSktHOGdGZFVfdmFVb3lWLUpxMTZHcFNObTU5aG9BMHVCRDNLazR6cUR1SFMwbmNLeDF1ZzBwaGRBS1RVbnJmR1pSQUdHOEc4SzN4NFdORWVMcmJzLXR0LVVqTVE?oc=5",
+      "source": "AI타임스",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-10-14T00:54:26Z"
+    },
+    {
+      "title": "충북이 공공기관 2차 이전 최적지인 이유는?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GVzF4a25yZDAtWEkwTy1UOUNacWpzV19VTHJzak1Kck10WVJheUVjX2RzN3liY00zamhUNHdtTDJ1bVBVbmdkeDFSMVRkelgxbmRTSlhpbG13d2lESzBBZTluTW5aZHZzN29ZWW83MFN2Zw?oc=5",
+      "source": "굿모닝충청",
+      "country": "한국",
+      "category": "사회",
+      "publishedAt": "2026-10-14T00:27:33Z"
+    },
+    {
+      "title": "Cybersecurity research at UH Mānoa earns national recognition",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCcEEzc0FXRktuMUFmOEtONTI5TUQ0MkFZdUVuaGdDNGt6UjJnNTg5UWgxNVlIeDVjMzBlWWlRRFRGYm5hX0NycmhtZm9uMUFIR3VJTFpzQlhfajU3bHVJcE0wX1o3RTJaaHZZc2cxRi1MM1A1TXlabHc4dzB3c3c?oc=5",
+      "source": "University of Hawaii System",
+      "country": "미국",
+      "category": "IT",
+      "publishedAt": "2026-10-14T00:14:52Z"
+    },
+    {
+      "title": "John Ternus Takes Next Big Swing as Apple CEO With HomeView Tablet",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZEdZMldycmpZdTcwUFh1WldpMDhBMlUyVDgtNlpWdkgwQkdiN0xvYklXUGRYdmI3Z0ZYX0VqN1RpR3B4d1NhTkJiQjJlbmxELTUzaUZQdEF0emZYTkZYTFNVNGpJSkxTazVhN3FzbzRKRENhZWFPWTVaaS1DODFhQU4zYUk0bk5wMUlXSDRBUjg4ck1YX0MxZ3RiRVlKTmVwZEE?oc=5",
+      "source": "WSJ",
+      "country": "미국",
+      "category": "기술",
+      "publishedAt": "2026-10-14T00:00:00Z"
+    },
+    {
+      "title": "[AI리더의 서가] AI 소프트웨어 시스템 아키텍처",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YZGFMdDhPSXpOY1lteVFuZC1KQ3hMbk1WOWZvbVBqeWZmV2JoNVlGUmt4Z0ZFY2RYS2pnT3pWc2lRbGQyYV9WMjNKbllNZC1xUnpXVUZ3cVdvbi1fX2lGU1JwQkhsLUZQQmc?oc=5",
+      "source": "AI타임스",
+      "country": "한국",
+      "category": "AI",
+      "publishedAt": "2026-10-14T00:00:00Z"
+    },
+    {
+      "title": "FBI arrests Saudi OpenAI engineer over covert recording device, DOJ says",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjkxNVh4Vlg5aXhHdHJySlBhbC1iZVRDTTF1a2hiUk52eUlqUW1aWWtoeUg2TjQ0OWU1aURzNW5aWmZ1TEFBcGl4NTBIQVZSVnNPaFpFUnZqb2RjRzNQS0xLQjRkMmtJZWhuU1RLRXplcktzVnBHMVVhNThISzMxMVFYbXZoeWE2WFc3b2VzMlQ0Sl92Y0kwLXJ0MUxBOTdUNzFxdjR0VTI?oc=5",
+      "source": "Reuters",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-10-13T23:29:36Z"
+    },
+    {
+      "title": "Nasdaq ends down as chipmakers fall and bank earnings roll in",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdkNncVkwQU9JeFhSRFFWQ1FhcW5SUk5hY1hQMkpocmdCRlZ5b04zOGJnZ184T1lONDh1cUQwZFY3RVJxUmJzZDhpUWZ0RlhsUGluV3hoVG1TV2JWNEZtUS12R1Z0VURRQmt3SjkyUU44UkZTcmF1RnFaTm9POE9LYW5TWjY3el9jNzQwV1lOVkhaOGFDTE9Wc1NrM0RYTzJ5UFM4eF92UWV3LW03SHJ1U1I5cHF4eDNFS1liNw?oc=5",
+      "source": "Reuters",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-10-13T23:25:08Z"
+    },
+    {
+      "title": "'이강인, 61분 활약' AT마드리드, 챔스리그 첫 승리",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wZnJraUNESlFXNTF5RjBHRVBIZzlsQUs1dkVyLUJhN0lOcGluenc3SE1HZHMzbzRLYy1Ka3NlNzZPV3J0M3Jqd0xNQ1E3TTVoeGoxZDZiU2UwbVBxUmc?oc=5",
+      "source": "YTN",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-10-13T23:09:00Z"
+    },
+    {
+      "title": "Kimberly Guilfoyle is out as U.S. ambassador to Greece",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS0Y0S2dGZWJaTWJvWFFjSGZPOExnVFR3ZVlvVUZ0dFZ4MGdHd0VQalI1Y0o5QkM3MkxUTUJRYnNtekZMZlVmZDlsQ1M5TkV4WHE4NXJzX0Y4bUNXM1RmekdYVzZ5YjFnWG1XT0JLNHJSc3pIVFJSYk9OYXdycV9WbUlBcVlKd1RSNEFJeGd4Vy1Pd2g1WnJJbmhCU1pGLTJDc1R4ZEpFUS10Z21pV3ZkQnlkQUNZdlZiMnNGZENndHg?oc=5",
+      "source": "The Washington Post",
+      "country": "미국",
+      "category": "정치",
+      "publishedAt": "2026-10-13T23:06:52Z"
+    },
+    {
+      "title": "Actress Selma Blair faces charges for kicking nurse and officer after plane incident",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NWl9xY0lPUjd0aE85Y05Bd3FrMURQOXVpRmxyMnBBVzRpeUVxMnUyRGY5Z3ExMDE0STU5R1cyUGZYdzN4b1d2cF82T2F2Wlh3Yk1OYV9GcTFDbEE?oc=5",
+      "source": "BBC",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-10-13T22:59:37Z"
+    },
+    {
+      "title": "Bob Odenkirk Mourns 'Breaking Bad' Co-Star RJ Mitte Following Death: \"This Is Simply, Deeply Sad\"",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUWgxNFRjUEgwYWdmcWM4VEl3cmkwd1hkQzFxQ0NiN2piWWxyQVpyWW1ISXQyQ3VzYUgxVjF0STctN1lUSHpMb3AyRmxYa1BVVnVVTHM4RmNobUJlTTY2a1M1Qlhrdk01OV9ydXdFRlFSS1ZOc2JuMTBvcDFETmV0ZnJnWVdYU3A5ZGdrRzlzeE5KQQ?oc=5",
+      "source": "Deadline",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-10-13T22:45:00Z"
+    },
     {
       "title": "클라우드브로, 포스코DX에 검증된 오픈소스 분기별 공급…기술검증까지 지원",
       "summary": "",
@@ -11,40 +110,31 @@
       "publishedAt": "2026-10-13T22:15:59Z"
     },
     {
-      "title": "국립공원 무인카메라에 포착된 동물, 인공지능이 자동 판별",
+      "title": "“코스피 6천 겨우 턱걸이”…범인은 중국 반도체? [잇슈 머니]",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNakVCUkZqVVFtdUNXY3ZmUmNwVERhb3hsVk9lMXdrUm9ibk54c2dHUjZGR3VndDdhRW9SeVlCbjhrX1gxZjdyR0FiOTJmMTU3b0dnT3RTMm42VlBXajl4azhlbk9vbVE3cEZDT09CM2lMNEZ4aElyQU1RU0lIT0NycHo1NVQxSlo3N29HVk9iWQ?oc=5",
-      "source": "사이언스타임즈",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81LTZBQkc1a0xKWXZmaUxsUXNOenBBcERySmFId2dndW94MjBtLXZWOURVUkZ0WVpQYXluc0hydTdvcjAwSHhoWlhsU3VPZGd1YlFvU1dfckxfUFE?oc=5",
+      "source": "KBS 뉴스",
       "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-10-13T22:10:28Z"
-    },
-    {
-      "title": "Kimberly Guilfoyle Resigns as Ambassador to Greece",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdlVvUGdLc3Z0NUVzWlpJMWRIcTFtbzZveW5vLTE5a01WbnJ0YVdOdkpIZ01VNU91c0ZqX2oxM214d0xHWFBYdHZ1N3dtc0djVkNSUloyZ0RLZ0l3VFZZamZlSnQ0WFJoWGpkYmhCbUFoczRiTTRsaDM3ZTNtZklzUHQxdw?oc=5",
-      "source": "The New York Times",
-      "country": "미국",
-      "category": "정치",
-      "publishedAt": "2026-10-13T21:56:15Z"
+      "category": "경제",
+      "publishedAt": "2026-10-13T21:56:00Z"
     },
     {
       "title": "US stocks end lower as chip selloff adds to earnings pressure",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdGtyWDh0ckxEb0VyTmJ0d0hvT05zNmVfcFVaLW1MNnZLNGZydFUyaEYyWml4RTVtdGJmUWJ5YXRpV2J6ZTQ0cHNjeVlsbTJrbUxxV3FZT2NPZ0pqX0xrRGdwd2lxY2JYVTFLMjcyMy05a01mMFp6Q3FZaGtfazBILVhGVl9BbTBhbGJjc2RYN3RLT0xlMnVBWEpTWG1pcjdUaE9ZVg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT1N0TGtlMkhUMTJKSFVQUF9aWUR4eEVHSEZFcGp3Rllyd1ZUUFdmRUx2SlJUeXR1eHhGMktGcG5PdHlmVjNOb2JZckFST2VObmxVRkVMRmVUWTdlS1hJcmZsYXdiVEJ6NkxtQXAtWU1zWmJsZURzbUJ4ckxKYXBqb2xsanNxWFJRdTVLeFJOZ3ZseUxBeDR2cW9FT3dreWs?oc=5",
       "source": "Anadolu Ajansı",
       "country": "미국",
       "category": "주식",
       "publishedAt": "2026-10-13T21:55:25Z"
     },
     {
-      "title": "Saudi OpenAI engineer arrested by FBI for planting covert recording device, US DOJ says",
+      "title": "Week 6 NFL power rankings: 5-0 Vikings continue rise as Bears, Raiders, Cowboys stumble - The Athletic",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjkxNVh4Vlg5aXhHdHJySlBhbC1iZVRDTTF1a2hiUk52eUlqUW1aWWtoeUg2TjQ0OWU1aURzNW5aWmZ1TEFBcGl4NTBIQVZSVnNPaFpFUnZqb2RjRzNQS0xLQjRkMmtJZWhuU1RLRXplcktzVnBHMVVhNThISzMxMVFYbXZoeWE2WFc3b2VzMlQ0Sl92Y0kwLXJ0MUxBOTdUNzFxdjR0VTI?oc=5",
-      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZzB2VWJ3TU9jdkNRcjZuRHNVZ2tJVnUxaG9UcTdYalQyWWoyYmdZcVZpN2ZKS0FSZ0dsSW0xZ0Jyd2VpUHN3elR1SXQtQ0FrVEcyTVRCdklCbEkwWnNBd010OGZlZmYyblZTQUlSb1Jmc1MwQ005NkZhdzdJWGIwMkUxZ2EtOW40Q0phMEVuTHJQTHh5bjNBTlNibldRbC10RThPMkJ5SmptaGRo?oc=5",
+      "source": "The New York Times",
       "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-10-13T21:26:04Z"
+      "category": "스포츠",
+      "publishedAt": "2026-10-13T21:45:36Z"
     },
     {
       "title": "Tesla Jeltema named a 2026 American Physical Society Fellow",
@@ -56,40 +146,31 @@
       "publishedAt": "2026-10-13T21:22:27Z"
     },
     {
-      "title": "SpaceX launch creates 'jellyfish' effect",
+      "title": "\"불의의 사고 아니다\" 강경화 발언 수습에… 한동훈 \"국민이 우습나\"",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaC1fUTNJNEVDT0tGY3hoNC1DXzNndXBsa2Jib195bklOOUdJZHJXZm52cUc5YVdHTGVneEUwNGwyQTJqZ0lFZnJvelBqOEotTUcwTHZWbGR0UU5PLVkweFp2NWhYV2xrdXBtWWdweWJhalpJTm5rcmNmZ0MxRzdDbEpheDctUDVxZ05YRHF0NTBfd9IBlwFBVV95cUxQTEYyNzdKYngxeWc5OW9saDdCSFpGM1RrSDM2ZFAtbEM2c0txSGIzZzZjOXVzbnJsSHhQZ1VOUW9oSnlOWVZtMDRMUTljdDV5NndOM3VVeS1VakNOR1llN1k1SDRIMjZ3QnhzaFY4VFB1bXRjZ1RuMktNOWdFem5nVmpFYjhRUUUwYnBUT0pKdFdUSDhLYnhv?oc=5",
-      "source": "FOX 13 Tampa Bay",
-      "country": "미국",
-      "category": "IT",
-      "publishedAt": "2026-10-13T20:41:15Z"
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTDhPZWZlcWFvcE1vdGUzQXNnODNVVk9Sd0kyMlk4ZmNXaEVHUkNDZ0NWNnZ2dmozNzN5M2ZhckJRb21IcF8xTEFveTBobklWeC1xeDNobnJ4aXBtZnlSNlVYeW1VcVQ0d3d1ZFdwNXoydmxWRFl4aVFuZ1hYaFYzLTdSSTk?oc=5",
+      "source": "조선일보",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-10-13T20:42:00Z"
     },
     {
-      "title": "Nasdaq ends down as chipmakers fall and bank earnings roll in",
+      "title": "Bank of America fined $1.2 billion by Treasury Department for money laundering and sanctions laws violations",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdkNncVkwQU9JeFhSRFFWQ1FhcW5SUk5hY1hQMkpocmdCRlZ5b04zOGJnZ184T1lONDh1cUQwZFY3RVJxUmJzZDhpUWZ0RlhsUGluV3hoVG1TV2JWNEZtUS12R1Z0VURRQmt3SjkyUU44UkZTcmF1RnFaTm9POE9LYW5TWjY3el9jNzQwV1lOVkhaOGFDTE9Wc1NrM0RYTzJ5UFM4eF92UWV3LW03SHJ1U1I5cHF4eDNFS1liNw?oc=5",
-      "source": "Reuters",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-10-13T20:17:36Z"
-    },
-    {
-      "title": "Bank of America hit with $1.2B in penalties over money laundering compliance failures",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR2g3SUtydkcwMUx6ZjRDRFpPaWZQMHZKNEl4ZmtTWFQxdGw5aWZWcUxtZ29aYzhWS3lsbXV4d3dHQ3dhaTcxalVTblpMSVVPR010Y1VINEpLSGxENWJ0TGFSLVg1a1B5MVRpSi1BM2ZLU3pMQmRLdE9hd01ra1d4d2dSZDdOTGNiUnRKSnJZOGtZWWZmZW9sMWJPUkNMWV9nUlRHRGdyWdIBrAFBVV95cUxQTTVNUVJJUDl2b2NSMVM1UVdDbWxSaXhIdnB6YlFDVXB2YmNFcDludUNfMElTYlVwX3VHaWt0VVo1QUxHSHVFU3hRR2RoYjBidWR3b3Q5dkFZWUFEZHVmaG1teXlHc01XRmdjQ1N4bXZiQWJ5UXZQSl9Zd2tTUzF3NmxwSVJqWURDSHZyS0RxS2ltTmZNN2lISERQQ3dnOTVJa01KaDJodmNqeEFw?oc=5",
-      "source": "Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcXZDakt4djJRcFNXcGMxNzVLOHFlNWJYZGhLRjUyMlh6bm5PeGN0clAwZ0NDaG9pelBBdlNXWU1ocXkxeUJoWmRPSWZMckpqTXZ2QWRLempabXdUX0pveVhGVXYwSl92VDJsR1NuZDRUeDNRY0xzaWVFTWUweEJCcHhB?oc=5",
+      "source": "CNN",
       "country": "미국",
       "category": "경제",
-      "publishedAt": "2026-10-13T20:16:00Z"
+      "publishedAt": "2026-10-13T20:32:59Z"
     },
     {
-      "title": "의사결정 모델도 멀티모달로 진화… vLLM·클라우드플레어 모델 공개",
+      "title": "[단독] “답변 거지같네” 막말에 발언 독식… 원안위원 한 명에 ‘원전 연장’ 발목",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fdEF3NWxNSktHOGdGZFVfdmFVb3lWLUpxMTZHcFNObTU5aG9BMHVCRDNLazR6cUR1SFMwbmNLeDF1ZzBwaGRBS1RVbnJmR1pSQUdHOEc4SzN4NFdORWVMcmJzLXR0LVVqTVE?oc=5",
-      "source": "AI타임스",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNFRMdTh5VllSdlB5bjVxX1lvZjFrY0VSRm9tekF2eFVwbUNTazRNR2tNZERSeUczN01Dcmt6Sy1HV0lZdy1iMHZsMmlkU2lMZU5uWFN1a2wwR25TTDVBZ3piUV9BNTZNa2QteTlEMFFvVmI4QjZuZWtpV2FpelI3Nk1sUQ?oc=5",
+      "source": "조선일보",
       "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-10-13T20:07:02Z"
+      "category": "기술",
+      "publishedAt": "2026-10-13T20:08:46Z"
     },
     {
       "title": "The New York Times. . Artificial intelligence has gone from struggling with basic arithmetic to helping solve some of mathematics’ most famous open problems — and the field is reckoning with what that means. Steven Strogatz, a professor of mathematics at Co",
@@ -101,31 +182,13 @@
       "publishedAt": "2026-10-13T19:30:06Z"
     },
     {
-      "title": "가을 야구, 그 시작은 ‘라스트 잠실 더비’",
+      "title": "28 Miles and Counting: NASA’s Perseverance Rover Sets a Mars Driving Record",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtcVBnUTRyU0gxRG11T3FpUW9fcnJmOFBZT3BlMHN3SzBQSzFreGhQNGlNNjNKZ1lXSG9qblJ0WWZhMlZGVmhhNmJJeklCX2hDLUlrR3NVSzJMUXpPZEltV2I0VE9uLWFlT3Jibl9tcFRqbDBw0gFmQVVfeXFMTUtETUhvWXVxVlZlMzBEV0tyeUN2dVkwbVFiXzQ2ano4WU95X2Z5OGV5RE1ZM3VndUNDdl9kNjlvRTQwb095MVhLVEtabzQzTVhLLWYxYXZCUThkLWFrR0hBMS1zMXRn?oc=5",
-      "source": "동아일보",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-13T19:30:00Z"
-    },
-    {
-      "title": "Worlds More Habitable Than Earth? They’re Out There.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNUN3NXFoTVE4NzllU0ZybzFodmhWMmNxZUltVlphR3l3dHp2aTU0RFAzWGNDeXN4akJ4MHJOanBfNWlBemlMbGlMb0RRZ1Iycjd2ZFloNlU0dFVpVGlFMlNJQUZIeXlhY0NRV3hJZ2hCTXJpS2UxSFhEU0pJcWpka2JYbnNrQWc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01eHJSMzQzcy1pRDFwRWdCellUMnUxUl9fMncxcXdwX0FGOEZVSnEzRmNldnZoem9oYVRGb3RvUWw4Vi1QZ2R4VlFrTG5PZWQyNVVaRFg3NmZhM19nSkM0NjVqNHJJUGtCaFNiMXhiek5UbXFGOUN2Q1RR?oc=5",
       "source": "The New York Times",
       "country": "미국",
       "category": "과학",
-      "publishedAt": "2026-10-13T19:16:49Z"
-    },
-    {
-      "title": "Selma Blair Pleads Not Guilty to Assault Charges Following Violent Outburst on Delta Flight",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUnkydGJoc0JfQUwyMXUzaV9JWDlaZl92ZkY2dnhwenZfNElGVkFWY0tJU21XYmljRFNYQjhNdzcyNjVsV2JLc0tqaXlZdlBIcnhubWdvbEhfcEJiZ1dmYldvRGMwUVpDZHJSeC1XYjlWY1FSQkhtaHlYMXNqSlg0QXd6ajdJcUdLeFNJNlBoSVJCSjZfUVRrU09VUFFoSV9SRm5Wc1JBbVVEVmJNbnRnUFRpWTRGbWNoNW5yeDZBVQ?oc=5",
-      "source": "The Hollywood Reporter",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-10-13T19:11:28Z"
+      "publishedAt": "2026-10-13T19:26:00Z"
     },
     {
       "title": "코스피 6000선 무너져…‘폭락의 달’ 7월 수준 복귀",
@@ -155,31 +218,13 @@
       "publishedAt": "2026-10-13T17:02:48Z"
     },
     {
-      "title": "Apple unveils new smart home devices that showcase upgraded Siri AI",
+      "title": "이수만, 유영진과 돌아왔다…24명 아이돌로 K팝 흔들까",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSUtPYkZiMFdGTVFibFdLcWMwT0tpYVFGTDEzTzZSNlNEcFJ6ZmJfcmR3SjVkd2tkckFnQ0JRUGpIclZsMkJ1UXdLejhUQ1dtbS1IaV9VTndzWE5JaGZPcjN1ZHZUeG1IZThkNzBWUlV5Mk9CVk5TVVJYdEZGWG9wTWE5UEtkUXNp?oc=5",
-      "source": "The Guardian",
-      "country": "미국",
-      "category": "기술",
-      "publishedAt": "2026-10-13T16:25:28Z"
-    },
-    {
-      "title": "NFL Power Rankings, Week 6: Vikings, Patriots enter top 10; Eagles, Saints in free fall",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ucU5oWGdjM2JoUy1xNFh5M1c2VHJKV1JtVG9Nc3pEOW5EeUF0MWU5VFNnUFh3NUNWRUF0dGFOQzRjclEyMTFmQmdzcm03NGE2V2U5MWkxU2NHV3BRc240Y1VjY3laQWFRelIwMTBmeW5UQ1g2?oc=5",
-      "source": "NFL.com",
-      "country": "미국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-13T16:16:19Z"
-    },
-    {
-      "title": "이 대통령, 인천 찾아 ‘흉기난동 사건’ 보고받아…“엄정 수사” 지시",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43eEgyQkpJTnFsbjkxYUxOX1IzT0NaT1BnaVpjM1ZadVFtby1nSXFVOTlmeHFLaWZRM1VGNzB0WGtUVUxOMFBCQ2lMeEZvVU1fbXJLQUFNU3d5QTVuTlNMejdDNWJ3TF8zTkNR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXcUVvN1pUZUdid0RlX2wwQ0NYVXoyQk9QRVRtdVRDc1A0d0RvcU5jTDdBZ3RzbUZIblZDa2lZMFdodHRha2RrNTRjR2pBN1ZyRVFDeGJzR0lad19RcDRwcy1UOUM?oc=5",
       "source": "한겨레",
       "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-10-13T15:51:00Z"
+      "category": "문화",
+      "publishedAt": "2026-10-13T15:46:00Z"
     },
     {
       "title": "(사)한국기후변화연구소, 기후·탄소중립·AI 시대의 전환 전략 출간",
@@ -191,13 +236,13 @@
       "publishedAt": "2026-10-13T15:38:07Z"
     },
     {
-      "title": "Bryan Cranston mourns ‘Breaking Bad’ co-star RJ Mitte: ‘My sweet son’",
+      "title": "이 대통령, 인천 찾아 ‘흉기난동 사건’ 보고받아…“엄정 수사” 지시",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN29GejctcDNnSUJiR2JERHRXb3o1YzdzRkwwY3daXzE2WFRyaWU5M3V3Yi1zeWFZT3JndW1xMTBPTXE4TVk0TVA4SnczdDNHcUQ2SUJNUXowY0I2aTByMFMxVWtIc01Ecy1GeXpybUxramdjS285aFFuYUVXTUh6dXM3VnIxRVI0NWVYUmRBaEdhVkFETldoM2VnT3hJNXpjTlk1LXNTTHZYWHM0TXlUeGtzVHMtMkdSWklLMWo5MkYzRDg?oc=5",
-      "source": "NBC News",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-10-13T14:55:33Z"
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43eEgyQkpJTnFsbjkxYUxOX1IzT0NaT1BnaVpjM1ZadVFtby1nSXFVOTlmeHFLaWZRM1VGNzB0WGtUVUxOMFBCQ2lMeEZvVU1fbXJLQUFNU3d5QTVuTlNMejdDNWJ3TF8zTkNR?oc=5",
+      "source": "한겨레",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-10-13T12:22:00Z"
     },
     {
       "title": "佛 마트 냉장고들 해킹당했다... 온도 50도 폭주 ‘먹거리 테러’",
@@ -209,24 +254,6 @@
       "publishedAt": "2026-10-13T11:33:11Z"
     },
     {
-      "title": "“손흥민 질투하냐” 빗발치는 비난에…축구협회 “도 넘었다” [지금뉴스]",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94eWx6WmZIWnRncE81bW1zM0k0aG54Nl9zRWJIYWdGZ2tjTzBlcEJMOE1rWjlCa1Q4NDRYVVota0I0MHE4bXZqcS00WjZLQV9OZU9QNmtjR25iVzg?oc=5",
-      "source": "KBS 뉴스",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-10-13T10:22:00Z"
-    },
-    {
-      "title": "남은 중앙부처 모두 세종行…'행정수도 완성' 가시화",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43TW4tcGZ5YWVBbmdpYVNlX18tYVJzSkpWSlRrek1YNFBnc2hKTlJmc2NINWtWZ1I1b2UtU1RSMTV3U05UWUhPWWs3MF9DcWdxNGdNNDdLM3lEQQ?oc=5",
-      "source": "한국경제",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-10-13T08:40:30Z"
-    },
-    {
       "title": "\"온통 회색뿐? 가까이 보니 노랑·초록·갈색\"… 아르테미스 2호가 본 달의 빛깔",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLUJncjhoRlJmUXBGRW05aDVIODJpUS1PT1N2aDhWR2xZQ1JCTXMxVExKT2ZCNTVHMmhMUTJZZkIxc19VWmpkU0tic3doSFJ6WGZqMTdBdElFdjFUellUdldvcmRWX0RfR1ZpZ1BEclVtRThxaXUxM0VzWWswNXBJSUQyUQ?oc=5",
@@ -236,40 +263,13 @@
       "publishedAt": "2026-10-13T07:11:48Z"
     },
     {
-      "title": "‘브레이킹 배드’의 화이트 주니어 RJ 미테 사망··· 장애인 인권 운동가로도 활동",
+      "title": "“이강인, 손흥민 왕따 관여” 루머 확산에…소속사 “사실무근, 법적대응”",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvWWRwbHhCN0tEOXBISDN0RHhLYTVjZ2s0OWdqTHEtRXVTVGJUSUdZSlN1bjRyY0Nwc0s4RjM0TmZRTXk5enR6c09mQVo4Z245MDJzY2E0WndaUdIBX0FVX3lxTE4tRDVqWXo1QUhNWkFhQ2JVQm9WYlFoT2d2RGN1SGVETE5KR19pakozMVJOdkU2Q05xSktzUTFxNDZvemNNS3ZIcEFrZFhyOW9Sb0pkVkdEdG5wNGxFQjZB?oc=5",
-      "source": "경향신문",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lSG1kbEtUbFV5bzM1YWNMbEhITmJLWVN4WUxXY3F0WDVNb2tsM3d5N0d3RkJlcnJMUXVuXzZpLTRackVCTHQ3Q2pucklqSEVlbXNMVmNwSjR3aGpFRm1xcmhZQk5nUmVxbUdiaUhPRl8tUGJLNFHSAWZBVV95cUxQa2Q3VDNvVUxiNzFhc0xiMVphTWx6aXVBdjUzTm9DaDBJYkI3eHh4eFJuclVaSExlaEx0b1BjZzFZSWtyc2Q0d2hvTkFZZjh0eG1PaFBwczkxdFFlWUlzSUdZZndVWkE?oc=5",
+      "source": "동아일보",
       "country": "한국",
-      "category": "문화",
-      "publishedAt": "2026-10-13T06:41:00Z"
-    },
-    {
-      "title": "'공포의 화요일' 코스피 와르르…SK하닉 10% 폭락에 '비명'",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1maUMycDNFa3dHQ1Nmbm9RcFpOWkdBTGhqY0ozUlpxQktyZmphOUxkbnN1WGRoTE1JSW5HUVhZMF9qWDIybEpfcmVSMDV4X3ZnVGhyb3Z2TW92Zw?oc=5",
-      "source": "한국경제",
-      "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-10-13T06:36:18Z"
-    },
-    {
-      "title": "공감연대 '해방 100년 토론회'…\"청년 위기 등 해결 시급\"",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2LVUtbzloZjJEV1ZTY3AzenB2cl9oZU5NRFIzLWhaM3dFd29IUFRQZTZwZDRKY283T2psNTBSU2xDdFdqdFNjOXZhYTg5VTdBX2J3UkVhUGlyTmN4OFByUdIBYEFVX3lxTFB2LVUtbzloZjJEV1ZTY3AzenB2cl9oZU5NRFIzLWhaM3dFd29IUFRQZTZwZDRKY283T2psNTBSU2xDdFdqdFNjOXZhYTg5VTdBX2J3UkVhUGlyTmN4OFByUQ?oc=5",
-      "source": "연합뉴스",
-      "country": "한국",
-      "category": "사회",
-      "publishedAt": "2026-10-13T05:42:42Z"
-    },
-    {
-      "title": "[K무기열전]⑧ 1회 발사 단 2000원… 드론 잡는 초가성비 레이저 대공무기 ‘천광’ - 조선비즈",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNGx2ZlZYeTlQRGstVWVUcHJOT3p5LXltZl96SmgyZXBNZ29wSFpMTzB2OWxFN2pyYnVQNGY5N1hzV2JSWVJJWDZ2X0lHeVRlUnMwby1IaEhFRnZWNHg5RUhqVy16czZCUUZkWUhsVzBVamMwc0o2bkhEeWFBeU8xbk9VZHDSAZgBQVVfeXFMTWdLNGlOaF9PN2xLdWU4MmJGTzVvQUthZFpjRjZkQTJ5RzVaZ0xHYmlVRmltbFJxMkpJbmw1RU5sQ1k0RjZ6T3JrVUxIQmZhYl85MVNSYngyM1JsbWJrdGx4MEhaVi1SX2dndkFBYi1sb2gwMC1ld0RfVjktOEZnUWxrNzYyN0tJZ0hkZm5fbnp4cG1lMF9iQ2Q?oc=5",
-      "source": "Chosunbiz",
-      "country": "한국",
-      "category": "기술",
-      "publishedAt": "2026-10-13T01:37:00Z"
+      "category": "스포츠",
+      "publishedAt": "2026-10-13T02:50:00Z"
     }
   ],
   "briefing": [],
