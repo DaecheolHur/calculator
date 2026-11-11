@@ -1,77 +1,203 @@
 {
-  "generatedAt": "2026-11-10T20:53:18.118582Z",
+  "generatedAt": "2026-11-11T01:17:10.297805Z",
   "items": [
     {
-      "title": "Stock Market Today: Yields Jump as Inflation Comes in Hotter Than Expected — Live Updates",
+      "title": "Stacy Keach Dies: 'Mike Hammer' Star, Film & Stage Actor Was 85",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAycGFzVmI4Q3NSQ2ZMTC1DdDR0M2R3SG1OZm1DMHZ6OG9qa3dJUllpSThRa1RlYm5uWGZrVDE1VHJZU0xJdlBFRWpZSnhzU2hUMlJ1UDdJXzFxamNqTDE5bkgwUXowRV9JdUhyckdOclgyMHlaZFE2RlZR?oc=5",
-      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWeWo1VUpYcWxFY3VlTkl1OWVjOUxjX0RFWHZseUwxSzdsRm5ncW9iVHBZdWxxb3k5TWkxeVZrOVBwZE1aR0Yzb01PcDdDZHFlaFhsVTVpMnpYWlk5T3VWTWFscmpzYm5GM05ta0VYQVZrWjFmSUNIeg?oc=5",
+      "source": "Deadline",
       "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-11-10T20:31:00Z"
+      "category": "문화",
+      "publishedAt": "2026-11-11T00:50:00Z"
     },
     {
-      "title": "Wall St retreats as hot inflation data, Fed comments fuel rate worries",
+      "title": "미 증시 하락세 영향에...코스피 장 초반 보합권",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rLWlxaUdNUXN1ak9QdThlRmVYNDRCam45S1BvQkZXZWNsdzVJOHJXanJOSlpjaUZ4YkJ2VjdCV19VQTRBTDFEVlU2elNiTV9vZTRZYmhpNVRQTlBXdGc?oc=5",
+      "source": "YTN",
+      "country": "한국",
+      "category": "주식",
+      "publishedAt": "2026-11-11T00:45:00Z"
+    },
+    {
+      "title": "Hegseth Impeachment Effort Is Derailed by House Republicans",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3aFh0N1I3eXV5VHBNTkx3MEhtTnRKSmNtZXFNaVI3a0V5SUF2T2VfaC1SRnp0Uk5xOWt4Y0hZajRjTHp0bGhKS3RVbFd0b2pPaTJzT0JtbDhGVUc0V2FDTGFiZS1HaFFOdG5IejdJTUlMTGZlUExfZDEyc2c0dw?oc=5",
+      "source": "The New York Times",
+      "country": "미국",
+      "category": "정치",
+      "publishedAt": "2026-11-11T00:43:15Z"
+    },
+    {
+      "title": "[특징주] 금융보안원 해킹에 사이버보안주 다시 급등",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMTFBCNmNKTE9Yb29oLWdKZFRQalRwUlRrd3dUajZ1TlQ0S3FjdGsyYmxURmMyUUlHNlZ1S3JBbHR6cE1sRm52WXlkYTF0UkNEbjdzaFFOY2xoMzjSAWBBVV95cUxOWDVrdHVGaFVTd2FKbHhKR3l6bGhqaHN2NUVOdlcySkdSOGhmYmhEbi1HWkdfMXprOElfRlg2OHlDOG5rVW1ILWpWNVFZbHFSeUpOUDFFM1NhTG5meTNtdlk?oc=5",
+      "source": "연합뉴스",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-11-11T00:33:14Z"
+    },
+    {
+      "title": "\"내 최애 디즈니 왕자님\"..'재혼 황후' 이종석, 로판이 곧 퍼스널 컬러 '글로벌 최다시청 핵심'",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVlZYWWNLTUJKTzhZOUR1NTZiRVpNREhvYmVkOEh2cHZXM0ZBdHhoQ2hGcVY0YnNPelN1NEV3TEhCaUVreWxYM0gtNWZna2x6UzllamdVaW9ETHk0MGUycVNWTEJMbVljYmdMZnBQRXVOR2Vaa2VPMnBLbHRuM2dIc3hBM01UQUQ1cWZ0R2dSbw?oc=5",
+      "source": "조선일보",
+      "country": "한국",
+      "category": "문화",
+      "publishedAt": "2026-11-11T00:19:00Z"
+    },
+    {
+      "title": "“오작동도, 해킹도 막는다”… SK하이닉스, 안전 · 보안 국제 인증으로 피지컬 AI 메모리 신뢰성 강화",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uWEg0MlFpUXBoUW1pSklUNXBaSXdyandhM004eS1aZk5lbm85ZkZyM1ZIODZhZ1BHTkVRcnRHT0M3c2lIRTEyeTFnYW5yOEJseEF5dGU2OG9KRmtNd0RPTnJmaU4yclE2cVh0NA?oc=5",
+      "source": "SK hynix",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-11-10T23:59:05Z"
+    },
+    {
+      "title": "LG AI연구원, ‘K-엑사원 2.5’ API 전격 무료 개방…8주 만에 AI 성능 70%↑, 글로벌 프런티어 AI 정조준",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xRW5sSWg3TnpZc2I2VG56LUt5NFBKUWxxMGxlWDZRQmVOVlNFc2FCQVFvVzliNmdES3BLdDdlOGh2MUhzUWJqcFVocVRyX01yY1ZTU1BRX0pmSDcxMlpGZXNvbkgwZlk?oc=5",
+      "source": "인공지능신문",
+      "country": "한국",
+      "category": "AI",
+      "publishedAt": "2026-11-10T23:53:26Z"
+    },
+    {
+      "title": "앨리스 황 뒤엔 가족 간첩단?…\"10조원대 엔비디아 칩, 중국 공급 관여\"",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcXZ3cXRIRmtLZnFMdlV4QUZLajBhcU5WdkpkenBoczRoMjJnbnRPcXlyN3NoZ1hTdVhkbXNLRFZza1ZNd2haRU9vRXVGUzZZdmYxOXFTWEFta0xydFBvR0N4SFZ0Q0liT0FJbWhtLVJBSTc3b3JDbURYSjk2TFZJUDVzMA?oc=5",
+      "source": "조선일보",
+      "country": "한국",
+      "category": "기술",
+      "publishedAt": "2026-11-10T23:50:00Z"
+    },
+    {
+      "title": "Scoop: Commerce Department received national security warning on Nvidia CEO affair",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NTWlEVTREeTZ0V3J5d1VBblV3Q1JiV0tqTWJUSGVJQ2MxSElWWHpVVG9lTkxKR3ctY2RDVHJUaTdWak1oS2lGSGhPbUJ6MU9CZ2xJdGY1Ui0zQy1uaFliV3c1MXprY3RDejF2eXp2WWc2WWJRSTZiOEljZw?oc=5",
+      "source": "Axios",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-11-10T23:48:33Z"
+    },
+    {
+      "title": "[속보] 이용철 법무장관 후보자 \"공소취소, 진상규명 집중해야\"",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmTGhRR1R2Sk1feHZBc1RmekFGak9iYmJIb0pmM3RXbWtwV2taVUxhZnFyZC1weGtYbEl3emh5alRyVE90aEhISkh5VGJIMDdBSUxmTlF2TE9uYUttZWRCOHM5bjR1dFBLbnZMZ1RSRU9ZeGIzenNN0gF3QVVfeXFMTk1OVGVVMnl4YXQxenU0UE5nQTJJQm1MZkJRQjU2SGJQVGZ1WDZXU21tUnJfNG93NGdFU1cwbHdrUHhmeGZRLU96Z3pCR2FlNW5xN1BhZF80dkV4RWNISDgtUy1TSTBZZWp4ZU1telVSeHM5U3Vvb2M?oc=5",
+      "source": "MBC 뉴스",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-11-10T23:47:25Z"
+    },
+    {
+      "title": "'명장' 벵거, 인판티노에 맞서나…\"FIFA 회장 출마 고민\" 보도",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXY3pxdTZzTnVpdTBqQUoxSE1hRDU3RVdIOW8wRk1LMkpDczgxY0xGWjJoWldKTVlwV3I4NHY1NklhVTA5NGNJMUNOOFNOb2ZlZWpDUkhmZ0ZYc21pYW42cndNaVRzRmtHZVE?oc=5",
+      "source": "SBS 뉴스",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-11-10T23:36:17Z"
+    },
+    {
+      "title": "경기 성남 분당서 버스가 차량 16대 연쇄 추돌‥최소 34명 부상",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03RlNKS2p5ekJWN1FlS1hVam9EdGhjOW9HSlhQNGIyREdPN3ZCbFRGNkdELWp0MDVaOEkxZGNpQmN5aUJUY0E0ekZEeWgtVXNnWFk5Z1RSbnk3cktfVlNhcDdlVDVyV3RFWlJVV2xaLW9Hal9fUks40gF3QVVfeXFMTXdQQ1c1VXU0bjcwWTNyZm9hRlRvNUpBS0taeUdTc2RySkU3X1hRUUdJWWZzeWxKUkFqODdGZXgydFlranJOZDRvX0xNOV96Sm8zZElaQWdxQ29RRWRZM0RrNUVkMnZ4dWxHSWM5VEhpOHNXOURxeEU?oc=5",
+      "source": "MBC 뉴스",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-11-10T23:28:59Z"
+    },
+    {
+      "title": "Vanderbilt University resumes normal schedule amid after campus-wide cybersecurity incident",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcjBvUWctcjRhN3RoNnZ2R0FwSEgyckc1QU16ZE53NTAxODBKcFNpS0xxWUFjdmozR2FQQVFBbTZvUExNazhYd0g0WDFUNmhrc01SVGd3bjI3NnBnZG05dmFRQnBsWmloUV9zOUxXNkF4OEswOXhiVEFINEhRZXpxaUJkaHdXMHFOVU1sUlhuVkVTOHhXMWZWX1R1TnA3d3k3dGsyRUZYd2VYcndSZk5JLWs1cmJLN0x3OXJDNy1HX1puaFk?oc=5",
+      "source": "News Channel 5 Nashville",
+      "country": "미국",
+      "category": "IT",
+      "publishedAt": "2026-11-10T23:11:05Z"
+    },
+    {
+      "title": "\"트럼프, 5월 중국행 전용기서 '젠슨 황 의혹' 보고 받아\"",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0c0ZkSVFDd1hoa0NNZ2Eyb3E3SE1HVWFzMng3QVpXY29jWkRaOVhGb3d5UjJIODJ2QldYeU5vTlR2Y1JHM0ZiRV95ZUlZZUZmR3pxZ3FDTXk4ODNFamNaQkRvRUpLc1R6T1k1M2NsR2Y0YU9s0gF0QVVfeXFMTnNoZmVNMzRneTBoaEhUR092bFNkQi1XcHQwQXVWYmlvY1NRZVBFZGNrNmVlRUVFRFYwZ1d1ckNrZ0ZsQWxkWjlUUGJyMENHSmd5TDFlNzlUMXVzVWd0a25CSnRpUS1DNHJxMDRSaDJkSDZ5ZlM?oc=5",
+      "source": "MBC 뉴스",
+      "country": "한국",
+      "category": "경제",
+      "publishedAt": "2026-11-10T22:33:02Z"
+    },
+    {
+      "title": "How artificial intelligence is changing health care",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTGZzbUl2YXdwVFJDTlYtX29MNDNpbGt1SmFfVlYtd0hzVUxuZ3FYdUxKN3IzUHQwcnNMLXRINlVST0pLcVhsZC1XZHNCbkEzYnZnWGQyakxSYVNvSGFyVzNreHRvb2RyT0JVN2lwQTc4N09STXA3dmNWWVhQYnlGa1Z1eU1kb05yWnFpUXJDVFVOTEZxVk4zMTZB?oc=5",
+      "source": "MPR News",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-11-10T22:21:01Z"
+    },
+    {
+      "title": "“달에서 일 할 사람 찾아요”…연봉 2억2000만원",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hdDZYSDFYbGxmLVh2d1ZySHhfazk2WDBWVVVWUFdnSTZfUjFlQ3J3N1RQYl81QmQyNzhvYjVmVGJIU0t1bG15QmZZUTRna1prNlBfZHlocXdMVXFYMVpuYW4zQ0hlQ21McHFxSlJTOTAxWGvSAWZBVV95cUxPRTFVSjZoTGgwXy1TUjRta2xJdC11cnNTcG5JTEQtMjJ5TDkzU2lLcnNHT1MyYWdQN1BfNFdFc0hLNlItMVhLWnhPMzE3SzhWNWhDR3cxQmhwLXBLMUpvMmE2QmhPX1E?oc=5",
+      "source": "동아일보",
+      "country": "한국",
+      "category": "과학",
+      "publishedAt": "2026-11-10T22:16:18Z"
+    },
+    {
+      "title": "How major US stock indexes fared Tuesday 11/10/2026",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcFdxekViOFRGSmZuZFluQ2tmYko1bDdzem9pdEdSblRNeFR2OUhZMXZLNm10bDdzQ0pQNnRwNkdiUVRRYjVLeHJScTlUd0gwZ0hDQjEzN2VjY0NmZWVpTlBHbnNTWTl4WThPaFIyOXc5WWNsLXpPVElUNnAxMnNiMXdLYnE0dW9WQVFuMGlnSmhDM3BDY19TekdEbDhlYlFTV0NseHNpYlBjTE5wek1wemVNcW54cm5xajFqUjJmVDZYU2QtTUU4?oc=5",
+      "source": "The Washington Post",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-11-10T21:58:49Z"
+    },
+    {
+      "title": "2026 NFL trade deadline winners, losers: Kirk Cousins, Josh Downs, Bengals, more",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUWtpODJhandmejhHanpIV1IwVWxTRnFFQUVxOURDZnQ4VWhTeGNLRkN2TlJvNFpCNlY3YUoxYVlodkFNZzFSQUJRRVd3MDFmQkJQMWcyTHJSdjd0dWJEVXJLUXVoRHYwdHByTjlsam5zWTRqVll3V1hOYlFTeUFlRVh3anFSZ09xbkNhR2RBaUFmOVlMYmFVWjFab2RaMjJRVmc?oc=5",
+      "source": "ESPN",
+      "country": "미국",
+      "category": "스포츠",
+      "publishedAt": "2026-11-10T21:35:00Z"
+    },
+    {
+      "title": "Wall St ends lower as hot inflation data, Fed comments heighten rate worries",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSEE5eGJXT1lYRVFJMUpWb2VCTENjZ2hBNWk0QWl5QVZBNmJ4TFBodVUtRVRzV0JubVE0NFJYRFlmYkpuc0tlbTBValFhV0ppcGdYNEZERXV4ZnhLZUJKTF9fUzZEeHM3cDRwdmlMdUVIUWlERHprb3lKakQ1S1gzSmI5LVZYWWx2cTBjVC1sVEc1OG8tOS0ta0k5VQ?oc=5",
       "source": "Reuters",
       "country": "미국",
       "category": "주식",
-      "publishedAt": "2026-11-10T19:45:44Z"
+      "publishedAt": "2026-11-10T21:27:01Z"
     },
     {
-      "title": "Trump picks Palantir cybersecurity executive to lead CISA",
+      "title": "[창간 21년_AI 대전환, 韓사회에 묻다] 정치 갈등이 키운 간극 사람 잘 믿는 국민도 “국회는 못 믿어”",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUG5NQ2Q5VE04NG94STJLRjk5a3dabzZxb2xUOUx5LVNSSzNYT3pNaElzTlZCSTJ1RnNIQjVUczNCMVFPRWRLbGpNaXRrWG82ejQ2V0FXb3hSMldFUkZEMnYta2lsblRKYnVOYUNSS3pQQ05iYWNkZVVhVTV6VEVpME95N2hwbWwzaFpRYXhRM2phd0hf?oc=5",
-      "source": "Cybersecurity Dive",
-      "country": "미국",
-      "category": "IT",
-      "publishedAt": "2026-11-10T19:39:56Z"
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nS2RzSkxxb2dzaFN1NFdjbTJyUWk2eDZldWRkUFhMQlRRRVFwZ1VNNUhjQ0JFcEpLMDY1X05yWHY2ZnVZVjFpZXNxZVNLNzA5NTl4Nkk0dXh5cEh5WVhZWlhkTFg2c2JaVkljM2pB?oc=5",
+      "source": "아시아투데이",
+      "country": "한국",
+      "category": "사회",
+      "publishedAt": "2026-11-10T21:17:04Z"
     },
     {
-      "title": "House Republicans elect Rep. Jim Jordan as their next leader following election losses",
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSFBKelhaVVFlZVBNM3p1ZGgzVDBEQnlHRWxDTG9EV2xKdTRfbFNsUXN3RmpqUk1NY2tKNlE1V1JsZVhuQk9xY3BEODNxT21nZnpFTDhhV3N4dHlxdnBMSjFJUUZwMzl3UUJpRDMxWTdnN0xhQWt6c1Z2VVF4ZHZpWXRoSWpQOTh2S3kzOEpKVWZ3eEFrY19yenV6dlVLS1JJNFdmNjVSTFZVU2VC?oc=5",
-      "source": "NBC News",
-      "country": "미국",
-      "category": "정치",
-      "publishedAt": "2026-11-10T19:28:15Z"
-    },
-    {
-      "title": "Despite Denial, Trump Was Told on Trip to China About Spying on Nvidia Leader",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNC1PeXp3dElIZEN0SUdTQ2lnMGZoM2UzOUt4VWZkSnJfNy1nYkJLdW1KRkdtNFQwMUZEWlY0bnJZTFFnSjBnU1pxMWI4d2MwRlk0bmRydTJqbU95dXhEcDZIbDJod1dnMEQyOEZRTUY1Qy1wRGpwc0VYUEQ3NVAwRQ?oc=5",
-      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMjJoMFk5cWxCTmNuUDFDbkFYSUxFUzk3ZFYwYmk5WGhhcGNOdlBRbUxidU9QZVJ4bEpQajFIWlE1Ym1adXk1LTM1dW9yUE5xX0ZEREZPQXlYVDhhWUFGd1Vqa3IwZU9hVExxNG1NU0dUcnlnLVFRWDEtaHowaXEtMjVIemxfY3ljUHNQS1YzNDhQejdCelFzWnM1bkc?oc=5",
+      "source": "TechCrunch",
       "country": "미국",
       "category": "경제",
-      "publishedAt": "2026-11-10T19:27:59Z"
+      "publishedAt": "2026-11-10T19:57:52Z"
     },
     {
-      "title": "James Gunn’s DC Exit: More Behind-the-Scenes Details Emerge",
+      "title": "Financing Artificial Intelligence: Cash, Debt, and Corporate Investment",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM0JkbXBDNkMyQTZKV1JaakZ4a24xb3ctc2JONTI4OWc5SGc1TXZFMVFKMlNrSHZWeWN1VkVoXy1DRnctZEhKVHBzeXVRd1F0OFh0VXNJVllndlp2bXJIekF1NGRXSjZzRmRMOHFVZUlEUEFubnBmUGtqeTEyTGFhbGt1TWRUVjBBUjhObGxvcnMwQQ?oc=5",
-      "source": "Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTFVFWFNiUmVHOHM0M0ZjOGtKQkR6YkdLUUFfYWw1ay05SEd6TmR1RzJmaVJqd25sekVpZWsxeGFMVjI1Z3A1anItajFtTFJtQlZGUXB4M2xaU2paV25aczY4bzROYUp6YXRCUUNWOVloRFVXYjl4QXh0c212Ui0xWldXckp3bjlwZHViUTlobXlEaEhub2s3QlFLQVhIaWN6TVg0QjlScDlfQ1dGanFFdDB2Rk1wanZrM2FBcw?oc=5",
+      "source": "Federal Reserve Bank of St. Louis",
       "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-11-10T19:15:21Z"
-    },
-    {
-      "title": "British comedian and children’s author David Walliams accused of sexual misconduct",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQzV6eGhta1EwczFLWGx6NDg0eDZieUUtTUd6bXlIc3NRSlhmZnNEOWRBSHV4X0RvQktrMmZDNnZVRU5LTklpY1Z5WVhBTnh0SFRUTFdMQm5ucEtOem15d2l4WktkX3VCamgwWWtTSy1LaUxOODJvUGlnVzFVSG5saTZldTNNcDN6UkNhSG8xaG5wdXVKR0JJZlRTaWNZOEFXZEpwZG9uU0plcDFNcldQTjk1bw?oc=5",
-      "source": "AP News",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-11-10T18:47:00Z"
-    },
-    {
-      "title": "Sources: Vikings reunite with QB Kirk Cousins, send 3rd-round pick to Raiders",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU3BQdmxQZ3dlMU9lcEtwcWlObUF0b3NoVktIcThvVHdDd1dRSEhVZXNFX2x1LWpGNnRKNDA0RHN0eGxDRHJJM25pVG0yVVp1LWNFakNqNTdrOEdOZmNvdDJZYVd2QTRtR0pFX2pxOE44djdaYW1HNjI3N29Wa3JWRTVIekxpRmZrNVdCWVFQVWxEM0NsQ3dsdXNQS2tMLVE?oc=5",
-      "source": "ESPN",
-      "country": "미국",
-      "category": "스포츠",
-      "publishedAt": "2026-11-10T18:35:00Z"
+      "category": "AI",
+      "publishedAt": "2026-11-10T19:40:25Z"
     },
     {
       "title": "2026 News",
@@ -83,94 +209,31 @@
       "publishedAt": "2026-11-10T18:00:46Z"
     },
     {
-      "title": "LG AI연구원, ‘K-엑사원 2.5’ API 전격 무료 개방…8주 만에 AI 성능 70%↑, 글로벌 프런티어 AI 정조준",
+      "title": "Johnny Depp’s ‘Ebenezer’ Comeback: A Smaller $5 Million Salary, Optimistic Theater Owners and More",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xRW5sSWg3TnpZc2I2VG56LUt5NFBKUWxxMGxlWDZRQmVOVlNFc2FCQVFvVzliNmdES3BLdDdlOGh2MUhzUWJqcFVocVRyX01yY1ZTU1BRX0pmSDcxMlpGZXNvbkgwZlk?oc=5",
-      "source": "인공지능신문",
-      "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-11-10T17:49:40Z"
-    },
-    {
-      "title": "Faculty member addresses artificial intelligence practically and theoretically",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRlNYMDJkYUZDVzhDbFRGa2tNZ25WbXdVNXdJU05QZEtmTS1GMlZlSFY1Mk1NdVFKSzF4eDFhU1dZZVEtMXZ3TlVNZnZ3Z2MtNnFnbGJMRGxhc2Nhdm83amJmR2JlZl9vc3UzRVBQd0RydV80elNjM1ZfSWdsZnk1eVE0aGhBcmN1YkhFRW5rWVRqWU50S1JEM3ZQd0U1el94eUpIVXBQb1RkUGg5TTBMTTZhRQ?oc=5",
-      "source": "The Pennsylvania State University",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVVcyUG9PZjdUNDU5cTlZQjdLb0ppb1RUSHluUjRhMUFkVW52V0FOT1BRc3pUTEJzMW1TdVFub2lqU0NyTUtWSndEbFMzN2ZOSk1BX2tiX1dRTXRlVTZxQXowUmI2RTd4cjhLaEFjZ0ZyWjhqaTd0MXIzSm8ySXdHRm1mSDVLMDRHUDZNNm52WU1SeGVvenEzM2cxaw?oc=5",
+      "source": "Variety",
       "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-11-10T17:46:03Z"
+      "category": "문화",
+      "publishedAt": "2026-11-10T17:01:00Z"
     },
     {
-      "title": "AMA: Artificial intelligence can augment physicians but don’t call it doctor",
+      "title": "AMD EPYC 9996 Benchmarks Show Unparalleled Performance With 256 Zen 6C Cores Review",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMTJBWEM3b2VHTU85Z1NKeXp2cEJvLWJ1MlVoQ1c1YWtXQ0FMU3FNTUFMSHlMTW5xZUNlaTcycmN6RzdGUUkzVW5qVXl5YTlfM3d6NmVTMmJwTzFvUVNMOGhtMVR0MlV3cnppM3BqWi13aXlfdVpMb0lvbmFMYm5pWTRoajhfR1l0ZkNpYVpxejRDaGg5Z3FvRVpESlRTSFZILS13dEtTWVFpQUVDeVBqUHRXQUNDVkU2QnZ5TkpB?oc=5",
-      "source": "American Medical Association | AMA",
-      "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-11-10T17:37:43Z"
-    },
-    {
-      "title": "Is the S&P 500 Heading for a Correction?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORVVKZlhpamMybWphWmRqYlJWR1FkQ1JQcXVwVjBXdUtwMmkzUGFEdTFGQzFvTUotZHBhZE0yc1luSjRkVVRmSms4YU5YOUNERG52WVo3dWFuT2swSy1oZjMwTklqS2tTVGItSnYtbERZTEhOTE1QMlZEMDJvcjRiVTVmZ3Fhb2RqQ1BFUjNQUQ?oc=5",
-      "source": "The Motley Fool",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-11-10T17:33:00Z"
-    },
-    {
-      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS1FMM2Rhc1RaOWNteEpIRDZLV2RNanAxOEtlY25LQ0tLejhndUQ1M1lpRFdXQjdkMnJ1SGxQSFhSODByVDhrWHp4dzdqM01pTzhTTVBpY2swLTZncWFJU1NaeXlTYk0tbFFzOVFISWFuamYzaXhiNlFfQmZoekk4YXkyaHdBRDhLMF9DSmo4UEZUV0pWcEVYZUNGci1iZw?oc=5",
-      "source": "The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MUGtOSjZPWlNnOXg5Nkl2NklKWGRQc3VROVQwUlhvMHFhNDNBdnQzUks4QzFrN3c1RkJhd0RuQjNYX0tnNXdhUnlOSDl2R3hwY0pzQnU1dE4?oc=5",
+      "source": "Phoronix",
       "country": "미국",
       "category": "기술",
-      "publishedAt": "2026-11-10T16:00:00Z"
+      "publishedAt": "2026-11-10T17:00:00Z"
     },
     {
-      "title": "“젠슨 황 외도 상대 ‘엔비디아 GPU 확보 가능’ 과시”…수억달러 유치 시도",
+      "title": "한국 야구, 도쿄돔서 올해 마지막 승부…한일전 11연패 끊을까",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96LWdVNGFIQmhUVUtwZ19xNjNLQ2hBYUFnUlpHRHhZVkNIVVBpZ3RvQ1VHYmhMdk1NSWtoV3otNUxRaG0wdDExWVhaQkJCM2kxTkxQQ3pMNGcyVFBqS3dqSnROZUFpR3hleUw4Wg?oc=5",
-      "source": "한겨레",
-      "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-11-10T15:35:00Z"
-    },
-    {
-      "title": "[단독] 김종철 후보자 ‘누나와 공동소유’ 꼼수로 재개발 아파트 2채 분양 의혹",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13cWJhUDdleFc1Rkt5XzdMQnRmYTFjaGl0bV9XdnZHRlhVQnQ0LU8wN2hQRldYSGNoS2hzeE4tZXRhdkRyU1hocHNhaTdscEpZU2ppOUNZUEdRVnliUWR3OC1VQ05RY05vdnU5MVRZMWNLUQ?oc=5",
-      "source": "한겨레",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-11-10T15:33:00Z"
-    },
-    {
-      "title": "미 증시 강세·유가 하락...코스피, 4.4% 반등 마감",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qbnd0a1dLd1J3NmhLVk9tM3VVM3pOWnRidndyLWN4UGtyS1FaOEljNHc4a0c4MnhwdUV3T1NtMUs0eXdTaWZGNzV0NFBXeUdUdHU0V1pBbFpDRUVRUl9XbHlyM1M0VWF2T2VyTFpmcw?oc=5",
-      "source": "YTN",
-      "country": "한국",
-      "category": "주식",
-      "publishedAt": "2026-11-10T15:24:00Z"
-    },
-    {
-      "title": "김민솔 3관왕·상금 16억원 등 KLPGA 신기록 쏟아져",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52bzZXQlJjX1J5eUZJaWJaN0JrMlhmM3hjVC1zbWVVbm9QV3l5ekJaRzY3ejRBVW9KR1Yybl9Td3phVG8wQUhJOHl4T2JBaFhuc2g4OG9Ka0ZycHB0bnlrMVBjRTZkNk5rT251OA?oc=5",
-      "source": "경상일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Td05DcF9Ed3lqeVk5VXBzTUJacDlfSFpPSl93eWx3WVppUHJ5RWoydk5pdWd2dDFVMUtXbnRabWdtOXRyZlFqQUFTSTBReFEyd0g3aW91WENCdnc?oc=5",
+      "source": "강원일보",
       "country": "한국",
       "category": "스포츠",
-      "publishedAt": "2026-11-10T15:00:02Z"
-    },
-    {
-      "title": "한국사회복지사협회 ‘독립된 사회복지사법’ 제정 필요성 논의",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xUUM4cU5YSEtQckFGRjJfY3dES3VDbmp0N0FGbXFad0l6OXhVRmNacjJpTnZJekdRY0cyLXFfYklNSHlPUngyV29XWXVrand0Z2lFSTJ1OEtVeXJlRGYzRWc2WlI?oc=5",
-      "source": "서울복지신문",
-      "country": "한국",
-      "category": "사회",
-      "publishedAt": "2026-11-10T11:04:00Z"
+      "publishedAt": "2026-11-10T12:26:00Z"
     },
     {
       "title": "NASA's twin ESCAPADE Mars probes slingshot around Earth in unprecedented double 'gravity assist'",
@@ -182,52 +245,7 @@
       "publishedAt": "2026-11-10T11:00:00Z"
     },
     {
-      "title": "'서바이벌 5연속 우승자' 장동민, 재테크 비결 \"내 능력에 투자\" 눈길('살롱드립2')",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUjhqWC1WMTBoQVBoWXktNFlTM3dWU0Qta1dIMzVETXhHNVE3Y0hWR3ZwMU5ERk55Tk9DSE9lOTV5Y3RfTnN3MFJQZXAzdmd1ZkYwSVBRYkNQcXNXNWZ5M1VjSi1mMlREcEgxc0RjU3hyTU1YLVl0b2NETV9nY1Rrb2JWQXpULXVOUDBfWWFFWUxfR2fSAacBQVVfeXFMTXlNZzVxeGo5b1NIa2kzWFBydmk4WTllUEFjTl96X1VwaVk0VmpsUzQ2VGJNakxMb1A3dVljalJla0ZkWTJaY2RfZHNaQ1lJOTRJeWtOSjlfOXpidmh6aFJ6X3dqMFRTUnRENmszUWtobzJZQ1RCNXZpRnJyOFJVYzV3WU9YM0FBRXd6UmdGOWpFTnhEQXFmUXhhemFKRDd4YmtFTXVtNTg?oc=5",
-      "source": "Chosunbiz",
-      "country": "한국",
-      "category": "문화",
-      "publishedAt": "2026-11-10T10:48:00Z"
-    },
-    {
-      "title": "[AIx소프트웨이브 2026] 에이아이브, 분산 GPU 기반 AI 클라우드 플랫폼 공개",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wUU91U1ZRZ2VVSnkzaFJxQVdpbFJXSnFuVEMyQkJlUHJGaUREX2cyUG5wZkRrYjc4aVcydU5pLXJ0SUV2c3pKd2tVQk0zQQ?oc=5",
-      "source": "전자신문",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-11-10T09:24:55Z"
-    },
-    {
-      "title": "‘교리로 신도 지배해 성범죄’…시흥 목사 부부 영장 신청",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Ma1l0cjRGWkVIWEUzZHJZQUpQNDBhSDl5X1E3WVUteXFmQ1ROVk1YZFlFb0ZURnNaNGMzWG10bWZyUTRFWV9qdnpCM3JvUDlyRmd5VUlySHVaWXM?oc=5",
-      "source": "KBS 뉴스",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-11-10T09:13:00Z"
-    },
-    {
-      "title": "“우승만 하면 된다면서요”…다년 계약 불발 구자욱·원태인, FA로 붙잡으려면 얼마?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0teDFVT2o3MWRxMFZORF9UamxRakJyZ0hlY3JMNXlCcC10ck9JLXp0NzhPUTJBYklBQTZSeGt5UDZOa19YbFpNbEtmUjE4UTEwVm5OWEMySHJjZ9IBX0FVX3lxTFBQVWNMQ285dU9GUEFvZEZkaVIzUEZWbWNnSFNDYTNRWk5aUVI0RGZTRnN4SWNBYjF2XzBrbzRUa2N5OWxSblptUFdfTmFqSV9qNnFweWxSamhTcWlOTW93?oc=5",
-      "source": "경향신문",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-11-10T07:56:00Z"
-    },
-    {
-      "title": "LGU+, 국내 통신사 최초 ‘자동차 사이버보안’ 국제표준 레벨3 인증",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqN0VhbWZBb2R5SjRFR3ctLWJPLUxCZkZiQUl1bHcxRzROQTI0dG54ZVQxU3RuM3g4TDFhU2ZQR0ZSNkJKM19FSWtEWnkxMVAxanNoWTBLdmVhUldmZjRleGk1MHJpbC10Wnc?oc=5",
-      "source": "AI타임스",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-11-10T07:35:02Z"
-    },
-    {
-      "title": "지속가능발전목표를 아는 사람은 얼마나 될까… 한국 사회에 남은 인식의 간극",
+      "title": "지속가능발전목표를 아는 사람은 얼마나 될까…한국 사회에 남은 인식의 간극",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPY3FBTFFvQUszQlo0UmxDQXJXNFkyUmw5azBJdVQ5N0M3NjFiUWFuVTJ1Q3ZKUl8zNzZCRGluQUozVUZYLWNZdUU1UDBqUXNSSUFacXgxRUFQNXo2QTlFclF6UEduUmfSAWtBVV95cUxQc0hRSUpiSmpqWV9XZmt6S2NFLVdOR3dzYXpOWDNtdmhOemR6N0xHNEVRdlRpazN4MzFOcFl2YjdPaHZFUC1QZFQ3aWk2OEpzNzVIN0UxTHZjQmw5dEhKcEdualhSRWNFQ1ZSTQ?oc=5",
       "source": "SDG뉴스",
@@ -236,31 +254,13 @@
       "publishedAt": "2026-11-10T07:34:38Z"
     },
     {
-      "title": "“연봉 2억2천 준다는데, 출퇴근이 좀”…최강스펙 인재들 美NASA 채용 ‘주목’",
+      "title": "“호앙사·쯔엉사가 中 영토라고?”… 샤오미·화웨이 등 중국산 스마트폰 베트남 매장서 퇴출 소동",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwRXJ5UHFkV2tGSFA1ZU9OcmZmWFFZM18wMFVTbWJTOHRadU96MHlkcURILXk0SW5IaE5UazZFM0J4Rk9TWkF0ZG1KSldCZ3hzTUE?oc=5",
-      "source": "매일경제",
-      "country": "한국",
-      "category": "과학",
-      "publishedAt": "2026-11-10T06:23:29Z"
-    },
-    {
-      "title": "1.3조원 받자마자 불륜 인정이라니…젠슨황 스캔들에 네이버는?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FRlQtV2llN0J6cFJSTlZKTnFVejR2QmZqWnhPU2lTb2liYldoRzRpZDVmTjRPdEx6YkRTTXpDczVELWVpTHZtcnhkTUw5Q3NzbFZnczJ3?oc=5",
-      "source": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMFhQUk5GenpGNkM3clVwOGozQnhESjN0emVfZDZJNGJ4S3lOSG1aTGNGcTdWamNUd3pISHRZcWVyVW5OaWVCMW9oMlMzbzVzekNzcUxSVkhiMlNYaXBQaHFxaDFwaEQwdEhmXzF1RG14WmMzbS15ZTBzU2hxeHgyNEtR0gGWAUFVX3lxTFAyOHY2QTNtWHh3QVlseElZQlFoLXg2MWZ1aTdqVEtQZmkyOUE5VWZuTkk0NWNiN0Fnalg5VkJGTGxKSHgwOHBXajlEeWhYdzhJT1lfalh6Z3hCdHdZNXlTSmpHelNuOVpheVlsU3RqRnM2YjRZQUlra09tU045SDJkQ0J0SC1uZEM4OE9nX1Vsd0ZvWGRZUQ?oc=5",
+      "source": "Chosunbiz",
       "country": "한국",
       "category": "기술",
-      "publishedAt": "2026-11-10T05:17:01Z"
-    },
-    {
-      "title": "아빠 불륜 상대인지 모르고…웃으며 사진 찍어 준 젠슨 황 딸",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjLUVZM2RuN2pfUTFKQmx2WVplNkp6UnpWNVN3TzYzUXUzM0k5VDREN3JqZGVoc05IUDhhcXM0R3p3YU16VU9JaFoybjJNMEV6?oc=5",
-      "source": "문화일보",
-      "country": "한국",
-      "category": "기술",
-      "publishedAt": "2026-11-09T23:47:14Z"
+      "publishedAt": "2026-11-10T04:55:00Z"
     },
     {
       "title": "NASA is hiring astronaut candidates. Some could \"live and work\" on the moon.",
