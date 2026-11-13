@@ -1,158 +1,202 @@
 {
-  "generatedAt": "2026-11-13T17:49:44.325142Z",
+  "generatedAt": "2026-11-13T23:38:59.891616Z",
   "items": [
     {
-      "title": "Stock Market Today: Nvidia Slides Again as Investors Brace for More Fallout; Nasdaq Slumps— Live Updates",
+      "title": "Live updates: No timeline for resolving nationwide ground stop as flight cancellations climb",
       "summary": "",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-13-2026",
-      "source": "WSJ",
+      "url": "https://www.cnn.com/2026/11/13/us/live-news/flights-ground-stop-faa",
+      "source": "CNN",
       "country": "미국",
       "category": "경제",
-      "publishedAt": "2026-11-13T17:30:00Z",
-      "storyKey": "stockmarkettodaynvidiaslidesagainasinvestorsbraceformorefalloutnasdaqslumpsliveupdates",
+      "publishedAt": "2026-11-13T23:22:00Z",
+      "storyKey": "liveupdatesnotimelineforresolvingnationwidegroundstopasflightcancellationsclimb",
       "isNew": true
     },
     {
-      "title": "Enterprise AI agent observability with BigQuery and Looker",
+      "title": "AI Job Interviews Lead to Better Outcomes",
       "summary": "",
-      "url": "https://cloud.google.com/blog/products/data-analytics/enterprise-ai-agent-observability-with-bigquery-and-looker",
-      "source": "Google Cloud",
-      "country": "미국",
-      "category": "IT",
-      "publishedAt": "2026-11-13T17:22:43Z",
-      "storyKey": "enterpriseaiagentobservabilitywithbigqueryandlooker",
-      "isNew": true
-    },
-    {
-      "title": "SpaceX's giant rocket may leave NASA in the dust",
-      "summary": "",
-      "url": "https://www.npr.org/2026/11/13/nx-s1-6039312/spacex-nasa-starship-iss-dragon-falcon-musk",
-      "source": "NPR",
-      "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-11-13T17:14:56Z",
-      "storyKey": "spacexsgiantrocketmayleavenasainthedust",
-      "isNew": true
-    },
-    {
-      "title": "Trump’s top economic advisers clash over Lutnick’s handling of Nvidia",
-      "summary": "",
-      "url": "https://www.washingtonpost.com/business/2026/11/13/treasury-secretary-points-commerce-secretary-failure-restrict-nvidia-customer/",
-      "source": "The Washington Post",
-      "country": "미국",
-      "category": "정치",
-      "publishedAt": "2026-11-13T17:09:01Z",
-      "storyKey": "trumpstopeconomicadvisersclashoverlutnickshandlingofnvidia",
-      "isNew": true
-    },
-    {
-      "title": "Pentagon rebrands principle AI shop as ‘Super Intelligence Office’",
-      "summary": "",
-      "url": "https://breakingdefense.com/2026/11/pentagon-rebrands-principle-ai-shop-as-super-intelligence-office/",
-      "source": "Breaking Defense",
+      "url": "https://www.chicagobooth.edu/review/2026/november/ai-job-interviews-lead-better-outcomes",
+      "source": "The University of Chicago Booth School of Business",
       "country": "미국",
       "category": "AI",
-      "publishedAt": "2026-11-13T17:02:32Z",
-      "storyKey": "pentagonrebrandsprincipleaishopassuperintelligenceoffice",
+      "publishedAt": "2026-11-13T22:52:30Z",
+      "storyKey": "aijobinterviewsleadtobetteroutcomes",
       "isNew": true
     },
     {
-      "title": "[APBC] 'KS 악몽 재현' KT 안현민, 한일전에서도 외야 수비 불안 노출",
+      "title": "“앨리스 황 가족기업, 딥시크-화웨이와 얽혀… 中 ‘AI 굴기’ 지원”",
       "summary": "",
-      "url": "https://m.newspim.com/news/view/20261114000007",
-      "source": "뉴스핌",
+      "url": "https://www.donga.com/news/Economy/article/all/20261113/135023332/2",
+      "source": "동아일보",
+      "country": "한국",
+      "category": "AI",
+      "publishedAt": "2026-11-13T22:38:35Z",
+      "storyKey": "앨리스황가족기업딥시크화웨이와얽혀ai굴기지원",
+      "isNew": true
+    },
+    {
+      "title": "FBI Said to Probe Whether Software Update Caused Mass FAA Outage",
+      "summary": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/fbi-said-to-probe-whether-software-update-caused-mass-faa-outage",
+      "source": "Bloomberg",
+      "country": "미국",
+      "category": "IT",
+      "publishedAt": "2026-11-13T22:01:21Z",
+      "storyKey": "fbisaidtoprobewhethersoftwareupdatecausedmassfaaoutage",
+      "isNew": true
+    },
+    {
+      "title": "축구대표팀, 사우디에 21년 만의 충격패…‘경기력’으로도 증명 실패",
+      "summary": "",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712787",
+      "source": "KBS 뉴스",
       "country": "한국",
       "category": "스포츠",
-      "publishedAt": "2026-11-13T16:46:00Z",
-      "storyKey": "apbcks악몽재현kt안현민한일전에서도외야수비불안노출",
+      "publishedAt": "2026-11-13T21:54:00Z",
+      "storyKey": "축구대표팀사우디에21년만의충격패경기력으로도증명실패",
+      "isNew": true
+    },
+    {
+      "title": "Cargo Ship Crashes Into Docked Riverboat in New Orleans",
+      "summary": "",
+      "url": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html",
+      "source": "The New York Times",
+      "country": "미국",
+      "category": "정치",
+      "publishedAt": "2026-11-13T21:48:48Z",
+      "storyKey": "cargoshipcrashesintodockedriverboatinneworleans",
+      "isNew": true
+    },
+    {
+      "title": "S&P 500, Nasdaq end lower as Nvidia uncertainty weighs on tech shares",
+      "summary": "",
+      "url": "https://www.reuters.com/business/nasdaq-futures-dip-nvidia-tumult-keeps-investors-edge-2026-11-13/",
+      "source": "Reuters",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-11-13T21:34:31Z",
+      "storyKey": "sp500nasdaqendlowerasnvidiauncertaintyweighsontechshares",
       "isNew": true
     },
     {
       "title": "US Stocks Drift Before Inflation Test of Fed Bets: Markets Wrap",
       "summary": "",
       "url": "https://www.bloomberg.com/news/articles/2026-11-12/stock-market-today-dow-s-p-live-updates",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "country": "미국",
       "category": "주식",
-      "publishedAt": "2026-11-13T16:21:05Z",
+      "publishedAt": "2026-11-13T21:22:11Z",
       "storyKey": "usstocksdriftbeforeinflationtestoffedbetsmarketswrap",
+      "isNew": false
+    },
+    {
+      "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
+      "source": "CNBC",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-11-13T21:00:12Z",
+      "storyKey": "airisksarethebiggestthreattothefinancialsystemfedsurveyfinds",
       "isNew": true
     },
     {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "title": "Exclusive / How Nvidia’s Jensen Huang – and Trump – jumped the guardrails",
       "summary": "",
-      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch",
+      "url": "https://www.semafor.com/article/11/13/2026/how-nvidias-jensen-huang-and-trump-jumped-the-guardrails",
+      "source": "Semafor",
       "country": "미국",
       "category": "경제",
-      "publishedAt": "2026-11-13T15:58:00Z",
-      "storyKey": "theunfoldingjensenhuangscandalatimeline",
+      "publishedAt": "2026-11-13T20:34:00Z",
+      "storyKey": "exclusivehownvidiasjensenhuangandtrumpjumpedtheguardrails",
       "isNew": true
     },
     {
-      "title": "Apptio Cloudability와 IBM Turbonomic으로 FinOps 운영 및 자동화",
+      "title": "원하는 소프트웨어를 선택할 수 있는 ｢Nintendo Switch 2 Select One 세트｣ 발매 결정! | News | 한국닌텐도주식회사",
       "summary": "",
-      "url": "https://www.ibm.com/kr-ko/new/announcements/operationalize-and-automate-finops-with-apptio-cloudability-and-ibm-turbonomic",
-      "source": "IBM",
+      "url": "https://www.nintendo.com/kr/news/article/2Sg010Gp2IgWHeCWGapZA2",
+      "source": "Nintendo",
       "country": "한국",
       "category": "IT",
-      "publishedAt": "2026-11-13T15:37:43Z",
-      "storyKey": "apptiocloudability와ibmturbonomic으로finops운영및자동화",
+      "publishedAt": "2026-11-13T18:54:59Z",
+      "storyKey": "원하는소프트웨어를선택할수있는nintendoswitch2selectone세트발매결정news한국닌텐도주식회사",
       "isNew": true
     },
     {
-      "title": "AI 도입을 가속화하는 열쇠는 전문 역량을 갖춘 파트너",
+      "title": "What men need to know after a major update to prostate cancer guidelines",
       "summary": "",
-      "url": "https://www.ibm.com/kr-ko/think/insights/skilled-partners-hold-the-key-to-accelerating-ai-adoption",
-      "source": "IBM",
+      "url": "https://www.pbs.org/newshour/health/what-men-need-to-know-after-a-major-update-to-prostate-cancer-guidelines",
+      "source": "PBS",
+      "country": "미국",
+      "category": "사회",
+      "publishedAt": "2026-11-13T17:58:31Z",
+      "storyKey": "whatmenneedtoknowafteramajorupdatetoprostatecancerguidelines",
+      "isNew": true
+    },
+    {
+      "title": "Avril Lavigne Announces Birth of First Child, a Baby Girl — See the Pics",
+      "summary": "",
+      "url": "https://www.today.com/popculture/news/avril-lavigne-announces-first-child-rcna609183",
+      "source": "TODAY.com",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-11-13T17:10:02Z",
+      "storyKey": "avrillavigneannouncesbirthoffirstchildababygirlseethepics",
+      "isNew": true
+    },
+    {
+      "title": "‘닥터X’ 종영 앞두고 드러난 김지원 과거… 아동 성범죄자 향한 응징의 카운트다운",
+      "summary": "",
+      "url": "https://sports.khan.co.kr/article/202611140204003",
+      "source": "스포츠경향",
       "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-11-13T15:37:43Z",
-      "storyKey": "ai도입을가속화하는열쇠는전문역량을갖춘파트너",
+      "category": "문화",
+      "publishedAt": "2026-11-13T17:04:00Z",
+      "storyKey": "닥터x종영앞두고드러난김지원과거아동성범죄자향한응징의카운트다운",
+      "isNew": true
+    },
+    {
+      "title": "Russell Brand Accused of Predatory Behavior by Several More Women: “I Begged Him to Stop”",
+      "summary": "",
+      "url": "https://www.hollywoodreporter.com/news/general-news/russell-brand-sexual-allegations-women-prison-trial-report-1236754647/",
+      "source": "The Hollywood Reporter",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-11-13T16:31:57Z",
+      "storyKey": "russellbrandaccusedofpredatorybehaviorbyseveralmorewomenibeggedhimtostop",
+      "isNew": true
+    },
+    {
+      "title": "UFC 334 weigh-ins results: Ciryl Gane 11 pounds heavier than Josh Hokit; 2 fighters miss weight",
+      "summary": "",
+      "url": "https://sports.yahoo.com/mma/live/ufc-334-gane-vs-hokit-live-weigh-in-results-and-video-from-new-york-114500345.html",
+      "source": "Yahoo Sports",
+      "country": "미국",
+      "category": "스포츠",
+      "publishedAt": "2026-11-13T16:14:35Z",
+      "storyKey": "ufc334weighinsresultscirylgane11poundsheavierthanjoshhokit2fightersmissweight",
       "isNew": true
     },
     {
       "title": "FBI “북한, ‘주당 수천만 회 다운로드 소프트웨어 감염’ 시도 …신속 대응해 저지”",
       "summary": "",
-      "url": "https://www.voakorea.com/amp/8223336.html",
+      "url": "https://www.voakorea.com/a/8223336.html",
       "source": "VOA 한국어 홈페이지",
       "country": "한국",
       "category": "IT",
       "publishedAt": "2026-11-13T15:20:34Z",
       "storyKey": "fbi북한주당수천만회다운로드소프트웨어감염시도신속대응해저지",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "ABC announces Sam Hartman is The Bachelor",
+      "title": "Why Apple's HomeView Relies So Heavily On Your iPhone",
       "summary": "",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/abc-announces-sam-hartman-is-the-bachelor",
-      "source": "NBC Sports",
+      "url": "https://www.engadget.com/2315338/why-apples-homeview-relies-so-heavily-on-your-iphone/",
+      "source": "Engadget",
       "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-11-13T14:56:09Z",
-      "storyKey": "abcannouncessamhartmanisthebachelor",
-      "isNew": true
-    },
-    {
-      "title": "‘닥터X’ 아동 성추행범 전국환, 수술 도중 눈 떴다… 김지원·김우석·이진희의 ‘복수’ 시작",
-      "summary": "",
-      "url": "https://sports.khan.co.kr/article/202611132353003",
-      "source": "스포츠경향",
-      "country": "한국",
-      "category": "문화",
-      "publishedAt": "2026-11-13T14:53:00Z",
-      "storyKey": "닥터x아동성추행범전국환수술도중눈떴다김지원김우석이진희의복수시작",
-      "isNew": true
-    },
-    {
-      "title": "Goldman Sachs sees S&P 500 rising to 8,700 next year despite slower earnings growth",
-      "summary": "",
-      "url": "https://www.reuters.com/business/goldman-sachs-sees-sp-500-rising-8700-next-year-despite-slower-earnings-growth-2026-11-13/",
-      "source": "Reuters",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-11-13T14:31:48Z",
-      "storyKey": "goldmansachsseessp500risingto8700nextyeardespiteslowerearningsgrowth",
+      "category": "기술",
+      "publishedAt": "2026-11-13T14:00:00Z",
+      "storyKey": "whyappleshomeviewreliessoheavilyonyouriphone",
       "isNew": true
     },
     {
@@ -164,7 +208,7 @@
       "category": "경제",
       "publishedAt": "2026-11-13T12:28:00Z",
       "storyKey": "대만매체젠슨황불륜녀국가안전부반도체팀소속",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "\"통일교가 김민석 밀어\"…최민희 녹취록 추가 파장",
@@ -175,29 +219,7 @@
       "category": "정치",
       "publishedAt": "2026-11-13T10:45:00Z",
       "storyKey": "통일교가김민석밀어최민희녹취록추가파장",
-      "isNew": true
-    },
-    {
-      "title": "Jews are having the wrong conversation about artificial intelligence",
-      "summary": "",
-      "url": "https://ejewishphilanthropy.com/jews-are-having-the-wrong-conversation-about-artificial-intelligence/",
-      "source": "eJewishPhilanthropy",
-      "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-11-13T10:45:00Z",
-      "storyKey": "jewsarehavingthewrongconversationaboutartificialintelligence",
-      "isNew": true
-    },
-    {
-      "title": "Apple Launches Two Products Today",
-      "summary": "",
-      "url": "https://www.macrumors.com/2026/11/13/apple-launches-two-products-today/",
-      "source": "MacRumors",
-      "country": "미국",
-      "category": "기술",
-      "publishedAt": "2026-11-13T10:37:14Z",
-      "storyKey": "applelaunchestwoproductstoday",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "[동포의 창] 미주한상총연, 뉴욕 BDNY 첫 한국관…중소기업 美진출 지원",
@@ -208,40 +230,7 @@
       "category": "사회",
       "publishedAt": "2026-11-13T10:27:01Z",
       "storyKey": "동포의창미주한상총연뉴욕bdny첫한국관중소기업진출지원",
-      "isNew": true
-    },
-    {
-      "title": "Russell Brand Faces Sexual Misconduct Claims From Six More Women After Rape Sentencing",
-      "summary": "",
-      "url": "https://variety.com/2026/tv/news/russell-brand-misconduct-claims-six-more-women-1236946823/",
-      "source": "Variety",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-11-13T08:02:00Z",
-      "storyKey": "russellbrandfacessexualmisconductclaimsfromsixmorewomenafterrapesentencing",
-      "isNew": true
-    },
-    {
-      "title": "KBO FA 시장 개장! 원태인·구자욱·양의지 등 28명 자격 공시",
-      "summary": "",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8712285",
-      "source": "KBS 뉴스",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-11-13T07:48:00Z",
-      "storyKey": "kbofa시장개장원태인구자욱양의지등28명자격공시",
-      "isNew": true
-    },
-    {
-      "title": "李대통령 \"증안펀드 적정 가동 방식 재검토해야\"",
-      "summary": "",
-      "url": "https://www.hankyung.com/article/202611135641i",
-      "source": "한국경제",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-11-13T07:45:50Z",
-      "storyKey": "대통령증안펀드적정가동방식재검토해야",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "사보원, 내달 9일 '사회보장 AI 심포지엄' 개최",
@@ -252,17 +241,28 @@
       "category": "사회",
       "publishedAt": "2026-11-13T06:57:20Z",
       "storyKey": "사보원내달9일사회보장ai심포지엄개최",
+      "isNew": false
+    },
+    {
+      "title": "삼성물산 패션부문, 삼성라이온즈 우승 기념 할인전…최대 21% 혜택",
+      "summary": "",
+      "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=89492",
+      "source": "인더스트리뉴스",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-11-13T06:42:05Z",
+      "storyKey": "삼성물산패션부문삼성라이온즈우승기념할인전최대21혜택",
       "isNew": true
     },
     {
-      "title": "Jayden Daniels and Commanders rally to stun the Giants 24-21 and keep their hopes alive",
+      "title": "\"나는 쓰레기 같은 X... 여성들 삶 망칠까 걱정\" 젠슨 황의 마지막 말",
       "summary": "",
-      "url": "https://apnews.com/article/giants-commanders-score-d0962af1b40a7fc129b86828670b45ab",
-      "source": "AP News",
-      "country": "미국",
-      "category": "스포츠",
-      "publishedAt": "2026-11-13T05:30:00Z",
-      "storyKey": "jaydendanielsandcommandersrallytostunthegiants2421andkeeptheirhopesalive",
+      "url": "https://www.chosun.com/economy/tech_it/2026/11/13/6AVITRBVKJCPZNYGW35ELJOBVI/",
+      "source": "조선일보",
+      "country": "한국",
+      "category": "기술",
+      "publishedAt": "2026-11-13T05:29:36Z",
+      "storyKey": "나는쓰레기같은x여성들삶망칠까걱정젠슨황의마지막말",
       "isNew": true
     },
     {
@@ -277,25 +277,25 @@
       "isNew": false
     },
     {
-      "title": "젠슨 황, 바람 맘대로 폈지만.... 재산 192조 처분은 아내 허락 받아야",
+      "title": "빨간 넥타이 매고 한국거래소 간 이 대통령 “주식시장 우상향 바란다”",
       "summary": "",
-      "url": "https://www.chosun.com/economy/tech_it/2026/11/13/ZD2HQCG7NNEXJCBZZ5FM5SAMCU/",
-      "source": "조선일보",
+      "url": "https://www.khan.co.kr/article/202611131056001",
+      "source": "경향신문",
       "country": "한국",
-      "category": "기술",
-      "publishedAt": "2026-11-13T01:10:46Z",
-      "storyKey": "젠슨황바람맘대로폈지만재산192조처분은아내허락받아야",
-      "isNew": false
+      "category": "정치",
+      "publishedAt": "2026-11-13T01:56:00Z",
+      "storyKey": "빨간넥타이매고한국거래소간이대통령주식시장우상향바란다",
+      "isNew": true
     },
     {
-      "title": "American Cancer Society Updates Prostate Cancer Screening Guideline",
+      "title": "젠슨 황 떠난 엔비디아의 빈틈…삼전닉스엔 '뜻밖의 호재'?",
       "summary": "",
-      "url": "https://ascopost.com/news/november-2026/american-cancer-society-updates-prostate-cancer-screening-guideline/",
-      "source": "The ASCO Post",
-      "country": "미국",
-      "category": "사회",
-      "publishedAt": "2026-11-12T21:57:04Z",
-      "storyKey": "americancancersocietyupdatesprostatecancerscreeningguideline",
+      "url": "https://www.hankyung.com/article/202611134784i",
+      "source": "한국경제",
+      "country": "한국",
+      "category": "기술",
+      "publishedAt": "2026-11-13T01:48:32Z",
+      "storyKey": "젠슨황떠난엔비디아의빈틈삼전닉스엔뜻밖의호재",
       "isNew": true
     },
     {
@@ -310,14 +310,14 @@
       "isNew": false
     },
     {
-      "title": "마이크로소프트, 대규모 접속 장애…“아웃룩 관련 신고 13만 건”",
+      "title": "South African Fossil Reveals New Species of Early Sauropodomorph Dinosaur",
       "summary": "",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8711726",
-      "source": "KBS 뉴스",
-      "country": "한국",
-      "category": "기술",
-      "publishedAt": "2026-11-12T20:53:00Z",
-      "storyKey": "마이크로소프트대규모접속장애아웃룩관련신고13만건",
+      "url": "https://www.sci.news/paleontology/nyana-rooiwalensis-15194.html",
+      "source": "Sci.News",
+      "country": "미국",
+      "category": "과학",
+      "publishedAt": "2026-11-12T18:31:58Z",
+      "storyKey": "southafricanfossilrevealsnewspeciesofearlysauropodomorphdinosaur",
       "isNew": true
     },
     {
@@ -329,7 +329,7 @@
       "category": "과학",
       "publishedAt": "2026-11-12T07:24:06Z",
       "storyKey": "비행기처럼우주선재사용스페이스x통째회수나선다",
-      "isNew": true
+      "isNew": false
     }
   ],
   "briefing": [],
