@@ -18,7 +18,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "data" / "headlines.json"
 USER_AGENT = "Mozilla/5.0 (compatible; HourlyHeadlines/1.0)"
-MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
+MODEL = os.getenv("GEMINI_MODEL", "gemini-3.5-flash-lite")
 
 TOPIC_CATEGORIES = {
     "정치": "NATION",
@@ -221,7 +221,8 @@ def localize_with_gemini(articles: list[dict[str, str]]) -> dict[str, list]:
 
     try:
         response = json.loads(fetch(endpoint, payload, {"Content-Type": "application/json"}))
-        text = response["candidates"][0]["content"]["parts"][0]["text"]
+        parts = response["candidates"][0]["content"]["parts"]
+        text = "".join(part.get("text", "") for part in parts if not part.get("thought"))
         localized = json.loads(text)
         localized_articles = localized.get("articles", [])
         by_id = {int(item["id"]): item for item in localized_articles}

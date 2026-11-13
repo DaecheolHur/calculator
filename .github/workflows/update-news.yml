@@ -34,7 +34,7 @@ jobs:
       - name: 뉴스 수집 및 한국어 요약
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: gemini-2.5-flash
+          GEMINI_MODEL: gemini-3.5-flash-lite
         run: python scripts/update_news.py
 
       - name: 변경된 뉴스 저장
