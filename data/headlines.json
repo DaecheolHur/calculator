@@ -1,322 +1,337 @@
 {
-  "generatedAt": "2026-11-13T04:35:45.860256Z",
+  "generatedAt": "2026-11-13T04:45:17.001079Z",
   "items": [
     {
+      "title": "New private school in downtown Chicago using artificial intelligence to teach students",
+      "summary": "",
+      "url": "https://www.cbsnews.com/chicago/news/alpha-school-chicago-artificial-intelligence/",
+      "source": "CBS News",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-11-13T04:26:38Z",
+      "storyKey": "newprivateschoolindowntownchicagousingartificialintelligencetoteachstudents",
+      "isNew": false
+    },
+    {
       "title": "KMI, 한·중 해양관광 협력 확대 방안 논의",
-      "summary": "KMI가 한·중 해양관광 협력 확대 방안을 논의했다.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sUWRiV3dPR0hLenk0NDhVc1JLbHNwU1FRQjQ4YmFDd3AtSU5YQWd4dlhGYWotTHpDT0c2dzVaaGdlT3BHaGVwU2pNOWhDVnlLdEZYbWNob19MTDJuZENZUXpVSmhiaFJKWUttZmhUTGEzUU14M29xeFln?oc=5",
+      "summary": "",
+      "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58141",
       "source": "해양한국",
       "country": "한국",
       "category": "사회",
-      "publishedAt": "2026-11-13T04:11:59Z"
+      "publishedAt": "2026-11-13T04:11:59Z",
+      "storyKey": "kmi한중해양관광협력확대방안논의",
+      "isNew": false
     },
     {
-      "title": "워싱턴 D.C. 총격범, 건물 관리 불만을 범행 동기로 지목",
-      "summary": "워싱턴 D.C.의 총격범이 건물 관리에 대한 불만을 범행 동기로 돌렸다.",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMFk3YjF3a3pUaGttVHBHa3hEaEcyRF9sRUpnS1A5UFBPSkJpQXpBUzF2UmJ2dDBJN3dvd3E4RFQwOENJV3E3cHY3Z0xNZ09KeWl3QzJNYkJxT0hmOXlRWnJQUm15andsbEVnb0U2TURWNlNfNFBQWUowVy1UaERibWtXTndHZFFMdlM3VlloRzV0YkNhbnZQaFFHVXlQN1pUY2I4RHotbTZTOW9pN2RLc056SlVNZ2NjM01Ob0VYN2hEb2xaMXVhTnlfdGo?oc=5",
+      "title": "D.C. gunman attributed attack to frustrations with building maintenance",
+      "summary": "",
+      "url": "https://www.washingtonpost.com/dc-md-va/2026/11/12/logan-circle-shooter-matt-lambert-appeared-frustrated-over-metropole-maintenance/",
       "source": "The Washington Post",
       "country": "미국",
       "category": "정치",
-      "publishedAt": "2026-11-13T03:57:00Z"
+      "publishedAt": "2026-11-13T03:57:00Z",
+      "storyKey": "dcgunmanattributedattacktofrustrationswithbuildingmaintenance",
+      "isNew": false
     },
     {
-      "title": "美 소프트웨어 기업들, 고금리로 2028년 만기 부채 축소 어려움",
-      "summary": "미국 소프트웨어 기업들이 고금리로 인해 2028년 만기 부채를 축소하는 데 어려움을 겪고 있다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44cjZLSEJGVGM1dEd1NTJrVDZDeWxOTVdNdERDOThfeW9zZ1AwVGFUMTFEMGRmRko3ZGNtUjRQc3FzOU9kX19OaFhLRTEzMWQzdWFGbWpadm56dTROWEx2Ti1kbkZFRUVtYXZtZE9uMjE?oc=5",
+      "title": "美소프트웨어 기업들, 고금리로 2028년 만기 부채 축소 어려움",
+      "summary": "",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444660",
       "source": "연합인포맥스",
       "country": "한국",
       "category": "IT",
-      "publishedAt": "2026-11-13T03:29:30Z"
+      "publishedAt": "2026-11-13T03:29:30Z",
+      "storyKey": "소프트웨어기업들고금리로2028년만기부채축소어려움",
+      "isNew": false
     },
     {
-      "title": "트럼프, 젠슨 황에게 자리 지키기 위해 싸울 것을 촉구",
-      "summary": "트럼프가 젠슨 황에게 그의 자리를 위해 싸울 것을 촉구했다.",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMFhFdjVXUmFEeDhEemZrSmthRjRTdDVVOVQ5S0lWaVVVWXR4T2RiU25IN20xaTFTdHB0RDRNNU1CZ1dmYWVXWWI1MkpydU42bzJaSFlRTFBtZTJfbmM3c2Ezc2w3Uk05YnFGNFVrRXRZam9JTV9ERlRudU1XNHIzUkdtQQ?oc=5",
+      "title": "Trump Had Urged Nvidia’s Jensen Huang to Fight for His Job",
+      "summary": "",
+      "url": "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html",
       "source": "The New York Times",
       "country": "미국",
       "category": "경제",
-      "publishedAt": "2026-11-13T03:27:02Z"
+      "publishedAt": "2026-11-13T03:27:02Z",
+      "storyKey": "trumphadurgednvidiasjensenhuangtofightforhisjob",
+      "isNew": false
     },
     {
-      "title": "'젠슨 황 사임'에도 코스피·코스닥 동반 상승",
-      "summary": "젠슨 황 사임 소식에도 코스피와 코스닥이 동반 상승했다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvQUVCTXpaNlBkX0xMRlRsdzliekE5MHFwRnk3dHBtWW9paUt2c3dGWGFLcncyUTZzUFh5c2w1TTAyWGZ0S3FrR1hGZkNkMkZnVlJHS19LLXRKUG5EQktJSHAtekNCZ29wYnFyODVsQQ?oc=5",
+      "title": "'젠슨 황 사임'에도 코스피·코스닥 동반상승",
+      "summary": "",
+      "url": "https://www.ytn.co.kr/_cs/_ln_0102_202611131207035042_005.html",
       "source": "YTN",
       "country": "한국",
       "category": "주식",
-      "publishedAt": "2026-11-13T03:07:00Z"
+      "publishedAt": "2026-11-13T03:07:00Z",
+      "storyKey": "젠슨황사임에도코스피코스닥동반상승",
+      "isNew": false
     },
     {
-      "title": "이 대통령 지지율 39%…민주·국힘 격차 13%p 벌어져 [갤럽]",
-      "summary": "갤럽 조사에서 이 대통령 지지율은 39%를 기록했고 민주당과 국민의힘의 격차는 13%p로 벌어졌다.",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xbldtaXc1czhFY0F4ZGJkaENtSDdaVGNDQ0ZxVTRwT0swVnR0VHhIYWRMOU1jUk9yZDNhZVE0MVRNN2R2WnFxMzk1V0RhcXRBbkttY21ScXBmSkpvTUo4dGhNcFVBQURmYVE?oc=5",
+      "title": "최민희 ‘이 대통령, 윤석열 탄핵반대’ 발언 파문…친명·친청 정면 충돌",
+      "summary": "",
+      "url": "https://www.hani.co.kr/arti/politics/politics_general/1287176.html",
       "source": "한겨레",
       "country": "한국",
       "category": "정치",
-      "publishedAt": "2026-11-13T02:31:00Z"
-    },
-    {
-      "title": "대만, ‘젠슨 황 불륜 상대’ 中 간첩 의혹 美와 협력 조사",
-      "summary": "대만이 젠슨 황의 불륜 상대로 지목된 중국 간첩 의혹에 대해 미국과 협력하여 조사하고 있다.",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VN3lUVzNFUEdRY09LbkFDMnNRVzJESTBqSzJYN2tlSEVzQWZ0ckdNeUVTS0RzOWs3MWtTS2VpdEFRTThGWWJ5TDAwb3EtZVJxaFpha3hPMFprS0JjVGxUaUgyWmFDcXM?oc=5",
-      "source": "연합뉴스TV",
-      "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-11-13T02:24:00Z"
-    },
-    {
-      "title": "패스트리 대 유아이패스: 2027년을 앞두고 더 나은 인공지능 주식은?",
-      "summary": "패스트리와 유아이패스를 대상으로 2027년을 앞두고 더 나은 인공지능 주식을 비교했다.",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSnpYV3QyZkp1My1sWGtNYkhJc09ycUo2NWdKZl9jTGxHQ2dRT24ySjJId3d2RG9FNktKV3pOd1NpOTJhZVFQa3ZfUVdZaGFQMzFNek8yWWV6bXBWTGJGZ3VLcFVJZmdLZXJXZXVxd2VITENyV0VEdTA5N0VlSE9FQkRIZjVra1FXZ205Zmwxdl95YUlRTm9lYWJCS2o0N2NUemxjWUx4MUlVWkNRNUhuNXpCdGRGYmpZRkxtNGwxN3RqQno1b01CbmFkaFBVVGpMb0E0?oc=5",
-      "source": "The Motley Fool",
-      "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-11-13T02:24:00Z"
+      "publishedAt": "2026-11-13T02:30:00Z",
+      "storyKey": "최민희이대통령윤석열탄핵반대발언파문친명친청정면충돌",
+      "isNew": false
     },
     {
       "title": "케이메디허브, 의료기기 사이버보안 대응체계 강화…디지털헬스보안협회와 협력",
-      "summary": "케이메디허브가 디지털헬스보안협회와 협력해 의료기기 사이버보안 대응체계를 강화한다.",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfWmNVRDJGY3ZmMWtKdFVtOFNENVVSenBqYVVVNEk0SVNxenNUWU5PdEtFNVFNYnNpRHpPVUQ1UXllejFrbG1ZUmRDRTBMbDZPakFTX21mb1RzekRUbUlRNWFCU2k?oc=5",
+      "summary": "",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2018186",
       "source": "매일일보",
       "country": "한국",
       "category": "IT",
-      "publishedAt": "2026-11-13T02:22:19Z"
+      "publishedAt": "2026-11-13T02:22:19Z",
+      "storyKey": "케이메디허브의료기기사이버보안대응체계강화디지털헬스보안협회와협력",
+      "isNew": false
+    },
+    {
+      "title": "사임한 젠슨 황, 세 번째 불륜 의혹…또 다른 엔비디아 직원",
+      "summary": "",
+      "url": "https://www.hani.co.kr/arti/international/america/1287145.html",
+      "source": "한겨레",
+      "country": "한국",
+      "category": "경제",
+      "publishedAt": "2026-11-13T02:03:00Z",
+      "storyKey": "사임한젠슨황세번째불륜의혹또다른엔비디아직원",
+      "isNew": false
     },
     {
       "title": "젠슨 황 떠난 엔비디아의 빈틈, 삼전닉스엔 '뜻밖의 호재'?",
-      "summary": "젠슨 황이 떠난 엔비디아의 빈틈이 삼성전자와 SK하이닉스에 뜻밖의 호재가 될 수 있다는 분석이 제기됐다.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFcUNOY04yUXB1ZVNSMUJ0SlpINWM4eVQ3ZXE5ZDBkTGFkMUtnMFZKdGRkVGFUcTRkODJxVVRqTjk2R0haMmExVDExVmhuTmN0LURKZHpxNERPZw?oc=5",
+      "summary": "",
+      "url": "https://www.hankyung.com/article/202611134784i",
       "source": "한국경제",
       "country": "한국",
       "category": "기술",
-      "publishedAt": "2026-11-13T01:48:32Z"
+      "publishedAt": "2026-11-13T01:48:32Z",
+      "storyKey": "젠슨황떠난엔비디아의빈틈삼전닉스엔뜻밖의호재",
+      "isNew": false
     },
     {
-      "title": "아웃룩 먹통인가? 마이크로소프트 이메일 및 기타 앱에 광범위한 장애 발생",
-      "summary": "마이크로소프트의 이메일과 기타 앱에 광범위한 장애가 발생했다.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdjBxWnNWYzRSQjgwSzBLV3JlWGtoZ01DTGFwSHphbVl0UXJucXp1amNkU0t5NjZyS2xhRDhIcTRoU3ZvT3FvQlRxZTdrY2xWMXdWOFZiQWtIdW9JOU1pY21TWHdkbnJ2Q3VVdEZIa2VZNGlqZFlhUGloNjcxclBlR2dVVnNMcVhXX2JLTjBKNlRIckRBaWdlOHRhdDkwZFdITDdhMGRETHpuOVY5WjRlNTFwanE?oc=5",
-      "source": "NPR",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-11-13T01:26:24Z"
-    },
-    {
-      "title": "‘AI 안경 의혹’ 세무사 수석 합격자, CCTV는 없었지만 감독관 바로 앞에서 시험",
-      "summary": "AI 안경 의혹을 받은 세무사 수석 합격자가 CCTV는 없는 곳이었으나 감독관 바로 앞에서 시험을 치렀다.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBneTVWZVd2bE9vMGxHUjZJZnZmNGRiM2hvUFM2QTRFU21taTBQQm5ZcHM2ZURMRUJFeDI3WF8tRlFTU19nVUl5R19HZVRUZlkteUIxWmk5MHIxUdIBX0FVX3lxTFBNU1YyX1N5dEdZN2JKOVhCMWZHQXJMTkJ4ams1SV8zR3JBekhmMWZRNjF3ZVpEazU0c3ZOX0NvSjNaV1pXNDloYm1GdmZMOGpQbm16WXdOdV9vdVBYbzNJ?oc=5",
-      "source": "경향신문",
-      "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-11-13T01:19:00Z"
-    },
-    {
-      "title": "강동보건소, 중앙아 4개국·세계은행에 디지털건강관리 사례 소개",
-      "summary": "강동보건소가 중앙아시아 4개국과 세계은행에 디지털건강관리 사례를 소개했다.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EY0VFWVZzcnB4VkpMV29DZk0tTm9UTG9ZQlU1NElBS2FqQzBnMlN1ZE4xZlo2UldTNGN5Y25scFhIOUpmRmIwZkc3LV9Cb0czSXkwclhGbklVaVllSV9VMtIBYEFVX3lxTE9EY0VFWVZzcnB4VkpMV29DZk0tTm9UTG9ZQlU1NElBS2FqQzBnMlN1ZE4xZlo2UldTNGN5Y25scFhIOUpmRmIwZkc3LV9Cb0czSXkwclhGbklVaVllSV9VMg?oc=5",
-      "source": "연합뉴스",
-      "country": "한국",
-      "category": "사회",
-      "publishedAt": "2026-11-13T01:11:35Z"
-    },
-    {
-      "title": "친청계 최고위원들, 최민희 감찰에 반발‥\"악의적 프레임 전환 시도\"",
-      "summary": "친청계 최고위원들이 최민희 감찰에 반발하며 악의적 프레임 전환 시도라고 주장했다.",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkZFpqd01MX2RLUmJzOC1lTTdqTUhYb3dJV05mbzY0V0RSOHZZTXRKdnVKb0EtWFFiZXhKWkFSZHZJTTJ4dTQ2eWFTWUZ3aVJsak5vSXV1REJ3aTRlbVZPV3o2QlZQd3dXNnJpSUpIN2phT1FVNVdyOdIBeEFVX3lxTE1lVEJDVzZ3Q2xabEg4V292SUZ4eGJ0NGNwN0pyUjZvU1dCeXdVZEdmNERtVzVNUkdQLU1xbWc0bGM0RDlaUDVCVFMzLWhEaU9lSHBjazg3azNtT3VRYnhVNXpLdERiYjc2NUhLNEczbG9EeVZPZUl6QQ?oc=5",
+      "title": "李 지지율 39%‥민주 39%·국힘 26%로 2주 연속 오차 밖 [갤럽]",
+      "summary": "",
+      "url": "https://imnews.imbc.com/news/2026/politics/article/6865393_36911.html",
       "source": "MBC 뉴스",
       "country": "한국",
       "category": "정치",
-      "publishedAt": "2026-11-13T01:05:43Z"
+      "publishedAt": "2026-11-13T01:39:34Z",
+      "storyKey": "지지율39민주39국힘26로2주연속오차밖갤럽",
+      "isNew": false
     },
     {
-      "title": "컵스 피트 크로우암스트롱, 애스트로스 요르단 알바레스 만장일치 MVP 선정",
-      "summary": "컵스의 피트 크로우암스트롱과 애스트로스의 요르단 알바레스가 만장일치 MVP로 선정됐다.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaEFydXdWWlM2RlVKTk1CT0lVaHhubDFNdldWcmNGMHB4ellXb0lSSFZPd3VxRnlFc2RrbklJN3BsUVZxU0x1NGVKTnlYR2xvQldQNFpmZEtOcWpzcHpKZVhKOHFURFdnMXB2SFpDWW9rS1hvT1k4ZDNPd3AycHExX3RGVUdUMlVKU1FhSnJLXzd5VVZGbEVqdUNGaVNRWXl2MEJrYWhBQi1qQQ?oc=5",
+      "title": "Is Outlook down? Widespread outage hits Microsoft email and other apps",
+      "summary": "",
+      "url": "https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps",
+      "source": "NPR",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-11-13T01:26:24Z",
+      "storyKey": "isoutlookdownwidespreadoutagehitsmicrosoftemailandotherapps",
+      "isNew": false
+    },
+    {
+      "title": "‘AI 안경 의혹’ 세무사 수석 합격자, CCTV는 없었지만 감독관 바로 앞에서 시험",
+      "summary": "",
+      "url": "https://www.khan.co.kr/article/202611131019001",
+      "source": "경향신문",
+      "country": "한국",
+      "category": "AI",
+      "publishedAt": "2026-11-13T01:19:00Z",
+      "storyKey": "ai안경의혹세무사수석합격자cctv는없었지만감독관바로앞에서시험",
+      "isNew": false
+    },
+    {
+      "title": "강동보건소, 중앙아4개국·세계은행에 디지털건강관리 사례 소개",
+      "summary": "",
+      "url": "https://www.yna.co.kr/amp/view/AKR20261113056300004",
+      "source": "연합뉴스",
+      "country": "한국",
+      "category": "사회",
+      "publishedAt": "2026-11-13T01:11:35Z",
+      "storyKey": "강동보건소중앙아4개국세계은행에디지털건강관리사례소개",
+      "isNew": false
+    },
+    {
+      "title": "Cubs' Pete Crow-Armstrong, Astros' Yordan Alvarez unanimous MVP winners",
+      "summary": "",
+      "url": "https://www.espn.com/mlb/story/_/id/50466186/cubs-pete-crow-armstrong-astros-yordan-alvarez-win-mvp-honors",
       "source": "ESPN",
       "country": "미국",
       "category": "스포츠",
-      "publishedAt": "2026-11-13T00:55:00Z"
+      "publishedAt": "2026-11-13T00:55:00Z",
+      "storyKey": "cubspetecrowarmstrongastrosyordanalvarezunanimousmvpwinners",
+      "isNew": false
     },
     {
-      "title": "한국 야구, 호주에 뼈아픈 재역전패…APBC 개막전서 7-8 무릎",
-      "summary": "한국 야구 대표팀이 APBC 개막전에서 호주에 7대 8로 재역전패를 당했다.",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WNGZCUVJERDJPQUpPbFh2OXVNNUhKUi04RUlrSHl4a2stYWVQcnBGZ0JBM2doNml6ZmJPdnBtOEl0RDVsN21US2JPdW0xQWxqV2Y1ek9kN2hLTXJDdUo4R2J3?oc=5",
-      "source": "경기신문",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-11-13T00:49:15Z"
-    },
-    {
-      "title": "S&P 500 전망: 엔비디아 하락에도 S&P 500 지수 상승",
-      "summary": "엔비디아의 하락에도 불구하고 S&P 500 지수는 상승했다고 전망했다.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTk81ZDY2SEhGRjFXWFhWUTlJWDNzOFE5RnB6V2lpZHhZS1dmQ1VHaEkwZEVkYXcySDdGWVpvbmZRcWl5N3Y4MUZrSldGV19pM2pzYUNVcWo1b1pnMmRBZUlVRHN3U1JHZF9KMWJvMkNNRllMZ2pON1VOT2UxOEVrT1o4VzdsVEdHNDVfU3MwMWR5a3pjU19vOTZyOEFWY211S2dV?oc=5",
+      "title": "S&P 500 Forecast: SPX rises despite Nvidia’s decline",
+      "summary": "",
+      "url": "https://www.stonex.com/en-gb/news-and-analysis/sandp-500-forecast-spx-rises-despite-nvidia-s-decline/",
       "source": "StoneX",
       "country": "미국",
       "category": "주식",
-      "publishedAt": "2026-11-13T00:23:50Z"
+      "publishedAt": "2026-11-13T00:23:50Z",
+      "storyKey": "sp500forecastspxrisesdespitenvidiasdecline",
+      "isNew": false
     },
     {
-      "title": "아만다 사이프리드의 어워즈 후보 자격에 대한 새로운 명확성, 여배우의 흥분된 캠페인 다짐: “마음대로 풀려날 거예요”",
-      "summary": "아만다 사이프리드의 어워즈 후보 자격이 명확해진 가운데 여배우가 기대감을 드러냈다.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ1RUMjVZRmRpXzU0Mlk0TVdYNzN6aWRqYmlWV0xncnBoNm5yV2JMOXE3OVRCWkJZdFd0N2R2cWdkSXhFeDJLQlVSR1R4dHdWTktjdVRBMEpzd2pLcmZ1NzBwS2NjUUV6UDZyM3hIeTBqZHAyY2FCcVpyRFhZamtQYUNvRUNhXzlQUko3RTI3c2Y4Q3NUcXZPeG91RW1pWExxSzJQN1M4emRmbVc5NDNHVUtXa3FzLWxuSWRkbnJB?oc=5",
+      "title": "Amanda Seyfried Eager to Campaign for ‘You Can See Everything’ as Awards Eligibility Comes Into Focus (Exclusive)",
+      "summary": "",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/amanda-seyfried-awards-eligibility-you-can-see-everything-1236753138/",
       "source": "The Hollywood Reporter",
       "country": "미국",
       "category": "문화",
-      "publishedAt": "2026-11-12T23:37:42Z"
+      "publishedAt": "2026-11-12T23:37:42Z",
+      "storyKey": "amandaseyfriedeagertocampaignforyoucanseeeverythingasawardseligibilitycomesintofocusexclusive",
+      "isNew": false
     },
     {
-      "title": "마이크로소프트, 이메일과 인튠을 마비시킨 대규모 클라우드 장애 복구에 난항",
-      "summary": "마이크로소프트가 이메일과 인튠을 마비시킨 대규모 클라우드 장애 복구에 어려움을 겪고 있다.",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNGRhMFN3YUpjU3dzbXdTUHdLNXNqT2NoclJjLTV0M3pRMTktbjZxbzBvY2dLVGgtbUNPaUdUUXdFNTg5blNKZmxnQUgtX08zWDZYU1psaVlIb1R2UGUxel9WUWEzbnhFR0tDMDhNbm5iaEVvajFVdjBmT2ZHMHpBZFBVa1ExVDlqRDY4RllIZzI1MlA0TkUwbU0xejJDU3k5S2pwY3ctYVE5YzVKd09aMFl6bWRCQTFMN3kxQXgwbUtGZ3h5dmF3dE5ZQURqZ1U?oc=5",
+      "title": "Microsoft struggling to fix massive cloud outage that's taken down email and Intune",
+      "summary": "",
+      "url": "https://www.theregister.com/saas/2026/11/12/microsoft-struggling-to-fix-massive-cloud-outage-thats-taken-down-email-and-intune/5309531",
       "source": "The Register",
       "country": "미국",
       "category": "IT",
-      "publishedAt": "2026-11-12T23:06:06Z"
+      "publishedAt": "2026-11-12T23:06:06Z",
+      "storyKey": "microsoftstrugglingtofixmassivecloudoutagethatstakendownemailandintune",
+      "isNew": false
     },
     {
       "title": "주장 손흥민, ‘내분설’ 이후 첫 심경 고백…“팀이 건강해지는 과정이라 생각”",
-      "summary": "주장 손흥민이 내분설 이후 팀이 건강해지는 과정이라고 생각한다는 첫 심경을 고백했다.",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BaWt5ai05TmZ5WlRIUDZPSWZtTG1kblNuMHEzY3pUVTdyZUkxN3h5LUlGVkk4bWVzamtVM3M2b1ZBdGtEUFczaW1LZmYycUt5Qnc5OWpMVGZRSXdfTFU2UmRjQ21Pdw?oc=5",
+      "summary": "",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711758",
       "source": "KBS 뉴스",
       "country": "한국",
       "category": "스포츠",
-      "publishedAt": "2026-11-12T21:45:00Z"
+      "publishedAt": "2026-11-12T21:45:00Z",
+      "storyKey": "주장손흥민내분설이후첫심경고백팀이건강해지는과정이라생각",
+      "isNew": false
     },
     {
-      "title": "젠슨 황 퇴진에 엔비디아 직원들 눈물…본사엔 슬픔의 꽃다발",
-      "summary": "젠슨 황의 퇴진으로 엔비디아 직원들이 눈물을 흘리며 본사에 슬픔의 꽃다발이 놓였다.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UdUlUTU5iYXhVcGo4Q2h0ZFZ0UFVhbVFmbzFleF9YOTRYTlR0Vl80eWcxOGM5cVE1eFN4SjB4WE1JaHJDUjFXQS00UWZNdUtBNjNFUmJXNDBWYjDSAWBBVV95cUxQYTZzSGZ1MTZ5Mll4WFgtZEhPbnNUYzBNTGlTQWpyMUpGYThGMHpyWWNfMkx1clZxVjl3Si1QaHlTV1hTUmdPSnc1NWQwdGt3Y0Y1d3V2bFo5djBDVG1fUzA?oc=5",
+      "title": "젠슨황 퇴진에 엔비디아 직원들 눈물…본사엔 슬픔의 꽃다발",
+      "summary": "",
+      "url": "https://www.yna.co.kr/view/AKR20261113012300075",
       "source": "연합뉴스",
       "country": "한국",
       "category": "기술",
-      "publishedAt": "2026-11-12T21:21:26Z"
+      "publishedAt": "2026-11-12T21:21:26Z",
+      "storyKey": "젠슨황퇴진에엔비디아직원들눈물본사엔슬픔의꽃다발",
+      "isNew": false
     },
     {
-      "title": "러셀 브랜드: 6명의 여성이 추가로 그를 성추행 혐의로 고소",
-      "summary": "6명의 여성이 러셀 브랜드를 성추행 혐의로 추가 고소했다.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGlwaUc4Ynd3QmYyNUlHSmNKb1VDRWRwb3JnazAzbEp4LVQzQTNxWkRqTEp2aXBsUFZadEdrR21XTXZJTWEzaEtFbmNqMDVjeWVRVzFsOVlNeEpEWTAzenFwem9nQXROd3FZREtsYm9uQUswcVJWdEF3NW9mellRNXZSbUJNSHZYUTFpSWk0WUVqY0Z5VjVVQk5IblMwckU?oc=5",
+      "title": "[APBC] KBO에선 홈런왕, 태극마크 달면 침묵…김도영의 풀리지 않는 숙제",
+      "summary": "",
+      "url": "https://www.newspim.com/news/view/20261112001267",
+      "source": "뉴스핌",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-11-12T20:08:00Z",
+      "storyKey": "apbckbo에선홈런왕태극마크달면침묵김도영의풀리지않는숙제",
+      "isNew": false
+    },
+    {
+      "title": "Russell Brand: six more women accuse him of sexual misconduct",
+      "summary": "",
+      "url": "https://www.thetimes.com/uk/crime/article/russell-brand-new-sexual-misconduc-allegations-9qbkw8r7v",
       "source": "The Times",
       "country": "미국",
       "category": "문화",
-      "publishedAt": "2026-11-12T20:00:00Z"
+      "publishedAt": "2026-11-12T20:00:00Z",
+      "storyKey": "russellbrandsixmorewomenaccusehimofsexualmisconduct",
+      "isNew": false
     },
     {
-      "title": "구글, 제미니 4 하이드로젠 출시…마침내 3.8 플래시 대체",
-      "summary": "구글이 제미니 4 하이드로젠을 출시하며 기존 3.8 플래시를 대체했다.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOEp2eWFfclJZcmNVOHJCU3NPTkN5RkhYb0p0eWY1VF9qZkdDZjF3U3NodEpWbUJ3Uks4UUtYUkdyYkFBX2ZxLXRjUHBnRFBZTGd3NXVzdks1SklWZzFtVlkzNWtKcGd6d1FBRUhKQ3VuNzhuWmlnUjZRX2pPcjFkbl9WTUhVd0h4Rmg1UEdKVjV6Z3B0ZXctNDVqT1BLRnI5d05nTQ?oc=5",
+      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+      "summary": "",
+      "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
       "source": "Ars Technica",
       "country": "미국",
       "category": "기술",
-      "publishedAt": "2026-11-12T19:23:03Z"
+      "publishedAt": "2026-11-12T19:23:03Z",
+      "storyKey": "googlerollsoutgemini4hydrogenfinallyreplacing38flash",
+      "isNew": false
     },
     {
-      "title": "부교수가 인공지능에서 농업적 연관성과 희귀한 장소 감각을 발견",
-      "summary": "한 부교수가 인공지능 속에서 농업적 연관성과 희귀한 장소 감각을 발견했다.",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRDFWOHg2bGZVdm1idWVYcF8zZTUzblFuRjNjdzJ3b3pyZnpoR1ZFUzNteE5wV1ROYl93cng1Ti04bTI0RXRGbXFpZmp4dzhzekhTVzZzd2QyOEhQY1VwakVqNUlkUWQwTUx3U2loaUdkREdBdmxPZmxyNEtERk04SXpSVF95anVHYkttVHhKT2E4NWlFemhVb0lsYmFaT2RTM3JZOWRHbUFleXFEUklCRERmalpReHdobW1YUEw3d0NzTjNXQXJqYzNVMUJWSXp2MllOcV9TbV8?oc=5",
+      "title": "Associate professor finds agricultural relevance in artificial intelligence — and a rare sense of place",
+      "summary": "",
+      "url": "https://wire.auburn.edu/content/ocm/2026/11/121004-chris-clemons-ai-in-agriculture.php?property=education&utm_source=education&utm_medium=web",
       "source": "Auburn University",
       "country": "미국",
       "category": "AI",
-      "publishedAt": "2026-11-12T17:58:52Z"
+      "publishedAt": "2026-11-12T17:58:52Z",
+      "storyKey": "associateprofessorfindsagriculturalrelevanceinartificialintelligenceandararesenseofplace",
+      "isNew": false
     },
     {
-      "title": "암흑 물질 돌파구 나오나? 유클리드 우주망원경, 암흑 우주 첫 모습 공개",
-      "summary": "유클리드 우주망원경이 암흑 우주를 담은 첫 모습을 공개했다.",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd3N1QTVmUWk0TFBfQjVfTGZKeTR4b1pheGlIajJTclVKdmZqdWhBUmlSZG1UeC1pVTNwZVBvU1NWUWlqdDBGbXd0Z2NUWXZuTFZ6Q2NGWVJQVXduRGhuc2R5Ymh0VmF1T3dNSnZNcmM1VS1pa2lNUkdFX2thRmZQLW5aNnB5RkMxT2R4UGZxLTFBWkd0Z2N0cFFIYWs5c05LSXlYRlZtSWZaNWRyc3RKWjA4WmZvZ2U3V0JwNUR6TnRCN1ZoYVVlZXBRWHZBdWlmRUE?oc=5",
+      "title": "Dark matter breakthrough coming? Euclid space telescope unveils its 1st look into the dark universe (video)",
+      "summary": "",
+      "url": "https://www.space.com/astronomy/dark-matter-breakthrough-coming-euclid-space-telescope-unveils-its-1st-look-into-the-dark-universe-video",
       "source": "Space",
       "country": "미국",
       "category": "과학",
-      "publishedAt": "2026-11-12T17:28:20Z"
+      "publishedAt": "2026-11-12T17:28:20Z",
+      "storyKey": "darkmatterbreakthroughcomingeuclidspacetelescopeunveilsits1stlookintothedarkuniversevideo",
+      "isNew": false
     },
     {
-      "title": "미국암협회, 전립선암 검진 지침 업데이트: 평균 및 고위험 남성을 위한 정기 PSA 검사 포함 주요 변경 사항 발표",
-      "summary": "미국암협회가 정기 PSA 검사를 포함한 전립선암 검진 지침의 주요 변경 사항을 업데이트했다.",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMUdtenEwZzVxMFBKREk0cldtdElPbEFQTTJJU2R3SURZYWp2MjJ1NElackExOTN6bmpYZ09jNWNHaHluVU5QQXphZHFtSTdZTS1JbDBiSFpJckNfdi10XzZfVnhYRXdVVlhULXFGR0FseWV0bXp0NG80X2E3ZG9aYnZB?oc=5",
+      "title": "The Evolving Story of How Chemistry Became Biology",
+      "summary": "",
+      "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+      "source": "Quanta Magazine",
+      "country": "미국",
+      "category": "과학",
+      "publishedAt": "2026-11-12T15:50:14Z",
+      "storyKey": "theevolvingstoryofhowchemistrybecamebiology",
+      "isNew": false
+    },
+    {
+      "title": "American Cancer Society Updates Prostate Cancer Screening Guideline: Major Changes Include Regular PSA Testing for Average and High-Risk Men",
+      "summary": "",
+      "url": "https://pressroom.cancer.org/prostate-cancer-screening-guideline-update-2026",
       "source": "American Cancer Society Press Room",
       "country": "미국",
       "category": "사회",
-      "publishedAt": "2026-11-12T12:04:19Z"
+      "publishedAt": "2026-11-12T12:04:19Z",
+      "storyKey": "americancancersocietyupdatesprostatecancerscreeningguidelinemajorchangesincluderegularpsatestingforaverageandhighriskmen",
+      "isNew": false
     },
     {
       "title": "“청담동 유흥주점서 2200만원 가져가”···배우 김승우, 절도 혐의 고소당해",
-      "summary": "배우 김승우가 청담동 유흥주점에서 2200만 원을 가져갔다는 절도 혐의로 고소당했다.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DdE1RN3FnVDJlbHBWaVhzVjZubFpJRDBKVWRuMnplM2ZIVUg0ejktcEZ5ejNFd29DTlBfdG50U2FrNHJuYzJvSGZ4M0xta1QzZk5GRWJaQ0psd9IBX0FVX3lxTFB6cWlUc2dLa09nRHFBUnRhbzFpNHo1eHI1bUgwSGhibld4VURjTkswaUdrd1Y1RUlhUFJuTG1xNHJrRE5tMEVNTnFWRVVuVFF3Qk1mckpua08xcVI4Zkxv?oc=5",
+      "summary": "",
+      "url": "https://www.khan.co.kr/article/202611122038001",
       "source": "경향신문",
       "country": "한국",
       "category": "문화",
-      "publishedAt": "2026-11-12T11:38:00Z"
+      "publishedAt": "2026-11-12T11:38:00Z",
+      "storyKey": "청담동유흥주점서2200만원가져가배우김승우절도혐의고소당해",
+      "isNew": false
     },
     {
-      "title": "미국 증시, 엔비디아 하락세가 에너지주 상승세 압도하며 하락 마감",
-      "summary": "미국 증시는 엔비디아의 하락세가 에너지주의 상승세를 압도하면서 하락 마감했다.",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY01YWkJBY3Roa2hlWkVsbHhpcHplMm5NX09pWEJlMC1rWTY1ZDJoTUh0elc0WTZvdmpDOXJhS04tN2J5Y0N4NmZPdGk0aUhKdVZLT2RMSTk4S2EyZEJMYzY3WnpMMklfRjF3ZEJXZzU3d1VBTmlWS3Y1cllaYURseVQ4Nl93RFVLOXB4M1J6bnM1YVQ5QXBaSDZCOXEwUQ?oc=5",
+      "title": "Equities close lower as Nvidia drop outweighs energy gains",
+      "summary": "",
+      "url": "https://www.reuters.com/business/nasdaq-futures-fall-nvidia-turmoil-rattles-ai-stocks-2026-11-12/",
       "source": "Reuters",
       "country": "미국",
       "category": "주식",
-      "publishedAt": "2026-11-12T09:37:00Z"
+      "publishedAt": "2026-11-12T09:37:00Z",
+      "storyKey": "equitiescloselowerasnvidiadropoutweighsenergygains",
+      "isNew": false
     },
     {
-      "title": "“달에서 일할 사람 찾아요”…연봉 2억2000만원",
-      "summary": "달에서 근무할 사람을 모집하며 연봉으로 2억 2000만 원을 제시했다.",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hdDZYSDFYbGxmLVh2d1ZySHhfazk2WDBWVVVWUFdnSTZfUjFlQ3J3N1RQYl81QmQyNzhvYjVmVGJIU0t1bG15QmZZUTRna1prNlBfZHlocXdMVXFYMVpuYW4zQ0hlQ21McHFxSlJTOTAxWGvSAWZBVV95cUxPRTFVSjZoTGgwXy1TUjRta2xJdC11cnNTcG5JTEQtMjJ5TDkzU2lLcnNHT1MyYWdQN1BfNFdFc0hLNlItMVhLWnhPMzE3SzhWNWhDR3cxQmhwLXBLMUpvMmE2QmhPX1E?oc=5",
-      "source": "동아일보",
+      "title": "과학자 1년 반 걸려 찾은 질병 단서…AI는 30분 만에 알아냈다",
+      "summary": "",
+      "url": "https://www.chosun.com/economy/science/2026/11/12/CEYDS3HIL5C7VEDHATCN2WRKGQ/",
+      "source": "조선일보",
       "country": "한국",
       "category": "과학",
-      "publishedAt": "2026-11-10T22:16:00Z"
-    },
-    {
-      "title": "지구는 수백만 개의 우주 쓰레기로 둘러싸여 있으며 문제는 더욱 심각해지고 있다",
-      "summary": "지구가 수백만 개의 우주 쓰레기로 둘러싸여 있으며 문제의 심각성이 커지고 있다.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMnFhWUhqbTdZQUY5azdvem94anh4NGdSaXVjVFR4MVNSWUdyMndabnRuUERaejFJMjZfWTcxems5SU4zdjVXSXU0dV92Tmc2RDZfWlUwN3VWQ25hNVZtNnZJODQxMktxTmhsVGtSbmNYWFBOTkFMZUJxWUk5ZVJleVZIbzRROXZYLVdGZUVGZlB0dWtrWU1wUEVwdndSZmNjcFFPSXItQ1FvQkxPQ0NUZXRxMk1fSmx1YVVr?oc=5",
-      "source": "WRAL",
-      "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-11-09T20:44:50Z"
+      "publishedAt": "2026-11-12T06:17:46Z",
+      "storyKey": "과학자1년반걸려찾은질병단서ai는30분만에알아냈다",
+      "isNew": false
     }
   ],
-  "briefing": [
-    "엔비디아 관련 소식과 젠슨 황의 행보가 글로벌 경제 및 IT 분야의 주요 이슈로 부각되었습니다.",
-    "마이크로소프트의 대규모 클라우드 장애와 서비스 중단 사태가 발생했습니다.",
-    "정치 및 사회적으로 국내외 다양한 인물들의 논란과 사건 사고 소식이 이어졌습니다."
-  ],
-  "trends": [
-    {
-      "category": "정치",
-      "summary": "대통령 지지율 변동과 정당 간 격차 확대 및 정치권 내부의 감찰 반발 소식이 전해졌다."
-    },
-    {
-      "category": "경제",
-      "summary": "미국 소프트웨어 기업의 부채 부담과 대만의 간첩 의혹 조사 및 트럼프의 발언 등이 보도되었다."
-    },
-    {
-      "category": "기술",
-      "summary": "엔비디아의 변화에 따른 국내 반도체 업계의 영향과 구글의 새로운 AI 모델 출시 소식이 있었다."
-    },
-    {
-      "category": "문화",
-      "summary": "배우의 어워즈 후보 자격 명확화와 성추행 고소 및 배우 김승우의 절도 혐의 고소 사건이 다뤄졌다."
-    },
-    {
-      "category": "스포츠",
-      "summary": "메이저리그 MVP 선정 소식과 함께 한국 야구의 APBC 개막전 패배와 손흥민의 심경 고백이 있었다."
-    },
-    {
-      "category": "과학",
-      "summary": "유클리드 우주망원경의 암흑 우주 공개와 달 근무 인력 모집 및 우주 쓰레기 문제 심화가 발표되었다."
-    },
-    {
-      "category": "IT",
-      "summary": "고금리에 따른 소프트웨어 기업의 부채 축소 난항과 마이크로소프트의 클라우드 및 이메일 장애가 발생했다."
-    },
-    {
-      "category": "주식",
-      "summary": "젠슨 황의 사임 및 하락세 속에서도 코스피와 코스닥은 동반 상승한 반면 미국 증시는 하락 마감했다."
-    },
-    {
-      "category": "사회",
-      "summary": "한·중 해양관광 협력 논의와 강동보건소의 디지털건강관리 사례 소개 및 전립선암 검진 지침이 업데이트되었다."
-    },
-    {
-      "category": "AI",
-      "summary": "인공지능 주식 비교와 세무사 시험의 AI 안경 의혹 및 농업 분야와 결합된 인공지능 연구가 소개되었다."
-    }
-  ]
+  "briefing": [],
+  "trends": []
 }
